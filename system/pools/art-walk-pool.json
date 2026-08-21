@@ -1,1 +1,158 @@
+{
+  "site_id": "art-walk",
 
+  "entities": [
+    {
+      "id": "botticelli-birth-of-venus",
+      "type": "artwork",
+      "name_kr": "비너스의 탄생",
+      "name_original": "Nascita di Venere",
+      "medium": ["painting"],
+      "time_period": "1485년경",
+      "culture_region": "이탈리아 르네상스, 피렌체",
+      "description": "산드로 보티첼리가 메디치 가문의 후원으로 그린 작품. 조개껍질 위에 선 비너스의 탄생 장면을 통해 신플라톤주의적 미의 이상을 형상화했다.",
+      "theme_refs": ["myth-venus-birth", "neoplatonic-beauty"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/The_Birth_of_Venus"]
+    },
+    {
+      "id": "caravaggio-judith-beheading-holofernes",
+      "type": "artwork",
+      "name_kr": "홀로페르네스의 목을 베는 유디트",
+      "name_original": "Giuditta che decapita Oloferne",
+      "medium": ["painting"],
+      "time_period": "1598-1599년경",
+      "culture_region": "이탈리아 바로크, 로마",
+      "description": "카라바조 특유의 명암대비(테네브리즘)로 구약 외경 속 유디트의 결단 순간을 극적으로 포착했다.",
+      "theme_refs": ["myth-judith-holofernes", "female-heroism"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Judith_Beheading_Holofernes_(Caravaggio)"]
+    },
+    {
+      "id": "bruegel-landscape-with-fall-of-icarus",
+      "type": "artwork",
+      "name_kr": "이카루스의 추락이 있는 풍경",
+      "name_original": "Landschap met de val van Icarus",
+      "medium": ["painting"],
+      "time_period": "1560년대",
+      "culture_region": "플랑드르 르네상스",
+      "description": "피터르 브뤼헐(추정)이 그린 작품으로, 신화적 비극(이카루스의 추락)을 화면 구석에 작게 배치하고 일상의 풍경을 전면에 내세워 인간사의 무관심을 역설적으로 드러낸다.",
+      "theme_refs": ["myth-icarus-hubris", "indifference-to-tragedy"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Landscape_with_the_Fall_of_Icarus"]
+    },
+    {
+      "id": "vermeer-the-music-lesson",
+      "type": "artwork",
+      "name_kr": "음악 수업",
+      "name_original": "De muziekles",
+      "medium": ["painting"],
+      "time_period": "1662-1665년경",
+      "culture_region": "네덜란드 황금시대, 델프트",
+      "description": "요하네스 페르메이르가 그린 실내 장면으로, 버지널을 연주하는 여성과 옆에 선 남성을 통해 17세기 연주 관행과 음악의 사회적 코드를 함께 담고 있다. 음악도상학의 대표적 연구 대상.",
+      "theme_refs": ["music-as-courtship-code"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/The_Music_Lesson"]
+    },
+    {
+      "id": "bosch-garden-of-earthly-delights",
+      "type": "artwork",
+      "name_kr": "쾌락의 정원",
+      "name_original": "De tuin der lusten",
+      "medium": ["painting"],
+      "time_period": "1490-1510년경",
+      "culture_region": "네덜란드 초기 르네상스",
+      "description": "히에로니무스 보스의 세 폭 제단화. 에덴, 쾌락, 지옥을 그린 초현실적 도상으로 당대 죄와 구원에 대한 신학적 세계관을 담고 있다.",
+      "theme_refs": ["sin-and-temptation", "salvation-damnation"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights"]
+    },
+    {
+      "id": "van-eyck-arnolfini-portrait",
+      "type": "artwork",
+      "name_kr": "아르놀피니 부부의 초상",
+      "name_original": "Arnolfini Portrait",
+      "medium": ["painting"],
+      "time_period": "1434년",
+      "culture_region": "플랑드르 초기 르네상스, 브루게",
+      "description": "얀 반 에이크가 그린 부부 초상. 볼록거울, 개, 신발 등 세부 사물 하나하나가 결혼과 신의의 상징 체계로 해석되는 도상학의 고전적 사례.",
+      "theme_refs": ["marriage-fidelity-symbolism"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Arnolfini_Portrait"]
+    },
+    {
+      "id": "goya-saturn-devouring-his-son",
+      "type": "artwork",
+      "name_kr": "자식을 삼키는 사투르누스",
+      "name_original": "Saturno devorando a su hijo",
+      "medium": ["painting"],
+      "time_period": "1819-1823년",
+      "culture_region": "스페인, 낭만주의 말기",
+      "description": "프란시스코 고야의 '검은 그림' 연작 중 하나. 자신의 권력을 위협할 자식을 삼키는 신화 속 사투르누스를 통해 권력의 자기파괴적 속성을 형상화했다.",
+      "theme_refs": ["myth-saturn-devouring", "power-and-self-destruction"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son"]
+    },
+    {
+      "id": "david-oath-of-the-horatii",
+      "type": "artwork",
+      "name_kr": "호라티우스 형제의 맹세",
+      "name_original": "Le Serment des Horaces",
+      "medium": ["painting"],
+      "time_period": "1784년",
+      "culture_region": "프랑스, 신고전주의",
+      "description": "자크루이 다비드가 그린 작품. 로마 건국 설화 속 형제들의 맹세 장면을 통해 개인보다 국가에 대한 의무를 강조하는 신고전주의적 덕목을 시각화했다. 프랑스 혁명 직전의 정치적 알레고리로도 읽힌다.",
+      "theme_refs": ["civic-virtue-sacrifice"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Oath_of_the_Horatii"]
+    },
+    {
+      "id": "klimt-judith-i",
+      "type": "artwork",
+      "name_kr": "유디트 I",
+      "name_original": "Judith I",
+      "medium": ["painting"],
+      "time_period": "1901년",
+      "culture_region": "오스트리아, 빈 분리파",
+      "description": "구스타프 클림트가 그린 유디트. 성서 속 여성 영웅을 세기말 빈의 관능적 팜파탈 이미지로 재해석해, 캐러바조의 유디트와 극명히 대비되는 시대별 도상 변주를 보여준다.",
+      "theme_refs": ["myth-judith-holofernes", "femme-fatale-reinterpretation"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Judith_I_(Klimt)"]
+    }
+  ],
+
+  "themes": [
+    { "id": "myth-venus-birth", "category": "mythology", "name_kr": "비너스의 탄생 신화", "description": "그리스·로마 신화에서 사랑과 미의 여신이 바다 거품에서 태어났다는 이야기." },
+    { "id": "neoplatonic-beauty", "category": "philosophy", "name_kr": "신플라톤주의적 미의 이상", "description": "르네상스 피렌체에서 유행한, 육체의 아름다움을 통해 신적 이데아에 도달한다는 철학적 미학." },
+    { "id": "myth-judith-holofernes", "category": "religion", "name_kr": "유디트와 홀로페르네스", "description": "구약 외경 속, 과부 유디트가 적장 홀로페르네스를 처단해 민족을 구한 이야기." },
+    { "id": "female-heroism", "category": "social_structure", "name_kr": "여성 영웅 서사", "description": "역사적으로 여성 인물이 영웅적 행위의 주체로 그려지는 방식과 그 시대적 함의." },
+    { "id": "myth-icarus-hubris", "category": "mythology", "name_kr": "이카루스의 오만", "description": "밀랍 날개로 날다가 태양에 너무 가까이 가 추락한 이카루스 신화. 인간의 오만과 한계를 상징." },
+    { "id": "indifference-to-tragedy", "category": "aesthetics_emotion", "name_kr": "비극에 대한 무관심", "description": "거대한 비극이 벌어져도 일상은 무심히 계속된다는 인간사의 역설적 진실." },
+    { "id": "music-as-courtship-code", "category": "custom_daily_life", "name_kr": "구애의 코드로서의 음악", "description": "17세기 네덜란드 회화에서 음악 연주 장면이 종종 남녀 간 구애나 사랑의 은유로 쓰인 관습." },
+    { "id": "sin-and-temptation", "category": "religion", "name_kr": "죄와 유혹", "description": "기독교 신학에서 인간이 쾌락과 유혹에 굴복해 타락하는 과정을 다루는 주제." },
+    { "id": "salvation-damnation", "category": "religion", "name_kr": "구원과 저주", "description": "최후의 심판을 앞둔 인간의 두 가지 운명 - 천국과 지옥에 대한 신학적 관념." },
+    { "id": "marriage-fidelity-symbolism", "category": "social_structure", "name_kr": "결혼과 신의의 상징", "description": "전근대 유럽 회화에서 결혼 서약과 부부간 신의를 사물(개, 신발, 촛불 등)로 상징화하는 관습." },
+    { "id": "myth-saturn-devouring", "category": "mythology", "name_kr": "사투르누스의 자식 삼키기", "description": "자신이 자식에게 왕좌를 빼앗길 것이라는 예언 때문에 자식들을 삼킨 티탄 신 사투르누스(크로노스) 신화." },
+    { "id": "power-and-self-destruction", "category": "philosophy", "name_kr": "권력과 자기파괴", "description": "권력을 지키려는 행위가 결국 스스로를 파괴하는 역설적 구조." },
+    { "id": "civic-virtue-sacrifice", "category": "social_structure", "name_kr": "시민적 덕목과 희생", "description": "개인의 감정보다 공동체·국가에 대한 의무를 우선하는 고전적 덕목." },
+    { "id": "femme-fatale-reinterpretation", "category": "aesthetics_emotion", "name_kr": "팜파탈의 재해석", "description": "세기말 유럽 예술에서 여성을 위험하고 매혹적인 존재로 재구성한 미학적 흐름." }
+  ],
+
+  "relations": [
+    { "id": "rel-001", "type": "depicts", "from": "botticelli-birth-of-venus", "to": "myth-venus-birth", "description": "작품이 신화 서사를 직접 형상화" },
+    { "id": "rel-002", "type": "depicts", "from": "botticelli-birth-of-venus", "to": "neoplatonic-beauty", "description": "메디치가의 신플라톤주의 철학이 작품의 미적 기획에 반영됨" },
+    { "id": "rel-003", "type": "depicts", "from": "caravaggio-judith-beheading-holofernes", "to": "myth-judith-holofernes", "description": "외경 서사의 클라이맥스를 사실적으로 묘사" },
+    { "id": "rel-004", "type": "opposition", "from": "caravaggio-judith-beheading-holofernes", "to": "klimt-judith-i", "description": "같은 유디트 소재를 바로크의 사실주의적 폭력성과 세기말의 관능적 팜파탈로 정반대로 재해석" },
+    { "id": "rel-005", "type": "depicts", "from": "klimt-judith-i", "to": "femme-fatale-reinterpretation", "description": "성서 속 여성 영웅을 세기말 미학의 팜파탈로 전환" },
+    { "id": "rel-006", "type": "depicts", "from": "bruegel-landscape-with-fall-of-icarus", "to": "myth-icarus-hubris", "description": "신화적 사건을 화면 구석에 배치" },
+    { "id": "rel-007", "type": "depicts", "from": "bruegel-landscape-with-fall-of-icarus", "to": "indifference-to-tragedy", "description": "전경의 일상적 풍경이 신화적 비극에 대한 무관심을 강조" },
+    { "id": "rel-008", "type": "depicts", "from": "vermeer-the-music-lesson", "to": "music-as-courtship-code", "description": "연주 장면이 구애의 은유로 기능" },
+    { "id": "rel-009", "type": "depicts", "from": "bosch-garden-of-earthly-delights", "to": "sin-and-temptation", "description": "중앙 패널의 쾌락 장면이 유혹과 타락을 형상화" },
+    { "id": "rel-010", "type": "depicts", "from": "bosch-garden-of-earthly-delights", "to": "salvation-damnation", "description": "좌우 패널(에덴/지옥)이 구원과 저주의 대비를 구성" },
+    { "id": "rel-011", "type": "depicts", "from": "van-eyck-arnolfini-portrait", "to": "marriage-fidelity-symbolism", "description": "볼록거울, 개, 촛불 등 사물이 결혼 서약의 상징으로 배치됨" },
+    { "id": "rel-012", "type": "depicts", "from": "goya-saturn-devouring-his-son", "to": "myth-saturn-devouring", "description": "신화의 가장 잔혹한 순간을 직접적으로 형상화" },
+    { "id": "rel-013", "type": "depicts", "from": "goya-saturn-devouring-his-son", "to": "power-and-self-destruction", "description": "나폴레옹 전쟁 이후 스페인의 정치적 혼란에 대한 은유로 해석되기도 함" },
+    { "id": "rel-014", "type": "depicts", "from": "david-oath-of-the-horatii", "to": "civic-virtue-sacrifice", "description": "국가에 대한 의무를 개인의 감정보다 우선시하는 신고전주의적 덕목을 형상화" },
+    { "id": "rel-015", "type": "influence", "from": "david-oath-of-the-horatii", "to": "civic-virtue-sacrifice", "description": "이 작품 이후 프랑스 혁명기 도상에서 고전적 시민 덕목의 시각적 원형으로 반복 인용됨" }
+  ]
+}
