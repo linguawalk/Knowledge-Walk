@@ -1,0 +1,105 @@
+{
+  "site_id": "culture-walk",
+  "_cross_site_link_convention": "relation.type == 'cross_site_link'인 경우 to 값은 '<site_id>:<entity_id>' 형식으로, 다른 사이트 Pool의 entity를 가리키는 소프트 참조입니다. 생성 엔진이 여러 site pool을 함께 로드했을 때만 실제로 해석됩니다.",
+
+  "entities": [
+    {
+      "id": "ovid-metamorphoses-orpheus",
+      "type": "artwork",
+      "name_kr": "변신 이야기 - 오르페우스와 에우리디케",
+      "name_original": "Metamorphoses, Liber X",
+      "medium": ["epic_myth_text"],
+      "time_period": "서기 8년경",
+      "culture_region": "고대 로마",
+      "description": "오비디우스가 서사시 '변신 이야기' 10권에서 다룬 오르페우스 신화의 가장 오래된 문헌 판본 중 하나. 이후 모든 미술·음악·무용 버전의 원형 텍스트로 기능한다.",
+      "theme_refs": ["myth-orpheus-variation"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Metamorphoses"]
+    },
+    {
+      "id": "corot-orpheus-eurydice",
+      "type": "artwork",
+      "name_kr": "저승에서 에우리디케를 이끄는 오르페우스",
+      "name_original": "Orphée ramenant Eurydice des enfers",
+      "medium": ["painting"],
+      "time_period": "1861년",
+      "culture_region": "프랑스, 바르비종파",
+      "description": "카미유 코로가 그린 오르페우스 신화 장면. 신고전주의적 소재를 낭만주의적 풍경화 기법으로 그려, 신화 서사와 자연 묘사를 결합했다.",
+      "theme_refs": ["gaze-and-loss"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Orpheus_Leading_Eurydice_from_the_Underworld"]
+    },
+    {
+      "id": "gluck-orfeo-ed-euridice",
+      "type": "artwork",
+      "name_kr": "오르페오와 에우리디체",
+      "name_original": "Orfeo ed Euridice",
+      "medium": ["vocal_music"],
+      "time_period": "1762년",
+      "culture_region": "오스트리아, 빈 (개혁 오페라)",
+      "description": "크리스토프 빌리발트 글루크가 작곡한 '개혁 오페라'. 몬테베르디의 오르페오(1607)로부터 150여 년 뒤, 같은 신화를 완전히 다른 음악어법으로 재해석했다.",
+      "theme_refs": ["myth-orpheus-variation", "gaze-and-loss"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": true, "has_audio_reference": true },
+      "source_urls": ["https://en.wikipedia.org/wiki/Orfeo_ed_Euridice"]
+    },
+    {
+      "id": "book-of-judith-apocrypha",
+      "type": "artwork",
+      "name_kr": "유디트기",
+      "name_original": "Liber Iudith",
+      "medium": ["epic_myth_text"],
+      "time_period": "기원전 2세기경 성립",
+      "culture_region": "헬레니즘기 유대 문헌",
+      "description": "구약 외경에 속하는 유디트 이야기의 원 텍스트. 이후 2000년에 걸쳐 회화·음악·조각에서 반복적으로 재해석되는 서사의 출발점.",
+      "theme_refs": ["judith-across-eras"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Book_of_Judith"]
+    },
+    {
+      "id": "vivaldi-juditha-triumphans",
+      "type": "artwork",
+      "name_kr": "승리한 유디트",
+      "name_original": "Juditha triumphans",
+      "medium": ["vocal_music"],
+      "time_period": "1716년",
+      "culture_region": "이탈리아, 베네치아",
+      "description": "안토니오 비발디가 작곡한 오라토리오. 베네치아와 오스만 제국의 전쟁이라는 당대 정치 상황을 유디트-홀로페르네스 서사에 빗댄 정치적 알레고리로 해석된다.",
+      "theme_refs": ["judith-across-eras", "triumphant-vs-violent-judith"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": true, "has_audio_reference": true },
+      "source_urls": ["https://en.wikipedia.org/wiki/Juditha_triumphans"]
+    },
+    {
+      "id": "auden-musee-des-beaux-arts",
+      "type": "artwork",
+      "name_kr": "미술관에서",
+      "name_original": "Musée des Beaux Arts",
+      "medium": ["poetry"],
+      "time_period": "1938년",
+      "culture_region": "영국/벨기에, 20세기",
+      "description": "W. H. 오든이 브뤼셀 왕립미술관에서 브뤼헐의 '이카루스의 추락'을 보고 쓴 시. 신화적 고통에 대한 세상의 무관심이라는 주제를, 그림에서 문학으로 다시 한번 매체 이동시킨다.",
+      "theme_refs": ["icarus-as-modern-metaphor"],
+      "asset_flags": { "public_domain": false, "high_res_image_available": false, "has_musicxml": false, "has_audio_reference": false }
+    }
+  ],
+
+  "themes": [
+    { "id": "myth-orpheus-variation", "category": "mythology", "name_kr": "오르페우스 신화의 매체 이동", "description": "고대 서사시에서 바로크 오페라, 회화까지 반복적으로 재해석되어 온 오르페우스 이야기." },
+    { "id": "gaze-and-loss", "category": "philosophy", "name_kr": "돌아보지 말라 - 시선과 상실", "description": "금기를 어기고 돌아보는 순간 대상을 잃는다는 오르페우스 신화의 핵심 모티프에 대한 철학적 해석." },
+    { "id": "judith-across-eras", "category": "religion", "name_kr": "시대를 건너는 유디트", "description": "구약 외경의 여성 영웅 서사가 시대와 정치적 맥락에 따라 계속 다르게 소환되는 현상." },
+    { "id": "triumphant-vs-violent-judith", "category": "aesthetics_emotion", "name_kr": "승리자 유디트 vs 살해자 유디트", "description": "같은 인물을 국가적 승리의 상징으로 그릴지, 폭력의 행위자로 그릴지에 따른 재현의 정치성." },
+    { "id": "icarus-as-modern-metaphor", "category": "philosophy", "name_kr": "현대적 은유가 된 이카루스", "description": "16세기 회화 속 신화적 장면이 20세기 시에서 인간 고통에 대한 사회적 무관심의 보편적 은유로 재소환되는 과정." }
+  ],
+
+  "relations": [
+    { "id": "rel-c001", "type": "depicts", "from": "ovid-metamorphoses-orpheus", "to": "myth-orpheus-variation", "description": "이후 모든 오르페우스 재해석의 원 텍스트" },
+    { "id": "rel-c002", "type": "depicts", "from": "corot-orpheus-eurydice", "to": "gaze-and-loss", "description": "돌아보는 순간을 회화적으로 포착" },
+    { "id": "rel-c003", "type": "depicts", "from": "gluck-orfeo-ed-euridice", "to": "myth-orpheus-variation", "description": "몬테베르디 이후 150년 만의 재해석" },
+    { "id": "rel-c004", "type": "cross_site_link", "from": "gluck-orfeo-ed-euridice", "to": "music-walk:monteverdi-orfeo", "description": "같은 신화, 같은 매체(오페라)를 다룬 Music-Walk 소재와의 직접 비교 지점" },
+    { "id": "rel-c005", "type": "depicts", "from": "book-of-judith-apocrypha", "to": "judith-across-eras", "description": "유디트 서사의 원 텍스트" },
+    { "id": "rel-c006", "type": "depicts", "from": "vivaldi-juditha-triumphans", "to": "triumphant-vs-violent-judith", "description": "베네치아의 정치적 승리를 은유하는 '승리한' 유디트로 재해석" },
+    { "id": "rel-c007", "type": "cross_site_link", "from": "vivaldi-juditha-triumphans", "to": "art-walk:caravaggio-judith-beheading-holofernes", "description": "같은 인물을 다룬 Art-Walk의 폭력적·사실주의적 버전과 대비" },
+    { "id": "rel-c008", "type": "cross_site_link", "from": "vivaldi-juditha-triumphans", "to": "art-walk:klimt-judith-i", "description": "관능적으로 재해석된 Art-Walk의 클림트 버전과도 함께 비교 가능" },
+    { "id": "rel-c009", "type": "depicts", "from": "auden-musee-des-beaux-arts", "to": "icarus-as-modern-metaphor", "description": "회화 속 무관심의 구도를 시적 언어로 재진술" },
+    { "id": "rel-c010", "type": "cross_site_link", "from": "auden-musee-des-beaux-arts", "to": "art-walk:bruegel-landscape-with-fall-of-icarus", "description": "이 시가 직접 다루는 원작 회화. Art-Walk Cat.002와 연결되는 후속 에피소드로 기획 가능" }
+  ]
+}

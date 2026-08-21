@@ -1,0 +1,109 @@
+{
+  "site_id": "music-walk",
+
+  "entities": [
+    {
+      "id": "bach-art-of-fugue",
+      "type": "artwork",
+      "name_kr": "푸가의 기법",
+      "name_original": "Die Kunst der Fuge",
+      "medium": ["instrumental_music"],
+      "time_period": "1740년대",
+      "culture_region": "독일 바로크, 라이프치히",
+      "description": "요한 제바스티안 바흐의 미완성 대작. 마지막 미완성 푸가에 자신의 이름(B-A-C-H, 독일 음명 체계)을 주제 선율로 새겨넣은 것으로 유명하다.",
+      "theme_refs": ["bach-motif-numerology"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": true, "has_audio_reference": true },
+      "source_urls": ["https://en.wikipedia.org/wiki/The_Art_of_Fugue"]
+    },
+    {
+      "id": "purcell-dido-lament",
+      "type": "artwork",
+      "name_kr": "디도의 탄식 (내가 대지에 누울 때)",
+      "name_original": "When I am laid in earth",
+      "medium": ["vocal_music"],
+      "time_period": "1689년",
+      "culture_region": "영국 바로크, 런던",
+      "description": "헨리 퍼셀의 오페라 '디도와 아이네이아스' 결말부 아리아. 하강하는 반음계 저음(그라운드 베이스) 위에서 디도가 죽음을 맞으며 부르는 비가로, 형상화 수사법의 대표 사례.",
+      "theme_refs": ["chromatic-descent-grief", "myth-dido-aeneas"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": true, "has_audio_reference": true },
+      "source_urls": ["https://en.wikipedia.org/wiki/Dido_and_Aeneas"]
+    },
+    {
+      "id": "monteverdi-orfeo",
+      "type": "artwork",
+      "name_kr": "오르페오",
+      "name_original": "L'Orfeo",
+      "medium": ["vocal_music"],
+      "time_period": "1607년",
+      "culture_region": "이탈리아, 만토바",
+      "description": "클라우디오 몬테베르디가 작곡한 초기 오페라 중 하나. 오르페우스가 노래의 힘으로 저승의 문지기를 설득하려는 장면에서, 음악 자체가 극의 주제(음악의 힘)를 증명하는 이중구조를 갖는다.",
+      "theme_refs": ["myth-orpheus-eurydice", "power-of-music-as-subject"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": true, "has_audio_reference": true },
+      "source_urls": ["https://en.wikipedia.org/wiki/L%27Orfeo"]
+    },
+    {
+      "id": "handel-messiah-hallelujah",
+      "type": "artwork",
+      "name_kr": "메시아 - 할렐루야",
+      "name_original": "Messiah, HWV 56 - Hallelujah Chorus",
+      "medium": ["vocal_music"],
+      "time_period": "1741년",
+      "culture_region": "영국, 런던 (독일 태생 헨델)",
+      "description": "게오르크 프리드리히 헨델의 오라토리오 중 가장 유명한 합창곡. 초연 당시 영국 왕이 기립했다는 일화가 전해지며, 이후 청중 기립 관습의 기원이 되었다.",
+      "theme_refs": ["religious-ceremony-music", "royal-patronage"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": true, "has_audio_reference": true },
+      "source_urls": ["https://en.wikipedia.org/wiki/Messiah_(Handel)"]
+    },
+    {
+      "id": "vivaldi-four-seasons-summer",
+      "type": "artwork",
+      "name_kr": "사계 - 여름",
+      "name_original": "Le quattro stagioni - L'estate",
+      "medium": ["instrumental_music"],
+      "time_period": "1725년",
+      "culture_region": "이탈리아, 베네치아",
+      "description": "안토니오 비발디가 각 계절에 소네트를 붙여 작곡한 표제음악. '여름'의 3악장은 폭풍우를 빠른 현악 트레몰로로 직접 그림처럼 묘사한다.",
+      "theme_refs": ["chromatic-descent-grief", "program-music-depiction"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": true, "has_audio_reference": true },
+      "source_urls": ["https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)"]
+    },
+    {
+      "id": "beethoven-ode-to-joy",
+      "type": "artwork",
+      "name_kr": "환희의 송가 (교향곡 9번 4악장)",
+      "name_original": "An die Freude",
+      "medium": ["vocal_music", "instrumental_music"],
+      "time_period": "1824년",
+      "culture_region": "오스트리아, 빈",
+      "description": "루트비히 판 베토벤이 실러의 시에 곡을 붙여 교향곡에 합창을 도입한 파격적 작품. 이미 청력을 잃은 베토벤이 초연 후 박수 소리를 듣지 못해 청중 쪽으로 돌려세워졌다는 일화로 유명하다.",
+      "theme_refs": ["music-as-universal-brotherhood"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": true, "has_audio_reference": true },
+      "source_urls": ["https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)"]
+    }
+  ],
+
+  "themes": [
+    { "id": "bach-motif-numerology", "category": "philosophy", "name_kr": "수비학적 서명 - BACH 모티프", "description": "작곡가가 자신의 이름이나 숫자 상징(삼위일체의 3 등)을 선율 구조 속에 암호처럼 심어넣는 바로크 시대의 관습." },
+    { "id": "chromatic-descent-grief", "category": "aesthetics_emotion", "name_kr": "반음계 하강과 비탄", "description": "바로크 형상화 수사법(Figurenlehre)에서 하강하는 반음계 선율로 슬픔과 죽음을 표현하는 관습." },
+    { "id": "myth-dido-aeneas", "category": "mythology", "name_kr": "디도와 아이네이아스", "description": "로마 건국 서사시 속, 카르타고의 여왕 디도가 아이네이아스에게 버림받고 스스로 목숨을 끊는 비극." },
+    { "id": "myth-orpheus-eurydice", "category": "mythology", "name_kr": "오르페우스와 에우리디케", "description": "노래의 힘으로 저승까지 아내를 구하러 간 시인 오르페우스의 신화. 뒤돌아보지 말라는 금기를 어겨 다시 아내를 잃는다." },
+    { "id": "power-of-music-as-subject", "category": "aesthetics_emotion", "name_kr": "주제로서의 음악의 힘", "description": "음악 자체가 극의 소재이자 동시에 그 힘을 증명하는 수단이 되는 자기지시적 구조." },
+    { "id": "religious-ceremony-music", "category": "religion", "name_kr": "종교 의례로서의 음악", "description": "예배나 공적 의례의 일부로 기능하며 공동체적 신앙 경험을 구성하는 음악의 역할." },
+    { "id": "royal-patronage", "category": "social_structure", "name_kr": "왕실 후원과 음악가의 지위", "description": "근대 초 유럽에서 작곡가의 생계와 창작이 왕실·귀족의 후원 체계에 종속되어 있던 사회 구조." },
+    { "id": "program-music-depiction", "category": "aesthetics_emotion", "name_kr": "표제음악의 묘사 기법", "description": "음악 외적 대상(자연현상, 이야기)을 선율과 리듬으로 직접 묘사하려는 작곡 기법." },
+    { "id": "music-as-universal-brotherhood", "category": "philosophy", "name_kr": "인류애의 매개로서의 음악", "description": "계몽주의 이상 속에서 음악(특히 합창)이 계급과 국경을 초월한 인류 보편적 연대를 상징한다는 관념." }
+  ],
+
+  "relations": [
+    { "id": "rel-m001", "type": "depicts", "from": "bach-art-of-fugue", "to": "bach-motif-numerology", "description": "마지막 미완성 푸가의 주제 선율 자체가 작곡가의 이름을 문자 그대로 담고 있음" },
+    { "id": "rel-m002", "type": "depicts", "from": "purcell-dido-lament", "to": "chromatic-descent-grief", "description": "그라운드 베이스의 하강 반음계가 곡 전체의 비탄을 구조화" },
+    { "id": "rel-m003", "type": "depicts", "from": "purcell-dido-lament", "to": "myth-dido-aeneas", "description": "베르길리우스 서사시의 비극적 결말을 오페라의 클라이맥스로 재현" },
+    { "id": "rel-m004", "type": "depicts", "from": "monteverdi-orfeo", "to": "myth-orpheus-eurydice", "description": "신화의 핵심 장면(저승 설득)을 극의 중심으로 삼음" },
+    { "id": "rel-m005", "type": "depicts", "from": "monteverdi-orfeo", "to": "power-of-music-as-subject", "description": "오르페우스가 노래로 저승을 설득하는 장면에서 음악 자체가 극의 주제가 됨" },
+    { "id": "rel-m006", "type": "depicts", "from": "handel-messiah-hallelujah", "to": "religious-ceremony-music", "description": "종교적 텍스트를 대규모 합창으로 구현해 공적 의례성을 강화" },
+    { "id": "rel-m007", "type": "depicts", "from": "handel-messiah-hallelujah", "to": "royal-patronage", "description": "왕실 관람과 기립 일화를 통해 후원 체계 속 작곡가의 위치를 보여줌" },
+    { "id": "rel-m008", "type": "depicts", "from": "vivaldi-four-seasons-summer", "to": "program-music-depiction", "description": "폭풍우를 현악 트레몰로로 직접 묘사" },
+    { "id": "rel-m009", "type": "opposition", "from": "vivaldi-four-seasons-summer", "to": "purcell-dido-lament", "description": "같은 형상화 수사법 전통 안에서, 자연현상 묘사(비발디)와 인간 감정 묘사(퍼셀)로 다른 방향을 취함" },
+    { "id": "rel-m010", "type": "depicts", "from": "beethoven-ode-to-joy", "to": "music-as-universal-brotherhood", "description": "합창을 교향곡에 도입해 계몽주의적 인류애의 이상을 음악적으로 구현" }
+  ]
+}

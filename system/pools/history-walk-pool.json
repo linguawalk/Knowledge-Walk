@@ -1,0 +1,110 @@
+{
+  "site_id": "history-walk",
+  "_cross_site_link_convention": "relation.type == 'cross_site_link'인 경우 to 값은 '<site_id>:<entity_id>' 형식의 소프트 참조입니다.",
+
+  "entities": [
+    {
+      "id": "bayeux-tapestry",
+      "type": "object",
+      "name_kr": "바이외 태피스트리",
+      "name_original": "Tapisserie de Bayeux",
+      "medium": ["textile"],
+      "time_period": "1070년대",
+      "culture_region": "노르망디/잉글랜드",
+      "description": "길이 70미터에 달하는 자수 직물로, 1066년 노르만 정복(헤이스팅스 전투)의 전 과정을 연대기처럼 시각적으로 기록했다. 회화가 아닌 직물이 역사적 사건의 1차 시각 사료로 기능하는 드문 사례.",
+      "theme_refs": ["conquest-and-legitimacy"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": true, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Bayeux_Tapestry"]
+    },
+    {
+      "id": "froissart-chronicles",
+      "type": "artwork",
+      "name_kr": "프루아사르 연대기",
+      "name_original": "Chroniques",
+      "medium": ["chronicle"],
+      "time_period": "1370년대-1400년경",
+      "culture_region": "프랑스/플랑드르, 백년전쟁기",
+      "description": "장 프루아사르가 기록한 백년전쟁 시기의 연대기. 궁정을 오가며 직접 목격하거나 전해들은 전투와 기사도 문화를 생생하게 서술했다.",
+      "theme_refs": ["eyewitness-history-writing"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Jean_Froissart"]
+    },
+    {
+      "id": "letters-of-abelard-and-heloise",
+      "type": "artwork",
+      "name_kr": "아벨라르와 엘로이즈의 편지",
+      "name_original": "Historia Calamitatum & Epistolae",
+      "medium": ["letter_diary"],
+      "time_period": "1130년대",
+      "culture_region": "프랑스, 파리",
+      "description": "신학자 피에르 아벨라르와 그의 제자였던 엘로이즈가 주고받은 편지. 금지된 사랑, 거세형(去勢刑), 수도원 유폐로 이어지는 사건을 통해 12세기 지식인 사회의 젠더·권력 구조를 드러낸다.",
+      "theme_refs": ["forbidden-love-intellectual-persecution"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Peter_Abelard"]
+    },
+    {
+      "id": "fall-of-bastille-eyewitness-accounts",
+      "type": "event",
+      "name_kr": "바스티유 함락 목격담",
+      "name_original": "Prise de la Bastille",
+      "medium": ["chronicle", "letter_diary"],
+      "time_period": "1789년 7월 14일",
+      "culture_region": "프랑스, 파리",
+      "description": "프랑스 혁명의 상징적 시작점이 된 사건. 당대 파리 시민과 관료들이 남긴 편지·일기·신문 보도가 사건의 혼란스러운 실상을 여러 시점에서 겹쳐 보여준다.",
+      "theme_refs": ["revolution-and-social-contract"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Storming_of_the_Bastille"]
+    },
+    {
+      "id": "treaty-of-westphalia-1648",
+      "type": "event",
+      "name_kr": "베스트팔렌 조약",
+      "name_original": "Peace of Westphalia",
+      "medium": ["chronicle"],
+      "time_period": "1648년",
+      "culture_region": "신성로마제국 전역",
+      "description": "30년 전쟁을 끝낸 일련의 조약. 영토 국가의 주권 불가침이라는 근대적 국제질서 개념이 여기서 처음 명문화되었다고 흔히 평가된다.",
+      "theme_refs": ["sovereignty-and-modern-state"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Peace_of_Westphalia"]
+    },
+    {
+      "id": "silk-road-trade-networks",
+      "type": "place",
+      "name_kr": "실크로드 교역망",
+      "name_original": "Silk Road",
+      "medium": ["chronicle"],
+      "time_period": "기원전 2세기 - 15세기",
+      "culture_region": "유라시아 전역",
+      "description": "중국에서 지중해까지 이어진 육상·해상 교역로. 상품뿐 아니라 종교, 예술 양식, 질병까지 함께 이동시킨 전근대 최대의 문화 교류망.",
+      "theme_refs": ["cross-cultural-exchange"],
+      "asset_flags": { "public_domain": true, "high_res_image_available": false, "has_musicxml": false, "has_audio_reference": false },
+      "source_urls": ["https://en.wikipedia.org/wiki/Silk_Road"]
+    }
+  ],
+
+  "themes": [
+    { "id": "conquest-and-legitimacy", "category": "historical_event", "name_kr": "정복과 정당성", "description": "군사적 정복을 사후에 정당한 통치로 서사화하는 방식에 대한 주제." },
+    { "id": "eyewitness-history-writing", "category": "historical_event", "name_kr": "목격담으로서의 역사 기록", "description": "역사가 사후 재구성이 아니라 당대인의 직접 목격과 증언으로 쓰이는 장르적 특징." },
+    { "id": "forbidden-love-intellectual-persecution", "category": "social_structure", "name_kr": "금지된 사랑과 지식인 박해", "description": "중세 지식 권력 구조 안에서 개인의 사랑과 학문적 지위가 충돌하며 처벌로 이어지는 양상." },
+    { "id": "revolution-and-social-contract", "category": "historical_event", "name_kr": "혁명과 사회계약", "description": "기존 통치 질서에 대한 대중적 봉기가 새로운 정치철학(사회계약론)과 어떻게 연결되는지." },
+    { "id": "sovereignty-and-modern-state", "category": "social_structure", "name_kr": "주권과 근대국가", "description": "영토와 주권을 단위로 한 근대적 국제질서 개념의 형성 과정." },
+    { "id": "cross-cultural-exchange", "category": "social_structure", "name_kr": "문명 간 교류", "description": "물자뿐 아니라 사상·기술·질병까지 함께 이동시키는 장거리 교역망의 문화사적 의미." }
+  ],
+
+  "relations": [
+    { "id": "rel-h001", "type": "depicts", "from": "bayeux-tapestry", "to": "conquest-and-legitimacy", "description": "정복자 윌리엄의 원정을 정당한 승계로 서사화" },
+    { "id": "rel-h002", "type": "depicts", "from": "froissart-chronicles", "to": "eyewitness-history-writing", "description": "궁정을 오가며 직접 취재한 기록" },
+    { "id": "rel-h003", "type": "depicts", "from": "letters-of-abelard-and-heloise", "to": "forbidden-love-intellectual-persecution", "description": "편지 자체가 사건의 1차 증거이자 감정적 기록" },
+    { "id": "rel-h004", "type": "depicts", "from": "fall-of-bastille-eyewitness-accounts", "to": "revolution-and-social-contract", "description": "혼란스러운 현장의 목격담들이 혁명 서사의 재료가 됨" },
+    {
+      "id": "rel-h005",
+      "type": "cross_site_link",
+      "from": "fall-of-bastille-eyewitness-accounts",
+      "to": "art-walk:david-oath-of-the-horatii",
+      "description": "혁명 5년 전 그려진 다비드의 그림이 예고했던 시민적 덕목의 이상이 실제 사건으로 이어지는 배경사. History-Walk의 허브 역할 우선순위 규칙에 정확히 해당하는 사례."
+    },
+    { "id": "rel-h006", "type": "depicts", "from": "treaty-of-westphalia-1648", "to": "sovereignty-and-modern-state", "description": "조약 문서 자체가 근대 국제질서 개념의 시발점" },
+    { "id": "rel-h007", "type": "depicts", "from": "silk-road-trade-networks", "to": "cross-cultural-exchange", "description": "장거리 교역망이 물자와 문화를 함께 실어나름" }
+  ]
+}
