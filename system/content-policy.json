@@ -1,1 +1,172 @@
-
+[
+  {
+    "site_id": "music-walk",
+    "display_name": "Music-Walk",
+    "status": "planning",
+    "voice": {
+      "archetype": "발견-감상형",
+      "description": "곡/작곡가를 알아가는 과정 자체를 따라가는 톤. 감상 포인트 중심으로 서술한다.",
+      "avoid": ["전문 음악 이론 용어 남발", "악보 분석 위주의 건조한 설명"]
+    },
+    "medium_rotation": {
+      "media": [
+        { "medium": "vocal_music", "weight": 2 },
+        { "medium": "instrumental_music", "weight": 2 },
+        { "medium": "dance", "weight": 1 }
+      ],
+      "cross_media_min": 0
+    },
+    "priority_rules": [
+      {
+        "rule_id": "asset_availability",
+        "description": "악보(MusicXML)와 참고 음원이 모두 확보 가능한 곡을 최우선으로 다룬다.",
+        "condition": "entity.has_musicxml == true AND entity.has_audio_reference == true"
+      },
+      {
+        "rule_id": "cross_link_potential",
+        "description": "Culture-Walk나 History-Walk에 이미 등록된 테마와 연결되는 곡/작곡가를 우선한다."
+      }
+    ],
+    "exception_slots": [
+      {
+        "trigger": "작곡가 탄생/서거 N주년 기념일",
+        "description": "정책 로테이션과 무관하게 해당 시기에 삽입",
+        "requires_manual_approval": false
+      },
+      {
+        "trigger": "Kim 개인 관심 곡 (CCM 등)",
+        "description": "Kim이 직접 지정하는 특집",
+        "requires_manual_approval": true
+      }
+    ],
+    "review_cycle": {
+      "frequency": "quarterly",
+      "trigger_metric": ["평균 체류시간", "재생/재감상 클릭률"]
+    },
+    "last_updated": "2026-08-21"
+  },
+  {
+    "site_id": "art-walk",
+    "display_name": "Art-Walk",
+    "status": "planning",
+    "voice": {
+      "archetype": "숨은 그림찾기형",
+      "description": "도상학적 해석을 미스터리 해독 구조로 제시한다.",
+      "avoid": ["작품 설명을 백과사전식으로 나열", "해석 없이 사실 정보만 늘어놓기"]
+    },
+    "medium_rotation": {
+      "media": [
+        { "medium": "painting", "weight": 3 },
+        { "medium": "sculpture", "weight": 1 },
+        { "medium": "architecture", "weight": 1 },
+        { "medium": "craft", "weight": 1 }
+      ],
+      "cross_media_min": 0
+    },
+    "priority_rules": [
+      {
+        "rule_id": "interpretive_richness",
+        "description": "해석 여지가 풍부한 순서로 우선한다: 신화/종교 도상 > 역사적 사건 도상 > 풍속/일상 도상",
+        "condition": "entity.theme_category IN [mythology, religion] > [historical_event] > [custom, daily_life]"
+      },
+      {
+        "rule_id": "public_domain_source",
+        "description": "고해상도 퍼블릭도메인 이미지가 확보 가능한 작품을 우선한다."
+      }
+    ],
+    "exception_slots": [
+      {
+        "trigger": "미술관 특별전",
+        "description": "국내외 주요 특별전 개최 시기에 관련 에피소드 삽입",
+        "requires_manual_approval": true
+      },
+      {
+        "trigger": "경매/발견 뉴스 등 시의성 이슈",
+        "description": "화제가 된 작품/사건 관련 에피소드",
+        "requires_manual_approval": true
+      }
+    ],
+    "review_cycle": {
+      "frequency": "quarterly",
+      "trigger_metric": ["체류시간", "타 사이트로의 크로스링크 클릭률"]
+    },
+    "last_updated": "2026-08-21"
+  },
+  {
+    "site_id": "culture-walk",
+    "display_name": "Culture-Walk",
+    "status": "planning",
+    "voice": {
+      "archetype": "재현/왜곡형",
+      "description": "같은 신화·모티프가 시대·문화권별로 다르게 표현된 변주를 비교하는 톤.",
+      "avoid": ["단순 국가별 나열", "우열을 매기는 듯한 비교"]
+    },
+    "medium_rotation": {
+      "media": [
+        { "medium": "painting", "weight": 1 },
+        { "medium": "vocal_music", "weight": 1 },
+        { "medium": "epic_myth_text", "weight": 1 }
+      ],
+      "cross_media_min": 2
+    },
+    "priority_rules": [
+      {
+        "rule_id": "cross_link_hub",
+        "description": "이미 Music-Walk/Art-Walk에 등록된 entity와 relation으로 연결 가능한 테마를 최우선으로 한다."
+      },
+      {
+        "rule_id": "kim_special_series",
+        "description": "Kim이 지정한 심화 연재(예: 빅토르 위고 시리즈)의 후속 편을 다른 조합보다 우선 배치한다."
+      }
+    ],
+    "exception_slots": [
+      {
+        "trigger": "Kim 지정 특집 시리즈",
+        "description": "빅토르 위고 파일럿과 같은 심화 연재",
+        "requires_manual_approval": true
+      }
+    ],
+    "review_cycle": {
+      "frequency": "quarterly",
+      "trigger_metric": ["크로스링크 클릭률", "시리즈 완주율"]
+    },
+    "last_updated": "2026-08-21"
+  },
+  {
+    "site_id": "history-walk",
+    "display_name": "History-Walk",
+    "status": "planning",
+    "voice": {
+      "archetype": "사건-맥락형",
+      "description": "사건 자체보다 그 사건이 왜 일어났고 무엇을 남겼는지의 맥락 중심으로 서술한다.",
+      "avoid": ["연대기식 사실 나열", "정치적으로 편향된 서술"]
+    },
+    "medium_rotation": {
+      "media": [
+        { "medium": "chronicle", "weight": 1 },
+        { "medium": "letter_diary", "weight": 1 },
+        { "medium": "textile", "weight": 1 }
+      ],
+      "cross_media_min": 0
+    },
+    "priority_rules": [
+      {
+        "rule_id": "hub_role",
+        "description": "다른 세 사이트(Music/Art/Culture-Walk)에서 이미 다룬 인물·사건의 배경사를 보완하는 에피소드를 우선한다.",
+        "condition": "entity.referenced_by_other_site == true"
+      }
+    ],
+    "exception_slots": [
+      {
+        "trigger": "전쟁 발발/종전 등 역사적 기념일",
+        "description": "N주년 시기에 맞춰 삽입",
+        "requires_manual_approval": false
+      }
+    ],
+    "review_cycle": {
+      "frequency": "quarterly",
+      "trigger_metric": ["체류시간", "허브 역할 클릭 흐름(다른 사이트로의 유입/유출)"]
+    },
+    "last_updated": "2026-08-21"
+  }
+]

@@ -1,0 +1,147 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://knowledgewalk.net/schemas/content-policy.schema.json",
+  "title": "Site Content Policy",
+  "description": "Walk 패밀리 사이트(Music-Walk, Art-Walk, Culture-Walk, History-Walk 등) 하나당 정책 한 건. 이 정책을 생성 엔진(3층)이 참조해 에피소드 후보를 자동 생성한다.",
+  "type": "object",
+  "required": [
+    "site_id",
+    "display_name",
+    "status",
+    "voice",
+    "medium_rotation",
+    "priority_rules",
+    "exception_slots",
+    "review_cycle"
+  ],
+  "properties": {
+    "site_id": {
+      "type": "string",
+      "description": "사이트 고유 식별자 (kebab-case)",
+      "examples": ["music-walk", "art-walk", "culture-walk", "history-walk"]
+    },
+    "display_name": {
+      "type": "string",
+      "description": "사람이 읽는 사이트 이름"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["planning", "pilot", "active", "paused"],
+      "description": "현재 사이트 운영 단계"
+    },
+    "voice": {
+      "type": "object",
+      "description": "사이트 고유 톤/보이스 정의. 생성 엔진의 프롬프트 템플릿에 그대로 주입된다.",
+      "required": ["archetype", "description", "avoid"],
+      "properties": {
+        "archetype": {
+          "type": "string",
+          "description": "톤의 짧은 이름표",
+          "examples": ["발견-감상형", "숨은 그림찾기형", "재현/왜곡형", "사건-맥락형"]
+        },
+        "description": {
+          "type": "string",
+          "description": "톤에 대한 1~2문장 설명"
+        },
+        "avoid": {
+          "type": "array",
+          "description": "이 사이트 톤에서 지양해야 할 표현/접근 방식",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "medium_rotation": {
+      "type": "object",
+      "description": "에피소드가 다룰 매체(장르)의 순환 비율. 값의 합은 반드시 1일 필요는 없고 상대 비율로 취급한다.",
+      "required": ["media", "cross_media_min"],
+      "properties": {
+        "media": {
+          "type": "array",
+          "description": "이 사이트가 다루는 매체와 상대적 비중",
+          "items": {
+            "type": "object",
+            "required": ["medium", "weight"],
+            "properties": {
+              "medium": {
+                "type": "string",
+                "enum": [
+                  "painting", "sculpture", "architecture", "craft", "textile",
+                  "vocal_music", "instrumental_music", "dance",
+                  "epic_myth_text", "letter_diary", "chronicle", "poetry", "calligraphy"
+                ]
+              },
+              "weight": {
+                "type": "number",
+                "minimum": 0,
+                "description": "상대 가중치 (예: 2:1:1이면 2, 1, 1)"
+              }
+            }
+          }
+        },
+        "cross_media_min": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "한 에피소드(또는 한 회차 묶음)가 교차해야 하는 최소 매체 수. 0이면 교차 요구 없음."
+        }
+      }
+    },
+    "priority_rules": {
+      "type": "array",
+      "description": "Element Pool에서 조합을 뽑을 때 우선순위를 정하는 규칙. 배열 순서가 우선순위 순서.",
+      "items": {
+        "type": "object",
+        "required": ["rule_id", "description"],
+        "properties": {
+          "rule_id": { "type": "string" },
+          "description": { "type": "string" },
+          "condition": {
+            "type": "string",
+            "description": "선택적. 규칙이 적용되는 조건을 사람이 읽을 수 있는 형태로 (예: 'entity.theme_category == mythology')"
+          }
+        }
+      }
+    },
+    "exception_slots": {
+      "type": "array",
+      "description": "정책 로테이션과 무관하게 수시로 끼워넣을 수 있는 예외 조건들",
+      "items": {
+        "type": "object",
+        "required": ["trigger", "description"],
+        "properties": {
+          "trigger": {
+            "type": "string",
+            "description": "예외를 발동시키는 조건",
+            "examples": ["작곡가 기념일", "미술관 특별전", "Kim 개인 지정 특집 시리즈"]
+          },
+          "description": { "type": "string" },
+          "requires_manual_approval": {
+            "type": "boolean",
+            "default": true,
+            "description": "true면 자동발행 금지, 사람 검수 필수"
+          }
+        }
+      }
+    },
+    "review_cycle": {
+      "type": "object",
+      "description": "이 정책 문서 자체를 언제, 무엇을 기준으로 재검토할지",
+      "required": ["frequency", "trigger_metric"],
+      "properties": {
+        "frequency": {
+          "type": "string",
+          "enum": ["monthly", "quarterly", "biannual"],
+          "default": "quarterly"
+        },
+        "trigger_metric": {
+          "type": "array",
+          "description": "재검토를 앞당길 수 있는 트래픽/반응 지표",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date"
+    }
+  }
+}
