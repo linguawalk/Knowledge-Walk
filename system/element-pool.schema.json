@@ -1,0 +1,136 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://knowledgewalk.net/schemas/element-pool.schema.json",
+  "title": "Element Pool",
+  "description": "생성 엔진(3층 시스템의 1층)이 조합해 에피소드 후보를 뽑아내는 원료 저장소. entity, theme, relation 세 가지 원자 단위로 구성된다. 각 사이트(site_id)별로 별도 파일에 채워 넣고, 이 스키마 하나로 모든 사이트의 Pool을 검증한다.",
+  "type": "object",
+  "required": ["site_id", "entities", "themes", "relations"],
+  "properties": {
+    "site_id": {
+      "type": "string",
+      "description": "이 Pool이 속한 사이트 (content-policy.json의 site_id와 일치해야 함)"
+    },
+
+    "entities": {
+      "type": "array",
+      "description": "고유명사 단위 원료: 인물, 작품, 사건, 사물 등",
+      "items": {
+        "type": "object",
+        "required": ["id", "type", "name_kr", "name_original", "medium", "description", "asset_flags"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "고유 식별자 (kebab-case)",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["person", "artwork", "event", "object", "place"]
+          },
+          "name_kr": { "type": "string" },
+          "name_original": {
+            "type": "string",
+            "description": "원어 표기 (인물/작품의 원래 언어 이름)"
+          },
+          "medium": {
+            "type": "array",
+            "description": "이 entity가 속하는 매체. content-policy.schema.json의 medium enum과 동일한 값 사용.",
+            "items": {
+              "type": "string",
+              "enum": [
+                "painting", "sculpture", "architecture", "craft", "textile",
+                "vocal_music", "instrumental_music", "dance",
+                "epic_myth_text", "letter_diary", "chronicle", "poetry", "calligraphy"
+              ]
+            }
+          },
+          "time_period": {
+            "type": "string",
+            "description": "제작/활동 시기 (자유 서술, 예: '1480년대', '15세기 후반 피렌체')"
+          },
+          "culture_region": {
+            "type": "string",
+            "description": "문화권 (예: '이탈리아 르네상스', '조선 후기')"
+          },
+          "description": {
+            "type": "string",
+            "description": "1~3문장 요약"
+          },
+          "theme_refs": {
+            "type": "array",
+            "description": "이 entity와 연결된 theme id 목록",
+            "items": { "type": "string" }
+          },
+          "asset_flags": {
+            "type": "object",
+            "description": "생성 엔진의 priority_rules가 참조하는 자산 확보 여부 플래그",
+            "properties": {
+              "public_domain": { "type": "boolean" },
+              "high_res_image_available": { "type": "boolean" },
+              "has_musicxml": { "type": "boolean" },
+              "has_audio_reference": { "type": "boolean" }
+            }
+          },
+          "source_urls": {
+            "type": "array",
+            "items": { "type": "string", "format": "uri" }
+          }
+        }
+      }
+    },
+
+    "themes": {
+      "type": "array",
+      "description": "추상 개념 단위 원료: 신화모티프, 철학개념, 사회구조 등",
+      "items": {
+        "type": "object",
+        "required": ["id", "category", "name_kr", "description"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "category": {
+            "type": "string",
+            "enum": [
+              "mythology", "religion", "historical_event", "philosophy",
+              "social_structure", "science_technology", "custom_daily_life",
+              "aesthetics_emotion"
+            ]
+          },
+          "name_kr": { "type": "string" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+
+    "relations": {
+      "type": "array",
+      "description": "entity-entity 또는 entity-theme 간의 연결. 생성 엔진이 '조합'을 뽑을 때 이 relation을 우선 활용한다.",
+      "items": {
+        "type": "object",
+        "required": ["id", "type", "from", "to", "description"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["influence", "opposition", "genealogy", "metaphor", "depicts", "cross_site_link"],
+            "description": "influence: 영향관계 / opposition: 대립·논쟁 / genealogy: 계보 / metaphor: 은유·상징 / depicts: 작품이 테마를 형상화 / cross_site_link: 다른 사이트의 entity와의 연결"
+          },
+          "from": {
+            "type": "string",
+            "description": "entity id 또는 theme id"
+          },
+          "to": {
+            "type": "string",
+            "description": "entity id 또는 theme id"
+          },
+          "description": { "type": "string" }
+        }
+      }
+    }
+  }
+}
