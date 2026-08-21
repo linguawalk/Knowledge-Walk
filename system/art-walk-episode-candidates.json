@@ -1,0 +1,86 @@
+[
+  {
+    "id": "aw-cand-001",
+    "site_id": "art-walk",
+    "title": "같은 여자, 다른 시대 — 두 개의 유디트",
+    "hook_type": "confrontation",
+    "primary_entity_ids": ["caravaggio-judith-beheading-holofernes", "klimt-judith-i"],
+    "theme_ids": ["myth-judith-holofernes", "female-heroism", "femme-fatale-reinterpretation"],
+    "summary": "1599년 카라바조는 유디트를 온몸으로 저항하며 목을 베는 결연한 전사로 그렸다. 300년 뒤 클림트는 같은 여성을 나른한 관능의 팜파탈로 재해석했다. 같은 성서 속 여성 영웅이 왜 이렇게 다른 얼굴을 갖게 되었는가 — 두 시대의 여성상을 비교하며 추적한다.",
+    "priority_rule_matched": "interpretive_richness",
+    "status": "candidate",
+    "requires_review": true
+  },
+  {
+    "id": "aw-cand-002",
+    "site_id": "art-walk",
+    "title": "아무도 보지 않는 추락",
+    "hook_type": "mystery",
+    "primary_entity_ids": ["bruegel-landscape-with-fall-of-icarus"],
+    "theme_ids": ["myth-icarus-hubris", "indifference-to-tragedy"],
+    "summary": "그림 어디에도 '주인공'처럼 보이는 이카루스가 없다. 화면 구석, 물속에 잠긴 두 다리만 겨우 찾을 수 있을 뿐이다. 왜 화가는 신화 속 가장 극적인 순간을 이렇게 하찮게 그렸을까 — 숨은 그림찾기 형식으로 이카루스를 찾아가며 그 침묵의 의미를 해독한다.",
+    "priority_rule_matched": "interpretive_richness",
+    "status": "candidate",
+    "requires_review": true
+  },
+  {
+    "id": "aw-cand-003",
+    "site_id": "art-walk",
+    "title": "조개껍질 위의 정치학",
+    "hook_type": "mystery",
+    "primary_entity_ids": ["botticelli-birth-of-venus"],
+    "theme_ids": ["myth-venus-birth", "neoplatonic-beauty"],
+    "summary": "메디치 가문의 후원으로 그려진 이 그림은 단순한 신화 삽화가 아니다. 신플라톤주의 철학자들의 살롱에서 논의되던 '육체의 아름다움이 곧 신에게 이르는 길'이라는 사상이 캔버스 위에 어떻게 암호처럼 숨겨졌는지 추적한다.",
+    "priority_rule_matched": "interpretive_richness",
+    "status": "candidate",
+    "requires_review": true
+  },
+  {
+    "id": "aw-cand-004",
+    "site_id": "art-walk",
+    "title": "왕좌를 지키려 자식을 삼킨 신",
+    "hook_type": "object_biography",
+    "primary_entity_ids": ["goya-saturn-devouring-his-son"],
+    "theme_ids": ["myth-saturn-devouring", "power-and-self-destruction"],
+    "summary": "고야가 자기 집 벽에 몰래 그린 '검은 그림' 연작 중 하나. 왜 늙은 화가는 이 잔혹한 신화를 아무에게도 보여줄 생각 없이 벽에 새겼을까. 나폴레옹 전쟁 이후 스페인의 정치적 광기와 이 그림의 관계를 따라간다.",
+    "priority_rule_matched": "interpretive_richness",
+    "status": "candidate",
+    "requires_review": true
+  },
+  {
+    "id": "aw-cand-005",
+    "site_id": "art-walk",
+    "title": "맹세하는 손, 울고 있는 손",
+    "hook_type": "confrontation",
+    "primary_entity_ids": ["david-oath-of-the-horatii"],
+    "theme_ids": ["civic-virtue-sacrifice"],
+    "summary": "화면 왼쪽, 남자들은 칼을 향해 팔을 뻗어 국가에 충성을 맹세한다. 화면 오른쪽, 여자들은 무너지듯 울고 있다. 같은 그림 안에 나란히 놓인 이 두 개의 감정이 프랑스 혁명 5년 전 무엇을 예고하고 있었는지 살펴본다.",
+    "priority_rule_matched": "interpretive_richness",
+    "status": "candidate",
+    "requires_review": true
+  },
+  {
+    "id": "aw-cand-006",
+    "site_id": "art-walk",
+    "title": "악보 없이 읽는 페르메이르의 연주",
+    "hook_type": "mystery",
+    "primary_entity_ids": ["vermeer-the-music-lesson"],
+    "theme_ids": ["music-as-courtship-code"],
+    "summary": "17세기 네덜란드 회화에서 '함께 음악을 연주하는 남녀'는 순수한 취미 활동이 아니라 은밀한 구애의 신호였다. 벽에 걸린 거울, 악기의 종류, 두 사람 사이의 거리 하나하나가 무슨 뜻이었는지 당대의 코드로 다시 읽는다. (참고: Music-Walk 파일럿이 시작되면 이 그림 자체가 두 사이트를 잇는 크로스링크 소재로도 쓰일 수 있음)",
+    "priority_rule_matched": "public_domain_source",
+    "status": "candidate",
+    "requires_review": true
+  },
+  {
+    "id": "aw-cand-007",
+    "site_id": "art-walk",
+    "title": "그림 속 부부가 남긴 증거",
+    "hook_type": "object_biography",
+    "primary_entity_ids": ["van-eyck-arnolfini-portrait"],
+    "theme_ids": ["marriage-fidelity-symbolism"],
+    "summary": "볼록거울 속에 비친 두 명의 인물, 침대 옆 강아지, 벗어놓은 신발 한 켤레 — 이 초상화는 그림이자 동시에 결혼을 증명하는 법적 문서였을 가능성이 있다. 사물 하나하나를 단서 삼아 이 부부가 무엇을 증명하려 했는지 추적한다.",
+    "priority_rule_matched": "public_domain_source",
+    "status": "candidate",
+    "requires_review": true
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://knowledgewalk.net/schemas/episode-candidate.schema.json",
+  "title": "Episode Candidate",
+  "description": "3층 시스템(생성 엔진)이 content-policy + element-pool을 조합해 뽑아낸 에피소드 후보. 사람이 검수해 채택 여부를 결정한 뒤 실제 콘텐츠로 발전시킨다.",
+  "type": "object",
+  "required": [
+    "id", "site_id", "title", "hook_type", "primary_entity_ids",
+    "theme_ids", "summary", "priority_rule_matched", "status"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "site_id": { "type": "string" },
+    "title": { "type": "string", "description": "가제" },
+    "hook_type": {
+      "type": "string",
+      "enum": ["mystery", "biography", "object_biography", "confrontation", "lineage_influence", "variation_across_time"],
+      "description": "미스터리형 / 인물형 / 사물전기형 / 대결·논쟁형 / 연쇄·영향형 / 재현·왜곡형"
+    },
+    "primary_entity_ids": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "이 에피소드가 다루는 핵심 entity id (art-walk-pool.json 기준)"
+    },
+    "theme_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "summary": {
+      "type": "string",
+      "description": "2~4문장 시놉시스"
+    },
+    "priority_rule_matched": {
+      "type": "string",
+      "description": "content-policy.json의 어느 priority_rules.rule_id에 의해 우선 배치되었는지"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["candidate", "approved", "rejected", "published"],
+      "default": "candidate"
+    },
+    "requires_review": { "type": "boolean", "default": true }
+  }
+}
