@@ -61,7 +61,14 @@ jobs:
               raise SystemExit('OPENAI_API_KEY is not configured; no paid request was sent.')
           with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
               out.write('run_live=' + str(bool(live)).lower() + '\n')
+              out.write('key_available=' + str(bool(os.environ.get('OPENAI_API_KEY'))).lower() + '\n')
           PY
+      - name: AI connection is missing - automatic generation remains paused
+        if: steps.mode.outputs.key_available == 'false'
+        run: echo 'Set the OPENAI_API_KEY repository secret before activation. No paid request was sent.'
+      - name: AI connection detected without revealing its value
+        if: steps.mode.outputs.key_available == 'true'
+        run: echo 'The key is present. A configuration check does not perform paid generation.'
       - name: Prepare the review branch before any paid requests
         id: branch
         if: steps.mode.outputs.run_live == 'true'
