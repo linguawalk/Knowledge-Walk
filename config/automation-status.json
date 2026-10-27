@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-27",
+  "configuration_check_run_id": 40499823121,
+  "configuration_check_status": "success",
+  "schedule_utc": "0 0 * * *",
+  "schedule_local": "09:00 Asia/Seoul",
+  "target_daily_drafts": 30,
+  "enabled": false,
+  "api_key_configured": false,
+  "automatic_publication": false,
+  "generated": 0,
+  "paid_generation_tested": false,
+  "live_generation_active": false,
+  "review_branch": "drafts/review-queue",
+  "local_tests_passed": 32,
+  "evidence": "GitHub job step outcomes confirm missing-key diagnostic succeeded and paid generation step was skipped."
+}
