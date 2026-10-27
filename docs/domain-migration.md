@@ -1,3 +1,5 @@
+> 현재 상태 갱신: 환경 재연결 후 GitHub API 읽기와 DNS 조회가 가능해졌다. GitHub Pages는 이미 `main:/`에서 legacy/Jekyll 방식으로 게시 중이며, 게시 방식 변경 API는 연결된 인증에 HTTP 403을 반환했다. 따라서 기존 게시 방식을 유지하고 `_site/`의 공개 파일을 루트에 동기화하되 `_config.yml`로 초안·문서·이전 코드를 모두 제외한다. Pages의 기본 게시 작업이 실제 웹 배포를 수행하고, 별도 워크플로는 검증과 공개용 아티팩트 보관만 담당한다. 도메인 NS는 `ns1.dns-parking.com`, `ns2.dns-parking.com`으로 확인되어 Hostinger DNS를 사용한다. 아래 초기 차단 기록과 Actions 전환 계획은 이전 조사 이력이며 이 갱신 내용이 우선한다.
+
 # knowledgewalk.net — GitHub Pages 전환 준비
 
 기준일: 2026-10-27 (한국 시간). **아직 전환 완료 상태가 아닙니다.**

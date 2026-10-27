@@ -1,0 +1,22 @@
+{
+  "exclude": [
+    ".git",
+    ".github",
+    ".gitignore",
+    "README.md",
+    "_preview",
+    "_site",
+    "artwalk",
+    "assets",
+    "config",
+    "content",
+    "docs",
+    "downloads",
+    "legacy",
+    "site",
+    "system",
+    "tests",
+    "tools",
+    "wordpress"
+  ]
+}

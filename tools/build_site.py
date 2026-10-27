@@ -379,6 +379,11 @@ def build(preview=False, sync_root=False, categories_path=None, stories_dir=None
                 require(target.resolve().is_relative_to(ROOT), "Unsafe root output path")
                 target.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copyfile(source, target)
+        # The existing GitHub Pages source is main:/ and uses Jekyll.
+        # Explicitly exclude every non-artifact root entry from that publication.
+        allowed = {p.parts[0] for p in (path.relative_to(destination) for path in destination.rglob('*') if path.is_file())}
+        excluded = sorted(p.name for p in ROOT.iterdir() if p.name not in allowed | {'_config.yml', 'CNAME'})
+        (ROOT / '_config.yml').write_text(json.dumps({'exclude': excluded}, ensure_ascii=False, indent=2) + '\n')
     return {"mode": "preview" if preview else "production", "pages": len([n for n in files if n.endswith('.html')]),
             "included": [s["id"] for s in site.stories], "excluded": len(stories) - len(site.stories), "output": str(destination)}
 

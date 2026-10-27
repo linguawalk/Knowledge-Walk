@@ -1,0 +1,113 @@
+{
+  "note": "Public DNS snapshot before any DNS change. Preserve mail and unrelated records. Domain registrar user reports WHOIS; authoritative DNS is Hostinger dns-parking.",
+  "records": [
+    {
+      "name": "knowledgewalk.net",
+      "type": "NS",
+      "answers": [
+        {
+          "name": "knowledgewalk.net.",
+          "type": 2,
+          "TTL": 21600,
+          "data": "ns2.dns-parking.com."
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 2,
+          "TTL": 21600,
+          "data": "ns1.dns-parking.com."
+        }
+      ],
+      "status": 0
+    },
+    {
+      "name": "knowledgewalk.net",
+      "type": "A",
+      "answers": [
+        {
+          "name": "knowledgewalk.net.",
+          "type": 1,
+          "TTL": 60,
+          "data": "147.79.72.7"
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 1,
+          "TTL": 60,
+          "data": "147.79.79.209"
+        }
+      ],
+      "status": 0
+    },
+    {
+      "name": "knowledgewalk.net",
+      "type": "AAAA",
+      "answers": [
+        {
+          "name": "knowledgewalk.net.",
+          "type": 28,
+          "TTL": 60,
+          "data": "2a02:4780:4b:3c43:19eb:7244:c5f8:dca1"
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 28,
+          "TTL": 60,
+          "data": "2a02:4780:4c:91d1:4cb5:cc21:788d:1cb"
+        }
+      ],
+      "status": 0
+    },
+    {
+      "name": "knowledgewalk.net",
+      "type": "MX",
+      "answers": [
+        {
+          "name": "knowledgewalk.net.",
+          "type": 15,
+          "TTL": 14400,
+          "data": "5 mx1.hostinger.com."
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 15,
+          "TTL": 14400,
+          "data": "10 mx2.hostinger.com."
+        }
+      ],
+      "status": 0
+    },
+    {
+      "name": "knowledgewalk.net",
+      "type": "TXT",
+      "answers": [
+        {
+          "name": "knowledgewalk.net.",
+          "type": 16,
+          "TTL": 3600,
+          "data": "v=spf1 include:_spf.mail.hostinger.com ~all"
+        }
+      ],
+      "status": 0
+    },
+    {
+      "name": "knowledgewalk.net",
+      "type": "CAA",
+      "answers": [],
+      "status": 0
+    },
+    {
+      "name": "www.knowledgewalk.net",
+      "type": "CNAME",
+      "answers": [
+        {
+          "name": "www.knowledgewalk.net.",
+          "type": 5,
+          "TTL": 300,
+          "data": "www.knowledgewalk.net.cdn.hstgr.net."
+        }
+      ],
+      "status": 0
+    }
+  ]
+}

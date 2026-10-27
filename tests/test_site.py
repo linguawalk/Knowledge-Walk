@@ -74,6 +74,18 @@ class SiteTests(unittest.TestCase):
                     for story in pending:
                         self.assertNotIn(story["title"], path.read_text())
 
+    def test_legacy_pages_excludes_every_non_public_root_entry(self):
+        self.assertFalse((ROOT / '.nojekyll').exists(), 'Root publication requires Jekyll exclusions')
+        excluded = set(builder.read_json(ROOT / '_config.yml')['exclude'])
+        output = ROOT / '_site'
+        allowed = {p.relative_to(output).parts[0] for p in output.rglob('*') if p.is_file()}
+        for path in ROOT.iterdir():
+            if path.name not in allowed | {'_config.yml', 'CNAME'}:
+                self.assertIn(path.name, excluded, f'Non-public root entry must be excluded: {path}')
+        for path in output.rglob('*'):
+            if path.is_file():
+                self.assertEqual(path.read_bytes(), (ROOT / path.relative_to(output)).read_bytes())
+
     def test_preview_is_marked_noindex_and_includes_story(self):
         output = ROOT / "_preview"
         for path in output.rglob("*.html"):
