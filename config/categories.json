@@ -1,0 +1,10 @@
+[
+  {"id":"history","title":"History","label":"역사","intro":"오래된 기록 속, 뜻밖의 한 장면을 만납니다.","children":["Korea","Asia","Europe","America","Middle East","Africa"]},
+  {"id":"cities","title":"Cities","label":"도시","intro":"그냥 지나치기 아까운, 도시의 작은 이야기들.","children":["Asia","Europe","Americas","Middle East","Africa"]},
+  {"id":"culture","title":"Culture","label":"문화","intro":"작품과 무대, 우리가 좋아하는 것들의 뒷이야기.","children":["Architecture","Literature","Philosophy","Music","Art","Film","Sports"]},
+  {"id":"life","title":"Life","label":"생활","intro":"익숙한 일상에서 발견하는 낯선 사연.","children":["Folks","Clothing","Food","Housing"]},
+  {"id":"companies","title":"Companies","label":"기업","intro":"이름 하나, 물건 하나에 담긴 기업의 이야기.","children":["Technology","Automotive","Finance","Media","Fashion"]},
+  {"id":"computing","title":"Computing","label":"컴퓨팅","intro":"매일 쓰는 화면과 기술에도 사연이 있습니다.","children":["Computers","Software","Internet","Programming","Artificial-Intelligence"]},
+  {"id":"finance","title":"Finance","label":"금융","intro":"돈과 거래를 둘러싼, 알아두면 재미있는 이야기.","children":["Money","Banking","Insurance","Investment","Fintech"]},
+  {"id":"science","title":"Science","label":"과학","intro":"작은 궁금증에서 시작된 발견의 순간들.","children":["Mathematics","Physics","Chemistry","Biology","Earth-Science","Engineering"]}
+]
