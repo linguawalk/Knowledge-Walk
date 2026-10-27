@@ -24,6 +24,8 @@ def main():
                  f"{cmap[story['category']]['title']} · {story['subcategory']}", "",
                  f"> {review_notice(story)}", "",
                  f"![{story['image']['alt']}]({image})", "", f"*{story['image']['credit']}*", ""]
+        if story["image"]["type"] != "ai_illustration":
+            draft += [f"[이미지 출처와 소장품 안내]({story['image']['source_url']}) · {story['image']['license']}", ""]
         for block in story["body"]:
             if block.get("heading"):
                 draft += [f"## {block['heading']}", ""]
@@ -43,7 +45,7 @@ def main():
         (destination / name).write_text("\n".join(draft), encoding="utf-8")
         state = "완료 · 게시 승인 대기" if story["source_review"] == "verified" else "확인 중"
         index.append(f"| {cmap[story['category']]['title']} | {story['subcategory']} | [{story['title']}]({name}) | {state} |")
-    index += ["", "새로운 사진 대신 AI 설명용 삽화를 사용했습니다. 삽화는 실제 유물·제품·장소를 정확하게 재현한 자료가 아닙니다.", "",
+    index += ["", "AI 설명용 삽화와 출처·이용 조건을 확인한 소장품 이미지를 사용합니다. 각 글에서 종류와 출처를 구분합니다. AI 삽화는 실제 유물·제품·장소를 정확하게 재현한 자료가 아닙니다.", "",
               "제작·게시 주기는 미정이며, 운영 사이트와 도메인은 변경하지 않았습니다.", ""]
     (destination / "README.md").write_text("\n".join(index), encoding="utf-8")
     print(f"Exported {len(stories)} review manuscripts with relative image links.")

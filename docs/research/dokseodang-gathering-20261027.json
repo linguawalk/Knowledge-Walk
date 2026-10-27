@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-10-27",
+  "story_id": "dokseodang-gathering",
+  "source_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=436733",
+  "response_sha256": "fe0793df54b557c3c6c7a02ca8b8e5a4af8fc31e69dea08b01999991fd85f3e6",
+  "facts_checked": [
+    "사가독서 이력이 있는 관료들의 모임을 기념한 그림",
+    "상단 제목·중단 모임 장면·하단 좌목의 세 부분 구성",
+    "한강변 두모포와 응봉의 지리 설명, 관복 차림의 뱃놀이",
+    "열두 사람의 명단과 관직을 근거로 한 1531년경 제작 추정"
+  ],
+  "date_precision": "1531년경 — 확정 연도나 특정 행사 날짜로 바꾸지 않음",
+  "image": {
+    "source_page": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=436733",
+    "download_url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=15111bb724cf4ac69bbf7b3d6ddff97f&fileSn=2&thumb=Y",
+    "sha256": "3dfb24819967e21a528a6f4544c344ebf8b3d51530f4ebdcc84c179add368294",
+    "license": "공공누리 제1유형(출처표시)",
+    "license_evidence": "소장품 상세 페이지에 공공누리 제1유형과 출처표시 조건이 명시되어 있음",
+    "reuse": "공개 페이지의 표시용 이미지 원본을 변경 없이 복사함. 고해상도 내려받기 신청서·이용목적 입력은 제출하지 않음",
+    "attribution": "독서당계회도, 1531년경 · 국립고궁박물관 소장(고궁4000) · 국립고궁박물관 제공 이미지"
+  },
+  "editorial_limits": [
+    "그림에 그려진 얼굴 수를 세어 참석자 수라고 단정하지 않는다. 열두 명은 좌목의 인원이다.",
+    "날씨·대화·심리·업무 이탈 여부를 지어내지 않는다.",
+    "현대 기념사진과의 비교는 독자의 이해를 위한 비유다.",
+    "정확한 사가독서 운영 규정이나 참석자별 전기는 이 글에서 다루지 않는다."
+  ],
+  "publication_approval": false
+}

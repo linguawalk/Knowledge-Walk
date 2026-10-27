@@ -9,3 +9,4 @@
 @media print{.site-header,.site-footer,.preview-banner,.article-toc,.reading-progress,.back-link{display:none}.article-heading{padding-top:0}.article-image{max-width:150mm;margin-bottom:20px}.reading-layout{display:block;padding:0}.prose{font-size:11pt;line-height:1.7}.prose h2{break-after:avoid}.article-image{break-inside:avoid}body{background:white}}
 
 .sources .source-date{display:block;font-size:10px;color:var(--muted);margin-top:4px}.sources p{font-size:11px;line-height:1.8;margin:5px 0 14px;color:var(--muted)}.sources a{overflow-wrap:anywhere}
+.card-image .artwork-image,.feature-image .artwork-image{object-fit:contain;background:#f1efe9;padding:14px}.artwork-figure img{width:auto;max-width:100%;max-height:1000px;margin-inline:auto;object-fit:contain}.artwork-figure figcaption{max-width:680px;margin-inline:auto}

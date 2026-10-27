@@ -111,6 +111,9 @@ def validate(categories, stories, root=ROOT):
         for key in ("file", "alt", "credit"):
             text(image.get(key), f"image {key}")
         require(image.get("type") in ("ai_illustration", "photo", "artwork"), "Invalid image type")
+        for dimension in ("width", "height"):
+            if dimension in image:
+                require(type(image[dimension]) is int and image[dimension] > 0, "Image dimensions must be positive integers")
         image_path = (root / image["file"]).resolve()
         require(image_path.is_relative_to(root.resolve()) and image_path.is_file(), f"Unsafe/missing image: {sid}")
         require(image_path.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp"), "Unsupported image format")
@@ -161,8 +164,10 @@ class Site:
         return max(1, math.ceil(sum(len(p) for b in story["body"] for p in b["paragraphs"]) / 500))
 
     def image(self, page, story, eager=False):
-        return (f'<img src="{self.link(page, self.image_path(story))}" alt="{esc(story["image"]["alt"])}" '
-                f'width="1536" height="1024" loading="{"eager" if eager else "lazy"}" decoding="async">')
+        image = story["image"]
+        css = ' class="artwork-image"' if image["type"] == "artwork" else ""
+        return (f'<img{css} src="{self.link(page, self.image_path(story))}" alt="{esc(image["alt"])}" '
+                f'width="{image.get("width", 1536)}" height="{image.get("height", 1024)}" loading="{"eager" if eager else "lazy"}" decoding="async">')
 
     def layout(self, page, title, description, body, active=None, article=False):
         link = lambda target: self.link(page, target)
@@ -258,9 +263,12 @@ class Site:
         sources = f'<details class="sources"><summary>이야기의 바탕이 된 자료</summary><ul>{sources}</ul></details>' if sources else '<p class="source-pending">출처 확인 중 · 확인이 끝나면 참고 자료를 안내합니다.</p>'
         img = story["image"]
         image_source = f' <a href="{esc(img["source_url"])}" rel="noopener noreferrer">이미지 출처</a> · {esc(img["license"])}' if img["type"] != "ai_illustration" else ""
+        figure_class = " artwork-figure" if img["type"] == "artwork" else ""
+        if img["type"] == "artwork":
+            image_source += f' · <a href="{self.link(page, self.image_path(story))}">이미지 크게 보기</a>'
         body = f'''<article class="reading-page"><div class="container"><nav class="breadcrumbs" aria-label="현재 위치">{crumb}</nav></div>
 <header class="article-heading"><p class="eyebrow">{esc(category['title'])} · {esc(story['subcategory'])}</p><h1>{esc(story['title'])}</h1><p class="article-subtitle">{esc(story['subtitle'])}</p><p class="reading-meta">약 {self.minutes(story)}분의 작은 발견</p>{notice}</header>
-<figure class="article-image container">{self.image(page, story, True)}<figcaption>{esc(img['credit'])}{image_source}</figcaption></figure>
+<figure class="article-image container{figure_class}">{self.image(page, story, True)}<figcaption>{esc(img['credit'])}{image_source}</figcaption></figure>
 <div class="reading-layout"><aside class="article-toc"><details open><summary>이야기 속으로</summary><ol>{contents}</ol></details></aside>
 <div class="prose">{prose}<div class="story-end" aria-hidden="true">✳</div>{sources}<a class="back-link" href="{self.link(page, self.category_path(category['id'], story['subcategory']))}">← {esc(story['subcategory'])}의 다른 이야기</a></div></div></article>'''
         self.layout(page, story["title"], story["summary"], body, category["id"], article=True)

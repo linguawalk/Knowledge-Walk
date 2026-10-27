@@ -155,6 +155,21 @@ class SiteTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             builder.validate(self.categories, [story])
 
+    def test_topic_coverage_distinguishes_review_from_public_approval(self):
+        from tools.topic_coverage import coverage
+        draft = {**self.story, "id": "draft-fixture", "status": "draft", "source_review": "pending"}
+        checked = self.approved_fixture()
+        checked.update(id="review-fixture", status="review", publication_ready=False, approved_by=None, approved_at=None)
+        approved = self.approved_fixture()
+        approved["id"] = "approved-fixture"
+        rejected = {**draft, "id": "rejected-fixture", "status": "rejected"}
+        categories = [{"id": "cities", "title": "Cities", "children": ["Europe", "Asia"]}]
+        rows = coverage(categories, [draft, checked, approved, rejected])
+        self.assertEqual(rows[0]["count"], 3)
+        self.assertEqual(rows[0]["source_checked"], 2)
+        self.assertEqual(rows[0]["approved"], 1)
+        self.assertEqual(rows[1]["count"], 0)
+
     def test_text_is_escaped(self):
         story = copy.deepcopy(self.story)
         story["body"][0]["paragraphs"].append('<script>alert("not HTML")</script>')

@@ -40,6 +40,9 @@ def check():
           images.forEach(image => { image.loading = 'eager'; });
           await Promise.all(images.map(image => image.decode()));
           if (images.some(image => !image.naturalWidth)) throw new Error('Image not loaded');
+          if (document.activeElement instanceof HTMLElement) document.activeElement.blur();
+          window.scrollTo({top: 0, behavior: 'instant'});
+          await new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)));
         }""")
         page.screenshot(path=str(shots / filename), full_page=True)
     try:
@@ -120,6 +123,13 @@ def check():
                         assert viewport.locator(".source-date").first.is_visible()
                     else:
                         assert "출처 확인이 남아" in viewport.locator(".draft-notice").inner_text()
+                    if story["image"]["type"] == "artwork":
+                        image = viewport.locator(".article-image img")
+                        ratio = image.evaluate("img => ({display: img.getBoundingClientRect().width / img.getBoundingClientRect().height, natural: img.naturalWidth / img.naturalHeight})")
+                        assert abs(ratio["display"] - ratio["natural"]) < 0.01, "Artwork aspect ratio changed"
+                        assert story["image"]["license"] in viewport.locator("figcaption").inner_text()
+                        assert viewport.locator("figcaption a").first.get_attribute("href") == story["image"]["source_url"]
+                        capture(viewport, "dokseodang-desktop.png" if viewport is page else "dokseodang-mobile.png")
             # Site remains readable without JavaScript.
             plain = browser.new_context(java_script_enabled=False, viewport={"width": 390, "height": 844})
             n = plain.new_page()
@@ -136,7 +146,7 @@ def check():
             browser.close()
         assert not errors, errors
         print("PASS: desktop/mobile navigation, Korean full-text search, filters/reset, images, reading anchors, empty categories, no-JS reading and production draft exclusion.")
-        print(f"Checked {story_count} story pages on desktop and mobile; saved 4 screenshots with all images loaded. No browser JavaScript errors.")
+        print(f"Checked {story_count} story pages on desktop and mobile; screenshots saved with all images loaded. No browser JavaScript errors.")
     finally:
         for server in (preview, production):
             server.shutdown()
