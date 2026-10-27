@@ -10,6 +10,6 @@
 | [Literature](literature/README.md) | 1편 |
 | [Philosophy](philosophy/README.md) | 0편 |
 | [Music](music/README.md) | 3편 |
-| [Art](art/README.md) | 2편 |
+| [Art](art/README.md) | 4편 |
 | [Film](film/README.md) | 0편 |
 | [Sports](sports/README.md) | 0편 |

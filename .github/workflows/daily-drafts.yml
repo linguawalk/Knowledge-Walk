@@ -1,9 +1,7 @@
 name: Prepare daily story drafts
 
 on:
-  schedule:
-    # 00:00 UTC = 09:00 Asia/Seoul. GitHub may start scheduled jobs late.
-    - cron: '0 0 * * *'
+  # Automatic schedule withdrawn by the user on 2026-10-28.
   workflow_dispatch:
     inputs:
       dry_run:

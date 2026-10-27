@@ -2,7 +2,9 @@
 
 익숙한 세상의 사물·장소·이름에 얽힌 작은 이야기를 읽는 사이트입니다. WordPress와 별도 데이터베이스 없이, 콘텐츠 파일에서 HTML을 생성합니다. 작업 범위는 `linguawalk/Knowledge-Walk` 한 저장소입니다.
 
-현재 단계: **홈페이지 게시·도메인 전환·HTTPS 접속 확인 완료 / HTTPS 강제 설정 대기**. 공개 대상 28편을 실제 게시하고 웹 응답을 확인했습니다. Hostinger의 ALIAS/CNAME 변경이 반영되어 `https://knowledgewalk.net/`에서 공개 28편이 제공됩니다. `www`의 HTTPS 이동도 확인했습니다. GitHub의 Enforce HTTPS 체크 항목만 남아 있습니다. [현재 상태와 남은 작업](docs/domain-migration.md)을 확인합니다. 매일 오전 9시 초안 30편의 예약 설정은 준비했으나 AI 연결 전으로 비활성입니다. 사용자 확인 없는 자동 게시는 하지 않습니다.
+현재 공개 홈페이지는 `https://knowledgewalk.net/`이며 기존 승인 글 28편이 게시되어 있습니다. [도메인 전환 기록](docs/domain-migration.md)을 확인할 수 있습니다.
+
+자동 제작 계획은 2026-10-28 사용자 요청으로 철회했습니다. 예약 실행을 제거했으며 앞으로는 채팅에서 요청할 때 제작하고 사용자 검토 후 게시합니다. [현재 방침](docs/daily-generation.md)
 
 ## 준비된 화면
 
@@ -24,15 +26,17 @@
 
 이번에 추가한 [새 이야기 10편](docs/review/batch-20261027-ten-everyday.md)은 본문 약 1,100자, 약 3분 분량입니다. 박물관 사진 2장과 AI 삽화 8장을 준비하고 [출처·이미지 확인 기록](docs/research/ten-everyday-stories-20261027.json)을 남겼습니다. 원고와 읽기용 문서는 기존 분야/소주제 폴더에 배치했습니다. 처음에는 검토용으로 보관했고, 이후 사용자의 게시 요청에 따라 공개 승인을 기록해 홈페이지에 반영했습니다.
 
-## 매일 아침 검토용 제작
+이번에 추가한 [새 이야기 10편 — 옛 물건에서 발견하는 생활 이야기](docs/review/batch-20261028-ten-objects.md)는 실제 박물관 소장품 사진 10장과 출처를 포함합니다. 각 글은 약 2분 분량이며 사용자 게시 승인 대기 상태입니다. [대조 기록](docs/research/ten-objects-20261028.json)을 남겼습니다.
 
-[자동 제작과 연결 안내](docs/daily-generation.md)를 확인합니다. 매일 한국 시간 오전 9시, 초안 30편과 AI 삽화를 목표로 하는 GitHub 예약 작업을 준비했습니다. **현재 유료 AI 연결 전으로 비활성 상태**이며 실제 자동 생성·요금·30편 완료를 검증한 것은 아닙니다. 원고는 `drafts/review-queue`에만 저장하며 사용자 승인 없이 main에 병합하거나 홈페이지에 게시하지 않습니다. [아침 검토함](docs/review/daily-queue.md)에서 날짜별 목록을 확인하도록 구성했습니다.
+## 요청에 따른 콘텐츠 제작
 
-실행 준비 확인은 `python3 tools/daily_generation.py --dry-run`입니다. 실제 API 키는 GitHub Actions의 `OPENAI_API_KEY` 비밀키로 연결합니다. 현재 Codex 환경에 키가 없고 GitHub 비밀키 관리 API도 제한돼 있어 연결 상태는 예약 작업의 무과금 설정 검사로 확인합니다. API 키는 채팅이나 저장소에 넣지 않습니다. API 연결 확인 후 가동 설정은 AI가 처리합니다.
+자동 제작 계획은 2026-10-28 사용자 요청으로 철회했습니다. 예약 실행을 제거했으며 앞으로는 채팅에서 요청할 때 제작하고 사용자 검토 후 게시합니다. [현재 방침](docs/daily-generation.md)
+
+기존 자동화 코드는 기록으로 보존하며 다시 켜지 않습니다. 새 자동화 요청이 없는 한 API 키 등록이나 별도 결제 연결을 진행하지 않습니다.
 
 ## 홈페이지와 읽기 구분
 
-[홈페이지 확인 안내](docs/homepage-review.md)에서 검토용 홈페이지를 내려받고 화면을 확인할 수 있습니다. `python3 tools/package_review.py`는 31편의 검토본을 `downloads/knowledgewalk-homepage-review.zip`으로 묶습니다. 압축을 모두 풀고 `index.html`을 열면 됩니다. 웹 배포나 운영 사이트 변경은 수행하지 않습니다.
+[홈페이지 확인 안내](docs/homepage-review.md)에서 검토용 홈페이지를 내려받고 화면을 확인할 수 있습니다. `python3 tools/package_review.py`는 전체 원고의 검토본을 `downloads/knowledgewalk-homepage-review.zip`으로 묶습니다. 압축을 모두 풀고 `index.html`을 열면 됩니다. 웹 배포나 운영 사이트 변경은 수행하지 않습니다.
 
 `library.html`은 8개 분야 / 43개 소주제별 서가, `reading.html`은 개인 읽기 목록입니다. 읽음은 사용자가 직접 표시하며 브라우저 로컬 저장소에만 보관합니다. 기기 간 동기화·편집 승인 기능은 아닙니다. 저장소 접근이 막히면 표시 기능을 끄고 글은 계속 보여줍니다.
 

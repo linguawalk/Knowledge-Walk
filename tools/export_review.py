@@ -20,10 +20,10 @@ def state(story):
 def export_daily_queue(destination):
     runs = [read_json(p) for p in sorted((ROOT / 'content/generation_runs').glob('*.json'), reverse=True)]
     lines = ['# KnowledgeWalk — 아침 검토함', '',
-             '매일 오전 9시(한국 시간) 제작 시작을 목표로 합니다. 생성된 글은 사용자 확인 전 홈페이지에 게시하지 않습니다.', '',
+             '자동 제작 계획은 2026-10-28 사용자 요청으로 철회되었습니다. 앞으로는 요청 시 제작하며, 확인 전 홈페이지에 게시하지 않습니다.', '',
              '이 검토함은 GitHub 저장소 안의 자료이며, 비공개 보관함을 뜻하지는 않습니다.', '']
     if not runs:
-        lines += ['현재 자동 생성 결과가 없습니다. AI 연결과 가동 설정을 확인한 뒤 첫 결과가 여기에 쌓입니다.', '']
+        lines += ['자동 생성 결과가 없습니다. 예약 실행은 제거되어 있습니다.', '']
     else:
         lines += ['| 제작일 | 완료 / 목표 | 상태 | 읽기 |', '|---|---:|---|---|']
         for run in runs:
@@ -47,7 +47,7 @@ def main():
     index = ['# KnowledgeWalk — 이야기 서가', '',
              f'분야를 고른 다음 소주제로 들어가면 전체 {len(stories)}편의 글과 이미지를 함께 읽을 수 있습니다.', '',
              f'**공개 승인 {sum(publishable(s) for s in stories)}편 / 자료 대조 완료·편집 검토 {sum(s["source_review"] == "verified" and not publishable(s) for s in stories)}편 / 출처 추가 확인 {sum(s["source_review"] != "verified" for s in stories)}편.** 실제 웹 게시는 별도의 배포 상태를 따릅니다.', '',
-             '[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [최근 이야기 10편](batch-20261027-ten-everyday.md)', '',
+             '[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261028-ten-objects.md)', '',
              '| 분야 | 이야기 | 소주제 수 |', '|---|---:|---:|']
     for category in categories:
         cid = category['id']

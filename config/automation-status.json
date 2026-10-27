@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-27",
+  "checked_at": "2026-10-28",
   "configuration_check_run_id": 40499823121,
   "configuration_check_status": "success",
-  "schedule_utc": "0 0 * * *",
-  "schedule_local": "09:00 Asia/Seoul",
+  "schedule_utc": null,
+  "schedule_local": null,
   "target_daily_drafts": 30,
   "enabled": false,
   "api_key_configured": false,
@@ -13,5 +13,7 @@
   "live_generation_active": false,
   "review_branch": "drafts/review-queue",
   "local_tests_passed": 32,
-  "evidence": "GitHub job step outcomes confirm missing-key diagnostic succeeded and paid generation step was skipped."
+  "evidence": "GitHub job step outcomes confirm missing-key diagnostic succeeded and paid generation step was skipped.",
+  "plan_status": "cancelled_by_user",
+  "cancellation_note": "사용자가 자동 제작 계획을 철회했습니다. 요청 시 수동 제작만 진행합니다. 예약 트리거를 제거했습니다."
 }

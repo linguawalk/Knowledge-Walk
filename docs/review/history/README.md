@@ -6,7 +6,7 @@
 
 | 소주제 | 이야기 |
 |---|---:|
-| [Korea](korea/README.md) | 2편 |
+| [Korea](korea/README.md) | 3편 |
 | [Asia](asia/README.md) | 0편 |
 | [Europe](europe/README.md) | 1편 |
 | [America](america/README.md) | 1편 |

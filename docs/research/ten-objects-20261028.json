@@ -1,0 +1,308 @@
+{
+  "checked_at": "2026-10-28",
+  "scope": "사용자 요청에 따른 수동 제작 10편. 박물관 실제 원문과 소장품 사진 대조. 게시 승인과 별도.",
+  "stories": [
+    {
+      "id": "scent-bead-norigae",
+      "object_id": 367850,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367850",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367850",
+          "status": 200,
+          "sha256": "b6faecf620f0c7712780a335a4fd7b013eb31bf3caa25fe3887c29b2cb1f48a2",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "노리개를 다는 위치",
+            "줄향의 구슬형 제작과 네 가지 색",
+            "은은한 향기를 위해 치마 속에 차던 쓰임"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "특정 향 원료·치료 효과·실제 착용자의 경험을 추정하지 않음.",
+      "image": {
+        "file": "content/images/scent-bead-norigae.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00021496AG&fileSn=20224&thumb=Y",
+        "status": 200,
+        "source_sha256": "728f4b75d455b2b52eb0ca513c61ace146433526aa995c07b6323068c5c9fdfd",
+        "sha256": "9081a916c211de769ac4f50313ac74386e015c22ed93914052a6cc182345c80d",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "brazier-animal-feet",
+      "object_id": 439135,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439135",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439135",
+          "status": 200,
+          "sha256": "7cb5968869c2695a37122036f44423371d1483a7d8ef07678a00b6a286b5d1e2",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "이방자 소유 삼족 동제 화로",
+            "따로 주조해 리벳으로 붙인 다리",
+            "귀면 형태 상부와 동물 발 형태 하부"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "장식의 벽사 의미·특정 동물명·사용 장면을 단정하지 않음.",
+      "image": {
+        "file": "content/images/brazier-animal-feet.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=74fb31c475984651803ebe6a3b6cf551&fileSn=1&thumb=Y",
+        "status": 200,
+        "source_sha256": "c3e3dbca1dab1018b544e30a980ef97ea6f55f184cf9432093796e860a389ae5",
+        "sha256": "acc63ed4a24494e7392b68a9b092d7171fd1d06eedde06d599e73c468b685aa9",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "lock-green-knot",
+      "object_id": 366520,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=366520",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=366520",
+          "status": 200,
+          "sha256": "f098fecbf5a02437b4510c0b0dbb8d57609c3dc1cb0d5a7b987f4bd3c6bde280",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "영친왕비 유품으로 전해지는 자물쇠와 열쇠",
+            "자물쇠 전면의 원형문·화문 음각",
+            "열쇠 끝 녹색 매듭"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "매듭 목적·잠근 대상·구체적 사용자는 추정하지 않음. 사진에 없는 세부는 박물관 설명을 근거로 구분.",
+      "image": {
+        "file": "content/images/lock-green-knot.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00019816TP&fileSn=15333&thumb=Y",
+        "status": 200,
+        "source_sha256": "b3f0b151320549e0361006bd73d5850e49efe7ba30830e5044e5de39a39d3776",
+        "sha256": "0d23023812e900ac95de915a27ac116ecc84a0d10604d7c397242a4e8b3d77af",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "glass-photo-pillow-ruler",
+      "object_id": 438673,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438673",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438673",
+          "status": 200,
+          "sha256": "5b89c20d3a7115e18d3d1758cc60cd6917dabe7d270505e25818ecdcf516d1da",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "백자베개를 촬영한 유리건판",
+            "촬영번호 6014와 측정용 막대자",
+            "사진 속 도자의 현재 국립중앙박물관 소장번호 덕수2165",
+            "상단 파손부 수리"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "유리건판 소장기관과 도자 소장기관을 구별. 베개의 원래 사용법·제작연대는 추정하지 않음.",
+      "image": {
+        "file": "content/images/glass-photo-pillow-ruler.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=0d9035f86b354664b543d327d1fcec41&fileSn=2&thumb=Y",
+        "status": 200,
+        "source_sha256": "e12b79998c18e0bd2a2d238f69d35e77b02ce7f8bf4e4eb91a05e3ae389e1b0e",
+        "sha256": "b6211ee38645e1895c129752cb15a34d810e3c59612886be43404812f7e08885",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "princess-crescent-comb",
+      "object_id": 372004,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=372004",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=372004",
+          "status": 200,
+          "sha256": "27dfd3defe379b5dfe804d7ef57ea305353b6721c077a0cb4b1ad5c679a13810",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "화협옹주 생몰년과 묘 출토",
+            "목재·반달 형태·한쪽 빗살·등마루 주칠",
+            "가로 4.9cm"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "생전 직접 사용이나 장례의 상징성은 단정하지 않음.",
+      "image": {
+        "file": "content/images/princess-crescent-comb.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00024875AD&fileSn=26634&thumb=Y",
+        "status": 200,
+        "source_sha256": "beada2973f6135b183794edd0783fa7bc29fdefc0726786b8138774a142386c4",
+        "sha256": "edf06c3db7a12efc9f2f1136447b50fa285884cc8524fd16687339daeeb2ef54",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "embroidered-spoon-pouch",
+      "object_id": 365789,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=365789",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=365789",
+          "status": 200,
+          "sha256": "eeecc34e0842922655da44e4db2253ff7dd8eedb507ab7d0882b02004d36fdea",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "앞면 바위·영지·파도·소나무·모란·쌍학 자수",
+            "수복부귀강녕의 소망에 대한 박물관 해설",
+            "뒷면 길상 글귀와 뚜껑 매화·끈·술 장식"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "학은 기존 관복 이야기와 다른 소재: 수저집의 앞뒤 구성과 축원에 집중. 특정 소유자·선물 상황을 창작하지 않음.",
+      "image": {
+        "file": "content/images/embroidered-spoon-pouch.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00017209XW&fileSn=107&thumb=Y",
+        "status": 200,
+        "source_sha256": "c3a5ce8acda8349f2095d30da0b5e4255dbf5f087616c65d2aeaf77df51001c6",
+        "sha256": "0bb85afdd5f7f12a66cfb1f349382ea1478fdcc70ae747a62438f0b2a3bdb609",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "silver-kettle-hidden-letters",
+      "object_id": 390404,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=390404",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=390404",
+          "status": 200,
+          "sha256": "e9875ec1687a07afe2cfacec71dae811e8cc4903ccd32735be7d1c3d61ab2cd2",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "은제 주전자 형태와 연봉오리 손잡이",
+            "몸체 양쪽 원수문과 뚜껑 박쥐무늬",
+            "굽 명문 宣禧宮 戊寅仲冬新造重 二十三両四戔"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "간지의 서기 환산·양전의 그램 환산·실제 담은 음료·박쥐 상징 풀이 제외.",
+      "image": {
+        "file": "content/images/silver-kettle-hidden-letters.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=be9a0911ec0a486e8057fdd228700d10&fileSn=1&thumb=Y",
+        "status": 200,
+        "source_sha256": "7de5e0d2023c45c1651e16c9d058d0b648c0ce9187a0d6b66a373807c6027561",
+        "sha256": "226fd66d191fa11047d082372011cdac9929567319c097bf1dadb5d61b7de128",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "clock-little-door-case",
+      "object_id": 367612,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367612",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367612",
+          "status": 200,
+          "sha256": "85284673f30b77292256d00d8d90f6d5a2c5c462dd2914cf8ec0dbb59046ddda",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "시계와 보관 케이스 한 조",
+            "12만 붉은 숫자판",
+            "갈색 가죽 외부·붉은 벨벳 내부·맞춤 공간·여닫이문",
+            "잠금장치 결실과 연대 미상"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "제조사·제작국·특정 왕실 인물·여행 용도는 단정하지 않음. 한국 박물관 소장품으로 분류하되 한국 제작을 주장하지 않음.",
+      "image": {
+        "file": "content/images/clock-little-door-case.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00019352HO&fileSn=14244&thumb=Y",
+        "status": 200,
+        "source_sha256": "1353d1fa32d5991b7762f9fa5e6f487e57fad1c667a1b8ec959b4e96a653b9c3",
+        "sha256": "33ed2881c3ce25b9b523e1834dc8f5f6027373a2eecfaa81eee7ac31a222c204",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "blue-dish-hidden-fortune",
+      "object_id": 409289,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=409289",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=409289",
+          "status": 200,
+          "sha256": "f3cdd80038ddacbb1ff9badf03efc94498f03de2ca2ff6f4f53a51a053f452ef",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "안바닥 두 원과 도안화된 福자",
+            "S자 구획 다섯 면의 풀꽃무늬",
+            "구연·굽 청화선과 입지름 18cm"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "사용 음식·사용자·특정 의례 용도 불명. 첫 장면은 상상임을 본문에서 명시.",
+      "image": {
+        "file": "content/images/blue-dish-hidden-fortune.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=b75c8c8f767245a8b25d1278c33756a1&fileSn=1&thumb=Y",
+        "status": 200,
+        "source_sha256": "215e68153e5b6980e9466c574ecdd9d10b6e07b8e44a1de41af66e93ea474175",
+        "sha256": "8ba7d8bdbbf5d63332dfd84b8f4e624b0d1d231e6b00cb4134fb6f0f9d86a7d8",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "red-comb-chest-turtle",
+      "object_id": 438986,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438986",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438986",
+          "status": 200,
+          "sha256": "4690bfe1030a506d1bb2a53f88f521e2eb7608b70fd0bfa649a4de3284491efd",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "윗닫이·서랍 두 개·내부 칸막이 일부 결실",
+            "외면과 서랍 전면 주칠·내부 흑칠",
+            "거북이 형태 자물쇠와 금속 문양"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "거북의 상징성·방범 성능·구체적 수납물 추정 제외. 앞선 자물쇠 글과 달리 수납 구조와 안팎 색 구성 중심.",
+      "image": {
+        "file": "content/images/red-comb-chest-turtle.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=70c12b8cc1c7488db3244f320b6f350d&fileSn=1&thumb=Y",
+        "status": 200,
+        "source_sha256": "5e065c16734c2478a2832ea4362cd88dd81a0948725abb467fcf5c97f63fd002",
+        "sha256": "0aac7ca7f12136ca23da797776f12c50291023abea3f1aeb74d1be8f845ed4cf",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    }
+  ]
+}

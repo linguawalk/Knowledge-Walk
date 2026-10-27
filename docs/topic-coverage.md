@@ -4,7 +4,7 @@
 
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
-| History | Korea | 2 | 1 | 1 |
+| History | Korea | 3 | 2 | 1 |
 | History | Asia | 0 | 0 | 0 |
 | History | Europe | 1 | 1 | 1 |
 | History | America | 1 | 1 | 1 |
@@ -19,13 +19,13 @@
 | Culture | Literature | 1 | 1 | 1 |
 | Culture | Philosophy | 0 | 0 | 0 |
 | Culture | Music | 3 | 2 | 2 |
-| Culture | Art | 2 | 2 | 2 |
+| Culture | Art | 4 | 4 | 2 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
 | Life | Folks | 1 | 1 | 1 |
-| Life | Clothing | 1 | 1 | 1 |
-| Life | Food | 1 | 1 | 1 |
-| Life | Housing | 1 | 1 | 1 |
+| Life | Clothing | 3 | 3 | 1 |
+| Life | Food | 3 | 3 | 1 |
+| Life | Housing | 4 | 4 | 1 |
 | Companies | Technology | 2 | 2 | 2 |
 | Companies | Automotive | 0 | 0 | 0 |
 | Companies | Finance | 0 | 0 | 0 |
