@@ -29,6 +29,20 @@ def read_json(path):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def story_files(root=ROOT):
+    return sorted((root / "content/stories").rglob("*.json"))
+
+
+def load_stories(root=ROOT):
+    stories = []
+    for path in story_files(root):
+        story = read_json(path)
+        expected = root / "content/stories" / story["category"] / slug(story["subcategory"]) / (story["id"] + ".json")
+        require(path == expected, f"Story folder does not match its category: {path}")
+        stories.append(story)
+    return stories
+
+
 def require(condition, message):
     if not condition:
         raise ValueError(message)
@@ -184,7 +198,7 @@ class Site:
 <html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)} · KnowledgeWalk</title><meta name="description" content="{esc(description)}">{robots}
 <meta name="theme-color" content="#faf8f3"><link rel="icon" href="{link('site-assets/favicon.svg')}" type="image/svg+xml">
-<link rel="stylesheet" href="{link('site-assets/site.css')}"><script src="{link('site-assets/site.js')}" defer></script></head>
+<link rel="stylesheet" href="{link('site-assets/site.css')}">{'<script src="search-index.js" defer></script>' if page == 'search.html' else ''}<script src="{link('site-assets/site.js')}" defer></script></head>
 <body>{preview_banner}<a class="skip-link" href="#main">본문으로 건너뛰기</a>{progress}
 <header class="site-header"><div class="header-inner"><a class="brand" href="{link('index.html')}" aria-label="KnowledgeWalk 첫 화면">Knowledge<span>Walk</span><i aria-hidden="true">✳</i></a>
 <button class="menu-button" aria-expanded="false" aria-controls="main-nav" hidden>분야 보기 <span aria-hidden="true">＋</span></button>
@@ -196,11 +210,12 @@ class Site:
 
     def card(self, page, story):
         category = self.category_map[story["category"]]
-        return (f'<article class="story-card"><a href="{self.link(page, self.story_path(story))}">'
+        return (f'<article class="story-card" data-story-id="{esc(story["id"])}"><a href="{self.link(page, self.story_path(story))}">'
                 f'<div class="card-image">{self.image(page, story)}</div>'
                 f'<div class="card-copy"><p class="eyebrow">{esc(category["title"])} <span> / {esc(story["subcategory"])}</span></p>'
                 f'<h2>{esc(story["title"])}</h2><p>{esc(story["summary"])}</p>'
-                f'<span class="text-link">이야기 읽기 <span aria-hidden="true">↗</span></span></div></a></article>')
+                f'<span class="text-link">이야기 읽기 <span aria-hidden="true">↗</span></span></div></a>'
+                '<span class="read-state" hidden>아직 안 읽음</span></article>')
 
     def home(self):
         page = "index.html"
@@ -226,7 +241,7 @@ class Site:
 <p class="hero-description">도시의 사자 한 마리부터 매일 쓰는 물건까지.<br>익숙한 세상에 숨은, 작지만 재미있는 사연을 만납니다.</p>
 <a class="button" href="#fields">궁금한 분야 둘러보기 <span aria-hidden="true">↓</span></a><p class="hero-note">잠깐 읽고, 오래 바라보는 이야기.</p></div>{feature}</section>
 <div class="intro-strip"><div class="container"><span>역사에서 과학까지</span><p>어려운 설명 대신, 한 편의 이야기로.</p><span aria-hidden="true">✳</span></div></div>
-<section id="fields" class="container fields-section"><div class="section-heading"><div><p class="eyebrow">EIGHT WAYS TO EXPLORE</p><h2>오늘은 어떤 이야기가 궁금하세요?</h2></div><p>마음이 가는 곳에서 시작하세요.</p></div><div class="field-grid">{fields}</div></section>{shelf}
+<section id="fields" class="container fields-section"><div class="section-heading"><div><p class="eyebrow">EIGHT WAYS TO EXPLORE</p><h2>오늘은 어떤 이야기가 궁금하세요?</h2></div><p>마음이 가는 곳에서 시작하세요.</p></div><div class="field-grid">{fields}</div><div class="library-shortcuts"><a class="button" href="library.html">소주제별 전체 서가 ↗</a><a class="text-link" href="reading.html">내 읽기 목록 ↗</a><p>읽은 글을 표시하고, 다음 이야기를 골라 보세요.</p></div></section>{shelf}
 <section class="container closing-note"><span aria-hidden="true">✳</span><p>새로운 곳을 가지 않아도,<br>새로운 이야기는 만날 수 있으니까.</p></section>'''
         self.layout(page, "익숙한 세상의 작은 발견", "역사, 도시, 문화, 생활부터 과학까지. 가볍게 읽고 즐기는 이야기, KnowledgeWalk.", body)
 
@@ -267,11 +282,32 @@ class Site:
         if img["type"] == "artwork":
             image_source += f' · <a href="{self.link(page, self.image_path(story))}">이미지 크게 보기</a>'
         body = f'''<article class="reading-page"><div class="container"><nav class="breadcrumbs" aria-label="현재 위치">{crumb}</nav></div>
-<header class="article-heading"><p class="eyebrow">{esc(category['title'])} · {esc(story['subcategory'])}</p><h1>{esc(story['title'])}</h1><p class="article-subtitle">{esc(story['subtitle'])}</p><p class="reading-meta">약 {self.minutes(story)}분의 작은 발견</p>{notice}</header>
+<header class="article-heading"><p class="eyebrow">{esc(category['title'])} · {esc(story['subcategory'])}</p><h1>{esc(story['title'])}</h1><p class="article-subtitle">{esc(story['subtitle'])}</p><p class="reading-meta">약 {self.minutes(story)}분의 작은 발견</p>{notice}<div class="reading-actions"><button class="read-toggle" data-read-toggle="{esc(story['id'])}" aria-pressed="false" hidden>읽음으로 표시</button><a href="{self.link(page, 'reading.html')}">내 읽기 목록 ↗</a><p class="storage-note" hidden></p></div></header>
 <figure class="article-image container{figure_class}">{self.image(page, story, True)}<figcaption>{esc(img['credit'])}{image_source}</figcaption></figure>
 <div class="reading-layout"><aside class="article-toc"><details open><summary>이야기 속으로</summary><ol>{contents}</ol></details></aside>
 <div class="prose">{prose}<div class="story-end" aria-hidden="true">✳</div>{sources}<a class="back-link" href="{self.link(page, self.category_path(category['id'], story['subcategory']))}">← {esc(story['subcategory'])}의 다른 이야기</a></div></div></article>'''
         self.layout(page, story["title"], story["summary"], body, category["id"], article=True)
+
+    def library(self):
+        page = "library.html"
+        sections = []
+        for category in self.categories:
+            topics = []
+            for child in category["children"]:
+                subset = [s for s in self.stories if s["category"] == category["id"] and s["subcategory"] == child]
+                entries = "".join(f'<li data-story-id="{esc(s["id"])}"><a href="{self.link(page, self.story_path(s))}">{esc(s["title"])}</a><span class="read-state" hidden>아직 안 읽음</span></li>' for s in subset)
+                listing = f'<ul>{entries}</ul>' if entries else '<p class="topic-empty">이야기 준비 중</p>'
+                topics.append(f'<div class="topic-folder"><h3><a href="{self.link(page, self.category_path(category["id"], child))}">{esc(child)} <span>{len(subset)}편</span></a></h3>{listing}</div>')
+            sections.append(f'<section class="library-category" id="{esc(category["id"])}"><h2>{esc(category["title"])} <small>{esc(category["label"])}</small></h2><div class="topic-grid">{"".join(topics)}</div></section>')
+        jumps = "".join(f'<a class="chip" href="#{esc(c["id"])}">{esc(c["title"])}</a>' for c in self.categories)
+        body = f'<section class="container library-page"><header class="page-heading"><p class="eyebrow">YOUR KNOWLEDGE SHELVES</p><h1>소주제별 서가</h1><p>8개 분야, 43개 소주제에서 한 편씩 골라 읽어 보세요. 현재 이 화면에는 {len(self.stories)}편이 있습니다.</p><a class="text-link" href="reading.html">내 읽기 목록 ↗</a></header><nav class="chips" aria-label="분야 바로가기">{jumps}</nav>{"".join(sections)}</section>'
+        self.layout(page, "소주제별 서가", "분야와 소주제로 정리한 KnowledgeWalk의 모든 이야기.", body)
+
+    def reading(self):
+        cards = "".join(self.card("reading.html", s) for s in self.stories)
+        body = f'''<section class="container reading-list-page"><header class="page-heading"><p class="eyebrow">ONE STORY AT A TIME</p><h1>내 읽기 목록</h1><p>다 읽은 글에서 ‘읽음으로 표시’를 누르면 여기에 기억해 둡니다.<br>기록은 같은 브라우저에만 저장되며, 다른 기기와 공유되지 않습니다. 브라우저 데이터를 지우면 기록도 사라집니다.</p><a class="text-link" href="library.html">소주제별 서가로 ↗</a></header>
+<div class="reading-filters" hidden><label for="reading-filter">읽기 상태</label><select id="reading-filter"><option value="all">모든 글</option><option value="unread">아직 안 읽은 글</option><option value="read">읽은 글</option></select><p id="reading-count" role="status" aria-live="polite"></p></div><p class="storage-note" hidden></p><noscript><p>읽음 표시에는 자바스크립트가 필요합니다. 아래에서 모든 글을 읽을 수 있습니다.</p></noscript><div id="reading-results" class="story-grid">{cards}</div><p id="reading-empty" class="empty-state" hidden>이 상태에 해당하는 글이 없습니다.</p></section>'''
+        self.layout("reading.html", "내 읽기 목록", "읽은 이야기와 아직 읽지 않은 이야기를 구분해 보세요.", body)
 
     def search(self):
         page = "search.html"
@@ -288,6 +324,7 @@ class Site:
                           "url": self.story_path(s), "image": self.image_path(s), "alt": s["image"]["alt"],
                           "text": " ".join([s["title"], s["subtitle"], s["summary"], s["subcategory"], self.category_map[s["category"]]["label"]] + [p for b in s["body"] for p in b["paragraphs"]])})
         self.files["search-index.json"] = json.dumps(index, ensure_ascii=False, separators=(",", ":")) + "\n"
+        self.files["search-index.js"] = "window.KNOWLEDGEWALK_SEARCH = " + json.dumps(index, ensure_ascii=True) + ";\n"
 
     def render(self):
         self.home()
@@ -298,14 +335,16 @@ class Site:
         for story in self.stories:
             self.story(story)
         self.search()
+        self.library()
+        self.reading()
         self.layout("404.html", "길을 잠깐 벗어났네요", "찾으시는 페이지가 없습니다.", '<section class="container empty-state"><p class="eyebrow">404</p><h1>길을 잠깐 벗어났네요.</h1><p>다른 이야기에서 다시 시작해 볼까요?</p><a class="button" href="/index.html">첫 화면으로</a></section>')
         return self.files
 
 
 def build(preview=False, sync_root=False, categories_path=None, stories_dir=None):
     categories = read_json(categories_path or ROOT / "config/categories.json")
-    story_files = sorted((stories_dir or ROOT / "content/stories").glob("*.json"))
-    stories = [read_json(path) for path in story_files]
+    stories = ([read_json(path) for path in sorted(stories_dir.rglob("*.json"))]
+               if stories_dir else load_stories())
     validate(categories, stories)
     require(not (preview and sync_root), "Preview cannot overwrite the root site")
     site = Site(categories, stories, preview)

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Report drafted topics and suggest underrepresented areas; never generates or publishes."""
 try:
-    from .build_site import ROOT, read_json, validate, publishable
+    from .build_site import ROOT, read_json, validate, publishable, load_stories
 except ImportError:
-    from build_site import ROOT, read_json, validate, publishable
+    from build_site import ROOT, read_json, validate, publishable, load_stories
 
 
 def coverage(categories, stories):
@@ -20,7 +20,7 @@ def coverage(categories, stories):
 
 def main():
     categories = read_json(ROOT / "config/categories.json")
-    stories = [read_json(p) for p in sorted((ROOT / "content/stories").glob("*.json"))]
+    stories = load_stories()
     validate(categories, stories)
     rows = coverage(categories, stories)
     occupied = sum(row["count"] > 0 for row in rows)

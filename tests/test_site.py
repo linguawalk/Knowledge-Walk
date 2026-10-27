@@ -36,7 +36,7 @@ class SiteTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.categories = builder.read_json(ROOT / "config/categories.json")
-        cls.story = builder.read_json(ROOT / "content/stories/venice-winged-lion.json")
+        cls.story = builder.read_json(ROOT / "content/stories/cities/europe/venice-winged-lion.json")
         builder.build(preview=True)
         builder.build()
 
@@ -73,7 +73,7 @@ class SiteTests(unittest.TestCase):
             parser.feed(path.read_text())
             self.assertTrue(parser.noindex, str(path))
         self.assertEqual(len(builder.read_json(output / "search-index.json")),
-                         len(list((ROOT / "content/stories").glob("*.json"))))
+                         len(list((ROOT / "content/stories").rglob("*.json"))))
         self.assertTrue((output / "media/venice-winged-lion.jpg").exists())
 
     def test_revoking_a_story_rebuilds_clean_output(self):
@@ -122,6 +122,31 @@ class SiteTests(unittest.TestCase):
         moved = {**self.story, "category": "culture", "subcategory": "Art"}
         builder.validate(self.categories, [moved])
         self.assertEqual(site.story_path(self.story), site.story_path(moved))
+
+    def test_nested_manuscripts_keep_the_same_ids_and_categories(self):
+        stories = builder.load_stories()
+        self.assertEqual(len(stories), len(builder.story_files()))
+        self.assertGreater(len(stories), 0)
+        builder.validate(self.categories, stories)
+        for story in stories:
+            path = ROOT / 'content/stories' / story['category'] / builder.slug(story['subcategory']) / (story['id'] + '.json')
+            self.assertTrue(path.is_file())
+
+    def test_library_lists_each_story_once_and_all_topic_folders(self):
+        stories = builder.load_stories()
+        files = builder.Site(self.categories, stories, preview=True).render()
+        links = Links()
+        links.feed(files['library.html'])
+        for story in stories:
+            self.assertEqual(links.links.count(f"stories/{story['id']}/index.html"), 1)
+        for category in self.categories:
+            for child in category['children']:
+                self.assertIn(f"categories/{category['id']}/{builder.slug(child)}/index.html", links.links)
+        public = builder.Site(self.categories, stories).render()
+        self.assertFalse(json.loads(public['search-index.json']))
+        for story in stories:
+            self.assertNotIn(story['title'], public['library.html'])
+            self.assertNotIn(story['title'], public['reading.html'])
 
     def test_featured_draft_cannot_displace_approved_story(self):
         draft = {**self.story, "featured": True}

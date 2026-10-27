@@ -1,31 +1,22 @@
-# KnowledgeWalk — 분야별 시범 이야기
+# KnowledgeWalk — 이야기 서가
 
-각 제목을 누르면 글과 삽화, 확인한 참고 자료를 함께 볼 수 있습니다. **모든 원고는 편집 검토용이며 공개 게시 승인은 받지 않았습니다.** 자료 대조 상태는 아래 표에서 구분합니다.
+분야를 고른 다음 소주제로 들어가면 글과 이미지를 함께 읽을 수 있습니다. 기존 21편을 분야별 폴더로 옮겼으며 원고 내용은 유지했습니다.
 
-| 분야 | 세부 분류 | 이야기 | 자료 대조 |
-|---|---|---|---|
-| History | America | [인터넷에도 첫 번째 정거장이 있었다](arpanet-first-node.md) | 완료 · 게시 승인 대기 |
-| History | Europe | [뉴턴의 또 다른 일터는 조폐국이었다](newton-mint-work.md) | 완료 · 게시 승인 대기 |
-| History | Korea | [궁궐 마당에도 줄 서는 자리가 있었다](palace-rank-stones.md) | 확인 중 |
-| Cities | Asia | [경회루 연못에서는 왜 청동 용이 나왔을까](gyeonghoeru-pond-dragon.md) | 완료 · 게시 승인 대기 |
-| Cities | Europe | [베네치아에서는 사자에게도 날개가 있다](venice-winged-lion.md) | 완료 · 게시 승인 대기 |
-| Culture | Literature | [책에도 주인의 이름표를 찍어 두었다](book-owner-seal.md) | 완료 · 게시 승인 대기 |
-| Culture | Architecture | [건물을 고치는 일은 글로도 남았다](building-repair-letter.md) | 완료 · 게시 승인 대기 |
-| Culture | Art | [그림 속 뱃놀이에는 참석자 명단이 있다](dokseodang-gathering.md) | 완료 · 게시 승인 대기 |
-| Culture | Music | [공연 시작 전, 오케스트라는 왜 한 음을 길게 낼까](orchestra-oboe-a.md) | 확인 중 |
-| Life | Clothing | [관복의 학 두 마리는 무엇을 알려줄까](crane-embroidered-badge.md) | 완료 · 게시 승인 대기 |
-| Life | Housing | [궁궐의 작은 상자에는 생활의 필요가 담겼다](maehwa-portable-toilet.md) | 완료 · 게시 승인 대기 |
-| Life | Food | [팝콘 한 알은 어떻게 저렇게 커질까](popcorn-little-explosion.md) | 완료 · 게시 승인 대기 |
-| Companies | Technology | [레고라는 이름은 원래 무슨 뜻일까](lego-play-well.md) | 완료 · 게시 승인 대기 |
-| Computing | Artificial-Intelligence | [AI는 옷 사진으로 무엇을 연습할까](ai-clothing-labels.md) | 완료 · 게시 승인 대기 |
-| Computing | Internet | [이메일 주소에는 왜 골뱅이가 들어갈까](email-at-sign.md) | 완료 · 게시 승인 대기 |
-| Computing | Computers | [작은 마우스가 함께 등장한 큰 시연](engelbart-mouse-demo.md) | 완료 · 게시 승인 대기 |
-| Computing | Programming | [파이썬이라는 이름은 코미디에서 왔다](python-comedy-name.md) | 완료 · 게시 승인 대기 |
-| Finance | Money | [동전 가장자리에는 왜 작은 톱니가 있을까](coin-ridged-edge.md) | 확인 중 |
-| Finance | Investment | [금 한 온스와 보통 한 온스는 무게가 다르다](troy-ounce-weight.md) | 완료 · 게시 승인 대기 |
-| Science | Engineering | [그릇처럼 생긴 해시계에는 두 종류의 선이 있다](bowl-sundial.md) | 완료 · 게시 승인 대기 |
-| Science | Biology | [플라밍고는 태어날 때부터 분홍색일까](flamingo-pink-feathers.md) | 완료 · 게시 승인 대기 |
+**편집 검토용 원고입니다. 자료 대조와 공개 게시 승인은 별도입니다.**
 
-AI 설명용 삽화와 출처·이용 조건을 확인한 소장품 이미지를 사용합니다. 각 글에서 종류와 출처를 구분합니다. AI 삽화는 실제 유물·제품·장소를 정확하게 재현한 자료가 아닙니다.
+[홈페이지 확인 안내](../homepage-review.md) · [최근 추가한 12편](batch-20261027-more.md)
 
-제작·게시 주기는 미정이며, 운영 사이트와 도메인은 변경하지 않았습니다.
+| 분야 | 이야기 | 소주제 수 |
+|---|---:|---:|
+| [History · 역사](history/README.md) | 3편 | 6개 |
+| [Cities · 도시](cities/README.md) | 2편 | 5개 |
+| [Culture · 문화](culture/README.md) | 4편 | 7개 |
+| [Life · 생활](life/README.md) | 3편 | 4개 |
+| [Companies · 기업](companies/README.md) | 1편 | 5개 |
+| [Computing · 컴퓨팅](computing/README.md) | 4편 | 5개 |
+| [Finance · 금융](finance/README.md) | 2편 | 5개 |
+| [Science · 과학](science/README.md) | 2편 | 6개 |
+
+홈페이지에서는 ‘읽음으로 표시’와 ‘내 읽기 목록’을 사용할 수 있습니다. GitHub 폴더의 확인 상태는 출처·편집 상태이며 개인의 읽기 기록을 뜻하지 않습니다.
+
+[43개 소주제 제작 현황](../topic-coverage.md)

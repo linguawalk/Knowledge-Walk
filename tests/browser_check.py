@@ -31,8 +31,8 @@ def check():
     shots = ROOT / "docs/previews"
     shots.mkdir(exist_ok=True, parents=True)
     errors = []
-    story_count = len(list((ROOT / "content/stories").glob("*.json")))
-    stories = [json.loads(path.read_text()) for path in sorted((ROOT / "content/stories").glob("*.json"))]
+    story_count = len(list((ROOT / "content/stories").rglob("*.json")))
+    stories = [json.loads(path.read_text()) for path in sorted((ROOT / "content/stories").rglob("*.json"))]
     def capture(page, filename):
         # Full-page screenshots must also load images below the viewport.
         page.evaluate("""async () => {
@@ -60,6 +60,12 @@ def check():
             assert page.locator(".nav-group li a").count() == 51
             assert page.locator(".feature-image img").evaluate("img => img.complete && img.naturalWidth > 0")
             capture(page, "home-desktop.png")
+            visit("/library.html")
+            assert page.locator(".library-category").count() == 8
+            assert page.locator(".topic-folder").count() == 43
+            assert page.locator("[data-story-id]").count() == story_count
+            page.screenshot(path=str(shots / "library-desktop.png"), full_page=False)
+            visit("/index.html")
             page.locator(".nav-group summary").nth(1).click()
             assert page.locator(".nav-group").nth(1).get_attribute("open") is not None
             page.keyboard.press("Escape")
@@ -72,6 +78,10 @@ def check():
             assert page.locator(".prose h2").count() == 3
             assert page.locator(".article-image img").evaluate("img => img.naturalWidth > 0")
             assert "실제 조각상" in page.locator("figcaption").inner_text()
+            assert page.locator(".read-toggle").get_attribute("aria-pressed") == "false"
+            page.locator(".read-toggle").click()
+            page.reload(wait_until="networkidle")
+            assert page.locator(".read-toggle").get_attribute("aria-pressed") == "true"
             capture(page, "story-desktop.png")
             page.locator(".article-toc a").last.click()
             page.wait_for_timeout(500)
@@ -79,6 +89,7 @@ def check():
             visit("/search.html?q=베네치아")
             page.wait_for_function("document.querySelector('#search-status').textContent.includes('찾았습니다')")
             assert page.locator("#search-results .story-card").count() == 1
+            assert "읽음 ✓" in page.locator("#search-results .read-state").inner_text()
             page.locator("#query").fill("기념품")
             assert page.locator("#search-results .story-card").count() == 1
             page.locator("#category-filter").select_option("history")
@@ -91,6 +102,20 @@ def check():
             visit("/categories/history/africa/index.html")
             assert page.locator(".empty-state").is_visible()
             assert page.locator(".story-card").count() == 0
+            visit("/reading.html")
+            assert f"읽음 1편" in page.locator("#reading-count").inner_text()
+            page.locator("#reading-filter").select_option("read")
+            assert page.locator(".story-card:visible").count() == 1
+            page.screenshot(path=str(shots / "reading-desktop.png"), full_page=False)
+            page.locator("#reading-filter").select_option("unread")
+            assert page.locator(".story-card:visible").count() == story_count - 1
+            # Canceling a mark updates an already-open list in another tab.
+            other = context.new_page()
+            other.goto(base + "/stories/venice-winged-lion/index.html", wait_until="networkidle")
+            other.locator(".read-toggle").click()
+            page.wait_for_function("document.querySelector('#reading-count').textContent.includes('읽음 0편')")
+            assert page.locator(".story-card:visible").count() == story_count
+            other.close()
             mobile = browser.new_context(viewport={"width": 390, "height": 844}, device_scale_factor=1, is_mobile=True, has_touch=True)
             m = mobile.new_page()
             m.on("pageerror", lambda error: errors.append(str(error)))
@@ -98,6 +123,11 @@ def check():
             assert m.evaluate("document.documentElement.scrollWidth <= innerWidth")
             assert not m.locator(".main-nav").is_visible()
             capture(m, "home-mobile.png")
+            m.goto(base + "/library.html", wait_until="networkidle")
+            assert m.locator(".topic-folder").count() == 43
+            assert m.evaluate("document.documentElement.scrollWidth <= innerWidth")
+            m.screenshot(path=str(shots / "library-mobile.png"), full_page=False)
+            m.goto(base + "/index.html", wait_until="networkidle")
             m.locator(".menu-button").click()
             assert m.locator(".main-nav").is_visible()
             m.locator(".nav-group summary").nth(1).click()
@@ -133,6 +163,29 @@ def check():
                             prefix = "dokseodang" if story["id"] == "dokseodang-gathering" else "bowl-sundial"
                             capture(viewport, prefix + ("-desktop.png" if viewport is page else "-mobile.png"))
             # Site remains readable without JavaScript.
+            blocked = browser.new_context(viewport={"width": 390, "height": 844})
+            blocked.add_init_script("Object.defineProperty(window, 'localStorage', {get() { throw new Error('Storage disabled'); }});")
+            b = blocked.new_page()
+            b.on("pageerror", lambda error: errors.append(str(error)))
+            b.goto(base + "/reading.html", wait_until="networkidle")
+            assert b.locator(".storage-note").is_visible()
+            assert b.locator(".story-card:visible").count() == story_count
+            b.goto(base + "/stories/venice-winged-lion/index.html", wait_until="networkidle")
+            assert b.locator(".read-toggle").is_disabled()
+            blocked.close()
+            # Bundled search data works without fetching a JSON file.
+            # Managed Chromium blocks file://, so test the same assets over loopback.
+            offline = browser.new_context()
+            offline.add_init_script("window.fetch = () => { throw new Error('Fetch unavailable'); };")
+            f = offline.new_page()
+            f.on("pageerror", lambda error: errors.append(str(error)))
+            f.goto(base + "/search.html?q=경회루", wait_until="networkidle")
+            assert f.locator("#search-results .story-card").count() == 1
+            assert f.locator("#query").is_enabled()
+            f.locator(".story-card a").click()
+            f.wait_for_load_state("networkidle")
+            assert f.locator(".article-image img").evaluate("img => img.complete && img.naturalWidth > 0")
+            offline.close()
             plain = browser.new_context(java_script_enabled=False, viewport={"width": 390, "height": 844})
             n = plain.new_page()
             n.goto(base + "/index.html")

@@ -1,0 +1,1 @@
+window.KNOWLEDGEWALK_SEARCH = [];
