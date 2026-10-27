@@ -1,4 +1,4 @@
-> 최신 상태: 출처 확인 완료 18편의 공개 승인을 기록하고 GitHub Pages 전환을 준비했습니다. 실제 배포와 도메인 변경은 아직 미완료입니다. 아래의 검토본 안내는 계속 사용할 수 있으며, [현재 전환 상태](domain-migration.md)를 함께 확인합니다.
+> 최신 상태: 공개 대상 18편을 GitHub에 실제 게시하고 knowledgewalk.net을 등록했습니다. Hostinger DNS 변경과 도메인 HTTPS 최종 확인은 남아 있습니다. 아래의 검토본은 계속 사용할 수 있으며, [현재 전환 상태](domain-migration.md)를 확인합니다.
 
 # KnowledgeWalk 홈페이지 확인 안내
 

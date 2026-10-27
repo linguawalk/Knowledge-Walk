@@ -31,13 +31,19 @@
     "delete_hostinger_data": false,
     "cancel_hostinger_subscription": false
   },
-  "deployment_status": "not_deployed",
-  "dns_status": "not_changed",
+  "deployment_status": "github_pages_deployed_and_https_resources_verified",
+  "dns_status": "hostinger_records_unchanged",
   "blockers": [
-    "GitHub API 및 도메인 접속이 현재 환경 프록시에서 차단됨",
-    "DNS 제공자 및 도메인 관리 권한을 아직 확인하지 못함"
+    "Hostinger DNS 관리 권한이 이 채팅에 연결되어 있지 않으며 A/AAAA/www 레코드가 아직 Hostinger를 가리킴",
+    "Custom-domain certificate and HTTPS enforcement await DNS cutover"
   ],
   "domain_registrar_user_report": "후이즈",
   "dns_provider_user_report": "Hostinger에서 설정을 변경한 것으로 기억",
-  "dns_provider_verified": false
+  "dns_provider_verified": true,
+  "dns_provider": "Hostinger dns-parking.com",
+  "custom_domain_status": "registered_in_github_pages",
+  "custom_domain": "knowledgewalk.net",
+  "custom_domain_https_status": "pending_dns_and_certificate",
+  "deployment_mode": "existing_legacy_main_root_with_jekyll_exclusions",
+  "verified_publication_commit": "d762e4b499d165f26c3af48b47e1d14a4edaccc0"
 }

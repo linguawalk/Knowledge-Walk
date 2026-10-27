@@ -84,3 +84,7 @@
 ## 도메인 전환 요청과 공개 승인
 
 사용자가 Hostinger 연결 대신 GitHub 사이트를 knowledgewalk.net에 연결하도록 요청했다. 공개 승인 기록에 따라 출처 확인 완료 18편을 공개 대상으로 설정하고, 추가 확인 중 3편은 제외한다. 기존의 “배포 미승인” 기록은 이 요청 이전의 이력이다. 실제 Pages 설정·DNS 변경·최종 접속은 현재 접속 제한으로 아직 완료하지 못했다. 현재 상태와 이어 할 일은 `docs/domain-migration.md`를 따른다. Hostinger 자료 삭제와 호스팅 계약 해지는 하지 않는다.
+
+## 실제 게시와 도메인 등록
+
+환경 재연결 후 GitHub API 읽기와 DNS 조회가 가능해졌다. 기존 main 루트의 Jekyll 게시 설정을 이용해 공개 18편을 게시했으며 실제 리소스 42개와 제외 경로 9개를 검증했다. 원고·이전 코드의 게시 제외는 생성된 `_config.yml`로 관리한다. CNAME 등록은 GitHub Pages API에도 반영됐다. 도메인은 후이즈에서 구매했고 현재 Hostinger 네임서버를 사용한다. Hostinger DNS 변경 권한은 아직 연결되어 있지 않아 도메인은 기존 사이트를 가리키며, DNS 변경과 인증서·HTTPS 최종 확인이 남아 있다. 현재 작업 기준은 `docs/domain-migration.md`다.
