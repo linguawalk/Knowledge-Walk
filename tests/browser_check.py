@@ -145,6 +145,8 @@ def check():
                     viewport.goto(base + "/stories/" + story["id"] + "/index.html", wait_until="networkidle")
                     assert viewport.locator("h1").inner_text() == story["title"]
                     assert viewport.locator(".article-image img").evaluate("img => img.complete && img.naturalWidth > 0")
+                    if story["id"] == "red-panda-tail":
+                        capture(viewport, "red-panda-desktop.png" if viewport is page else "red-panda-mobile.png")
                     ready = story['status'] == 'approved' and story['publication_ready']
                     assert viewport.locator(".draft-notice").count() == (0 if ready else 1)
                     assert viewport.evaluate("document.documentElement.scrollWidth <= innerWidth"), story["id"]

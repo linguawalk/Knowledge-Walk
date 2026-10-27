@@ -92,3 +92,7 @@
 ## 도메인 연결 완료 확인
 
 사용자가 Hostinger의 ALIAS @와 CNAME www를 linguawalk.github.io로 수정했다. 실제 DNS, 공개 18편의 도메인 HTTPS 응답, 42개 리소스 일치, www HTTPS 이동, 기존 메일 MX/TXT 보존을 확인했다. GitHub Enforce HTTPS 변경 API의 계정 권한 제한으로 해당 체크는 사용자 화면에서 한 번 설정해야 한다. 현재 접속 주소는 https://knowledgewalk.net/이며 운영 기준은 docs/domain-migration.md다.
+
+## 새 이야기 10편: 일상에서 만나는 작은 발견
+
+사용자의 추가 제작 요청에 따라 약 3분 분량의 이야기 10편을 작성했다. 본문·공식 출처 대조·이미지 준비를 완료했으며 새 원고는 status=review, source_review=verified, publication_ready=false다. 새 글의 게시 승인이나 제작·게시 주기는 아직 정하지 않았다. 전체 원고는 31편으로 자료 대조 완료 28편(공개 승인 18편 + 새 편집 검토 10편), 추가 확인 중 3편이다. 원고가 있는 소주제는 24개다. 읽기 목록은 docs/review/batch-20261027-ten-everyday.md, 근거 기록은 docs/research/ten-everyday-stories-20261027.json을 따른다.

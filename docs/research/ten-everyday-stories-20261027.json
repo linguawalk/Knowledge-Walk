@@ -1,0 +1,300 @@
+{
+  "checked_at": "2026-10-27",
+  "scope": "새 원고 10편의 출처·이미지 대조 기록. 공개 게시 승인과 별도.",
+  "stories": [
+    {
+      "id": "elephant-ear-fan",
+      "sources": [
+        {
+          "url": "https://nationalzoo.si.edu/animals/asian-elephant",
+          "final_url": "https://nationalzoo.si.edu/animals/asian-elephant",
+          "status": 200,
+          "sha256": "09af5315c872329213777dc5cc7c38cc13be0ae2cc4e1c5df96ee16841a40845",
+          "title": "Smithsonian National Zoo — Asian elephant",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "귀의 혈관과 귀를 움직여 체온 조절을 돕는 과정",
+            "부위별 피부 두께와 민감한 피부",
+            "햇빛·벌레로부터 보호하는 흙·모래·진흙",
+            "더운 시간에 쉬거나 낮잠을 자는 경향"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        }
+      ],
+      "editorial_limits": "아시아코끼리 설명으로 범위를 제한. 귀 움직임만으로 감정을 단정하지 않음.",
+      "image": {
+        "file": "content/illustrations/elephant-ear-fan.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "f0cc578f31d6e686745699b52577ad966603baaffd3cd7a2a570ea0c366c406c",
+        "note": "설명용 일러스트로 생성. 구조·줄 개수·동전 규격·실험 성능을 입증하는 이미지가 아님. 배포용 JPEG로 변환."
+      }
+    },
+    {
+      "id": "red-panda-tail",
+      "sources": [
+        {
+          "url": "https://nationalzoo.si.edu/animals/red-panda",
+          "final_url": "https://nationalzoo.si.edu/animals/red-panda",
+          "status": 200,
+          "sha256": "939dc6fe73e739ad7b29c1e485ce76fbd7112c4c56fb91836a848755dda3d833",
+          "title": "Smithsonian National Zoo — Red panda",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "긴 꼬리의 균형 유지와 추위·바람 보호 기능",
+            "고산 지역 숲의 서식 환경과 촘촘한 털",
+            "유연한 발목과 머리를 아래로 향한 나무 타기"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        }
+      ],
+      "editorial_limits": "꼬리가 체온을 만들어 낸다고 설명하지 않음. 분류학의 변동과 종 구분은 이 글의 범위에서 제외.",
+      "image": {
+        "file": "content/illustrations/red-panda-tail.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "87bf74ec9f3af6cd9515d61502870452cc9843b67a651007d62c81f5e826f5be",
+        "note": "설명용 일러스트로 생성. 구조·줄 개수·동전 규격·실험 성능을 입증하는 이미지가 아님. 배포용 JPEG로 변환."
+      }
+    },
+    {
+      "id": "trombone-sliding-notes",
+      "sources": [
+        {
+          "url": "https://philharmonia.co.uk/resources/instruments/trombone/",
+          "final_url": "https://philharmonia.co.uk/resources/instruments/trombone/",
+          "status": 200,
+          "sha256": "02133c02b896bc8442a3658de9e0b7cecda49930bb4371b79287c0c5cf2cf12f",
+          "title": "Philharmonia — Trombone",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "음높이를 고르는 슬라이드",
+            "음 사이를 잇는 글리산도와 만화 음악에서의 활용",
+            "부드러운 선율과 르네상스의 교회 합주"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        }
+      ],
+      "editorial_limits": "원문의 sackbut를 독일어 명칭이라고 소개한 부분은 사용하지 않음. 특정 영상의 발언을 시청한 것처럼 인용하지 않음.",
+      "image": {
+        "file": "content/illustrations/trombone-sliding-notes.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "4da15bfaf8eab877fe92f2364d564a387bd66cea8658b5c0548bb001eaa29223",
+        "note": "설명용 일러스트로 생성. 구조·줄 개수·동전 규격·실험 성능을 입증하는 이미지가 아님. 배포용 JPEG로 변환."
+      }
+    },
+    {
+      "id": "harp-colored-strings",
+      "sources": [
+        {
+          "url": "https://philharmonia.co.uk/resources/instruments/harp/",
+          "final_url": "https://philharmonia.co.uk/resources/instruments/harp/",
+          "status": 200,
+          "sha256": "2fdb02e4c429cf910c8fd9959150501b0c584129f5b5f896f8af2c2d9bf2fa58",
+          "title": "Philharmonia — Harp",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "현대 페달 하프의 47개 줄과 일곱 페달",
+            "C 줄의 빨간색·F 줄의 검은색 표지",
+            "같은 음 이름의 줄들에 작용하는 페달과 공연 전 조율"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        }
+      ],
+      "editorial_limits": "모든 종류 하프가 같은 구성을 갖는다고 일반화하지 않음. 페달 기구가 줄을 늘린다는 원문의 기술은 채택하지 않고 음높이 변화만 설명.",
+      "image": {
+        "file": "content/illustrations/harp-colored-strings.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "740b0bf567ee56c5113604c9fb01390bf2d81459bb52189edeee6c3b322bee2b",
+        "note": "설명용 일러스트로 생성. 구조·줄 개수·동전 규격·실험 성능을 입증하는 이미지가 아님. 배포용 JPEG로 변환."
+      }
+    },
+    {
+      "id": "magnetic-penny",
+      "sources": [
+        {
+          "url": "https://www.royalmint.com/faqs/collectors/what-are-bronze-coins-made-from-why-are-some-magnetic-and-some-not/",
+          "final_url": "https://www.royalmint.com/faqs/collectors/what-are-bronze-coins-made-from-why-are-some-magnetic-and-some-not/",
+          "status": 200,
+          "sha256": "7d4afa5f91f3050ffea193e2db6024732394e1a2b4cb1f3b1c047b19a233f5c9",
+          "title": "The Royal Mint — What are bronze coins made from? Why are some magnetic and some not?",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "영국 1p·2p의 청동 구성",
+            "1992년 9월 이후 구리 도금 강철로 바꾼 사실",
+            "강철이 들어간 새 동전의 자석 반응"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        },
+        {
+          "url": "https://www.royalmint.com/stories/collect/why-are-some-uk-coins-magnetic/",
+          "final_url": "https://www.royalmint.com/stories/collect/why-are-some-uk-coins-magnetic/",
+          "status": 200,
+          "sha256": "e7a23b250d6c6fe7b719578a50fd75508784c2f15e4738ec92240fffb3c25a18",
+          "title": "The Royal Mint — Why are some UK coins magnetic?",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "청동 동전과 구리 도금 강철 동전의 색·무게·지름·디자인 및 내부 강철의 차이"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        }
+      ],
+      "editorial_limits": "영국 해당 동전으로 범위를 제한. 자석으로 진위를 감별한다고 주장하거나 투자 가치를 평가하지 않음.",
+      "image": {
+        "file": "content/illustrations/magnetic-penny.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "5932620c24307191ef647bf5ecf138b1b1a30558bed35a8b83f7ed8af291b405",
+        "note": "설명용 일러스트로 생성. 구조·줄 개수·동전 규격·실험 성능을 입증하는 이미지가 아님. 배포용 JPEG로 변환."
+      }
+    },
+    {
+      "id": "christmas-pudding-sixpence",
+      "sources": [
+        {
+          "url": "https://www.royalmint.com/aboutus/press-centre/save-the-christmas-pud-recovered-silver-sixpence-released-to-revive-stir-up-sunday-tradition/",
+          "final_url": "https://www.royalmint.com/aboutus/press-centre/save-the-christmas-pud-recovered-silver-sixpence-released-to-revive-stir-up-sunday-tradition/",
+          "status": 200,
+          "sha256": "6118652b369206514a2ad3db3c47c3a906d029a7f28c193e05eb40fa220b1be9",
+          "title": "The Royal Mint — Save the Christmas Pud! Recovered Silver Sixpence Released to Revive Stir-Up Sunday Tradition",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "대림절 전 마지막 일요일의 푸딩 준비 풍습",
+            "음식사 연구자 애니 그레이가 설명한 소원·동전 전통",
+            "트웰프스 케이크와 연결한 설명",
+            "전통 부활과 상품 홍보를 목적으로 한 자료의 성격"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        }
+      ],
+      "editorial_limits": "홍보 보도자료임을 본문에 밝힘. 설문 수치로 영국 전체 풍습을 일반화하지 않음. 행운을 실제 효능처럼 표현하지 않고 조리 실습을 권하지 않음.",
+      "image": {
+        "file": "content/illustrations/christmas-pudding-sixpence.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "fc4c72af59b0ef9b3e98d33ead1ba0808a6a2ed685aa563fd5adf3e88a05ffa5",
+        "note": "설명용 일러스트로 생성. 구조·줄 개수·동전 규격·실험 성능을 입증하는 이미지가 아님. 배포용 JPEG로 변환."
+      }
+    },
+    {
+      "id": "lego-first-wheels",
+      "sources": [
+        {
+          "url": "https://www.lego.com/en-us/history/articles/e-developing-the-lego-wheel",
+          "final_url": "https://www.lego.com/en-us/history/articles/e-developing-the-lego-wheel",
+          "status": 200,
+          "sha256": "45c452ef828f48fcf277ca8d388ee5b8337b4af3cad90098e03e14fff85bead2",
+          "title": "LEGO History — Developing the LEGO wheel",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "1950년대 말 개발과 1958년 스케치",
+            "블록 사이에 바퀴를 놓는 초기 방안의 문제",
+            "금속 축·중심부·고무 타이어와 블록 연결",
+            "1962년 출시와 1960년대 자동차·기차로의 확장"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        }
+      ],
+      "editorial_limits": "명칭 유래를 다룬 기존 글과 달리 바퀴의 연결과 움직임에 집중. 삽화는 당시 시제품을 재현한 이미지가 아님.",
+      "image": {
+        "file": "content/illustrations/lego-first-wheels.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "bc73107ac7c1a22792397b5493c1a8c982a7e48662b08ad35503a92ef12d39bb",
+        "note": "설명용 일러스트로 생성. 구조·줄 개수·동전 규격·실험 성능을 입증하는 이미지가 아님. 배포용 JPEG로 변환."
+      }
+    },
+    {
+      "id": "emoji-number-tags",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/unicode-org/unicodetools/main/unicodetools/data/emoji/16.0/emoji-test.txt",
+          "final_url": "https://raw.githubusercontent.com/unicode-org/unicodetools/main/unicodetools/data/emoji/16.0/emoji-test.txt",
+          "status": 200,
+          "sha256": "24f0c534e86cf142e2496953e8f0e46a3e702392911eddcd29c6cced85139697",
+          "title": "Unicode — Emoji Keyboard/Display Test Data, Version 16.0",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "공식 시험 자료의 항목별 코드와 이름",
+            "1F600과 grinning face 항목",
+            "엄지손과 피부색 코드의 조합",
+            "하나 이상 코드로 이루어진 항목과 CLDR 순서"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        }
+      ],
+      "editorial_limits": "안정된 16.0 자료를 사용. 코드값과 화면의 그림 개수를 구분하며 모든 플랫폼이 같은 그림을 보인다고 주장하지 않음.",
+      "image": {
+        "file": "content/illustrations/emoji-number-tags.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "f0c8365cb07c5e018fbc15b9109f59669dd93fa45d7cd620651f61418ba653ee",
+        "note": "설명용 일러스트로 생성. 구조·줄 개수·동전 규격·실험 성능을 입증하는 이미지가 아님. 배포용 JPEG로 변환."
+      }
+    },
+    {
+      "id": "inkstone-water-dropper",
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439031",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439031",
+          "status": 200,
+          "sha256": "c047282a2c0f741b1641b0679ce354d5374fcbb0e5ab67377b16f049dde99f36",
+          "title": "국립고궁박물관 — 나전칠기부채무늬연갑(고궁2)",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "벼루·연적을 고정하는 내부의 홈과 깊은 뚜껑",
+            "해태 모양 금속 연적의 등 입수구와 입 출수구",
+            "부채 무늬의 나전과 금색 끈 장식"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        }
+      ],
+      "editorial_limits": "물 구멍의 위치는 소장품 해설에 근거. 작은 공개 사진에서 모든 세부가 보인다고 주장하지 않음.",
+      "image": {
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=b99caeb0e9ed4c0787739d4c80def881&fileSn=1&thumb=Y",
+        "sha256": "b9efbc9170ea7373bd1170d782f7ee5c160973d9444a416c3413f67067171f2c",
+        "width": 362,
+        "height": 268,
+        "file": "content/images/inkstone-water-dropper.jpg",
+        "source_page": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439031",
+        "license": "공공누리 제1유형(출처표시)",
+        "license_url": "https://www.kogl.or.kr/info/licenseType1.do",
+        "note": "소장품 페이지의 공공누리 출처표시 조건 확인. 공개 표시용 사진을 그대로 사용하고 고해상도 신청서 제출 없음."
+      }
+    },
+    {
+      "id": "horn-bow-missing-string",
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=370166",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=370166",
+          "status": 200,
+          "sha256": "d1ab4e13e856225f9d58003df50ee112eb32ebc1fe0e471a8748478ee16ecc95",
+          "title": "국립고궁박물관 — 각궁(창덕26703)",
+          "checked_at": "2026-10-27",
+          "supports": [
+            "조선의 대표 실전용 활로 소개한 설명",
+            "탄성을 위해 사용한 물소 뿔",
+            "시위가 없고 양 끝 홈·가운데 손잡이가 남은 상태"
+          ],
+          "method": "공개된 원문의 본문을 실제 읽고 주장별로 대조. 인용문은 복제하지 않고 확인 범위를 한국어로 요약."
+        }
+      ],
+      "editorial_limits": "이 소장품 설명이 알려주지 않는 사용자·전투·사거리·다른 복합 재료는 지어내지 않음. 현대 경기용 활과 동일시하지 않음.",
+      "image": {
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00022294HQ&fileSn=21907&thumb=Y",
+        "sha256": "68e6ae536198f97184e3ca13a171c2931ba6b16603da76f59896b364d8b1eeba",
+        "width": 265,
+        "height": 176,
+        "file": "content/images/horn-bow-missing-string.jpg",
+        "source_page": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=370166",
+        "license": "공공누리 제1유형(출처표시)",
+        "license_url": "https://www.kogl.or.kr/info/licenseType1.do",
+        "note": "소장품 페이지의 공공누리 출처표시 조건 확인. 공개 표시용 사진을 그대로 사용하고 고해상도 신청서 제출 없음."
+      }
+    }
+  ]
+}

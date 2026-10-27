@@ -25,9 +25,9 @@ def main():
     destination = ROOT / 'docs/review'
     destination.mkdir(parents=True, exist_ok=True)
     index = ['# KnowledgeWalk — 이야기 서가', '',
-             '분야를 고른 다음 소주제로 들어가면 글과 이미지를 함께 읽을 수 있습니다. 기존 21편을 분야별 폴더로 옮겼으며 원고 내용은 유지했습니다.', '',
-             f'**{sum(publishable(s) for s in stories)}편은 자료 대조와 공개 게시 승인을 마쳤으며, {sum(not publishable(s) for s in stories)}편은 추가 확인 중입니다. 실제 웹 게시는 별도의 배포 상태를 따릅니다.**', '',
-             '[홈페이지 확인 안내](../homepage-review.md) · [최근 추가한 12편](batch-20261027-more.md)', '',
+             f'분야를 고른 다음 소주제로 들어가면 전체 {len(stories)}편의 글과 이미지를 함께 읽을 수 있습니다.', '',
+             f'**공개 승인 {sum(publishable(s) for s in stories)}편 / 자료 대조 완료·편집 검토 {sum(s["source_review"] == "verified" and not publishable(s) for s in stories)}편 / 출처 추가 확인 {sum(s["source_review"] != "verified" for s in stories)}편.** 실제 웹 게시는 별도의 배포 상태를 따릅니다.', '',
+             '[홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261027-ten-everyday.md) · [앞서 추가한 12편](batch-20261027-more.md)', '',
              '| 분야 | 이야기 | 소주제 수 |', '|---|---:|---:|']
     for category in categories:
         cid = category['id']

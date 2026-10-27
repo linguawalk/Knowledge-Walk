@@ -2,11 +2,12 @@
 """Bundle a locally readable review website. Does not upload or deploy."""
 from pathlib import Path
 from zipfile import ZipFile, ZIP_DEFLATED
-from build_site import ROOT, build
+from build_site import ROOT, build, load_stories, publishable
 
 
 def main():
-    build(preview=True)
+    result = build(preview=True)
+    stories = [s for s in load_stories() if s['id'] in result['included']]
     folder = ROOT / 'downloads'
     folder.mkdir(exist_ok=True)
     target = folder / 'knowledgewalk-homepage-review.zip'
@@ -14,7 +15,7 @@ def main():
         for path in sorted((ROOT / '_preview').rglob('*')):
             if path.is_file():
                 archive.write(path, path.relative_to(ROOT / '_preview'))
-        archive.writestr('사용안내.txt', '''KnowledgeWalk 홈페이지 검토본
+        archive.writestr('사용안내.txt', f'''KnowledgeWalk 홈페이지 검토본
 
 1. 압축파일을 폴더에 모두 풀어 주세요.
 2. index.html을 더블클릭해 브라우저로 열어 주세요.
@@ -28,8 +29,9 @@ def main():
 저장이 불가능한 경우 안내를 표시하고 글 읽기는 계속 지원합니다.
 읽음 표시는 공개 게시 승인과 별도입니다.
 
-이것은 미게시 원고 21편을 담은 검토용 사본입니다.
-출처 추가 확인 중인 3편은 해당 글에 상태를 표시했습니다.
+이것은 전체 원고 {len(stories)}편을 담은 검토용 사본입니다.
+공개 승인 {sum(publishable(s) for s in stories)}편, 자료 대조 완료·편집 검토 {sum(s['source_review'] == 'verified' and not publishable(s) for s in stories)}편, 출처 추가 확인 {sum(s['source_review'] != 'verified' for s in stories)}편입니다.
+자료 대조와 공개 게시 승인은 별도이며 각 글에 상태를 표시했습니다.
 운영 사이트 knowledgewalk.net은 이 작업으로 변경되지 않았습니다.
 ''')
     print(f'Created {target.relative_to(ROOT)} ({target.stat().st_size:,} bytes). No deployment.')
