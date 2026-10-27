@@ -6,47 +6,47 @@
 |---|---|---:|---:|---:|
 | History | Korea | 1 | 0 | 0 |
 | History | Asia | 0 | 0 | 0 |
-| History | Europe | 1 | 1 | 0 |
-| History | America | 1 | 1 | 0 |
+| History | Europe | 1 | 1 | 1 |
+| History | America | 1 | 1 | 1 |
 | History | Middle East | 0 | 0 | 0 |
 | History | Africa | 0 | 0 | 0 |
-| Cities | Asia | 1 | 1 | 0 |
-| Cities | Europe | 1 | 1 | 0 |
+| Cities | Asia | 1 | 1 | 1 |
+| Cities | Europe | 1 | 1 | 1 |
 | Cities | Americas | 0 | 0 | 0 |
 | Cities | Middle East | 0 | 0 | 0 |
 | Cities | Africa | 0 | 0 | 0 |
-| Culture | Architecture | 1 | 1 | 0 |
-| Culture | Literature | 1 | 1 | 0 |
+| Culture | Architecture | 1 | 1 | 1 |
+| Culture | Literature | 1 | 1 | 1 |
 | Culture | Philosophy | 0 | 0 | 0 |
 | Culture | Music | 1 | 0 | 0 |
-| Culture | Art | 1 | 1 | 0 |
+| Culture | Art | 1 | 1 | 1 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
 | Life | Folks | 0 | 0 | 0 |
-| Life | Clothing | 1 | 1 | 0 |
-| Life | Food | 1 | 1 | 0 |
-| Life | Housing | 1 | 1 | 0 |
-| Companies | Technology | 1 | 1 | 0 |
+| Life | Clothing | 1 | 1 | 1 |
+| Life | Food | 1 | 1 | 1 |
+| Life | Housing | 1 | 1 | 1 |
+| Companies | Technology | 1 | 1 | 1 |
 | Companies | Automotive | 0 | 0 | 0 |
 | Companies | Finance | 0 | 0 | 0 |
 | Companies | Media | 0 | 0 | 0 |
 | Companies | Fashion | 0 | 0 | 0 |
-| Computing | Computers | 1 | 1 | 0 |
+| Computing | Computers | 1 | 1 | 1 |
 | Computing | Software | 0 | 0 | 0 |
-| Computing | Internet | 1 | 1 | 0 |
-| Computing | Programming | 1 | 1 | 0 |
-| Computing | Artificial-Intelligence | 1 | 1 | 0 |
+| Computing | Internet | 1 | 1 | 1 |
+| Computing | Programming | 1 | 1 | 1 |
+| Computing | Artificial-Intelligence | 1 | 1 | 1 |
 | Finance | Money | 1 | 0 | 0 |
 | Finance | Banking | 0 | 0 | 0 |
 | Finance | Insurance | 0 | 0 | 0 |
-| Finance | Investment | 1 | 1 | 0 |
+| Finance | Investment | 1 | 1 | 1 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 0 | 0 | 0 |
 | Science | Physics | 0 | 0 | 0 |
 | Science | Chemistry | 0 | 0 | 0 |
-| Science | Biology | 1 | 1 | 0 |
+| Science | Biology | 1 | 1 | 1 |
 | Science | Earth-Science | 0 | 0 | 0 |
-| Science | Engineering | 1 | 1 | 0 |
+| Science | Engineering | 1 | 1 | 1 |
 
 ## 먼저 살펴볼 빈 주제
 

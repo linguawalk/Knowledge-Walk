@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Literature",
   "summary": "이름을 쓰거나 스티커를 붙이듯, 책에 도장을 찍어 소장을 표시하기도 했습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 사이트 게시·도메인 전환 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "국립고궁박물관 — 석제 연경재장서인 인장(창덕7857)",

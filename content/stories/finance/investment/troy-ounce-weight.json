@@ -5,11 +5,11 @@
   "category": "finance",
   "subcategory": "Investment",
   "summary": "같은 온스라는 말 뒤에도 다른 기준이 있습니다. 금속의 무게를 읽을 때 챙길 작은 차이입니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 사이트 게시·도메인 전환 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "The Royal Mint — What is a troy oz?",

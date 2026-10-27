@@ -4,7 +4,7 @@
 
 Cities · Europe
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![펼친 책에 앞발을 얹은 날개 달린 사자의 수채화풍 삽화](../../../../content/drafts/cities/assets/venice-winged-lion-display.jpg)
 

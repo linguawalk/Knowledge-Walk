@@ -5,11 +5,11 @@
   "category": "computing",
   "subcategory": "Internet",
   "summary": "메일 주소를 말할 때 꼭 등장하는 @. 이메일을 위해 새로 그린 기호는 아닙니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 사이트 게시·도메인 전환 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "Internet Hall of Fame — Official Biography: Raymond Tomlinson",

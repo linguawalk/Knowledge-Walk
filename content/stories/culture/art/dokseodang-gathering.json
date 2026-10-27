@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Art",
   "summary": "한강에서 배를 탄 사람들, 그리고 그림 아래 빽빽한 글씨. 오래된 모임 그림에는 누가 함께했는지도 적혀 있습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 사이트 게시·도메인 전환 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "국립고궁박물관 — 독서당계회도(고궁4000)",

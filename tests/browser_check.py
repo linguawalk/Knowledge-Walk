@@ -33,6 +33,7 @@ def check():
     errors = []
     story_count = len(list((ROOT / "content/stories").rglob("*.json")))
     stories = [json.loads(path.read_text()) for path in sorted((ROOT / "content/stories").rglob("*.json"))]
+    approved = [s for s in stories if s['status'] == 'approved' and s['publication_ready']]
     def capture(page, filename):
         # Full-page screenshots must also load images below the viewport.
         page.evaluate("""async () => {
@@ -144,10 +145,12 @@ def check():
                     viewport.goto(base + "/stories/" + story["id"] + "/index.html", wait_until="networkidle")
                     assert viewport.locator("h1").inner_text() == story["title"]
                     assert viewport.locator(".article-image img").evaluate("img => img.complete && img.naturalWidth > 0")
-                    assert viewport.locator(".draft-notice").is_visible()
+                    ready = story['status'] == 'approved' and story['publication_ready']
+                    assert viewport.locator(".draft-notice").count() == (0 if ready else 1)
                     assert viewport.evaluate("document.documentElement.scrollWidth <= innerWidth"), story["id"]
                     if story["source_review"] == "verified":
-                        assert "자료 대조를 마친" in viewport.locator(".draft-notice").inner_text()
+                        if not ready:
+                            assert "자료 대조를 마친" in viewport.locator(".draft-notice").inner_text()
                         viewport.locator(".sources summary").click()
                         assert viewport.locator(".sources a").count() == len(story["sources"])
                         assert viewport.locator(".source-date").first.is_visible()
@@ -194,10 +197,11 @@ def check():
             assert n.locator(".prose p").count() > 10
             page.goto(public + "/index.html", wait_until="networkidle")
             assert page.locator(".preview-banner").count() == 0
-            assert page.locator(".feature-story").count() == 0
-            assert page.locator(".feature-empty").is_visible()
-            assert not json.loads(page.request.get(public + "/search-index.json").text())
-            assert page.request.get(public + "/stories/venice-winged-lion/index.html").status == 404
+            assert page.locator(".feature-story").count() == (1 if approved else 0)
+            assert len(json.loads(page.request.get(public + "/search-index.json").text())) == len(approved)
+            for story in stories:
+                expected = 200 if story in approved else 404
+                assert page.request.get(public + f"/stories/{story['id']}/index.html").status == expected
             browser.close()
         assert not errors, errors
         print("PASS: desktop/mobile navigation, Korean full-text search, filters/reset, images, reading anchors, empty categories, no-JS reading and production draft exclusion.")

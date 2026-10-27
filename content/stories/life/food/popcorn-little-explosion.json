@@ -5,11 +5,11 @@
   "category": "life",
   "subcategory": "Food",
   "summary": "분명 단단한 알갱이였는데 어느새 하얗고 가벼운 간식으로. 팝콘의 변신에는 씨앗 속 수분이 필요합니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 사이트 게시·도메인 전환 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "USDA National Agricultural Library — How does popcorn pop?",

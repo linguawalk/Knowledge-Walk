@@ -1,0 +1,43 @@
+{
+  "id": "first-publication-20261027",
+  "approved_at": "2026-10-27",
+  "approval_source": "현재 Codex 채팅의 사용자 요청",
+  "user_request": "지금 Hostinger에 연결된 사이트를 해제하고, 깃허브에서 만들어진 사이트를 도메인에 연결하였으면 합니다",
+  "interpretation": "새 사이트 게시 및 knowledgewalk.net 연결 변경을 승인한 요청. 출처 확인 완료 18편에 적용하며 추가 확인 중 3편은 제외.",
+  "story_ids": [
+    "gyeonghoeru-pond-dragon",
+    "venice-winged-lion",
+    "lego-play-well",
+    "ai-clothing-labels",
+    "engelbart-mouse-demo",
+    "email-at-sign",
+    "python-comedy-name",
+    "building-repair-letter",
+    "dokseodang-gathering",
+    "book-owner-seal",
+    "troy-ounce-weight",
+    "arpanet-first-node",
+    "newton-mint-work",
+    "crane-embroidered-badge",
+    "popcorn-little-explosion",
+    "maehwa-portable-toilet",
+    "flamingo-pink-feathers",
+    "bowl-sundial"
+  ],
+  "scope": {
+    "repository": "linguawalk/Knowledge-Walk",
+    "domain": "knowledgewalk.net",
+    "deploy_artifact": "_site",
+    "delete_hostinger_data": false,
+    "cancel_hostinger_subscription": false
+  },
+  "deployment_status": "not_deployed",
+  "dns_status": "not_changed",
+  "blockers": [
+    "GitHub API 및 도메인 접속이 현재 환경 프록시에서 차단됨",
+    "DNS 제공자 및 도메인 관리 권한을 아직 확인하지 못함"
+  ],
+  "domain_registrar_user_report": "후이즈",
+  "dns_provider_user_report": "Hostinger에서 설정을 변경한 것으로 기억",
+  "dns_provider_verified": false
+}

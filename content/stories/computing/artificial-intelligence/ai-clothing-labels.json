@@ -5,11 +5,11 @@
   "category": "computing",
   "subcategory": "Artificial-Intelligence",
   "summary": "AI의 이미지 학습을 옷장 정리처럼 들여다봅니다. 작은 흑백 사진에도 연습과 시험이 따로 있습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 사이트 게시·도메인 전환 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "TensorFlow 공식 입문 안내 — Basic classification: Classify images of clothing",

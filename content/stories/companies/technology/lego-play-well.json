@@ -5,11 +5,11 @@
   "category": "companies",
   "subcategory": "Technology",
   "summary": "익숙한 네 글자 안에 덴마크어로 놀이에 관한 뜻이 숨어 있습니다. 이름부터 먼저 들여다보는 레고 이야기.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 사이트 게시·도메인 전환 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "LEGO History — The beginning of the LEGO Group",

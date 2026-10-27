@@ -56,15 +56,23 @@ class SiteTests(unittest.TestCase):
 
     def test_production_has_no_draft_text_media_or_editorial_files(self):
         output = ROOT / "_site"
-        self.assertEqual(builder.read_json(output / "search-index.json"), [])
-        self.assertFalse((output / "stories/venice-winged-lion/index.html").exists())
-        self.assertFalse((output / "media").exists())
+        stories = builder.load_stories()
+        approved = [s for s in stories if builder.publishable(s)]
+        pending = [s for s in stories if not builder.publishable(s)]
+        index = builder.read_json(output / "search-index.json")
+        self.assertEqual({s['id'] for s in index}, {s['id'] for s in approved})
+        for story in approved:
+            self.assertTrue((output / f"stories/{story['id']}/index.html").is_file())
+        for story in pending:
+            self.assertFalse((output / f"stories/{story['id']}/index.html").exists())
+            self.assertFalse((output / f"media/{story['id']}.jpg").exists())
         for path in output.rglob("*"):
             if path.is_file():
                 self.assertNotIn("drafts", path.parts)
                 self.assertNotIn("editorial", path.name)
                 if path.suffix in (".html", ".json"):
-                    self.assertNotIn(self.story["title"], path.read_text())
+                    for story in pending:
+                        self.assertNotIn(story["title"], path.read_text())
 
     def test_preview_is_marked_noindex_and_includes_story(self):
         output = ROOT / "_preview"
@@ -143,13 +151,15 @@ class SiteTests(unittest.TestCase):
             for child in category['children']:
                 self.assertIn(f"categories/{category['id']}/{builder.slug(child)}/index.html", links.links)
         public = builder.Site(self.categories, stories).render()
-        self.assertFalse(json.loads(public['search-index.json']))
+        self.assertEqual(len(json.loads(public['search-index.json'])), sum(builder.publishable(s) for s in stories))
         for story in stories:
-            self.assertNotIn(story['title'], public['library.html'])
-            self.assertNotIn(story['title'], public['reading.html'])
+            if not builder.publishable(story):
+                self.assertNotIn(story['title'], public['library.html'])
+                self.assertNotIn(story['title'], public['reading.html'])
 
     def test_featured_draft_cannot_displace_approved_story(self):
-        draft = {**self.story, "featured": True}
+        draft = {**self.story, "featured": True, "status": "review", "publication_ready": False,
+                 "approved_by": None, "approved_at": None}
         approved = self.approved_fixture()
         approved.update(id="approved-fixture", title="A verified fixture", featured=False)
         builder.validate(self.categories, [draft, approved])

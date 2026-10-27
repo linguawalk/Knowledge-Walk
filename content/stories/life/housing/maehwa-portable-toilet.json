@@ -5,11 +5,11 @@
   "category": "life",
   "subcategory": "Housing",
   "summary": "의자처럼도 상자처럼도 보이는 물건. 이름과 쓰임을 알고 나면 옛 생활의 다른 면이 보입니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 사이트 게시·도메인 전환 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "국립고궁박물관 — 매화틀(창덕26414)",

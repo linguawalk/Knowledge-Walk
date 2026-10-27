@@ -4,7 +4,7 @@
 
 Computing · Artificial-Intelligence
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![티셔츠와 바지, 운동화 옆에 픽셀 격자를 그린 설명용 AI 삽화](../../../../content/illustrations/ai-clothing-labels.jpg)
 

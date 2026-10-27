@@ -5,11 +5,11 @@
   "category": "computing",
   "subcategory": "Programming",
   "summary": "컴퓨터 언어의 이름을 따라가다 보면 영국 코미디 프로그램을 만나게 됩니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 사이트 게시·도메인 전환 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "Python 공식 FAQ — Why is it called Python?",

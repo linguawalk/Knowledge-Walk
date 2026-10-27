@@ -5,11 +5,11 @@
   "category": "computing",
   "subcategory": "Computers",
   "summary": "화면을 가리키는 작은 도구는 함께 일하는 컴퓨터를 보여주는 더 큰 구상의 일부였습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 사이트 게시·도메인 전환 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "Internet Hall of Fame — Douglas Engelbart",
