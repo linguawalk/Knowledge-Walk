@@ -88,3 +88,7 @@
 ## 실제 게시와 도메인 등록
 
 환경 재연결 후 GitHub API 읽기와 DNS 조회가 가능해졌다. 기존 main 루트의 Jekyll 게시 설정을 이용해 공개 18편을 게시했으며 실제 리소스 42개와 제외 경로 9개를 검증했다. 원고·이전 코드의 게시 제외는 생성된 `_config.yml`로 관리한다. CNAME 등록은 GitHub Pages API에도 반영됐다. 도메인은 후이즈에서 구매했고 현재 Hostinger 네임서버를 사용한다. Hostinger DNS 변경 권한은 아직 연결되어 있지 않아 도메인은 기존 사이트를 가리키며, DNS 변경과 인증서·HTTPS 최종 확인이 남아 있다. 현재 작업 기준은 `docs/domain-migration.md`다.
+
+## 도메인 연결 완료 확인
+
+사용자가 Hostinger의 ALIAS @와 CNAME www를 linguawalk.github.io로 수정했다. 실제 DNS, 공개 18편의 도메인 HTTPS 응답, 42개 리소스 일치, www HTTPS 이동, 기존 메일 MX/TXT 보존을 확인했다. GitHub Enforce HTTPS 변경 API의 계정 권한 제한으로 해당 체크는 사용자 화면에서 한 번 설정해야 한다. 현재 접속 주소는 https://knowledgewalk.net/이며 운영 기준은 docs/domain-migration.md다.

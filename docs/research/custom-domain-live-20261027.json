@@ -1,0 +1,156 @@
+{
+  "checked_at": "2026-10-27",
+  "base_url": "https://knowledgewalk.net/",
+  "stories": 18,
+  "checked_resources": [
+    "index.html",
+    "library.html",
+    "reading.html",
+    "search.html",
+    "site-assets/site.css",
+    "site-assets/site.js",
+    "stories/venice-winged-lion/index.html",
+    "media/venice-winged-lion.jpg",
+    "stories/arpanet-first-node/index.html",
+    "media/arpanet-first-node.jpg",
+    "stories/newton-mint-work/index.html",
+    "media/newton-mint-work.jpg",
+    "stories/gyeonghoeru-pond-dragon/index.html",
+    "media/gyeonghoeru-pond-dragon.jpg",
+    "stories/book-owner-seal/index.html",
+    "media/book-owner-seal.jpg",
+    "stories/building-repair-letter/index.html",
+    "media/building-repair-letter.jpg",
+    "stories/dokseodang-gathering/index.html",
+    "media/dokseodang-gathering.jpg",
+    "stories/crane-embroidered-badge/index.html",
+    "media/crane-embroidered-badge.jpg",
+    "stories/maehwa-portable-toilet/index.html",
+    "media/maehwa-portable-toilet.jpg",
+    "stories/popcorn-little-explosion/index.html",
+    "media/popcorn-little-explosion.jpg",
+    "stories/lego-play-well/index.html",
+    "media/lego-play-well.jpg",
+    "stories/ai-clothing-labels/index.html",
+    "media/ai-clothing-labels.jpg",
+    "stories/email-at-sign/index.html",
+    "media/email-at-sign.jpg",
+    "stories/engelbart-mouse-demo/index.html",
+    "media/engelbart-mouse-demo.jpg",
+    "stories/python-comedy-name/index.html",
+    "media/python-comedy-name.jpg",
+    "stories/troy-ounce-weight/index.html",
+    "media/troy-ounce-weight.jpg",
+    "stories/bowl-sundial/index.html",
+    "media/bowl-sundial.jpg",
+    "stories/flamingo-pink-feathers/index.html",
+    "media/flamingo-pink-feathers.jpg"
+  ],
+  "www_https_redirect": true,
+  "https_enforcement": false,
+  "dns_records": [
+    {
+      "name": "knowledgewalk.net",
+      "type": "A",
+      "answers": [
+        {
+          "name": "knowledgewalk.net.",
+          "type": 1,
+          "TTL": 3600,
+          "data": "185.199.111.153"
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 1,
+          "TTL": 3600,
+          "data": "185.199.110.153"
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 1,
+          "TTL": 3600,
+          "data": "185.199.108.153"
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 1,
+          "TTL": 3600,
+          "data": "185.199.109.153"
+        }
+      ]
+    },
+    {
+      "name": "knowledgewalk.net",
+      "type": "AAAA",
+      "answers": [
+        {
+          "name": "knowledgewalk.net.",
+          "type": 28,
+          "TTL": 3600,
+          "data": "2606:50c0:8000::153"
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 28,
+          "TTL": 3600,
+          "data": "2606:50c0:8002::153"
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 28,
+          "TTL": 3600,
+          "data": "2606:50c0:8003::153"
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 28,
+          "TTL": 3600,
+          "data": "2606:50c0:8001::153"
+        }
+      ]
+    },
+    {
+      "name": "www.knowledgewalk.net",
+      "type": "CNAME",
+      "answers": [
+        {
+          "name": "www.knowledgewalk.net.",
+          "type": 5,
+          "TTL": 300,
+          "data": "linguawalk.github.io."
+        }
+      ]
+    },
+    {
+      "name": "knowledgewalk.net",
+      "type": "MX",
+      "answers": [
+        {
+          "name": "knowledgewalk.net.",
+          "type": 15,
+          "TTL": 14400,
+          "data": "5 mx1.hostinger.com."
+        },
+        {
+          "name": "knowledgewalk.net.",
+          "type": 15,
+          "TTL": 14400,
+          "data": "10 mx2.hostinger.com."
+        }
+      ]
+    },
+    {
+      "name": "knowledgewalk.net",
+      "type": "TXT",
+      "answers": [
+        {
+          "name": "knowledgewalk.net.",
+          "type": 16,
+          "TTL": 3600,
+          "data": "v=spf1 include:_spf.mail.hostinger.com ~all"
+        }
+      ]
+    }
+  ],
+  "mail_records_unchanged": true
+}

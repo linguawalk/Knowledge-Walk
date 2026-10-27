@@ -2,7 +2,7 @@
 
 기준일: 2026-10-27 (한국 시간).
 
-**GitHub 사이트 게시와 사용자 지정 도메인 등록은 완료했습니다. Hostinger DNS 전환과 도메인의 HTTPS 확인은 남아 있습니다.**
+**사이트 게시, Hostinger DNS 변경, 사용자 지정 도메인의 HTTPS 접속을 확인했습니다. GitHub Pages의 Enforce HTTPS 체크만 남아 있습니다.**
 
 ## 완료한 작업
 
@@ -26,29 +26,24 @@ Jekyll 3의 제외 목록은 단순 폴더 이름을 접두어로도 해석한�
 
 다른 호스팅이나 추후 Actions 방식으로 바꿀 때는 `_site/`만 배포한다. 기존 legacy 방식에서 루트가 게시 원본인 것은 `_config.yml`의 제외와 원고별 승인 필터를 함께 검증한 경우에 한정한다. 저장소 전체를 그대로 복제하는 일반 정적 호스팅으로 배포하지 않는다.
 
-## 남은 작업: Hostinger의 웹 연결 변경
+## 도메인 전환 확인 결과
 
-Hostinger 관리 계정이나 DNS 변경 도구가 이 채팅에 연결되어 있지 않아 DNS 레코드는 변경하지 않았다. 도메인은 아직 기존 Hostinger 주소를 가리킨다. Hostinger의 `knowledgewalk.net` DNS 설정 화면에서 현재 항목을 확인한 뒤 아래의 웹 레코드만 바꾼다.
+사용자가 Hostinger 화면에서 `ALIAS @`와 `CNAME www`를 모두 `linguawalk.github.io`로 바꾸었다. 실제 DNS에서 IPv4 네 주소와 IPv6 네 주소가 GitHub Pages를 가리키며, www CNAME도 반영된 것을 확인했다. 후이즈나 네임서버를 변경하지 않았고, 사용자 화면의 다른 레코드는 유지됐다. 실제 MX/TXT 응답도 전환 전 값과 같은 것을 대조했다.
 
-| 이름 | 종류 | 새 값 |
-|---|---|---|
-| `@` | A | `185.199.108.153` |
-| `@` | A | `185.199.109.153` |
-| `@` | A | `185.199.110.153` |
-| `@` | A | `185.199.111.153` |
-| `www` | CNAME | `linguawalk.github.io` |
+`https://knowledgewalk.net/`의 글 18편과 화면·검색·CSS·JavaScript·이미지 등 42개 응답을 로컬 공개용 결과와 바이트 단위로 비교해 일치함을 확인했다. `https://www.knowledgewalk.net/search-index.json`도 `https://knowledgewalk.net/search-index.json`으로 이동하고 18편을 제공했다. [도메인 실접속 검증 기록](research/custom-domain-live-20261027.json)을 따른다. Hostinger 원본 자료나 호스팅 계약은 삭제·해지하지 않았다.
 
-현재 `@`의 기존 A 두 주소는 `147.79.72.93`, `147.79.79.9`다. 기존 웹용 A를 위 네 주소로 교체하고, Hostinger로 향하는 `@`의 AAAA 두 항목은 제거하거나 GitHub의 공식 IPv6 값으로 교체해야 한다. 기존 IPv6를 남기면 일부 방문자가 계속 이전 사이트에 접속할 수 있다. `www`의 현재 CNAME은 `www.knowledgewalk.net.cdn.hstgr.net`이므로 위 값으로 바꾼다.
+Hostinger의 ALIAS가 GitHub의 A/AAAA 응답을 제공하므로 네 개 A 레코드를 별도로 추가하거나 기존에 없는 AAAA를 삭제할 필요가 없다. 현재 Hostinger 설정에서 ALIAS와 CNAME 두 항목만 변경한 결과를 기준으로 한다.
 
-**MX/TXT 이메일 레코드, 다른 하위 도메인과 네임서버는 그대로 둔다.** 화면에서 항목이 잠겨 있거나 CDN 설정과 연동되어 있으면 화면을 먼저 확인하고 필요한 웹 연결만 조정한다. Hostinger 사이트 파일·데이터베이스를 삭제하거나 호스팅 계약을 해지하지 않는다. API 키·비밀번호를 채팅이나 저장소에 넣지 않는다.
+## 남은 한 항목: HTTPS 자동 이동
 
-공식 근거: [GitHub Pages 사용자 지정 도메인 관리](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site). 연결 값은 실제 열람한 [공식 문서 원문](https://github.com/github/docs/blob/main/content/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site.md)에 따른다.
+GitHub Pages API에서 `https_enforced: false`인 것을 확인했다. 이미 HTTPS 자체로는 정상 접속되지만 항상 HTTPS를 사용하도록 강제하는 설정은 아직 꺼져 있다. 설정 변경 API는 연결된 인증에 HTTP 403을 반환했다. 이를 대신 우회하는 코드를 추가하지 않는다.
 
-## DNS를 바꾼 뒤
+사용자가 [이 저장소의 Pages 설정](https://github.com/linguawalk/Knowledge-Walk/settings/pages)에서 **Enforce HTTPS**를 체크해야 한다. 체크가 비활성화돼 있으면 실제 화면의 설명을 확인하고 안내한다. 설정 후 AI가 `https_enforced: true`와 실제 접속을 다시 확인한다. 이는 새 배포 승인 요청이 아니라 제한된 계정 설정 한 항목의 조작이다.
 
-1. A/AAAA/CNAME의 실제 응답이 목표 값으로 반영됐는지 확인한다.
-2. GitHub의 사용자 지정 도메인 검사와 인증서 발급 상태를 확인한다. 현재 등록 직후에는 인증서가 없고 HTTPS 강제도 꺼진 상태다.
-3. 인증서가 준비되면 HTTPS 강제를 켜고 `knowledgewalk.net`, `www.knowledgewalk.net`의 연결·리디렉션·글·이미지·검색을 실제 도메인에서 다시 확인한다. 설정 변경 권한이 계속 제한되면 GitHub Pages 화면의 필요한 한 항목만 사용자에게 안내한다.
-4. 검증 후에만 전체 전환 완료를 기록한다. 오류가 있으면 보관한 웹 레코드로 복구한다.
+현재 API 응답에는 `https_certificate` 필드 자체가 없다. 앞서 jq로 이 필드를 선택했을 때 나온 null은 인증서 부재의 증거가 아니므로, 실제 HTTPS 성공과 구분한다. TLS 검증을 끄지 않은 요청으로 도메인의 HTTPS 응답을 확인했다.
 
-GitHub에 CNAME이 등록되면서 기본 `github.io` 주소는 사용자 지정 도메인으로 이동할 수 있다. DNS 전환 전에는 그 결과 기존 Hostinger 사이트가 보일 수 있으며, 이를 새 홈페이지의 도메인 전환 완료로 오인하지 않는다.
+## 운영 시 주의할 구성
+
+Hostinger 메일용 MX/TXT와 다른 하위 도메인, 네임서버는 유지한다. Hostinger 원본 파일·데이터베이스와 계약은 이번 전환으로 삭제하거나 해지하지 않는다. 도메인과 GitHub Pages 등록은 계속 함께 유지한다.
+
+현재 GitHub Pages는 main 루트의 legacy/Jekyll 게시 방식이다. `_site/`를 동기화한 공개 파일만 내보내도록 `_config.yml`의 제외 목록을 유지한다. `.nojekyll`을 추가하거나 제외 목록을 제거하지 않는다. 다른 호스팅에는 `_site/`만 배포한다.

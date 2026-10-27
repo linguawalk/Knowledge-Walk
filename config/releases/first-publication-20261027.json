@@ -32,10 +32,9 @@
     "cancel_hostinger_subscription": false
   },
   "deployment_status": "github_pages_deployed_and_https_resources_verified",
-  "dns_status": "hostinger_records_unchanged",
+  "dns_status": "verified_github_alias_and_www_cname",
   "blockers": [
-    "Hostinger DNS 관리 권한이 이 채팅에 연결되어 있지 않으며 A/AAAA/www 레코드가 아직 Hostinger를 가리킴",
-    "Custom-domain certificate and HTTPS enforcement await DNS cutover"
+    "GitHub Pages의 Enforce HTTPS 변경 API는 연결된 인증에 HTTP 403을 반환함. 사용자가 Pages 설정에서 체크해야 함."
   ],
   "domain_registrar_user_report": "후이즈",
   "dns_provider_user_report": "Hostinger에서 설정을 변경한 것으로 기억",
@@ -43,7 +42,9 @@
   "dns_provider": "Hostinger dns-parking.com",
   "custom_domain_status": "registered_in_github_pages",
   "custom_domain": "knowledgewalk.net",
-  "custom_domain_https_status": "pending_dns_and_certificate",
+  "custom_domain_https_status": "https_verified_enforcement_pending",
   "deployment_mode": "existing_legacy_main_root_with_jekyll_exclusions",
-  "verified_publication_commit": "d762e4b499d165f26c3af48b47e1d14a4edaccc0"
+  "verified_publication_commit": "d762e4b499d165f26c3af48b47e1d14a4edaccc0",
+  "https_enforced": false,
+  "custom_domain_verified_url": "https://knowledgewalk.net/"
 }
