@@ -219,7 +219,7 @@ class Site:
                        f'<div class="field-top"><span>0{n}</span><span aria-hidden="true">↗</span></div>'
                        f'<h3>{esc(c["title"])}</h3><p class="field-label">{esc(c["label"])}</p><p>{esc(c["intro"])}</p>'
                        f'<span class="field-meta">{str(count) + "개의 이야기" if count else "이야기를 준비하고 있어요"}</span></a>')
-        stories = "".join(self.card(page, s) for s in self.stories)
+        stories = "".join(self.card(page, s) for s in self.stories[:9])
         shelf = f'<section class="container story-shelf"><div class="section-heading"><div><p class="eyebrow">STORIES TO WANDER INTO</p><h2>그냥 지나치기 아까운 이야기</h2></div><a class="text-link" href="search.html">모든 이야기 <span aria-hidden="true">↗</span></a></div><div class="story-grid">{stories}</div></section>' if len(self.stories) > 1 else ""
         body = f'''<section class="container hero"><div class="hero-copy"><p class="eyebrow"><span class="little-star" aria-hidden="true">✳</span> 발견하는 즐거움, KnowledgeWalk</p>
 <h1>알고 나면,<br>조금 다르게<br>보이는 것들<span class="title-dot">.</span></h1>

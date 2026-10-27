@@ -48,6 +48,23 @@ def main():
     index += ["", "AI 설명용 삽화와 출처·이용 조건을 확인한 소장품 이미지를 사용합니다. 각 글에서 종류와 출처를 구분합니다. AI 삽화는 실제 유물·제품·장소를 정확하게 재현한 자료가 아닙니다.", "",
               "제작·게시 주기는 미정이며, 운영 사이트와 도메인은 변경하지 않았습니다.", ""]
     (destination / "README.md").write_text("\n".join(index), encoding="utf-8")
+    # Keep each delivery's reading list reproducible from its story IDs.
+    by_id = {story["id"]: story for story in stories}
+    for path in sorted((ROOT / "content/batches").glob("*.json")):
+        batch = read_json(path)
+        ids = batch["story_ids"]
+        if len(ids) != len(set(ids)) or any(sid not in by_id for sid in ids):
+            raise ValueError(f"Invalid story IDs in {path.name}")
+        lines = [f"# {batch['title']}", "",
+                 "제목을 누르면 **이미지·본문·확인한 근거자료**를 함께 볼 수 있습니다. 편집 검토용 원고이며 운영 사이트에는 아직 게시하지 않았습니다.", "",
+                 "| 분야 · 세부 분류 | 이야기 | 이미지 |", "|---|---|---|"]
+        for sid in ids:
+            story = by_id[sid]
+            kind = "AI 설명용 삽화" if story["image"]["type"] == "ai_illustration" else "박물관 제공 소장품 사진"
+            lines.append(f"| {cmap[story['category']]['title']} · {story['subcategory']} | [{story['title']}]({sid}.md) | {kind} |")
+        lines += ["", "실제 사진과 AI 삽화는 각 글에서 구분합니다. 박물관 사진은 공개된 크기로 제공하며, 일부 사진은 작습니다. AI 삽화는 정확한 역사 재현 자료가 아닙니다.", "",
+                  "[전체 이야기 목록](README.md) · [43개 세부 주제 현황](../topic-coverage.md)", ""]
+        (destination / f"batch-{path.stem}.md").write_text("\n".join(lines), encoding="utf-8")
     print(f"Exported {len(stories)} review manuscripts with relative image links.")
 
 

@@ -1,0 +1,394 @@
+{
+  "checked_at": "2026-10-27",
+  "scope": "새 원고 12편의 자료 대조 및 이미지 출처 기록. 공개 게시 승인과 별도.",
+  "stories": [
+    {
+      "id": "newton-mint-work",
+      "sources": [
+        {
+          "url": "https://www.royalmint.com/stories/commemorate/sir-isaac-newton-and-the-royal-mint/",
+          "final_url": "https://www.royalmint.com/stories/commemorate/sir-isaac-newton-and-the-royal-mint/",
+          "status": 200,
+          "sha256": "1609b1ca4ef41389002ab77d1dc7c3470b4098f06701b44815a15eb761e83dfa",
+          "title": "The Royal Mint — Sir Isaac Newton and The Royal Mint",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "1696년 조폐국 근무 시작과 재주조 업무",
+            "위조범·제보자 직접 조사",
+            "무게·순도 정확성에 대한 관심",
+            "1699년 Master 취임과 1727년까지의 재직"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "file": "content/illustrations/newton-mint-work.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "b716db938a261551568bd5fe386de9bcef4dc6a720fdc10d9ef8ccb8c8eec83b",
+        "note": "일러스트로 생성. 역사 사진·유물 실측도·실험 결과로 사용하지 않음. JPEG 변환만 수행."
+      },
+      "editorial_limits": "공식 페이지의 후반 홍보 문구보다 역사 설명의 범위에 맞춤. 대규모 조직 개혁을 주도했다는 주장과 가상 대화는 넣지 않음."
+    },
+    {
+      "id": "arpanet-first-node",
+      "sources": [
+        {
+          "url": "https://www.internethalloffame.org/inductee/leonard-kleinrock/",
+          "final_url": "https://www.internethalloffame.org/inductee/leonard-kleinrock/",
+          "status": 200,
+          "sha256": "f57ee805169d01d4d55c5f4dd03ddaa9751c5ef5d2a72fd7f879f68e7623a88f",
+          "title": "Internet Hall of Fame — Leonard Kleinrock",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "1969년 9월 UCLA 연구실이 ARPANET 첫 노드가 됨",
+            "다음 달 첫 전송과 패킷 네트워크 연구"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        },
+        {
+          "url": "https://www.internethalloffame.org/inductee/douglas-engelbart/",
+          "final_url": "https://www.internethalloffame.org/inductee/douglas-engelbart/",
+          "status": 200,
+          "sha256": "c9876be628a9ba2d9034ba6660ced6a4ecf4d524fa077194498b0ffa9b895f31",
+          "title": "Internet Hall of Fame — Douglas Engelbart",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "SRI 연구소가 두 번째 ARPANET 호스트로 UCLA와 초기 전송을 주고받음"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "file": "content/illustrations/arpanet-first-node.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "a5494d571250781a3fc6ccf160830ceb7f657c5659015d9c12a373a87903b62d",
+        "note": "일러스트로 생성. 역사 사진·유물 실측도·실험 결과로 사용하지 않음. JPEG 변환만 수행."
+      },
+      "editorial_limits": "첫 메시지 LO와 시스템 중단 일화는 이 자료만으로 직접 확인하지 못해 제외. 초기 ARPANET과 오늘의 인터넷을 동일시하지 않음."
+    },
+    {
+      "id": "gyeonghoeru-pond-dragon",
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/bbs/BMSR00019/view.do?menuNo=800051&boardId=3521&gubunCd=BMSR00019_001",
+          "final_url": "https://www.gogung.go.kr/gogung/bbs/BMSR00019/view.do?menuNo=800051&boardId=3521&gubunCd=BMSR00019_001",
+          "status": 200,
+          "sha256": "96a7f759a043277d14cfee40d10ea94151101574f623ffa9ecb1b0eaa8423246",
+          "title": "국립고궁박물관 — 경회루 연못 출토 용",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "1865년 한 쌍 제작과 1867년 연못에 넣은 기록",
+            "1997년 한 점 발견",
+            "물과 구름을 다스린다고 여긴 용과 화재 예방의 염원",
+            "청동 용의 길이 146.5cm와 무게 66.5kg"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "file": "content/illustrations/gyeonghoeru-pond-dragon.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "22c47e16628764332314a65a82d1b0efc8e3f1e4793ce8c1e57d2c37b3341d1c",
+        "note": "일러스트로 생성. 역사 사진·유물 실측도·실험 결과로 사용하지 않음. JPEG 변환만 수행."
+      },
+      "editorial_limits": "실제 청동 용 사진이 아니라 AI 개념 삽화. 화재 예방의 믿음과 실제 소화 기능을 구분."
+    },
+    {
+      "id": "building-repair-letter",
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=366115",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=366115",
+          "status": 200,
+          "sha256": "d8df125e588f628b95fecc8846f63fd9f7500e749cf157efd9290e143e1fbcac",
+          "title": "국립고궁박물관 — 선릉 정자각 중수 상량문(고궁1105)",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "1706년 선릉 정자각 수리를 위해 지은 상량문",
+            "글쓴이 최석항과 문집 손와유고 수록",
+            "옛 규모를 유지하며 수리한 내용을 담은 번역문"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00017749WL&fileSn=10902&thumb=Y",
+        "final_url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00017749WL&fileSn=10902&thumb=Y",
+        "sha256": "2e9fd2b61a28954e1c2db41859c93863b36e9ebf850507fe9702c0d266d65d31",
+        "width": 265,
+        "height": 189,
+        "alt": "고궁1105_선릉정자각중건상량문_서헌강촬영_도록132.jpg",
+        "file": "content/images/building-repair-letter.jpg",
+        "license": "공공누리 제1유형(출처표시)",
+        "license_url": "https://www.kogl.or.kr/info/licenseType1.do",
+        "note": "소장품 상세 페이지에서 공공누리 제1유형 확인. 공개 이미지 그대로 저장. 고해상도 신청서 제출 없음."
+      },
+      "editorial_limits": "해당 문서는 1706년 선릉 정자각 수리 글. 실제 지붕 속에서 발견된 문서라는 주장은 하지 않음."
+    },
+    {
+      "id": "book-owner-seal",
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=363701",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=363701",
+          "status": 200,
+          "sha256": "395b575395ee8f6262b5052d2ec548eae8d89a5b5dcf873d6b50b7dc144a9ce8",
+          "title": "국립고궁박물관 — 석제 연경재장서인 인장(창덕7857)",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "연경재에 소장한 서적·서화에 사용한 장서인",
+            "돌로 만든 인장과 크기",
+            "사용자를 헌종으로 추정한다는 설명"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=1581LJE&fileSn=29009&thumb=Y",
+        "final_url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=1581LJE&fileSn=29009&thumb=Y",
+        "sha256": "ed9e0a5c0471cb41d0643f8a5a7fb4eb9876d4d75c5a00092d1362fed164bf0a",
+        "width": 265,
+        "height": 398,
+        "alt": "창덕7857_석제 '연경재장서인' 인장(1).jpg",
+        "file": "content/images/book-owner-seal.jpg",
+        "license": "공공누리 제1유형(출처표시)",
+        "license_url": "https://www.kogl.or.kr/info/licenseType1.do",
+        "note": "소장품 상세 페이지에서 공공누리 제1유형 확인. 공개 이미지 그대로 저장. 고해상도 신청서 제출 없음."
+      },
+      "editorial_limits": "원문에 헌종 재위 시작 연도 오기가 있어 재위 연도는 사용하지 않음. 사용자 헌종 추정을 확정 표현으로 바꾸지 않음."
+    },
+    {
+      "id": "crane-embroidered-badge",
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=376760",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=376760",
+          "status": 200,
+          "sha256": "fefcc26f9fe0fa28aaf96a66f8c74318e4775b278fe2efc7bdfbba12137e577d",
+          "title": "국립고궁박물관 — 쌍학무늬 흉배(궁중115)",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "문관 당상관 관복에 사용한 흉배",
+            "불로초를 물고 마주 보는 두 학의 자수",
+            "비단 바탕과 여러 색 실"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        },
+        {
+          "url": "https://www.gogung.go.kr/gogung/bbs/BMSR00002/view.do?menuNo=800040&boardId=5359",
+          "final_url": "https://www.gogung.go.kr/gogung/bbs/BMSR00002/view.do?menuNo=800040&boardId=5359",
+          "status": 200,
+          "sha256": "8f8d285643733598db9c329e059ba94f62533b23af1ee9f66a7997b343b78ea8",
+          "title": "국립고궁박물관 — 아름다운 궁중 자수",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "관복 흉배의 무늬와 계급의 관계",
+            "궁중 화원과 자수 장인의 분업"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=29bb26fb69894c35b969def34563e3a4&fileSn=30367&thumb=Y",
+        "final_url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=29bb26fb69894c35b969def34563e3a4&fileSn=30367&thumb=Y",
+        "sha256": "eb36e75616153b182b8fa0f2432b31cbf3b45f6a849fe6df025662ae7c8e3e3a",
+        "width": 938,
+        "height": 1406,
+        "alt": "쌍학무늬 흉배",
+        "file": "content/images/crane-embroidered-badge.jpg",
+        "license": "공공누리 제1유형(출처표시)",
+        "license_url": "https://www.kogl.or.kr/info/licenseType1.do",
+        "note": "소장품 상세 페이지에서 공공누리 제1유형 확인. 공개 이미지 그대로 저장. 고해상도 신청서 제출 없음."
+      },
+      "editorial_limits": "사진은 흉배의 세부 사진. 모든 시대의 새 수와 품계가 일률적이라는 설명은 하지 않음."
+    },
+    {
+      "id": "maehwa-portable-toilet",
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367936",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367936",
+          "status": 200,
+          "sha256": "6352915203a17574007d76e46de873b542c627647acc69615e2fac6064854eca",
+          "title": "국립고궁박물관 — 매화틀(창덕26414)",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "왕실에서 사용한 이동식 변기",
+            "직물로 싼 나무틀과 분리 가능한 용기",
+            "발받침과 등받이용 홈"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        },
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367935",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367935",
+          "status": 200,
+          "sha256": "335857ec775b7223e05ddce07e12a2b7d6fb2ab1d518d3b2ded9eafc090f5de3",
+          "title": "국립고궁박물관 — 왕실 이동식 변기",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "금속 용기 안의 재가 소리와 냄새를 줄였다는 설명"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00021220PB&fileSn=18775&thumb=Y",
+        "final_url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00021220PB&fileSn=18775&thumb=Y",
+        "sha256": "95693622a045499e3c000703273eb9fb38637c7186315f1a0276634531ba52b7",
+        "width": 265,
+        "height": 176,
+        "alt": "창덕26414 (1).jpg",
+        "file": "content/images/maehwa-portable-toilet.jpg",
+        "license": "공공누리 제1유형(출처표시)",
+        "license_url": "https://www.kogl.or.kr/info/licenseType1.do",
+        "note": "소장품 상세 페이지에서 공공누리 제1유형 확인. 공개 이미지 그대로 저장. 고해상도 신청서 제출 없음."
+      },
+      "editorial_limits": "용기의 재에 관한 설명은 별도 소장품 상세 설명으로 보완. 이름의 어원·특정 왕의 사용 장면·시중 절차는 추정해 넣지 않음."
+    },
+    {
+      "id": "engelbart-mouse-demo",
+      "sources": [
+        {
+          "url": "https://www.internethalloffame.org/inductee/douglas-engelbart/",
+          "final_url": "https://www.internethalloffame.org/inductee/douglas-engelbart/",
+          "status": 200,
+          "sha256": "c9876be628a9ba2d9034ba6660ced6a4ecf4d524fa077194498b0ffa9b895f31",
+          "title": "Internet Hall of Fame — Douglas Engelbart",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "1963년 SRI 증강연구센터와 NLS",
+            "1968년 시연에서 소개한 협업·하이퍼텍스트·마우스",
+            "마우스를 더 큰 작업 환경의 일부로 설명"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "file": "content/illustrations/engelbart-mouse-demo.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "5b07c59803655721ac48f9d9757f94f27b779121285a7a7d33bddf9b46466345",
+        "note": "일러스트로 생성. 역사 사진·유물 실측도·실험 결과로 사용하지 않음. JPEG 변환만 수행."
+      },
+      "editorial_limits": "삽화는 일반적인 마우스이며 최초 시제품 외형을 재현하지 않음. 이름의 어원과 최초 판매 시점은 다루지 않음."
+    },
+    {
+      "id": "python-comedy-name",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/python/cpython/main/Doc/faq/general.rst",
+          "final_url": "https://raw.githubusercontent.com/python/cpython/main/Doc/faq/general.rst",
+          "status": 200,
+          "sha256": "75a7f99f77a4b4d98e01eb0e6add0679703ddffdb7a6eb799ccc4154c7d800f0",
+          "title": "Python 공식 FAQ — Why is it called Python?",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "귀도 판 로섬이 몬티 파이썬 대본을 읽던 중 이름을 정함",
+            "짧고 독특하며 약간 신비로운 이름을 원했다는 설명"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "file": "content/illustrations/python-comedy-name.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "08a4c46c2edff489922928915d3f6ec195d94ed797a7e66db20e8b29b2c6aff9",
+        "note": "일러스트로 생성. 역사 사진·유물 실측도·실험 결과로 사용하지 않음. JPEG 변환만 수행."
+      },
+      "editorial_limits": "공식 FAQ 원문 저장소 파일을 실제 읽음. 뱀에서 이름을 지었다고 설명하지 않음."
+    },
+    {
+      "id": "ai-clothing-labels",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/tensorflow/docs/master/site/en/tutorials/keras/classification.ipynb",
+          "final_url": "https://raw.githubusercontent.com/tensorflow/docs/master/site/en/tutorials/keras/classification.ipynb",
+          "status": 200,
+          "sha256": "a920bf50382ac731eb31a1aef5b02216eaf87c357c5f434c9a34a8437295673c",
+          "title": "TensorFlow 공식 입문 안내 — Basic classification: Classify images of clothing",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "Fashion MNIST의 28×28 회색조 옷 이미지 7만 장과 10개 분류",
+            "학습 6만 장과 시험 1만 장의 구분",
+            "정답표와 사진을 이용한 분류 학습",
+            "높은 확신으로도 오답을 낼 수 있다는 안내"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "file": "content/illustrations/ai-clothing-labels.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "39c71c04847e4d7d286431e4b9596c723722c5d4ec88c27cb39d7141d0d344d4",
+        "note": "일러스트로 생성. 역사 사진·유물 실측도·실험 결과로 사용하지 않음. JPEG 변환만 수행."
+      },
+      "editorial_limits": "공식 입문 예제의 원리 설명이며 이 작업에서 모델을 실행하거나 정확도를 측정하지 않음. 삽화는 실제 데이터셋 샘플이 아님."
+    },
+    {
+      "id": "troy-ounce-weight",
+      "sources": [
+        {
+          "url": "https://www.royalmint.com/faqs/bullion/what-is-a-troy-ounce/",
+          "final_url": "https://www.royalmint.com/faqs/bullion/what-is-a-troy-ounce/",
+          "status": 200,
+          "sha256": "4dc419a6c1a9d4ea0df5c5a7ce45dd83ec85c937d046d9e809b69bb571ca92e8",
+          "title": "The Royal Mint — What is a troy oz?",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "귀금속 무게에 쓰이는 트로이온스",
+            "트로이온스 31.1035g과 일반 온스 약 28.35g",
+            "금속 가격과 제품의 온스 단위에 관한 안내"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "file": "content/illustrations/troy-ounce-weight.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-27",
+        "sha256": "a156cf3965ebd6ba3a436fd8caa6569cb572c6f3b032d2d880201a1554652932",
+        "note": "일러스트로 생성. 역사 사진·유물 실측도·실험 결과로 사용하지 않음. JPEG 변환만 수행."
+      },
+      "editorial_limits": "무게 단위 설명만 다룸. 이름의 도시 기원설·금값 전망·상품 추천은 넣지 않음."
+    },
+    {
+      "id": "bowl-sundial",
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=360654",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=360654",
+          "status": 200,
+          "sha256": "449bec9598f45a910d99a7be524345fe8fc3da54e3fab4232dc519bd9d8a2e2e",
+          "title": "국립고궁박물관 — 앙부일구(창덕12944)",
+          "checked_at": "2026-10-27",
+          "checked_facts": [
+            "청동 반구형 시반과 북극을 향한 영침",
+            "시간선과 24절기를 나타내는 13개 계절선",
+            "동지선과 하지선의 위치",
+            "세종대 첫 제작과 혜정교·종묘 남쪽 거리 설치"
+          ],
+          "method": "저장한 원문 본문을 읽고 원고의 해당 주장과 대조. 원문 전체는 저장소에 재배포하지 않음."
+        }
+      ],
+      "image": {
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=123LJE&fileSn=27520&thumb=Y",
+        "final_url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=123LJE&fileSn=27520&thumb=Y",
+        "sha256": "c10cd2fa8d294f3fcdd61621b3f2a99bd1f2641eaafd7cf5bb7a9809db4d39a9",
+        "width": 587,
+        "height": 360,
+        "alt": "앙부일구",
+        "file": "content/images/bowl-sundial.jpg",
+        "license": "공공누리 제1유형(출처표시)",
+        "license_url": "https://www.kogl.or.kr/info/licenseType1.do",
+        "note": "소장품 상세 페이지에서 공공누리 제1유형 확인. 공개 이미지 그대로 저장. 고해상도 신청서 제출 없음."
+      },
+      "editorial_limits": "앙부일구 최초 제작의 역사와 현존 소장품의 제작 시기를 구분. 사진만으로 실제 시각을 읽을 수 있다고 주장하지 않음."
+    }
+  ]
+}

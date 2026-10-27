@@ -129,7 +129,9 @@ def check():
                         assert abs(ratio["display"] - ratio["natural"]) < 0.01, "Artwork aspect ratio changed"
                         assert story["image"]["license"] in viewport.locator("figcaption").inner_text()
                         assert viewport.locator("figcaption a").first.get_attribute("href") == story["image"]["source_url"]
-                        capture(viewport, "dokseodang-desktop.png" if viewport is page else "dokseodang-mobile.png")
+                        if story["id"] in ("dokseodang-gathering", "bowl-sundial"):
+                            prefix = "dokseodang" if story["id"] == "dokseodang-gathering" else "bowl-sundial"
+                            capture(viewport, prefix + ("-desktop.png" if viewport is page else "-mobile.png"))
             # Site remains readable without JavaScript.
             plain = browser.new_context(java_script_enabled=False, viewport={"width": 390, "height": 844})
             n = plain.new_page()
