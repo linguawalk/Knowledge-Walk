@@ -37,7 +37,7 @@ jobs:
     env:
       TZ: Asia/Seoul
       QUEUE_BRANCH: drafts/review-queue
-      SUMMARY_FILE: ${{ runner.temp }}/knowledgewalk-generation-summary.json
+      SUMMARY_NAME: knowledgewalk-generation-summary.json
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
@@ -51,7 +51,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           REQUESTED_DRY_RUN: ${{ inputs.dry_run }}
         run: |
-          python3 tools/daily_generation.py --dry-run --summary-file "$SUMMARY_FILE"
+          python3 tools/daily_generation.py --dry-run --summary-file "$RUNNER_TEMP/$SUMMARY_NAME"
           python3 - <<'PY'
           import json, os
           from pathlib import Path
@@ -89,7 +89,7 @@ jobs:
         continue-on-error: true
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python3 tools/daily_generation.py --checkpoint-git --summary-file "$SUMMARY_FILE"
+        run: python3 tools/daily_generation.py --checkpoint-git --summary-file "$RUNNER_TEMP/$SUMMARY_NAME"
       - name: Save completed and partial work for human review
         if: always() && steps.mode.outputs.run_live == 'true' && steps.branch.outcome == 'success' && (steps.generate.outcome == 'success' || steps.generate.outcome == 'failure')
         run: |
@@ -107,7 +107,7 @@ jobs:
           python3 - <<'PY'
           import json, os
           from pathlib import Path
-          p = Path(os.environ['SUMMARY_FILE'])
+          p = Path(os.environ['RUNNER_TEMP']) / os.environ['SUMMARY_NAME']
           data = json.loads(p.read_text()) if p.exists() else {'status': 'setup_failed', 'generated': 0}
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as out:
               out.write('# KnowledgeWalk — 아침 검토 목록\n')
