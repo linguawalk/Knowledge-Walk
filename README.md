@@ -2,7 +2,7 @@
 
 익숙한 세상의 사물·장소·이름에 얽힌 작은 이야기를 읽는 사이트입니다. WordPress와 별도 데이터베이스 없이, 콘텐츠 파일에서 HTML을 생성합니다. 작업 범위는 `linguawalk/Knowledge-Walk` 한 저장소입니다.
 
-현재 단계: **홈페이지 게시·도메인 전환·HTTPS 접속 확인 완료 / HTTPS 강제 설정 대기**. 공개 대상 28편을 실제 게시하고 웹 응답을 확인했습니다. Hostinger의 ALIAS/CNAME 변경이 반영되어 `https://knowledgewalk.net/`에서 공개 28편이 제공됩니다. `www`의 HTTPS 이동도 확인했습니다. GitHub의 Enforce HTTPS 체크 항목만 남아 있습니다. [현재 상태와 남은 작업](docs/domain-migration.md)을 확인합니다. 정기 AI 생성과 예약 게시 주기는 설정하지 않았습니다.
+현재 단계: **홈페이지 게시·도메인 전환·HTTPS 접속 확인 완료 / HTTPS 강제 설정 대기**. 공개 대상 28편을 실제 게시하고 웹 응답을 확인했습니다. Hostinger의 ALIAS/CNAME 변경이 반영되어 `https://knowledgewalk.net/`에서 공개 28편이 제공됩니다. `www`의 HTTPS 이동도 확인했습니다. GitHub의 Enforce HTTPS 체크 항목만 남아 있습니다. [현재 상태와 남은 작업](docs/domain-migration.md)을 확인합니다. 매일 오전 9시 초안 30편의 예약 설정은 준비했으나 AI 연결 전으로 비활성입니다. 사용자 확인 없는 자동 게시는 하지 않습니다.
 
 ## 준비된 화면
 
