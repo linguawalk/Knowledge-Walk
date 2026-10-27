@@ -83,6 +83,7 @@ def validate(categories, stories, root=ROOT):
         seen.add(sid)
         for key in ("title", "subtitle", "summary"):
             text(story.get(key), key)
+        require(type(story.get("featured", False)) is bool, "featured must be boolean")
         cid = story.get("category")
         require(cid in category_map, f"Unknown category: {sid}")
         require(story.get("subcategory") in category_map[cid]["children"], f"Unknown subcategory: {sid}")
@@ -125,6 +126,8 @@ class Site:
         self.category_map = {c["id"]: c for c in categories}
         self.preview = preview
         self.stories = [s for s in stories if s["status"] != "rejected" and (preview or publishable(s))]
+        positions = {category["id"]: i for i, category in enumerate(categories)}
+        self.stories.sort(key=lambda s: (not s.get("featured", False), positions[s["category"]], s["id"]))
         self.files = {}
 
     def link(self, page, target):

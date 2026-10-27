@@ -72,7 +72,8 @@ class SiteTests(unittest.TestCase):
             parser = Links()
             parser.feed(path.read_text())
             self.assertTrue(parser.noindex, str(path))
-        self.assertEqual(len(builder.read_json(output / "search-index.json")), 1)
+        self.assertEqual(len(builder.read_json(output / "search-index.json")),
+                         len(list((ROOT / "content/stories").glob("*.json"))))
         self.assertTrue((output / "media/venice-winged-lion.jpg").exists())
 
     def test_revoking_a_story_rebuilds_clean_output(self):
@@ -121,6 +122,17 @@ class SiteTests(unittest.TestCase):
         moved = {**self.story, "category": "culture", "subcategory": "Art"}
         builder.validate(self.categories, [moved])
         self.assertEqual(site.story_path(self.story), site.story_path(moved))
+
+    def test_featured_draft_cannot_displace_approved_story(self):
+        draft = {**self.story, "featured": True}
+        approved = self.approved_fixture()
+        approved.update(id="approved-fixture", title="A verified fixture", featured=False)
+        builder.validate(self.categories, [draft, approved])
+        site = builder.Site(self.categories, [draft, approved])
+        files = site.render()
+        self.assertEqual([s["id"] for s in site.stories], ["approved-fixture"])
+        self.assertNotIn(draft["title"], files["index.html"])
+        self.assertIn(approved["title"], files["index.html"])
 
     def test_text_is_escaped(self):
         story = copy.deepcopy(self.story)

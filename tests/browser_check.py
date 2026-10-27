@@ -31,6 +31,17 @@ def check():
     shots = ROOT / "docs/previews"
     shots.mkdir(exist_ok=True, parents=True)
     errors = []
+    story_count = len(list((ROOT / "content/stories").glob("*.json")))
+    stories = [json.loads(path.read_text()) for path in sorted((ROOT / "content/stories").glob("*.json"))]
+    def capture(page, filename):
+        # Full-page screenshots must also load images below the viewport.
+        page.evaluate("""async () => {
+          const images = [...document.images];
+          images.forEach(image => { image.loading = 'eager'; });
+          await Promise.all(images.map(image => image.decode()));
+          if (images.some(image => !image.naturalWidth)) throw new Error('Image not loaded');
+        }""")
+        page.screenshot(path=str(shots / filename), full_page=True)
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch(executable_path="/usr/bin/chromium", args=["--no-sandbox"])
@@ -45,7 +56,7 @@ def check():
             assert page.locator(".field-card").count() == 8
             assert page.locator(".nav-group li a").count() == 51
             assert page.locator(".feature-image img").evaluate("img => img.complete && img.naturalWidth > 0")
-            page.screenshot(path=str(shots / "home-desktop.png"), full_page=True)
+            capture(page, "home-desktop.png")
             page.locator(".nav-group summary").nth(1).click()
             assert page.locator(".nav-group").nth(1).get_attribute("open") is not None
             page.keyboard.press("Escape")
@@ -58,7 +69,7 @@ def check():
             assert page.locator(".prose h2").count() == 3
             assert page.locator(".article-image img").evaluate("img => img.naturalWidth > 0")
             assert "실제 조각상" in page.locator("figcaption").inner_text()
-            page.screenshot(path=str(shots / "story-desktop.png"), full_page=True)
+            capture(page, "story-desktop.png")
             page.locator(".article-toc a").last.click()
             page.wait_for_timeout(500)
             assert "#part-3" in page.url
@@ -70,11 +81,11 @@ def check():
             page.locator("#category-filter").select_option("history")
             assert page.locator("#search-empty").is_visible()
             page.locator("#reset-search").click()
-            assert page.locator("#search-results .story-card").count() == 1
+            assert page.locator("#search-results .story-card").count() == story_count
             page.locator("#query").fill('<img src=x onerror=alert(1)>')
             assert page.locator("#search-empty").is_visible()
             assert page.locator("img[onerror]").count() == 0
-            visit("/categories/history/korea/index.html")
+            visit("/categories/history/africa/index.html")
             assert page.locator(".empty-state").is_visible()
             assert page.locator(".story-card").count() == 0
             mobile = browser.new_context(viewport={"width": 390, "height": 844}, device_scale_factor=1, is_mobile=True, has_touch=True)
@@ -83,7 +94,7 @@ def check():
             m.goto(base + "/index.html", wait_until="networkidle")
             assert m.evaluate("document.documentElement.scrollWidth <= innerWidth")
             assert not m.locator(".main-nav").is_visible()
-            m.screenshot(path=str(shots / "home-mobile.png"), full_page=True)
+            capture(m, "home-mobile.png")
             m.locator(".menu-button").click()
             assert m.locator(".main-nav").is_visible()
             m.locator(".nav-group summary").nth(1).click()
@@ -94,7 +105,14 @@ def check():
             m.wait_for_load_state("networkidle")
             assert m.evaluate("document.documentElement.scrollWidth <= innerWidth")
             assert m.locator(".article-image img").evaluate("img => img.naturalWidth > 0")
-            m.screenshot(path=str(shots / "story-mobile.png"), full_page=True)
+            capture(m, "story-mobile.png")
+            for story in stories:
+                for viewport in (page, m):
+                    viewport.goto(base + "/stories/" + story["id"] + "/index.html", wait_until="networkidle")
+                    assert viewport.locator("h1").inner_text() == story["title"]
+                    assert viewport.locator(".article-image img").evaluate("img => img.complete && img.naturalWidth > 0")
+                    assert viewport.locator(".draft-notice").is_visible()
+                    assert viewport.evaluate("document.documentElement.scrollWidth <= innerWidth"), story["id"]
             # Site remains readable without JavaScript.
             plain = browser.new_context(java_script_enabled=False, viewport={"width": 390, "height": 844})
             n = plain.new_page()
@@ -111,7 +129,7 @@ def check():
             browser.close()
         assert not errors, errors
         print("PASS: desktop/mobile navigation, Korean full-text search, filters/reset, images, reading anchors, empty categories, no-JS reading and production draft exclusion.")
-        print("Saved 4 screenshots under docs/previews/. No browser JavaScript errors.")
+        print(f"Checked {story_count} story pages on desktop and mobile; saved 4 screenshots with all images loaded. No browser JavaScript errors.")
     finally:
         for server in (preview, production):
             server.shutdown()
