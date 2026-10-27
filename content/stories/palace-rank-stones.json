@@ -5,7 +5,7 @@
   "category": "history",
   "subcategory": "Korea",
   "summary": "궁궐 앞마당에 줄지어 선 낮은 돌들. 비석처럼 생겼지만 누군가를 기리는 물건은 아닙니다.",
-  "status": "draft",
+  "status": "review",
   "publication_ready": false,
   "source_review": "pending",
   "approved_by": null,
@@ -14,6 +14,12 @@
     {
       "title": "궁능유적본부 — 품계석 관련 자료 확인 후보",
       "url": "https://royal.khs.go.kr/",
+      "verified": false,
+      "checked_at": null
+    },
+    {
+      "title": "국가유산포털 — 품계석 관련 추가 조사 후보",
+      "url": "https://www.heritage.go.kr/",
       "verified": false,
       "checked_at": null
     }

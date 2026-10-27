@@ -134,6 +134,27 @@ class SiteTests(unittest.TestCase):
         self.assertNotIn(draft["title"], files["index.html"])
         self.assertIn(approved["title"], files["index.html"])
 
+    def test_checked_sources_do_not_grant_publication_approval(self):
+        story = self.approved_fixture()
+        story.update(status="review", publication_ready=False, approved_by=None, approved_at=None)
+        builder.validate(self.categories, [story])
+        self.assertFalse(builder.publishable(story))
+        files = builder.Site(self.categories, [story], preview=True).render()
+        page = files["stories/venice-winged-lion/index.html"]
+        self.assertIn("자료 대조를 마친", page)
+        self.assertIn("공개 게시 승인은 아직", page)
+        self.assertNotIn("게시 전 출처 확인이 남아", page)
+        self.assertNotIn("stories/venice-winged-lion/index.html", builder.Site(self.categories, [story]).render())
+
+    def test_verified_flag_requires_actual_checked_source_records(self):
+        story = self.approved_fixture()
+        story.update(status="review", publication_ready=False, approved_by=None, approved_at=None, sources=[])
+        with self.assertRaises(ValueError):
+            builder.validate(self.categories, [story])
+        story["sources"] = [{"title": "Candidate", "url": "https://example.org/", "verified": False}]
+        with self.assertRaises(ValueError):
+            builder.validate(self.categories, [story])
+
     def test_text_is_escaped(self):
         story = copy.deepcopy(self.story)
         story["body"][0]["paragraphs"].append('<script>alert("not HTML")</script>')

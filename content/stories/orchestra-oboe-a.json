@@ -5,15 +5,33 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "연주자들이 내는 제각각의 소리 사이로 길게 들리는 한 음. 공연 전 조율에도 순서가 있습니다.",
-  "status": "draft",
+  "status": "review",
   "publication_ready": false,
   "source_review": "pending",
   "approved_by": null,
   "approved_at": null,
   "sources": [
     {
-      "title": "필하모니아 오케스트라 — 오보에 안내 확인 후보",
+      "title": "Philharmonia — Oboe",
       "url": "https://philharmonia.co.uk/resources/instruments/oboe/",
+      "checked_at": "2026-10-27",
+      "verified": true,
+      "supports": [
+        "오보에의 이중 리드와 목관악기 구조; 조율 기준 선택의 근거는 추가 확인 중"
+      ]
+    },
+    {
+      "title": "Philharmonia — Orchestral concerts: a 60-second beginner’s guide",
+      "url": "https://philharmonia.co.uk/orchestral-concerts-a-60-second-beginners-guide/",
+      "checked_at": "2026-10-27",
+      "verified": true,
+      "supports": [
+        "공연 전 악장이 조율을 지시한다는 절차"
+      ]
+    },
+    {
+      "title": "Yamaha Musical Instrument Guide — 조율 관련 추가 조사 후보",
+      "url": "https://www.yamaha.com/en/musical_instrument_guide/oboe/structure/structure002.html",
       "verified": false,
       "checked_at": null
     }

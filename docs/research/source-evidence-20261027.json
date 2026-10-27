@@ -1,0 +1,194 @@
+{
+  "checked_at": "2026-10-27",
+  "sources": [
+    {
+      "id": "flamingo",
+      "title": "Smithsonian’s National Zoo — American flamingo",
+      "url": "https://nationalzoo.si.edu/animals/american-flamingo",
+      "requested_url": "https://nationalzoo.si.edu/animals/american-flamingo",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "b16470af01f01df86ffa34e2a04bb993a4df6bee17d1ea33f3aec00ece07399d",
+      "supports": [
+        "어린 새의 흰 솜털과 성장·털갈이에 따른 변화",
+        "얕은 물에서의 먹이 섭취와 부리의 여과 기능"
+      ],
+      "evidence_excerpt": "Chicks hatch covered with white down"
+    },
+    {
+      "id": "flamingo-pink",
+      "title": "Smithsonian’s National Zoo — Why Are Flamingos Pink? And Other Flamingo Facts",
+      "url": "https://nationalzoo.si.edu/animals/news/why-are-flamingos-pink-and-other-flamingo-facts",
+      "requested_url": "https://nationalzoo.si.edu/animals/news/why-are-flamingos-pink-and-other-flamingo-facts",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "b9fd32023739227b18b5af27b2fa65f18de92fe3679fb3015830b9b31d00220d",
+      "supports": [
+        "먹이의 카로티노이드와 분홍빛 깃털",
+        "새끼의 흰색·회색 솜털, 조류·갑각류 등의 먹이"
+      ],
+      "evidence_excerpt": "Flamingos get their pink color from their food."
+    },
+    {
+      "id": "lego-beginning",
+      "title": "LEGO History — The beginning of the LEGO Group",
+      "url": "https://www.lego.com/en-us/history/articles/b-the-beginning-of-the-lego-group",
+      "requested_url": "https://www.lego.com/en-us/history/articles/b-the-beginning-of-the-lego-group",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "6b12000af8ca8346e4fd2d665520a23bb63694da2fca7422252f973b9ca5d54e",
+      "supports": [
+        "목재 장난감에서 출발한 사업",
+        "LEG GODT와 Play Well이라는 이름의 뜻; 초안의 1934년 단정 삭제"
+      ],
+      "evidence_excerpt": "The new name is officially used from January 1936."
+    },
+    {
+      "id": "lego-founder",
+      "title": "LEGO History — Ole Kirk Kristiansen settles in Billund",
+      "url": "https://www.lego.com/en-us/history/articles/ole-kirk-kristiansen-settles-in-billund",
+      "requested_url": "https://www.lego.com/en-us/history/articles/ole-kirk-kristiansen-settles-in-billund",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "7383b2792839d02d3ac29f04a8d6c889004144d513470868c0eb49509a0946ac",
+      "supports": [
+        "창업자의 목공 일과 빌룬 정착"
+      ],
+      "evidence_excerpt": "Ole Kirk Kristiansen"
+    },
+    {
+      "id": "lego-stud",
+      "title": "LEGO History — The stud and tube principle",
+      "url": "https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle",
+      "requested_url": "https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "1772c0f7ae4cc8d447ea64ae7cee5c42fdbfe10a593dc624bc483606ccd964c3",
+      "supports": [
+        "돌기와 튜브의 맞물림, 블록 결합과 안정성"
+      ],
+      "evidence_excerpt": "Combined, the studs and tubes create clutch power."
+    },
+    {
+      "id": "saint-mark",
+      "title": "Basilica di San Marco — San Marco Evangelista",
+      "url": "https://www.basilicasanmarco.it/storia/san-marco-evangelista/",
+      "requested_url": "https://www.basilicasanmarco.it/storia/san-marco-evangelista/",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "274ac92b26b923edbcc86114f919aeeaa2670c7da8281b8307cd72286ae0859a",
+      "supports": [
+        "성 마르코의 수호성인 지위와 날개 달린 사자·책의 도상",
+        "책에 쓰이는 평화의 문구; 전승과 신앙에 관한 서술은 역사 사실로 확장하지 않음"
+      ],
+      "evidence_excerpt": "Pax Tibi Marce Evangelista Meus"
+    },
+    {
+      "id": "basilica-facade",
+      "title": "Basilica di San Marco — La decorazione delle facciate",
+      "url": "https://www.basilicasanmarco.it/basilica/scultura-2/la-decorazione-delle-facciate/",
+      "requested_url": "https://www.basilicasanmarco.it/basilica/scultura-2/la-decorazione-delle-facciate/",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "90589786bb14140804f2b03dab6a501ca4f021eec57b3fa8aaa57c0d1d4bd5dc",
+      "supports": [
+        "대성당 정면 상부의 성 마르코 사자 장식"
+      ],
+      "evidence_excerpt": "vi è un leone di San Marco"
+    },
+    {
+      "id": "tomlinson-bio",
+      "title": "Internet Hall of Fame — Official Biography: Raymond Tomlinson",
+      "url": "https://www.internethalloffame.org/official-biography-raymond-tomlinson/",
+      "requested_url": "https://www.internethalloffame.org/official-biography-raymond-tomlinson/",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "7e8ad95d8e58e8a9e3dab1a134ecb74f7f58b0e1dd538acaf45d816c0389798e",
+      "supports": [
+        "1971년 ARPANET 네트워크 전자우편과 SNDMSG·CPYNET",
+        "사용자와 호스트를 구분하는 @의 선택"
+      ],
+      "evidence_excerpt": "In 1971, he developed ARPANET’s first application for network email"
+    },
+    {
+      "id": "email-timeline",
+      "title": "Internet Hall of Fame — Ray Tomlinson Invents Email",
+      "url": "https://www.internethalloffame.org/timeline/ray-tomlinson-invents-email/",
+      "requested_url": "https://www.internethalloffame.org/timeline/ray-tomlinson-invents-email/",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "7a68c48722fd8464ef804e07eeb7d002a7aa3aea4b781b95b73b2ac4503fb387",
+      "supports": [
+        "모델 33 텔레타이프의 기존 문장부호 키에서 @를 선택"
+      ],
+      "evidence_excerpt": "The “@” sign is chosen from the punctuation keys"
+    },
+    {
+      "id": "popcorn-how",
+      "title": "USDA National Agricultural Library — How does popcorn pop?",
+      "url": "https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/popcorn/how-does-popcorn-pop-",
+      "requested_url": "https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/popcorn/how-does-popcorn-pop-",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "c4db9941274a92c44c9ebdcbdc1843ef8462b41e21f8c7c3104c16c064e68036",
+      "supports": [
+        "알갱이 안의 수분과 전분, 가열·압력·껍질 파열에 따른 팽창"
+      ],
+      "evidence_excerpt": "A kernel of popcorn does contain a small amount of water"
+    },
+    {
+      "id": "popcorn-table",
+      "title": "USDA National Agricultural Library — From the Field to the Table",
+      "url": "https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/popcorn/from-the-field-to-the-table",
+      "requested_url": "https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/popcorn/from-the-field-to-the-table",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "bb766f055400530d732dccec7e6e105e00fc55c31ff4a43b3b783fc7a47eeee5",
+      "supports": [
+        "수확 후 수분 조절과 건조",
+        "손상된 알갱이와 이물질을 골라내는 가공 과정"
+      ],
+      "evidence_excerpt": "remove any damaged kernels or debris."
+    },
+    {
+      "id": "oboe",
+      "title": "Philharmonia — Oboe",
+      "url": "https://philharmonia.co.uk/resources/instruments/oboe/",
+      "requested_url": "https://philharmonia.co.uk/resources/instruments/oboe/",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "f336efb6d18a72c6bff80cee4341943c3a960eb6cc733767feb1c77d86a4f87a",
+      "supports": [
+        "오보에의 이중 리드와 목관악기 구조; 조율 기준 선택의 근거는 추가 확인 중"
+      ],
+      "evidence_excerpt": "The Oboe and the Cor Anglais (or English Horn) are wooden conical bore, double reed instruments."
+    },
+    {
+      "id": "oboe-beginners",
+      "title": "Philharmonia — Orchestral concerts: a 60-second beginner’s guide",
+      "url": "https://philharmonia.co.uk/orchestral-concerts-a-60-second-beginners-guide/",
+      "requested_url": "https://philharmonia.co.uk/orchestral-concerts-a-60-second-beginners-guide/",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "dfe1a0daf187b1e2ba7be4696f5871021b3b066b95c743ce99475527021c9f8c",
+      "supports": [
+        "공연 전 악장이 조율을 지시한다는 절차"
+      ],
+      "evidence_excerpt": "Their first job is to signal the orchestra to tune"
+    },
+    {
+      "id": "mint-newton",
+      "title": "The Royal Mint — Sir Isaac Newton and The Royal Mint",
+      "url": "https://www.royalmint.com/stories/commemorate/sir-isaac-newton-and-the-royal-mint/",
+      "requested_url": "https://www.royalmint.com/stories/commemorate/sir-isaac-newton-and-the-royal-mint/",
+      "checked_at": "2026-10-27",
+      "http_status": 200,
+      "response_sha256": "1609b1ca4ef41389002ab77d1dc7c3470b4098f06701b44815a15eb761e83dfa",
+      "supports": [
+        "클리핑과 위조 범죄가 존재했고 단속 대상이었다는 역사; 테두리 무늬의 도입 이유는 추가 확인 중"
+      ],
+      "evidence_excerpt": "those who clipped and counterfeited the coin of the realm."
+    }
+  ],
+  "note": "원문은 조사 임시 폴더에서 열람했다. 저장소에는 확인 항목과 짧은 근거 발췌만 남긴다. 자료 대조와 사용자 게시 승인은 별개다."
+}

@@ -5,17 +5,39 @@
   "category": "companies",
   "subcategory": "Technology",
   "summary": "익숙한 네 글자 안에 덴마크어로 놀이에 관한 뜻이 숨어 있습니다. 이름부터 먼저 들여다보는 레고 이야기.",
-  "status": "draft",
+  "status": "review",
   "publication_ready": false,
-  "source_review": "pending",
+  "source_review": "verified",
   "approved_by": null,
   "approved_at": null,
   "sources": [
     {
-      "title": "LEGO 공식 역사 — 이름과 초기 제품 관련 자료 확인 후보",
-      "url": "https://www.lego.com/en-us/history",
-      "verified": false,
-      "checked_at": null
+      "title": "LEGO History — The beginning of the LEGO Group",
+      "url": "https://www.lego.com/en-us/history/articles/b-the-beginning-of-the-lego-group",
+      "checked_at": "2026-10-27",
+      "verified": true,
+      "supports": [
+        "목재 장난감에서 출발한 사업",
+        "LEG GODT와 Play Well이라는 이름의 뜻; 초안의 1934년 단정 삭제"
+      ]
+    },
+    {
+      "title": "LEGO History — Ole Kirk Kristiansen settles in Billund",
+      "url": "https://www.lego.com/en-us/history/articles/ole-kirk-kristiansen-settles-in-billund",
+      "checked_at": "2026-10-27",
+      "verified": true,
+      "supports": [
+        "창업자의 목공 일과 빌룬 정착"
+      ]
+    },
+    {
+      "title": "LEGO History — The stud and tube principle",
+      "url": "https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle",
+      "checked_at": "2026-10-27",
+      "verified": true,
+      "supports": [
+        "돌기와 튜브의 맞물림, 블록 결합과 안정성"
+      ]
     }
   ],
   "image": {
@@ -37,7 +59,7 @@
       "heading": "블록보다 이름이 먼저였다",
       "paragraphs": [
         "레고의 창업자 올레 키르크 크리스티안센은 덴마크 빌룬에서 목공 일을 하며 장난감을 만들었다. 초기의 제품은 오늘날 우리가 떠올리는 플라스틱 블록만으로 이루어진 세계와 달랐다. 나무 장난감이 있었다.",
-        "레고라는 이름이 선택된 것은 1934년이다. 지금의 블록 모양을 보고 그 특징에 맞추어 지은 이름이 아니었다. 놀이에 관한 이름을 먼저 갖고, 그 아래에서 장난감이 달라져 간 것이다.",
+        "레고라는 이름은 오늘날의 플라스틱 블록 모양을 보고 그 특징에 맞추어 지은 것이 아니었다. 공식 연혁은 목재 장난감을 만들던 시기에 덴마크어 LEG GODT를 조합해 이름을 정했다고 설명한다. 놀이에 관한 이름을 먼저 갖고, 그 아래에서 장난감이 달라져 간 것이다.",
         "이 사실을 알면 익숙한 이름이 조금 새롭게 들린다. 우리는 보통 레고를 보면 바로 블록을 떠올린다. 하지만 이름이 생겼을 때부터 지금의 모든 제품이 정해져 있었던 것은 아니다.",
         "오랫동안 쓰인 이름에는 그런 시간이 접혀 있다. 오늘의 물건만 보고 과거까지 같은 모습이었을 것이라고 생각하면 놓치는 부분이다. 레고의 경우에는 이름이 장난감의 재료 변화보다 오래 남았다."
       ]

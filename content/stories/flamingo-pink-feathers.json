@@ -5,17 +5,31 @@
   "category": "science",
   "subcategory": "Biology",
   "summary": "분홍색 새 하면 떠오르는 플라밍고. 하지만 그 색은 태어날 때부터 완성된 것이 아닙니다.",
-  "status": "draft",
+  "status": "review",
   "publication_ready": false,
-  "source_review": "pending",
+  "source_review": "verified",
   "approved_by": null,
   "approved_at": null,
   "sources": [
     {
-      "title": "스미스소니언 국립동물원 — 아메리카플라밍고 안내 확인 후보",
+      "title": "Smithsonian’s National Zoo — American flamingo",
       "url": "https://nationalzoo.si.edu/animals/american-flamingo",
-      "verified": false,
-      "checked_at": null
+      "checked_at": "2026-10-27",
+      "verified": true,
+      "supports": [
+        "어린 새의 흰 솜털과 성장·털갈이에 따른 변화",
+        "얕은 물에서의 먹이 섭취와 부리의 여과 기능"
+      ]
+    },
+    {
+      "title": "Smithsonian’s National Zoo — Why Are Flamingos Pink? And Other Flamingo Facts",
+      "url": "https://nationalzoo.si.edu/animals/news/why-are-flamingos-pink-and-other-flamingo-facts",
+      "checked_at": "2026-10-27",
+      "verified": true,
+      "supports": [
+        "먹이의 카로티노이드와 분홍빛 깃털",
+        "새끼의 흰색·회색 솜털, 조류·갑각류 등의 먹이"
+      ]
     }
   ],
   "image": {
@@ -39,7 +53,7 @@
         "플라밍고가 먹는 조류나 작은 갑각류 등에는 카로티노이드라는 색소가 들어 있다. 조금 낯선 이름이지만 자연에서 여러 노랑·주황·붉은빛과 관련되는 색소 무리다.",
         "플라밍고는 먹이에서 얻은 이런 성분을 몸 안에서 처리하고, 그 결과가 깃털의 색에도 영향을 준다. 먹은 것을 단순히 깃털 바깥에 묻히는 방식은 아니다. 몸의 과정이 있어야 먹이와 새의 모습이 연결된다.",
         "그래서 새우를 먹어서 분홍색이라는 설명은 기억하기 쉽지만 조금 짧다. 모든 플라밍고가 같은 먹이를 같은 비율로 먹는 것은 아니고, 색소의 경로도 한 가지 음식으로만 설명되지 않는다.",
-        "동물원에서 기르는 플라밍고의 식단을 관리하는 것도 이 때문이다. 배를 채울 먹이만 있으면 본래의 모습이 저절로 유지된다고 생각할 수는 없다. 필요한 영양과 색소를 고려해야 한다."
+        "分홍색 깃털을 이해하려면 눈에 보이는 새만 볼 것이 아니라 그 새가 먹는 것도 살펴야 한다. 스미스소니언 국립동물원은 먹이의 색소를 몸 안에서 처리하는 과정이 깃털의 분홍빛으로 이어진다고 설명한다."
       ]
     },
     {

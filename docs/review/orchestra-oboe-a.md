@@ -4,7 +4,7 @@
 
 Culture · Music
 
-> 편집 검토용 초안 · 출처 원문 대조 미완료 · 미게시
+> 편집 검토용 이야기입니다. 게시 전 출처 확인이 남아 있습니다.
 
 ![공연 시작 전, 오케스트라는 왜 한 음을 길게 낼까 — 설명용 삽화](../../content/illustrations/orchestra-oboe-a.jpg)
 
@@ -45,6 +45,15 @@ Culture · Music
 관객이 해야 할 일은 특별하지 않다. 조율의 원리를 시험받는 것도 아니고, 틀린 음을 찾아낼 필요도 없다. 잠깐 귀를 기울이면 공연이 시작되기 전에도 볼거리가 있다는 정도면 된다.
 
 다음 음악회에서는 첫 곡만 기다리지 말고 그 앞의 긴 ‘라’도 들어보자. 아직 이야기는 시작되지 않았지만, 등장인물들이 목소리를 맞추고 있다.
+
+## 이야기의 바탕이 된 자료
+
+- [Philharmonia — Oboe](https://philharmonia.co.uk/resources/instruments/oboe/) · 확인일 2026-10-27
+  - 확인 내용: 오보에의 이중 리드와 목관악기 구조; 조율 기준 선택의 근거는 추가 확인 중
+- [Philharmonia — Orchestral concerts: a 60-second beginner’s guide](https://philharmonia.co.uk/orchestral-concerts-a-60-second-beginners-guide/) · 확인일 2026-10-27
+  - 확인 내용: 공연 전 악장이 조율을 지시한다는 절차
+
+아직 대조하지 못한 내용이 남아 있습니다. 위 자료가 모든 문장의 확인 완료를 뜻하지는 않습니다.
 
 ---
 

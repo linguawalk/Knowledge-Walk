@@ -5,17 +5,30 @@
   "category": "computing",
   "subcategory": "Internet",
   "summary": "메일 주소를 말할 때 꼭 등장하는 @. 이메일을 위해 새로 그린 기호는 아닙니다.",
-  "status": "draft",
+  "status": "review",
   "publication_ready": false,
-  "source_review": "pending",
+  "source_review": "verified",
   "approved_by": null,
   "approved_at": null,
   "sources": [
     {
-      "title": "인터넷 명예의 전당 — 레이 톰린슨 관련 자료 확인 후보",
-      "url": "https://www.internethalloffame.org/inductee/raymond-tomlinson/",
-      "verified": false,
-      "checked_at": null
+      "title": "Internet Hall of Fame — Official Biography: Raymond Tomlinson",
+      "url": "https://www.internethalloffame.org/official-biography-raymond-tomlinson/",
+      "checked_at": "2026-10-27",
+      "verified": true,
+      "supports": [
+        "1971년 ARPANET 네트워크 전자우편과 SNDMSG·CPYNET",
+        "사용자와 호스트를 구분하는 @의 선택"
+      ]
+    },
+    {
+      "title": "Internet Hall of Fame — Ray Tomlinson Invents Email",
+      "url": "https://www.internethalloffame.org/timeline/ray-tomlinson-invents-email/",
+      "checked_at": "2026-10-27",
+      "verified": true,
+      "supports": [
+        "모델 33 텔레타이프의 기존 문장부호 키에서 @를 선택"
+      ]
     }
   ],
   "image": {
@@ -36,7 +49,7 @@
     {
       "heading": "원래 있던 기호가 새 일을 맡았다",
       "paragraphs": [
-        "@는 이메일에 쓰이기 전부터 상업 문서 등에서 사용되었다. 영어의 ‘at’과 연결해, 물건의 단가를 표시하는 용도로 쓰인 예가 있다. 오래된 쓰임이 모두 하나의 경로로 단순하게 정리되는 것은 아니지만, 전자우편을 위해 처음 만들어진 기호는 아니라는 점은 중요하다.",
+        "톰린슨이 쓰던 모델 33 텔레타이프의 키보드에는 이미 @가 있었다. 인터넷 명예의 전당의 연혁은 그가 이 기계의 문장부호 키 가운데서 @를 골랐다고 설명한다. 새로운 통신 방법을 만들면서 모든 표시까지 새로 그릴 필요는 없었던 것이다.",
         "1971년, 서로 다른 컴퓨터 사이에서 전자우편을 보내는 일을 개발하던 레이 톰린슨은 주소 안에서 사람의 이름과 컴퓨터의 이름을 구분할 표시가 필요했다.",
         "그가 고른 것이 @였다. 키보드에 이미 있었고, 이름과 기계의 위치를 나누는 데 알맞았다. 영어의 at이 주는 뜻도 잘 어울렸다. 어느 컴퓨터에 있는 누구라는 관계를 표현할 수 있었기 때문이다.",
         "복잡한 새 기호를 만들지 않고 있는 것을 골랐다는 점이 재미있다. 지금은 인터넷을 대표하는 것처럼 보이는 표시도 처음에는 문제를 해결하기 위한 작은 선택이었다."
@@ -45,7 +58,7 @@
     {
       "heading": "앞쪽은 누구, 뒤쪽은 어디",
       "paragraphs": [
-        "아주 단순한 예로 이름@example.org라는 주소를 생각해 보자. @ 앞쪽은 메일을 받을 계정에 해당하고, 뒤쪽은 메일 시스템의 도메인에 해당한다. 상세한 기술은 더 복잡하지만, 주소를 읽는 첫걸음으로는 이 구분이면 충분하다.",
+        "아주 단순한 예로 user@example.org라는 주소를 생각해 보자. @ 앞쪽은 메일을 받을 계정에 해당하고, 뒤쪽은 메일 시스템의 도메인에 해당한다. 상세한 기술은 더 복잡하지만, 주소를 읽는 첫걸음으로는 이 구분이면 충분하다.",
         "그렇다고 @ 뒤에 실제 사무실이나 거리 주소가 들어 있다는 뜻은 아니다. 우리가 웹사이트 이름으로 익숙하게 보는 것과 같은 종류의 이름이다. 우편번호를 적듯 현실의 위치를 그대로 써 넣는 방식은 아니다.",
         "처음에는 한 컴퓨터와 다른 컴퓨터 사이를 구분하는 선택이었지만, 오늘의 메일은 훨씬 큰 시스템 속에서 움직인다. 그럼에도 이 작은 표시가 주소의 두 부분을 나누는 역할은 알아보기 쉽게 남아 있다.",
         "물론 이메일 주소의 세부 규칙까지 모두 이 한 줄로 설명할 수는 없다. 여기서는 메일을 보내는 기술보다, 익숙한 모양이 왜 그 자리에 놓였는지를 보는 것으로 충분하다."

@@ -113,6 +113,13 @@ def check():
                     assert viewport.locator(".article-image img").evaluate("img => img.complete && img.naturalWidth > 0")
                     assert viewport.locator(".draft-notice").is_visible()
                     assert viewport.evaluate("document.documentElement.scrollWidth <= innerWidth"), story["id"]
+                    if story["source_review"] == "verified":
+                        assert "자료 대조를 마친" in viewport.locator(".draft-notice").inner_text()
+                        viewport.locator(".sources summary").click()
+                        assert viewport.locator(".sources a").count() == len(story["sources"])
+                        assert viewport.locator(".source-date").first.is_visible()
+                    else:
+                        assert "출처 확인이 남아" in viewport.locator(".draft-notice").inner_text()
             # Site remains readable without JavaScript.
             plain = browser.new_context(java_script_enabled=False, viewport={"width": 390, "height": 844})
             n = plain.new_page()

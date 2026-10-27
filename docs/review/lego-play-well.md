@@ -4,7 +4,7 @@
 
 Companies · Technology
 
-> 편집 검토용 초안 · 출처 원문 대조 미완료 · 미게시
+> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
 
 ![레고라는 이름은 원래 무슨 뜻일까 — 설명용 삽화](../../content/illustrations/lego-play-well.jpg)
 
@@ -20,7 +20,7 @@ Companies · Technology
 
 레고의 창업자 올레 키르크 크리스티안센은 덴마크 빌룬에서 목공 일을 하며 장난감을 만들었다. 초기의 제품은 오늘날 우리가 떠올리는 플라스틱 블록만으로 이루어진 세계와 달랐다. 나무 장난감이 있었다.
 
-레고라는 이름이 선택된 것은 1934년이다. 지금의 블록 모양을 보고 그 특징에 맞추어 지은 이름이 아니었다. 놀이에 관한 이름을 먼저 갖고, 그 아래에서 장난감이 달라져 간 것이다.
+레고라는 이름은 오늘날의 플라스틱 블록 모양을 보고 그 특징에 맞추어 지은 것이 아니었다. 공식 연혁은 목재 장난감을 만들던 시기에 덴마크어 LEG GODT를 조합해 이름을 정했다고 설명한다. 놀이에 관한 이름을 먼저 갖고, 그 아래에서 장난감이 달라져 간 것이다.
 
 이 사실을 알면 익숙한 이름이 조금 새롭게 들린다. 우리는 보통 레고를 보면 바로 블록을 떠올린다. 하지만 이름이 생겼을 때부터 지금의 모든 제품이 정해져 있었던 것은 아니다.
 
@@ -45,6 +45,15 @@ Companies · Technology
 다음에 블록을 조립할 일이 생긴다면 이름을 한 번 떠올려 보자. 설명서의 마지막 장에 도착해야만 놀이가 완성되는 것은 아닐지도 모른다. 작은 부품 하나가 남아서 엉뚱한 물건을 만드는 순간도 충분히 재미있다.
 
 회사 이름을 공부하러 시작한 이야기는 아니었는데, 이름을 풀고 나니 결국 다시 노는 이야기로 돌아왔다. 레고라는 말에는 처음부터 그 단서가 들어 있었다.
+
+## 이야기의 바탕이 된 자료
+
+- [LEGO History — The beginning of the LEGO Group](https://www.lego.com/en-us/history/articles/b-the-beginning-of-the-lego-group) · 확인일 2026-10-27
+  - 확인 내용: 목재 장난감에서 출발한 사업 / LEG GODT와 Play Well이라는 이름의 뜻; 초안의 1934년 단정 삭제
+- [LEGO History — Ole Kirk Kristiansen settles in Billund](https://www.lego.com/en-us/history/articles/ole-kirk-kristiansen-settles-in-billund) · 확인일 2026-10-27
+  - 확인 내용: 창업자의 목공 일과 빌룬 정착
+- [LEGO History — The stud and tube principle](https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle) · 확인일 2026-10-27
+  - 확인 내용: 돌기와 튜브의 맞물림, 블록 결합과 안정성
 
 ---
 

@@ -5,15 +5,24 @@
   "category": "finance",
   "subcategory": "Money",
   "summary": "동전의 앞뒷면 말고 옆면을 본 적 있나요? 작은 홈에는 장식 이상의 사연이 있습니다.",
-  "status": "draft",
+  "status": "review",
   "publication_ready": false,
   "source_review": "pending",
   "approved_by": null,
   "approved_at": null,
   "sources": [
     {
-      "title": "영국 왕립조폐국 — 동전 가장자리 관련 자료 확인 후보",
-      "url": "https://www.royalmint.com/",
+      "title": "The Royal Mint — Sir Isaac Newton and The Royal Mint",
+      "url": "https://www.royalmint.com/stories/commemorate/sir-isaac-newton-and-the-royal-mint/",
+      "checked_at": "2026-10-27",
+      "verified": true,
+      "supports": [
+        "클리핑과 위조 범죄가 존재했고 단속 대상이었다는 역사; 테두리 무늬의 도입 이유는 추가 확인 중"
+      ]
+    },
+    {
+      "title": "The Royal Mint Museum — 동전 가장자리 관련 추가 조사 후보",
+      "url": "https://www.royalmintmuseum.org.uk/",
       "verified": false,
       "checked_at": null
     }

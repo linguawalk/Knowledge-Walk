@@ -61,6 +61,12 @@ def publishable(story):
             and bool(story.get("sources")) and all(source_ok(s) for s in story["sources"]))
 
 
+def review_notice(story):
+    if story.get("source_review") == "verified":
+        return "자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다."
+    return "편집 검토용 이야기입니다. 게시 전 출처 확인이 남아 있습니다."
+
+
 def validate(categories, stories, root=ROOT):
     require(isinstance(categories, list) and categories, "No categories")
     category_map = {}
@@ -91,6 +97,15 @@ def validate(categories, stories, root=ROOT):
         require(type(story.get("publication_ready")) is bool, "publication_ready must be boolean")
         require(story.get("source_review") in ("pending", "verified"), "Invalid source_review")
         require(isinstance(story.get("sources"), list), "sources must be an array")
+        for entry in story["sources"]:
+            require(isinstance(entry, dict), "Invalid source record")
+            if "supports" in entry:
+                require(isinstance(entry["supports"], list) and entry["supports"], "Source supports must be a nonempty list")
+                for claim in entry["supports"]:
+                    text(claim, "source support")
+        if story["source_review"] == "verified":
+            require(bool(story["sources"]) and all(source_ok(s) for s in story["sources"]),
+                    f"Verified source review needs checked references: {sid}")
         image = story.get("image")
         require(isinstance(image, dict), f"Image missing: {sid}")
         for key in ("file", "alt", "credit"):
@@ -238,8 +253,8 @@ class Site:
                 contents += f'<li><a href="#part-{index}">{esc(block["heading"])}</a></li>'
                 prose += f'<h2 id="part-{index}">{esc(block["heading"])}</h2>'
             prose += "".join(f'<p>{esc(p)}</p>' for p in block["paragraphs"])
-        notice = '<p class="draft-notice">편집 검토용 이야기입니다. 게시 전 출처 확인이 남아 있습니다.</p>' if not publishable(story) else ""
-        sources = "".join(f'<li><a href="{esc(s["url"])}" target="_blank" rel="noopener noreferrer">{esc(s["title"])} ↗</a></li>' for s in story["sources"] if source_ok(s))
+        notice = f'<p class="draft-notice">{esc(review_notice(story))}</p>' if not publishable(story) else ""
+        sources = "".join(f'<li><a href="{esc(s["url"])}" target="_blank" rel="noopener noreferrer">{esc(s["title"])} ↗</a><span class="source-date">확인일 {esc(s["checked_at"])}</span><p>{esc(" · ".join(s.get("supports", [])))}</p></li>' for s in story["sources"] if source_ok(s))
         sources = f'<details class="sources"><summary>이야기의 바탕이 된 자료</summary><ul>{sources}</ul></details>' if sources else '<p class="source-pending">출처 확인 중 · 확인이 끝나면 참고 자료를 안내합니다.</p>'
         img = story["image"]
         image_source = f' <a href="{esc(img["source_url"])}" rel="noopener noreferrer">이미지 출처</a> · {esc(img["license"])}' if img["type"] != "ai_illustration" else ""
