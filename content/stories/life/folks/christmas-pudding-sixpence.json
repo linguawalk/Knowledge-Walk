@@ -5,11 +5,11 @@
   "category": "life",
   "subcategory": "Folks",
   "summary": "연말 디저트 옆에 은빛 동전이 등장합니다. 돈의 액면보다 행운을 바라는 마음이 앞에 놓이는 풍습입니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 새 10편 게시 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "The Royal Mint — Save the Christmas Pud! Recovered Silver Sixpence Released to Revive Stir-Up Sunday Tradition",

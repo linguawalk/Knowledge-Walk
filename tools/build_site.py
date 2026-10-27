@@ -238,14 +238,35 @@ class Site:
                        f'<span class="field-meta">{str(count) + "개의 이야기" if count else "이야기를 준비하고 있어요"}</span></a>')
         stories = "".join(self.card(page, s) for s in self.stories[:9])
         shelf = f'<section class="container story-shelf"><div class="section-heading"><div><p class="eyebrow">STORIES TO WANDER INTO</p><h2>그냥 지나치기 아까운 이야기</h2></div><a class="text-link" href="search.html">모든 이야기 <span aria-hidden="true">↗</span></a></div><div class="story-grid">{stories}</div></section>' if len(self.stories) > 1 else ""
+        batches = self.active_batches()
+        latest = f'<a class="text-link" href="collections/{esc(batches[0][0]["id"])}/index.html">새로 추가한 이야기 {len(batches[0][1])}편 ↗</a>' if batches else ''
         body = f'''<section class="container hero"><div class="hero-copy"><p class="eyebrow"><span class="little-star" aria-hidden="true">✳</span> 발견하는 즐거움, KnowledgeWalk</p>
 <h1>알고 나면,<br>조금 다르게<br>보이는 것들<span class="title-dot">.</span></h1>
 <p class="hero-description">도시의 사자 한 마리부터 매일 쓰는 물건까지.<br>익숙한 세상에 숨은, 작지만 재미있는 사연을 만납니다.</p>
 <a class="button" href="#fields">궁금한 분야 둘러보기 <span aria-hidden="true">↓</span></a><p class="hero-note">잠깐 읽고, 오래 바라보는 이야기.</p></div>{feature}</section>
 <div class="intro-strip"><div class="container"><span>역사에서 과학까지</span><p>어려운 설명 대신, 한 편의 이야기로.</p><span aria-hidden="true">✳</span></div></div>
-<section id="fields" class="container fields-section"><div class="section-heading"><div><p class="eyebrow">EIGHT WAYS TO EXPLORE</p><h2>오늘은 어떤 이야기가 궁금하세요?</h2></div><p>마음이 가는 곳에서 시작하세요.</p></div><div class="field-grid">{fields}</div><div class="library-shortcuts"><a class="button" href="library.html">소주제별 전체 서가 ↗</a><a class="text-link" href="reading.html">내 읽기 목록 ↗</a><p>읽은 글을 표시하고, 다음 이야기를 골라 보세요.</p></div></section>{shelf}
+<section id="fields" class="container fields-section"><div class="section-heading"><div><p class="eyebrow">EIGHT WAYS TO EXPLORE</p><h2>오늘은 어떤 이야기가 궁금하세요?</h2></div><p>마음이 가는 곳에서 시작하세요.</p></div><div class="field-grid">{fields}</div><div class="library-shortcuts"><a class="button" href="library.html">소주제별 전체 서가 ↗</a><a class="text-link" href="reading.html">내 읽기 목록 ↗</a>{latest}<p>읽은 글을 표시하고, 다음 이야기를 골라 보세요.</p></div></section>{shelf}
 <section class="container closing-note"><span aria-hidden="true">✳</span><p>새로운 곳을 가지 않아도,<br>새로운 이야기는 만날 수 있으니까.</p></section>'''
         self.layout(page, "익숙한 세상의 작은 발견", "역사, 도시, 문화, 생활부터 과학까지. 가볍게 읽고 즐기는 이야기, KnowledgeWalk.", body)
+
+    def active_batches(self):
+        result = []
+        for path in sorted((ROOT / 'content/batches').glob('*.json'), reverse=True):
+            batch = read_json(path)
+            require(ID.fullmatch(batch['id']), 'Invalid collection id')
+            members = [s for s in self.stories if s['id'] in batch['story_ids']]
+            if members:
+                result.append((batch, members))
+        return result
+
+    def collection_pages(self):
+        for batch, members in self.active_batches():
+            page = f"collections/{batch['id']}/index.html"
+            body = (f'<section class="container category-page"><header class="page-heading"><p class="eyebrow">A NEW WALK</p>'
+                    f'<h1>{esc(batch["title"])}</h1><p>이번에 함께 읽을 이야기 {len(members)}편입니다.</p>'
+                    f'<a class="text-link" href="{self.link(page, "library.html")}">소주제별 서가 ↗</a></header>'
+                    f'<div class="story-grid">{"".join(self.card(page, s) for s in members)}</div></section>')
+            self.layout(page, batch['title'], f'함께 읽을 KnowledgeWalk 이야기 {len(members)}편.', body)
 
     def category(self, category, child=None):
         cid = category["id"]
@@ -339,6 +360,7 @@ class Site:
         self.search()
         self.library()
         self.reading()
+        self.collection_pages()
         self.layout("404.html", "길을 잠깐 벗어났네요", "찾으시는 페이지가 없습니다.", '<section class="container empty-state"><p class="eyebrow">404</p><h1>길을 잠깐 벗어났네요.</h1><p>다른 이야기에서 다시 시작해 볼까요?</p><a class="button" href="/index.html">첫 화면으로</a></section>')
         return self.files
 

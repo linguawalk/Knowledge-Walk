@@ -5,11 +5,11 @@
   "category": "science",
   "subcategory": "Biology",
   "summary": "줄무늬 꼬리는 귀여운 장식만은 아닙니다. 나무 위의 생활과 추운 날씨에 모두 도움이 됩니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 새 10편 게시 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "Smithsonian National Zoo — Red panda",

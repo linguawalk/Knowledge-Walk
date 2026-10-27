@@ -1,0 +1,19 @@
+{
+  "id": "ten-everyday-publication-20261027",
+  "approved_at": "2026-10-27",
+  "user_request": "홈페이지에 게시해 주세요. 그리고 매일 오전 9시에 새로운 글을 30개 자동으로 만들 수 있을까요? 다음에 내 확인 과정을 거친 후 홈페이지에 게시하는 방식이 자연스러울 것 같습니다",
+  "story_ids": [
+    "elephant-ear-fan",
+    "red-panda-tail",
+    "trombone-sliding-notes",
+    "harp-colored-strings",
+    "magnetic-penny",
+    "christmas-pudding-sixpence",
+    "lego-first-wheels",
+    "emoji-number-tags",
+    "inkstone-water-dropper",
+    "horn-bow-missing-string"
+  ],
+  "scope": "이전에 검토용으로 제시한 10편의 게시 승인. 앞으로 자동 생성할 글의 공개 승인이 아님.",
+  "deployment_status": "prepared"
+}

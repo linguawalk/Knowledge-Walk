@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "앞으로 나갔다 돌아오는 긴 관. 트롬본의 눈에 띄는 동작은 음을 고르는 일이기도 합니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 새 10편 게시 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "Philharmonia — Trombone",

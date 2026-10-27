@@ -5,11 +5,11 @@
   "category": "science",
   "subcategory": "Biology",
   "summary": "느긋하게 귀를 펄럭이는 코끼리. 그 움직임에는 듣는 일 말고도 다른 역할이 있습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 새 10편 게시 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "Smithsonian National Zoo — Asian elephant",

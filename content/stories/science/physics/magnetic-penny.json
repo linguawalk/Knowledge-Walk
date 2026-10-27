@@ -5,11 +5,11 @@
   "category": "science",
   "subcategory": "Physics",
   "summary": "같은 색의 영국 동전도 자석 앞에서는 다르게 움직입니다. 비밀은 겉모습보다 안쪽에 있습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 새 10편 게시 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "The Royal Mint — What are bronze coins made from? Why are some magnetic and some not?",

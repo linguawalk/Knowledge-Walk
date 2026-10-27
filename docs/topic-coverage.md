@@ -4,7 +4,7 @@
 
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
-| History | Korea | 2 | 1 | 0 |
+| History | Korea | 2 | 1 | 1 |
 | History | Asia | 0 | 0 | 0 |
 | History | Europe | 1 | 1 | 1 |
 | History | America | 1 | 1 | 1 |
@@ -18,21 +18,21 @@
 | Culture | Architecture | 1 | 1 | 1 |
 | Culture | Literature | 1 | 1 | 1 |
 | Culture | Philosophy | 0 | 0 | 0 |
-| Culture | Music | 3 | 2 | 0 |
-| Culture | Art | 2 | 2 | 1 |
+| Culture | Music | 3 | 2 | 2 |
+| Culture | Art | 2 | 2 | 2 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
-| Life | Folks | 1 | 1 | 0 |
+| Life | Folks | 1 | 1 | 1 |
 | Life | Clothing | 1 | 1 | 1 |
 | Life | Food | 1 | 1 | 1 |
 | Life | Housing | 1 | 1 | 1 |
-| Companies | Technology | 2 | 2 | 1 |
+| Companies | Technology | 2 | 2 | 2 |
 | Companies | Automotive | 0 | 0 | 0 |
 | Companies | Finance | 0 | 0 | 0 |
 | Companies | Media | 0 | 0 | 0 |
 | Companies | Fashion | 0 | 0 | 0 |
 | Computing | Computers | 1 | 1 | 1 |
-| Computing | Software | 1 | 1 | 0 |
+| Computing | Software | 1 | 1 | 1 |
 | Computing | Internet | 1 | 1 | 1 |
 | Computing | Programming | 1 | 1 | 1 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
@@ -42,9 +42,9 @@
 | Finance | Investment | 1 | 1 | 1 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 0 | 0 | 0 |
-| Science | Physics | 1 | 1 | 0 |
+| Science | Physics | 1 | 1 | 1 |
 | Science | Chemistry | 0 | 0 | 0 |
-| Science | Biology | 3 | 3 | 1 |
+| Science | Biology | 3 | 3 | 3 |
 | Science | Earth-Science | 0 | 0 | 0 |
 | Science | Engineering | 1 | 1 | 1 |
 

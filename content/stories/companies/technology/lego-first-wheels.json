@@ -5,11 +5,11 @@
   "category": "companies",
   "subcategory": "Technology",
   "summary": "벽과 집을 쌓던 블록에 바퀴가 붙었습니다. 움직일 수 있다는 것은 놀이에 어떤 변화를 주었을까요?",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 새 10편 게시 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "LEGO History — Developing the LEGO wheel",

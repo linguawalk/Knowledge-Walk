@@ -5,11 +5,11 @@
   "category": "computing",
   "subcategory": "Software",
   "summary": "대화창의 웃는 얼굴을 따라가면 그림 대신 숫자와 이름이 나란히 적힌 목록을 만나게 됩니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 새 10편 게시 요청",
+  "approved_at": "2026-10-27",
   "sources": [
     {
       "title": "Unicode — Emoji Keyboard/Display Test Data, Version 16.0",
