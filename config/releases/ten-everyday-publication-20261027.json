@@ -15,5 +15,8 @@
     "horn-bow-missing-string"
   ],
   "scope": "이전에 검토용으로 제시한 10편의 게시 승인. 앞으로 자동 생성할 글의 공개 승인이 아님.",
-  "deployment_status": "prepared"
+  "deployment_status": "live_verified",
+  "live_story_count": 28,
+  "verified_new_story_count": 10,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261027-ten-everyday/index.html"
 }

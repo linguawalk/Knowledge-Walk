@@ -96,3 +96,7 @@
 ## 새 이야기 10편: 일상에서 만나는 작은 발견
 
 사용자의 추가 제작 요청에 따라 약 3분 분량의 이야기 10편을 작성했다. 본문·공식 출처 대조·이미지 준비를 완료했으며 새 원고는 status=review, source_review=verified, publication_ready=false다. 새 글의 게시 승인이나 제작·게시 주기는 아직 정하지 않았다. 전체 원고는 31편으로 자료 대조 완료 28편(공개 승인 18편 + 새 편집 검토 10편), 추가 확인 중 3편이다. 원고가 있는 소주제는 24개다. 읽기 목록은 docs/review/batch-20261027-ten-everyday.md, 근거 기록은 docs/research/ten-everyday-stories-20261027.json을 따른다.
+
+## 사용자 요청: 새 10편 게시와 매일 아침 제작
+
+사용자가 새 10편의 홈페이지 게시를 승인해 공개 글이 28편이 되었다. 실제 도메인에서 새 글 10편·이미지·새 묶음 화면을 확인했다. 매일 오전 9시(Asia/Seoul)에 새 초안 30편을 만들고, 사용자 확인 후 게시하는 방식을 요청했다. config/daily-generation.json과 daily-drafts 워크플로를 준비했으나 유료 AI 연결 전이므로 enabled=false다. 키와 과금 연결이 준비되면 AI가 작은 실제 시험을 하고 가동을 이어간다. 생성 원고는 별도 검토 브랜치에 draft/source_review=pending/publication_ready=false로만 저장하고 사용자 승인 전 공개하지 않는다. 현재 새 자동 원고를 만들었다고 주장하지 않는다. 상세 절차와 검증 범위는 docs/daily-generation.md를 따른다.

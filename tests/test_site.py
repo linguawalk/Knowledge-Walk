@@ -171,6 +171,18 @@ class SiteTests(unittest.TestCase):
                 self.assertNotIn(story['title'], public['library.html'])
                 self.assertNotIn(story['title'], public['reading.html'])
 
+    def test_new_story_collection_does_not_expose_unapproved_members(self):
+        batch = builder.read_json(ROOT / 'content/batches/20261027-ten-everyday.json')
+        by_id = {s['id']: s for s in builder.load_stories()}
+        approved = copy.deepcopy(by_id[batch['story_ids'][0]])
+        draft = copy.deepcopy(by_id[batch['story_ids'][1]])
+        draft.update(status='draft', publication_ready=False, approved_by=None, approved_at=None)
+        files = builder.Site(self.categories, [approved, draft]).render()
+        page = files['collections/20261027-ten-everyday/index.html']
+        self.assertIn(approved['title'], page)
+        self.assertNotIn(draft['title'], page)
+        self.assertNotIn(draft['id'], page)
+
     def test_featured_draft_cannot_displace_approved_story(self):
         draft = {**self.story, "featured": True, "status": "review", "publication_ready": False,
                  "approved_by": None, "approved_at": None}

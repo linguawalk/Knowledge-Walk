@@ -1,0 +1,120 @@
+name: Prepare daily story drafts
+
+on:
+  schedule:
+    # 00:00 UTC = 09:00 Asia/Seoul. GitHub may start scheduled jobs late.
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Check setup only; do not call paid AI services'
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/daily-drafts.yml'
+      - 'config/daily-generation.json'
+      - 'config/prompts/daily-editor.md'
+      - 'config/generation-requirements.txt'
+      - 'tools/daily_generation.py'
+      - 'tests/test_daily_generation.py'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: knowledgewalk-daily-review-queue
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    if: github.repository == 'linguawalk/Knowledge-Walk' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    permissions:
+      contents: write
+    env:
+      TZ: Asia/Seoul
+      QUEUE_BRANCH: drafts/review-queue
+      SUMMARY_FILE: ${{ runner.temp }}/knowledgewalk-generation-summary.json
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Check activation and connection without revealing secrets
+        id: mode
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          REQUESTED_DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          python3 tools/daily_generation.py --dry-run --summary-file "$SUMMARY_FILE"
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          config = json.loads(Path('config/daily-generation.json').read_text())
+          live = config['enabled'] and os.environ['GITHUB_EVENT_NAME'] != 'push' and os.environ.get('REQUESTED_DRY_RUN') != 'true'
+          if live and not os.environ.get('OPENAI_API_KEY'):
+              raise SystemExit('OPENAI_API_KEY is not configured; no paid request was sent.')
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write('run_live=' + str(bool(live)).lower() + '\n')
+          PY
+      - name: Prepare the review branch before any paid requests
+        id: branch
+        if: steps.mode.outputs.run_live == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git fetch origin main
+          queue_ref=$(git ls-remote --heads origin "refs/heads/$QUEUE_BRANCH")
+          if [ -n "$queue_ref" ]; then
+            git fetch origin "$QUEUE_BRANCH"
+            git switch -c "$QUEUE_BRANCH" --track "origin/$QUEUE_BRANCH"
+            git merge --no-edit origin/main
+          else
+            git switch -c "$QUEUE_BRANCH"
+          fi
+          # Check write access first. This branch can never deploy the website.
+          test "$(git branch --show-current)" = "$QUEUE_BRANCH"
+          git push origin "HEAD:refs/heads/$QUEUE_BRANCH"
+      - name: Install the image encoding dependency
+        if: steps.mode.outputs.run_live == 'true'
+        run: python3 -m pip install --disable-pip-version-check -r config/generation-requirements.txt
+      - name: Research, independently check and illustrate drafts
+        id: generate
+        if: steps.mode.outputs.run_live == 'true'
+        continue-on-error: true
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python3 tools/daily_generation.py --checkpoint-git --summary-file "$SUMMARY_FILE"
+      - name: Save completed and partial work for human review
+        if: always() && steps.mode.outputs.run_live == 'true' && steps.branch.outcome == 'success' && (steps.generate.outcome == 'success' || steps.generate.outcome == 'failure')
+        run: |
+          python3 tools/export_review.py
+          python3 tools/topic_coverage.py
+          test "$(git branch --show-current)" = "$QUEUE_BRANCH"
+          git add -- content/stories content/illustrations content/batches content/generation_runs docs/review docs/research docs/topic-coverage.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Prepare $(date +%F) stories for editorial review"
+          fi
+          git push origin "HEAD:refs/heads/$QUEUE_BRANCH"
+      - name: Report the actual result
+        if: always()
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          p = Path(os.environ['SUMMARY_FILE'])
+          data = json.loads(p.read_text()) if p.exists() else {'status': 'setup_failed', 'generated': 0}
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as out:
+              out.write('# KnowledgeWalk — 아침 검토 목록\n')
+              out.write('이 작업은 홈페이지에 글을 게시하지 않습니다.\n\n```json\n')
+              out.write(json.dumps(data, ensure_ascii=False, indent=2) + '\n```\n\n')
+              out.write('[검토함 열기](https://github.com/linguawalk/Knowledge-Walk/blob/drafts/review-queue/docs/review/daily-queue.md)\n')
+          PY
+      - name: A partial batch is not a successful 30-story run
+        if: always() && steps.generate.outcome == 'failure'
+        run: exit 1

@@ -2,6 +2,7 @@
 """Export manuscripts to a category/subcategory GitHub reading library."""
 import os
 from pathlib import Path
+from urllib.parse import quote, urlsplit
 
 from build_site import ROOT, read_json, validate, source_ok, review_notice, load_stories, slug, publishable
 
@@ -16,6 +17,25 @@ def state(story):
     return "자료 대조 완료 · 게시 승인 대기" if story['source_review'] == 'verified' else "출처 추가 확인 중"
 
 
+def export_daily_queue(destination):
+    runs = [read_json(p) for p in sorted((ROOT / 'content/generation_runs').glob('*.json'), reverse=True)]
+    lines = ['# KnowledgeWalk — 아침 검토함', '',
+             '매일 오전 9시(한국 시간) 제작 시작을 목표로 합니다. 생성된 글은 사용자 확인 전 홈페이지에 게시하지 않습니다.', '',
+             '이 검토함은 GitHub 저장소 안의 자료이며, 비공개 보관함을 뜻하지는 않습니다.', '']
+    if not runs:
+        lines += ['현재 자동 생성 결과가 없습니다. AI 연결과 가동 설정을 확인한 뒤 첫 결과가 여기에 쌓입니다.', '']
+    else:
+        lines += ['| 제작일 | 완료 / 목표 | 상태 | 읽기 |', '|---|---:|---|---|']
+        for run in runs:
+            day, count = run['date'], len(run['completed'])
+            label = '목표 수량 완료' if count == run['target'] else '일부 완료 · 점검 필요'
+            link = f'[글과 이미지 보기](batch-daily-{day}.md)' if count else '완료된 원고 없음'
+            lines.append(f"| {day} | {count} / {run['target']} | {label} | {link} |")
+    lines += ['', '출처 후보와 AI 감수 기록은 편집 보조 자료입니다. 원문 대조와 사용자 공개 승인은 별도이며, AI가 승인 표시를 채우지 않습니다.', '',
+              '[전체 분야별 서가](README.md) · [자동 제작 방식과 연결 안내](../daily-generation.md)', '']
+    (destination / 'daily-queue.md').write_text('\n'.join(lines), encoding='utf-8')
+
+
 def main():
     categories = read_json(ROOT / 'config/categories.json')
     stories = load_stories()
@@ -27,7 +47,7 @@ def main():
     index = ['# KnowledgeWalk — 이야기 서가', '',
              f'분야를 고른 다음 소주제로 들어가면 전체 {len(stories)}편의 글과 이미지를 함께 읽을 수 있습니다.', '',
              f'**공개 승인 {sum(publishable(s) for s in stories)}편 / 자료 대조 완료·편집 검토 {sum(s["source_review"] == "verified" and not publishable(s) for s in stories)}편 / 출처 추가 확인 {sum(s["source_review"] != "verified" for s in stories)}편.** 실제 웹 게시는 별도의 배포 상태를 따릅니다.', '',
-             '[홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261027-ten-everyday.md) · [앞서 추가한 12편](batch-20261027-more.md)', '',
+             '[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [최근 이야기 10편](batch-20261027-ten-everyday.md)', '',
              '| 분야 | 이야기 | 소주제 수 |', '|---|---:|---:|']
     for category in categories:
         cid = category['id']
@@ -77,6 +97,14 @@ def main():
             draft += ['']
         if story['source_review'] != 'verified':
             draft += ['아직 대조하지 못한 내용이 남아 있습니다. 위 자료가 모든 문장의 확인 완료를 뜻하지는 않습니다.', '']
+            candidates = [s for s in story['sources'] if not source_ok(s) and urlsplit(str(s.get('url', ''))).scheme == 'https']
+            if candidates:
+                draft += ['## 검토할 참고 자료 후보', '', '아래는 원문 대조 전 후보입니다. 사실 확인 완료를 뜻하지 않습니다.', '']
+                for entry in candidates:
+                    title = str(entry.get('title', '참고 자료')).replace('[', '\\[').replace(']', '\\]').replace('<', '&lt;').replace('>', '&gt;').replace('\n', ' ')
+                    url = quote(entry['url'], safe=':/?&=%#@,+;-_~.!$*')
+                    draft += [f'- [{title}]({url})']
+                draft += ['']
         draft += ['---', '', '[같은 소주제의 이야기](README.md) · [전체 서가](../../README.md)', '']
         target.write_text('\n'.join(draft), encoding='utf-8')
     by_id = {story['id']: story for story in stories}
@@ -86,7 +114,7 @@ def main():
         if len(ids) != len(set(ids)) or any(sid not in by_id for sid in ids):
             raise ValueError(f'Invalid story IDs in {path.name}')
         lines = [f"# {batch['title']}", '',
-                 '제목을 누르면 **이미지·본문·확인한 근거자료**를 함께 볼 수 있습니다. 편집 검토용 원고입니다.', '',
+                 '제목을 누르면 **이미지·본문·근거자료 및 확인 상태**를 함께 볼 수 있습니다. 실제 웹 게시 여부는 각 원고의 승인·배포 상태를 따릅니다.', '',
                  '| 분야 · 세부 분류 | 이야기 | 이미지 |', '|---|---|---|']
         for sid in ids:
             story = by_id[sid]
@@ -94,6 +122,7 @@ def main():
             lines.append(f"| {cmap[story['category']]['title']} · {story['subcategory']} | [{story['title']}]({review_path(story).as_posix()}) | {kind} |")
         lines += ['', '[분야별 이야기 서가](README.md) · [43개 소주제 현황](../topic-coverage.md)', '']
         (destination / f'batch-{path.stem}.md').write_text('\n'.join(lines), encoding='utf-8')
+    export_daily_queue(destination)
     print(f'Exported {len(stories)} manuscripts into 8 categories / 43 topic folders.')
 
 

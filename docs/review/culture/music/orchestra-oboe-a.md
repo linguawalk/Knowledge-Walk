@@ -55,6 +55,12 @@ Culture · Music
 
 아직 대조하지 못한 내용이 남아 있습니다. 위 자료가 모든 문장의 확인 완료를 뜻하지는 않습니다.
 
+## 검토할 참고 자료 후보
+
+아래는 원문 대조 전 후보입니다. 사실 확인 완료를 뜻하지 않습니다.
+
+- [Yamaha Musical Instrument Guide — 조율 관련 추가 조사 후보](https://www.yamaha.com/en/musical_instrument_guide/oboe/structure/structure002.html)
+
 ---
 
 [같은 소주제의 이야기](README.md) · [전체 서가](../../README.md)
