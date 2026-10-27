@@ -81,7 +81,9 @@ class SiteTests(unittest.TestCase):
         allowed = {p.relative_to(output).parts[0] for p in output.rglob('*') if p.is_file()}
         for path in ROOT.iterdir():
             if path.name not in allowed | {'_config.yml', 'CNAME'}:
-                self.assertIn(path.name, excluded, f'Non-public root entry must be excluded: {path}')
+                self.assertIn(path.name + ('/*' if path.is_dir() else ''), excluded,
+                              f'Non-public root entry must be excluded: {path}')
+        self.assertNotIn('site', excluded, 'A bare site prefix also hides site-assets in Jekyll 3')
         for path in output.rglob('*'):
             if path.is_file():
                 self.assertEqual(path.read_bytes(), (ROOT / path.relative_to(output)).read_bytes())
