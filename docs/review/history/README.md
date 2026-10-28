@@ -9,6 +9,6 @@
 | [Korea](korea/README.md) | 4편 |
 | [Asia](asia/README.md) | 0편 |
 | [Europe](europe/README.md) | 1편 |
-| [America](america/README.md) | 1편 |
+| [America](america/README.md) | 2편 |
 | [Middle East](middle-east/README.md) | 0편 |
 | [Africa](africa/README.md) | 0편 |

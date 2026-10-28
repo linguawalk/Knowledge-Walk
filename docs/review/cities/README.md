@@ -8,6 +8,6 @@
 |---|---:|
 | [Asia](asia/README.md) | 2편 |
 | [Europe](europe/README.md) | 1편 |
-| [Americas](americas/README.md) | 0편 |
+| [Americas](americas/README.md) | 1편 |
 | [Middle East](middle-east/README.md) | 0편 |
-| [Africa](africa/README.md) | 0편 |
+| [Africa](africa/README.md) | 1편 |

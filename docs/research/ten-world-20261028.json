@@ -1,0 +1,272 @@
+{
+  "checked_at": "2026-10-28",
+  "scope": "새 해외 소재 10편. 기관의 공식 공개 자료를 읽고 한국어로 풀어 쓴 이야기. 설명용 AI 삽화는 실제 작품 사진과 구별. 새 원고의 홈페이지 공개 승인은 별도.",
+  "stories": [
+    {
+      "id": "chicago-lion-sports-helmet",
+      "region": "미국 시카고",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/74.json",
+          "status": 200,
+          "sha256": "20ae47c2c891d40bdf5105aac604e0bdad2cd806a596fa6fd27daa3606716b5e",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "작가·1894년 설치와 두 사자의 다른 자세",
+            "1985년 베어스 응원과 그릴로 만든 초기 헬멧",
+            "블랙호크스 헬멧 행사"
+          ],
+          "method": "미술관 공식 공개 저장소에 수록된 기관 작성 설명문을 실제 읽고 사실 대조. 원문 전체는 저장소에 복제하지 않음."
+        }
+      ],
+      "editorial_limits": "전언으로만 소개된 헬멧의 기차 여행은 제외. 현시점에 헬멧을 착용하고 있다고 주장하지 않음.",
+      "image": {
+        "file": "content/illustrations/chicago-lion-sports-helmet.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-28",
+        "note": "실제 작품을 재현하지 않은 개념 삽화. 인물·유물·건축 세부를 입증하는 자료로 사용하지 않음.",
+        "sha256": "2af1b250199e73f85e49775f5d9fb0bc0f8fc59527dbce0478c01dfd53b1623f"
+      }
+    },
+    {
+      "id": "japan-phoenix-wood-panels",
+      "region": "일본·미국 시카고",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/34.json",
+          "status": 200,
+          "sha256": "994c0859aa22fc1f834064ee952463f9d1a8aedd98cce76782471d1464af8569",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "1893년 일본 전시관과 교토 근교 사찰을 본뜬 구성",
+            "화재·철거 뒤 네 란마 보존",
+            "솔저 필드 관람석 아래 보관과 1973년 발견",
+            "분산 뒤 네 점이 미술관으로 모인 경위"
+          ],
+          "method": "미술관 공식 공개 저장소에 수록된 기관 작성 설명문을 실제 읽고 사실 대조. 원문 전체는 저장소에 복제하지 않음."
+        }
+      ],
+      "editorial_limits": "현재 전시 여부·화재 원인은 확정하지 않음. 자료의 작가 영문 철자 문제로 작가명을 사용하지 않음.",
+      "image": {
+        "file": "content/illustrations/japan-phoenix-wood-panels.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-28",
+        "note": "실제 작품을 재현하지 않은 개념 삽화. 인물·유물·건축 세부를 입증하는 자료로 사용하지 않음.",
+        "sha256": "b19230667ce7d9ba0bf2933a5e28b5d8d8dbf582aa3d19d5b02e1eb1d2f94d90"
+      }
+    },
+    {
+      "id": "mummy-museum-move",
+      "region": "미국의 박물관·미라 이동 사례",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/46.json",
+          "status": 200,
+          "sha256": "707c19ac18d9b3cb1483a221ccd42edb1d38a75bc314015db1acb109fa2f2842",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "50년 넘는 타주 박물관 대여 뒤 반환 계획",
+            "기관 법률팀의 유해 운송 검토와 사례별 판단",
+            "복제품 제작 합의",
+            "반환 뒤 신원 이해에 관한 추가 연구 언급"
+          ],
+          "method": "미술관 공식 공개 저장소에 수록된 기관 작성 설명문을 실제 읽고 사실 대조. 원문 전체는 저장소에 복제하지 않음."
+        }
+      ],
+      "editorial_limits": "과거 이름을 확정 신원으로 쓰지 않음. 보편적인 운송 법률 조언으로 일반화하지 않음. 유해 이미지는 사용하지 않음. 원문에 제작국 명시가 없어 이집트 제작이라고 단정하지 않음.",
+      "image": {
+        "file": "content/illustrations/mummy-museum-move.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-28",
+        "note": "실제 작품을 재현하지 않은 개념 삽화. 인물·유물·건축 세부를 입증하는 자료로 사용하지 않음.",
+        "sha256": "7b4f830580fcc9629b2f21d1ba81beeddbb9c7f8460df9d2e4a5cfb103da1019"
+      }
+    },
+    {
+      "id": "victorian-paper-lace-valentine",
+      "region": "미국·19세기 빅토리아 시대 문화",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/43.json",
+          "status": 200,
+          "sha256": "7400ce899fe51e064854bcd39baea32db1f7c60ca9fb6441b21fcf93f60b68ca",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "2천 점 넘는 빅토리아 시대 카드 컬렉션에 관한 기관 소개",
+            "종이 레이스·천·꽃과 인쇄·입체 카드 종류",
+            "1849년 우스터의 에스터 하울랜드 회사와 여성 고용",
+            "메이 바스켓 구성과 두 점 소장"
+          ],
+          "method": "미술관 공식 공개 저장소에 수록된 기관 작성 설명문을 실제 읽고 사실 대조. 원문 전체는 저장소에 복제하지 않음."
+        }
+      ],
+      "editorial_limits": "일화로만 소개되는 파혼 이야기·현대 돈 가치 환산은 제외. 현재 소장 수량 갱신값으로 단정하지 않음.",
+      "image": {
+        "file": "content/illustrations/victorian-paper-lace-valentine.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-28",
+        "note": "실제 작품을 재현하지 않은 개념 삽화. 인물·유물·건축 세부를 입증하는 자료로 사용하지 않음.",
+        "sha256": "1a8a8a80e0466e2bdabf5c366372657966b18e570308b42a1b059547cc8304f7"
+      }
+    },
+    {
+      "id": "man-ray-chess-photo-layout",
+      "region": "유럽의 현대미술·인도 인도르·미국",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/18.json",
+          "status": 200,
+          "sha256": "1f21f55887a946bcc7c75e9af207977e0b796dd32d26d9c1bd6d77442a392ed6",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "1920년 첫 세트와 1927년 인도르 마하라자를 위한 소장 세트",
+            "이전 배치와 다른 사진 참고",
+            "1921년 자화상 일부에서 말 위치 추정",
+            "필자의 가설을 이용한 재배치"
+          ],
+          "method": "미술관 공식 공개 저장소에 수록된 기관 작성 설명문을 실제 읽고 사실 대조. 원문 전체는 저장소에 복제하지 않음."
+        }
+      ],
+      "editorial_limits": "제안 배치를 실제 경기의 확정 복원으로 쓰지 않음. 구체적 체스 수·말 모양을 삽화로 재현하지 않음.",
+      "image": {
+        "file": "content/illustrations/man-ray-chess-photo-layout.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-28",
+        "note": "실제 작품을 재현하지 않은 개념 삽화. 인물·유물·건축 세부를 입증하는 자료로 사용하지 않음.",
+        "sha256": "082c6f9267836aa71f9720e4bfe5b94045ef7b6d5791fa2f51bc872cf5b41bac"
+      }
+    },
+    {
+      "id": "chicago-floating-stair-detail",
+      "region": "미국 시카고·이탈리아 건축가",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/14.json",
+          "status": 200,
+          "sha256": "162b818e0f94c371b111d53a208f9e940835cb9fb94e870e98734ed7c6bdea94",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "렌초 피아노의 제로 그래비티 개념에 대한 기관 설명",
+            "벽 하부 1인치 틈",
+            "작은 받침의 벤치·조각 받침·주계단 하부 틈"
+          ],
+          "method": "미술관 공식 공개 저장소에 수록된 기관 작성 설명문을 실제 읽고 사실 대조. 원문 전체는 저장소에 복제하지 않음."
+        }
+      ],
+      "editorial_limits": "건물이 실제 무중력 구조라는 오해를 피함. 삽화는 실제 모던 윙 도면·시공 세부를 재현하지 않음.",
+      "image": {
+        "file": "content/illustrations/chicago-floating-stair-detail.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-28",
+        "note": "실제 작품을 재현하지 않은 개념 삽화. 인물·유물·건축 세부를 입증하는 자료로 사용하지 않음.",
+        "sha256": "4d5591712c356334e8436ddb21aed040c145799321cd874e8257515494f2e86f"
+      }
+    },
+    {
+      "id": "el-greco-painting-journey",
+      "region": "스페인·프랑스·미국",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/76.json",
+          "status": 200,
+          "sha256": "f8848b219deaecfda882cc5c040ea0314f0a46b78c8f7132b76a81e8edbde8e6",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "1904년 시장 출품과 마드리드 판매 난항",
+            "1904~1905년 파리 전시와 커샛 관심",
+            "하브마이어 지원·여러 기관 거절·커샛의 연결",
+            "시카고 자금 마련 19개월과 대표 소장품화"
+          ],
+          "method": "미술관 공식 공개 저장소에 수록된 기관 작성 설명문을 실제 읽고 사실 대조. 원문 전체는 저장소에 복제하지 않음."
+        }
+      ],
+      "editorial_limits": "작품 가격·오늘날 시세·반대자들의 감정은 추정하지 않음. 실제 성모승천 이미지를 삽화로 모사하지 않음.",
+      "image": {
+        "file": "content/illustrations/el-greco-painting-journey.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-28",
+        "note": "실제 작품을 재현하지 않은 개념 삽화. 인물·유물·건축 세부를 입증하는 자료로 사용하지 않음.",
+        "sha256": "f5006859de714cbf9cc8119b2697b08728a3ed14e45a449e5191fbb893783b61"
+      }
+    },
+    {
+      "id": "mozambique-village-cultural-center",
+      "region": "모잠비크 마탈라나",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/digital-publication-articles/10.json",
+          "status": 200,
+          "sha256": "83afddef0574b34ed11c8f02d64e3331436398d786be2e978aeec587ff334128",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "1995년 마탈라나 문화센터 건설 시작과 교육·행사 목적",
+            "고향의 도자기·바구니·회화 경험과 이후 교육",
+            "게드스 영향·기하학·산업재료·둥근창·격자·부조",
+            "교육자·시인·조각 등 다방면 활동"
+          ],
+          "method": "미술관 공식 공개 저장소에 수록된 기관 작성 설명문을 실제 읽고 사실 대조. 원문 전체는 저장소에 복제하지 않음."
+        }
+      ],
+      "editorial_limits": "아프리카 예술을 원시적·고립된 전통으로 묘사하지 않음. 현재 개관 시간·방문 가능 여부·정확한 건물 외관은 주장하지 않음.",
+      "image": {
+        "file": "content/illustrations/mozambique-village-cultural-center.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-28",
+        "note": "실제 작품을 재현하지 않은 개념 삽화. 인물·유물·건축 세부를 입증하는 자료로 사용하지 않음.",
+        "sha256": "9e2345558c5fbaca271bdc40249dcd08078849e17f2a310e901d6c038874d126"
+      }
+    },
+    {
+      "id": "japan-fierce-temple-guardian",
+      "region": "일본",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/educator-resources/34.json",
+          "status": 200,
+          "sha256": "308b36ee665687f661b3d3f1dac48c6e039998cd1f3b4c3c36d4871f37b8b6a9",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "슈콘고진 수호상의 강한 몸·부릅뜬 눈·열린 입",
+            "사찰을 지키는 역할",
+            "공포와 보호·안도감이라는 교육 자료의 가능한 해석"
+          ],
+          "method": "미술관 공식 공개 저장소에 수록된 기관 작성 설명문을 실제 읽고 사실 대조. 원문 전체는 저장소에 복제하지 않음."
+        }
+      ],
+      "editorial_limits": "원래 관람객의 감정을 확정하지 않음. 자세·손에 든 도구·제작연대 등 자료에 없는 세부와 실제 조각 이미지 재현 제외.",
+      "image": {
+        "file": "content/illustrations/japan-fierce-temple-guardian.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-28",
+        "note": "실제 작품을 재현하지 않은 개념 삽화. 인물·유물·건축 세부를 입증하는 자료로 사용하지 않음.",
+        "sha256": "0a3972778e9db3ec4ced8d79a51b223f5aaa29759a19cb1c865fe689cefd846e"
+      }
+    },
+    {
+      "id": "italy-print-painting-proposal",
+      "region": "이탈리아",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/master/json/artworks/16.json",
+          "status": 200,
+          "sha256": "37a880f439d5be827d5a574dc0666cf4076400993c6c3d9dd9c2383b0ddd958f",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "거인들의 공격과 유피테르의 번개라는 작품 장면",
+            "화가·시인·배우·음악가 등 로사의 활동",
+            "같은 주제 회화 후원 유치를 위한 판화 제작 목적"
+          ],
+          "method": "미술관 공식 공개 저장소에 수록된 기관 작성 설명문을 실제 읽고 사실 대조. 원문 전체는 저장소에 복제하지 않음."
+        }
+      ],
+      "editorial_limits": "후원 유치 성공이나 회화 완성 여부는 주장하지 않음. 영어 해설을 직역 인용하지 않고 요약. 실제 판화 모사는 하지 않음.",
+      "image": {
+        "file": "content/illustrations/italy-print-painting-proposal.jpg",
+        "type": "ai_illustration",
+        "created_at": "2026-10-28",
+        "note": "실제 작품을 재현하지 않은 개념 삽화. 인물·유물·건축 세부를 입증하는 자료로 사용하지 않음.",
+        "sha256": "cd48cb1f3c39112777ec7ff3b13b10faf31845ae59fe2b7ab7e131b2e8e1a585"
+      }
+    }
+  ]
+}

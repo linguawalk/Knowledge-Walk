@@ -15,7 +15,10 @@
     "dasik-sweets-frame"
   ],
   "scope": "앞서 검토용으로 만든 음악과 여행 이야기 10편만 게시. 이번에 새로 만들 해외 소재 10편의 게시 승인은 포함하지 않음. 자동 제작 철회 유지.",
-  "deployment_status": "prepared",
+  "deployment_status": "live_verified",
   "expected_live_story_count": 48,
-  "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-discoveries/index.html"
+  "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-discoveries/index.html",
+  "live_story_count": 48,
+  "verified_new_story_count": 10,
+  "verification": "홈페이지·검색·10편 모음·새 글 10개·이미지 10개 HTTPS 응답을 제작 결과와 대조."
 }
