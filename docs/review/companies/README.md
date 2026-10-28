@@ -9,5 +9,5 @@
 | [Technology](technology/README.md) | 2편 |
 | [Automotive](automotive/README.md) | 0편 |
 | [Finance](finance/README.md) | 0편 |
-| [Media](media/README.md) | 0편 |
+| [Media](media/README.md) | 1편 |
 | [Fashion](fashion/README.md) | 0편 |

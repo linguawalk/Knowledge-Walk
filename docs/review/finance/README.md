@@ -6,7 +6,7 @@
 
 | 소주제 | 이야기 |
 |---|---:|
-| [Money](money/README.md) | 1편 |
+| [Money](money/README.md) | 2편 |
 | [Banking](banking/README.md) | 0편 |
 | [Insurance](insurance/README.md) | 0편 |
 | [Investment](investment/README.md) | 1편 |

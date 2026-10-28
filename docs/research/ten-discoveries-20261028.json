@@ -1,0 +1,309 @@
+{
+  "checked_at": "2026-10-28",
+  "scope": "사용자 요청에 따른 수동 제작 10편. 실제 기관 원문·소장품 사진·공공누리 표시를 대조. 홈페이지 게시 승인은 별도.",
+  "stories": [
+    {
+      "id": "banknote-plate-fifty-yang",
+      "object_id": 437871,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=437871",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=437871",
+          "status": 200,
+          "sha256": "626eed5100d8dc5b55138c53ab8d58900a9cd7ab0d86a5094f363ca652e1183a",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "목제 지폐원판과 가로 16.3cm",
+            "상부 TAI WHAN SHOU·하부 FIFTY YANG 표기",
+            "중앙 장방형 홈·당초문·귀퉁이 오십 및 50 표기"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "실제 발행·유통 여부, 발행은행, 인쇄 공정과 홈의 기능, 현재 가치 환산은 주장하지 않음.",
+      "image": {
+        "file": "content/images/banknote-plate-fifty-yang.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=e1d6e4a6a223453babf3609bcc4d42d0&fileSn=1&thumb=Y",
+        "status": 200,
+        "source_sha256": "0f0f48f6af575d692bb4f8ba8786201a0acfa8a77f74b3c2c8b59ab24a9e1880",
+        "sha256": "4a39ec39cf9ad1bdf99964a65df095cc96df876d8e907d29a996048ce39c8bb8",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "stone-chime-thickness",
+      "object_id": 371659,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=371659",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=371659",
+          "status": 200,
+          "sha256": "03ab0157fb42e79e4a1e2958561ed0d307eec5b4f1d9788f74c7ca82db49e595",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "옥석 제작 편경과 열여섯 경을 두 단에 여덟 개씩 거는 구성",
+            "두께로 음높이 조절",
+            "각퇴 재료와 타격 위치",
+            "조선시대 제례·연례 사용"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "사진은 편경 전체가 아닌 단일 경임을 명시. 온습도 변화에 절대 불변·모든 악기의 조율 기준이라는 포괄 주장은 채택하지 않음.",
+      "image": {
+        "file": "content/images/stone-chime-thickness.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00023932OC&fileSn=25172&thumb=Y",
+        "status": 200,
+        "source_sha256": "f8284bc219e32c29fd65538061ababf7b6c9213689f11bd53dca28a07283fd2e",
+        "sha256": "cb7ccb45e6bf6f54b36c8f3c09e39d1ff46635f8710fbddc89e6efe22147c716",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "passport-three-languages",
+      "object_id": 437344,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=437344",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=437344",
+          "status": 200,
+          "sha256": "e29efb279a49590529833305440f554904ed2ed2c5049df8276f0ba4883f286e",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "한문·영어·프랑스어 배치",
+            "이화당초문 테두리·이화문·태극문·도장",
+            "개국 연호와 외부 명칭을 근거로 한 1895년 작성 추정"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "소장품 연대 분류의 대한제국 표기를 그대로 서술하지 않음. 1895년은 해설의 추정으로 표시. 특정 여행자의 실제 사용·방문국가 추정 제외.",
+      "image": {
+        "file": "content/images/passport-three-languages.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=86da08c258bc4bf2b067b95c9145434f&fileSn=1&thumb=Y",
+        "status": 200,
+        "source_sha256": "83e09a29a90eebd135ee72795c2ff11fa38032f67f08049ff88a8f2bc721ab89",
+        "sha256": "575c92f023aef22fc9b984bd212ee1a9aa8c147adfdf00728a3022fec7e00a06",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "western-union-pasted-message",
+      "object_id": 438369,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438369",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438369",
+          "status": 200,
+          "sha256": "3ee9bb61a26365f667302e97ddb18e825be0012871bbf7aa25a605c5f26957ad",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "1959년 4월 13일 웨스턴유니언 전보",
+            "빈 양식에 메시지 종이를 붙인 형태",
+            "브루클린 이구 수신 추정",
+            "줄리아 멀록 일괄 기증 자료"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "현재 회사의 금융서비스와 혼동하지 않음. 설립·기업 전체의 영업종료 주장은 제외. 수신자 추정과 감정·메시지 상세 내용은 구분.",
+      "image": {
+        "file": "content/images/western-union-pasted-message.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=4bfddf0abdc84fabbc0d5ac44fcf9e77&fileSn=2&thumb=Y",
+        "status": 200,
+        "source_sha256": "e5af6dfa41d53aebcd9566e18d6f70b36ef576f62e7abbd1e41b913fd6ca57f8",
+        "sha256": "b130425fcbfa85a37eb17728077641bc3dd0fd9e3f497c8883bfaef02f019500",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "palace-roof-pangolin",
+      "object_id": 438950,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438950",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438950",
+          "status": 200,
+          "sha256": "ededc8cd30c19364d8ee07919a78fccb8b716260632d70b11cbac4dae41974d2",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "근정문 추녀마루 잡상과 천산갑 형상",
+            "1867년 중건 때 또는 이후 설치라는 범위",
+            "굵은 목·작은 얼굴·뿔·비늘·등 돌기"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "설치연대를 1867년으로 확정하지 않음. 서유기 등장인물·실제 생물학적 특징·상징 효과와 잡상 배열 규칙은 주장하지 않음.",
+      "image": {
+        "file": "content/images/palace-roof-pangolin.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=d6272c6bf6d44ab8880119e1f6b25650&fileSn=1&thumb=Y",
+        "status": 200,
+        "source_sha256": "006e9abcd998e04c260b7c383cfd0629ad5ec4d3edc103b955f649279066ebf0",
+        "sha256": "b5efe8ed6ab52f1a5919837b08e5352388bf44b5ef9ebad82cf5698bbaa6a8af",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "star-map-carved-again",
+      "object_id": 422252,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=422252",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=422252",
+          "status": 200,
+          "sha256": "37bb3ddee9a92294e604224e5d0c4690442d50c06e9ac8d5ea7bed897dc49246",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "1395년 각석 훼손과 1687년 다른 돌에 복각",
+            "복각본의 관상감 보관",
+            "영조 때 태조본과 함께 흠경각으로 이전"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "현대 천문 정확도·별 수·성도 계산 방법 주장 제외. 오늘날 파일 복사는 비유. 사진상 희미한 세부를 읽었다고 주장하지 않음.",
+      "image": {
+        "file": "content/images/star-map-carved-again.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=04b3c7915ed74c06a7c552138e8d8787&fileSn=27030&thumb=Y",
+        "status": 200,
+        "source_sha256": "3954845013d2941b7ab2ea0e21f7dc594b2fbbfd468d8df59ffd6ed5aa6846da",
+        "sha256": "edf0a00d2f404dfffe06eb65bf11a8c87478a65c0a55534585f2aabc923025ec",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "poem-plaque-raised-letters",
+      "object_id": 430001,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=430001",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=430001",
+          "status": 200,
+          "sha256": "57c2ede6cb5cd34c2e4e0eda7f9c0ac635ca784229dc21588dd05b8826a134ad",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "1886년 3월 15일 고종의 시와 왕세자 화답",
+            "정헌집에도 같은 내용 기록",
+            "따로 조각한 나무 글자를 붙인 제작 방식"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "화답시를 현대 창작 번역으로 인용하지 않음. 구체적 대화·감정은 기관 설명 범위를 넘겨 창작하지 않음.",
+      "image": {
+        "file": "content/images/poem-plaque-raised-letters.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=ac428aceacd4427b9def22b2c1be4608&fileSn=1&thumb=Y",
+        "status": 200,
+        "source_sha256": "1201c22f567bee2eb996420708badde9c52253148600e0c0391f67b3ed70a16c",
+        "sha256": "c20b009cf06f202b940ae41410f54d26f01d57fc203272300a6a0b5697303635",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "water-clock-floating-turtle",
+      "object_id": 436599,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=436599",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=436599",
+          "status": 200,
+          "sha256": "5698abf226db6a7fe0115371acfbdf87543ec768a1e1b9572cc7b2a7bb504396",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "자격루 부표의 부구·부자 명칭",
+            "얇은 구리판 몸체·네 날개·잣대 연결구",
+            "수수호 크기에 맞춘 제작과 물이 차면 잣대와 함께 뜨는 작동"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "자격루 전체·자동 타종 원리나 제작시점은 주장하지 않음. 기존 거북 장식 글과는 물시계 부품 작동을 중심으로 구별.",
+      "image": {
+        "file": "content/images/water-clock-floating-turtle.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=8f42631920c2413b9f18ab7c1efee06e&fileSn=5&thumb=Y",
+        "status": 200,
+        "source_sha256": "0eee09fae292956b5d12539b3a182bbf64f868174a6df58ad8ec6dd0d94ae983",
+        "sha256": "b0fdea3d9eda95bacd671e0f5f6992b3588142e17de7a7e6ae9def3dbaa80413",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "metal-flute-inlaid-flowers",
+      "object_id": 432873,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=432873",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=432873",
+          "status": 200,
+          "sha256": "5c1321653d570ffa9a162af9681d46157e750658e203a345d00388f678ff8257",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "가로 연주 관악기와 구멍 열두 개",
+            "금은입사 꽃·꽃덩굴·양끝 학 무늬",
+            "조선시대 대금의 제례악·연례악 편성에 관한 해설"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "자료의 철제 표제와 유제 몸체 서술 사이 재질 불일치가 있어 합금 종류를 단정하지 않음. 음색·구멍별 기능·이 유물의 실제 공연 이력은 미확인.",
+      "image": {
+        "file": "content/images/metal-flute-inlaid-flowers.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=f77fd00c19e241879591088b0708f862&fileSn=2&thumb=Y",
+        "status": 200,
+        "source_sha256": "691f56f52e873ab67dbc323d9ee646617b22755032297583745c437825259ab7",
+        "sha256": "8403f5fe62834b9569526a9cea937581ffe2513bc8da7fd94da927b6725e655b",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    },
+    {
+      "id": "dasik-sweets-frame",
+      "object_id": 371019,
+      "sources": [
+        {
+          "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=371019",
+          "final_url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=371019",
+          "status": 200,
+          "sha256": "79717bc00bd13a368042238a9775e7eaeee7690691380c712e09819050a5ca86",
+          "checked_at": "2026-10-28",
+          "supports": [
+            "제사에서 산자·다식·약과를 높이 쌓아 고정하는 우리 용도",
+            "다식우리의 관통 원통·여덟 기둥 구조",
+            "우리대와 짝을 이루는 고정",
+            "상부 茶食 음각의 용도 구별"
+          ],
+          "method": "실제 소장품 상세설명·유물 정보와 사진을 대조. 감상과 현대 생활 비유는 사실 주장과 구분."
+        }
+      ],
+      "editorial_limits": "특정 상차림 높이·음식 개수·의례 규칙이나 현대 재현법은 주장하지 않음.",
+      "image": {
+        "file": "content/images/dasik-sweets-frame.jpg",
+        "url": "https://www.gogung.go.kr/cmmn/file/imageSrc.do?atchFileId=00023846OD&fileSn=24920&thumb=Y",
+        "status": 200,
+        "source_sha256": "10e291dc35416e66f898dcc06802afbfd7d7d3d09ff3d95195fc673eeda7bd0f",
+        "sha256": "479b2229ddeadd801a6860aa52caffaf0d30194b9a5bdeb897d06916d44d485a",
+        "license": "KOGL Type 1",
+        "license_verified_on_object_page": true,
+        "checked_at": "2026-10-28"
+      }
+    }
+  ]
+}

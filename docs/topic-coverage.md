@@ -1,52 +1,52 @@
 # 세부 주제 제작 현황
 
-전체 43개 세부 주제 중 원고가 있는 곳은 24개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
+전체 43개 세부 주제 중 원고가 있는 곳은 25개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
 
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
-| History | Korea | 3 | 2 | 2 |
+| History | Korea | 4 | 3 | 2 |
 | History | Asia | 0 | 0 | 0 |
 | History | Europe | 1 | 1 | 1 |
 | History | America | 1 | 1 | 1 |
 | History | Middle East | 0 | 0 | 0 |
 | History | Africa | 0 | 0 | 0 |
-| Cities | Asia | 1 | 1 | 1 |
+| Cities | Asia | 2 | 2 | 1 |
 | Cities | Europe | 1 | 1 | 1 |
 | Cities | Americas | 0 | 0 | 0 |
 | Cities | Middle East | 0 | 0 | 0 |
 | Cities | Africa | 0 | 0 | 0 |
 | Culture | Architecture | 1 | 1 | 1 |
-| Culture | Literature | 1 | 1 | 1 |
+| Culture | Literature | 2 | 2 | 1 |
 | Culture | Philosophy | 0 | 0 | 0 |
-| Culture | Music | 3 | 2 | 2 |
+| Culture | Music | 5 | 4 | 2 |
 | Culture | Art | 4 | 4 | 4 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
 | Life | Folks | 1 | 1 | 1 |
 | Life | Clothing | 3 | 3 | 3 |
-| Life | Food | 3 | 3 | 3 |
+| Life | Food | 4 | 4 | 3 |
 | Life | Housing | 4 | 4 | 4 |
 | Companies | Technology | 2 | 2 | 2 |
 | Companies | Automotive | 0 | 0 | 0 |
 | Companies | Finance | 0 | 0 | 0 |
-| Companies | Media | 0 | 0 | 0 |
+| Companies | Media | 1 | 1 | 0 |
 | Companies | Fashion | 0 | 0 | 0 |
 | Computing | Computers | 1 | 1 | 1 |
 | Computing | Software | 1 | 1 | 1 |
 | Computing | Internet | 1 | 1 | 1 |
 | Computing | Programming | 1 | 1 | 1 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 1 | 0 | 0 |
+| Finance | Money | 2 | 1 | 0 |
 | Finance | Banking | 0 | 0 | 0 |
 | Finance | Insurance | 0 | 0 | 0 |
 | Finance | Investment | 1 | 1 | 1 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 0 | 0 | 0 |
-| Science | Physics | 1 | 1 | 1 |
+| Science | Physics | 2 | 2 | 1 |
 | Science | Chemistry | 0 | 0 | 0 |
 | Science | Biology | 3 | 3 | 3 |
 | Science | Earth-Science | 0 | 0 | 0 |
-| Science | Engineering | 1 | 1 | 1 |
+| Science | Engineering | 2 | 2 | 1 |
 
 ## 먼저 살펴볼 빈 주제
 
@@ -57,8 +57,8 @@
 - Cities → Africa
 - Companies → Automotive
 - Companies → Finance
-- Companies → Media
 - Companies → Fashion
 - Finance → Banking
+- Finance → Insurance
 
 분류 수를 채우려고 같은 소재를 여러 분야에 반복 사용하지 않습니다. 소재·중심 질문의 중복 여부는 편집 단계에서 별도 확인합니다. 제작 주기와 공개 일정은 아직 정하지 않았습니다.
