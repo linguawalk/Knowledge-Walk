@@ -1,0 +1,21 @@
+{
+  "id": "ten-curiosities-publication-20261029",
+  "approved_at": "2026-10-29",
+  "user_request": "만들어진 10편을 사이트에 올리고 새로운 10편을 제작해 주세요",
+  "story_ids": [
+    "apollo-bootprint-close-up",
+    "earth-map-for-globe",
+    "discovery-panel-labels",
+    "british-calendar-eleven-days",
+    "a4-fold-same-shape",
+    "braille-six-dots",
+    "http-404-410",
+    "metal-flute-woodwind-family",
+    "clarinet-many-sizes",
+    "tass-stencil-posters"
+  ],
+  "scope": "직전 발자국과 종이 이야기 10편의 사이트 게시 승인. 오늘 새로 제작하는 원고 10편의 게시 승인은 포함하지 않음. 자동 제작 철회 유지.",
+  "deployment_status": "prepared",
+  "expected_live_story_count": 68,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-curiosities/index.html"
+}

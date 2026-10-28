@@ -5,11 +5,11 @@
   "category": "history",
   "subcategory": "America",
   "summary": "NASA가 공개한 달의 발자국 사진에서 탐사의 작은 흔적을 살펴봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 10편 사이트 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "NASA — Moon: Apollo Astronaut Bootprint",

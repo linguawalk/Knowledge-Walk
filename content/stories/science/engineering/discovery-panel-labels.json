@@ -5,11 +5,11 @@
   "category": "science",
   "subcategory": "Engineering",
   "summary": "우주선 패널의 실제 사진에서 반복되는 모양과 표시를 찾아봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 10편 사이트 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "NASA — Discovery Flight Deck Panels s103e0163",

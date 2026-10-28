@@ -5,11 +5,11 @@
   "category": "companies",
   "subcategory": "Media",
   "summary": "전쟁기 소련의 타스 포스터가 여러 장으로 만들어지던 과정을 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 10편 사이트 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "시카고 미술관 — Countdown to TASS",

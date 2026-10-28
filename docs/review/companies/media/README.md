@@ -4,5 +4,5 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
-| [포스터를 한 장씩 붓으로 칠하던 작업장](tass-stencil-posters.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [포스터를 한 장씩 붓으로 칠하던 작업장](tass-stencil-posters.md) | 자료 대조·공개 게시 승인 완료 |
 | [전보 한 장에는 종이가 한 번 더 붙어 있다](western-union-pasted-message.md) | 자료 대조·공개 게시 승인 완료 |

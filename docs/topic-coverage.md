@@ -6,8 +6,8 @@
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
 | History | Asia | 0 | 0 | 0 |
-| History | Europe | 2 | 2 | 1 |
-| History | America | 3 | 3 | 2 |
+| History | Europe | 2 | 2 | 2 |
+| History | America | 3 | 3 | 3 |
 | History | Middle East | 0 | 0 | 0 |
 | History | Africa | 0 | 0 | 0 |
 | Cities | Asia | 2 | 2 | 2 |
@@ -18,7 +18,7 @@
 | Culture | Architecture | 3 | 3 | 3 |
 | Culture | Literature | 2 | 2 | 2 |
 | Culture | Philosophy | 0 | 0 | 0 |
-| Culture | Music | 7 | 6 | 4 |
+| Culture | Music | 7 | 6 | 6 |
 | Culture | Art | 8 | 8 | 8 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
@@ -29,11 +29,11 @@
 | Companies | Technology | 2 | 2 | 2 |
 | Companies | Automotive | 0 | 0 | 0 |
 | Companies | Finance | 0 | 0 | 0 |
-| Companies | Media | 2 | 2 | 1 |
+| Companies | Media | 2 | 2 | 2 |
 | Companies | Fashion | 0 | 0 | 0 |
 | Computing | Computers | 1 | 1 | 1 |
 | Computing | Software | 1 | 1 | 1 |
-| Computing | Internet | 2 | 2 | 1 |
+| Computing | Internet | 2 | 2 | 2 |
 | Computing | Programming | 1 | 1 | 1 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
 | Finance | Money | 2 | 1 | 1 |
@@ -41,12 +41,12 @@
 | Finance | Insurance | 0 | 0 | 0 |
 | Finance | Investment | 1 | 1 | 1 |
 | Finance | Fintech | 0 | 0 | 0 |
-| Science | Mathematics | 2 | 2 | 0 |
+| Science | Mathematics | 2 | 2 | 2 |
 | Science | Physics | 2 | 2 | 2 |
 | Science | Chemistry | 0 | 0 | 0 |
 | Science | Biology | 3 | 3 | 3 |
-| Science | Earth-Science | 1 | 1 | 0 |
-| Science | Engineering | 3 | 3 | 2 |
+| Science | Earth-Science | 1 | 1 | 1 |
+| Science | Engineering | 3 | 3 | 3 |
 
 ## 먼저 살펴볼 빈 주제
 

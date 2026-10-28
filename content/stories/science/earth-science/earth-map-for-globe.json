@@ -5,11 +5,11 @@
   "category": "science",
   "subcategory": "Earth-Science",
   "summary": "둥근 지구를 표현하기 위해 마련된 평평한 지도 자료를 들여다봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 10편 사이트 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "NASA — Earth (A) 지도 텍스처",

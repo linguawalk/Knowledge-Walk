@@ -5,11 +5,11 @@
   "category": "computing",
   "subcategory": "Internet",
   "summary": "찾을 수 없다는 응답과 사라졌다는 응답의 차이를 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 10편 사이트 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "IETF HTTP Working Group — RFC 9110, 404·410",

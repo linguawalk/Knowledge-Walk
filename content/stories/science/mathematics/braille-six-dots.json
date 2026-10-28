@@ -5,11 +5,11 @@
   "category": "science",
   "subcategory": "Mathematics",
   "summary": "6점 점자에서 점의 수보다 위치가 중요하다는 사실을 봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 10편 사이트 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "Liblouis — 라틴 문자 6점 점자 정의",
