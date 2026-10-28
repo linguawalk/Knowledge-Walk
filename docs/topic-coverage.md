@@ -7,22 +7,22 @@
 | History | Korea | 4 | 3 | 3 |
 | History | Asia | 0 | 0 | 0 |
 | History | Europe | 1 | 1 | 1 |
-| History | America | 2 | 2 | 1 |
+| History | America | 2 | 2 | 2 |
 | History | Middle East | 0 | 0 | 0 |
 | History | Africa | 0 | 0 | 0 |
 | Cities | Asia | 2 | 2 | 2 |
 | Cities | Europe | 1 | 1 | 1 |
-| Cities | Americas | 1 | 1 | 0 |
+| Cities | Americas | 1 | 1 | 1 |
 | Cities | Middle East | 0 | 0 | 0 |
-| Cities | Africa | 1 | 1 | 0 |
-| Culture | Architecture | 3 | 3 | 1 |
+| Cities | Africa | 1 | 1 | 1 |
+| Culture | Architecture | 3 | 3 | 3 |
 | Culture | Literature | 2 | 2 | 2 |
 | Culture | Philosophy | 0 | 0 | 0 |
 | Culture | Music | 5 | 4 | 4 |
-| Culture | Art | 8 | 8 | 4 |
+| Culture | Art | 8 | 8 | 8 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
-| Life | Folks | 2 | 2 | 1 |
+| Life | Folks | 2 | 2 | 2 |
 | Life | Clothing | 3 | 3 | 3 |
 | Life | Food | 4 | 4 | 4 |
 | Life | Housing | 4 | 4 | 4 |

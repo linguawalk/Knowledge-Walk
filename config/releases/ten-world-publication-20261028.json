@@ -1,0 +1,22 @@
+{
+  "id": "ten-world-publication-20261028",
+  "approved_at": "2026-10-28",
+  "user_request": "이대로 홈페이지에 게시해 주세요. 그런데 일반적으로 현재의 이미지 처리 방식이 맞다고는 생각하지만 시카고의 사자나 엘그레코의 그림 등은 실제 이미지를 보여주는 것이 더 효율적이지 않을까 생각해 보았습니다. 이러한 이미지들은 아직 퍼블릭도메인으로 풀리지 않아서 이렇게 이미지로 처리한 것인가요?",
+  "story_ids": [
+    "chicago-lion-sports-helmet",
+    "japan-phoenix-wood-panels",
+    "mummy-museum-move",
+    "victorian-paper-lace-valentine",
+    "man-ray-chess-photo-layout",
+    "chicago-floating-stair-detail",
+    "el-greco-painting-journey",
+    "mozambique-village-cultural-center",
+    "japan-fierce-temple-guardian",
+    "italy-print-painting-proposal"
+  ],
+  "scope": "직전에 검토용으로 제시한 해외 이야기 10편의 현 상태 게시 승인. 자동 제작 철회 유지.",
+  "deployment_status": "prepared",
+  "expected_live_story_count": 58,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-world/index.html",
+  "image_note": "실제 작품 저작권 만료와 개별 사진의 이용 조건은 구분한다. 원작이 보호 중이어서 AI 삽화를 쓴 것이 아니다. 실제 사진 제공 사이트 접속 제한으로 원본 이미지 파일 및 이용 조건 확인을 완료하지 못했으며 현 상태 AI 삽화임을 명시하여 게시한다."
+}

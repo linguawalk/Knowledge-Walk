@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-28",
+  "trigger": "사용자의 시카고 사자상·엘 그레코 실제 이미지 제안",
+  "original_works": "시카고 사자상(1893년 제작·1894년 설치)과 엘 그레코의 성모승천은 오래된 원작이며, AI 삽화 선택 이유가 원작 저작권 보호 중이어서인 것은 아님. 개별 사진 이용 조건은 별도 확인해야 함.",
+  "access_attempts": [
+    {
+      "url": "https://api.artic.edu/api/v1/artworks/search?q=The%20Assumption%20of%20the%20Virgin&limit=3&fields=id,title,image_id,is_public_domain,artist_title",
+      "result": "네트워크 프록시 접속 거부; 메타데이터를 읽지 못함"
+    },
+    {
+      "url": "https://www.artic.edu/open-access/open-access-images",
+      "result": "네트워크 프록시 접속 거부; 현재 페이지를 읽지 못함"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php",
+      "result": "네트워크 프록시 접속 거부; 개별 이미지·라이선스를 확인하지 못함"
+    }
+  ],
+  "replacement_completed": false,
+  "reason": "이미지 다운로드와 해당 파일의 이용 조건을 확인하지 못함. AI 삽화와 명시된 설명을 유지하여 승인된 게시 진행.",
+  "future_policy": "구체적 작품이 소재일 때 검증된 실제 사진 우선. 권리 검토 실패와 기술적 접속 제한을 구별해 설명."
+}

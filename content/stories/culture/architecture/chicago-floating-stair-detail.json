@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Architecture",
   "summary": "벽과 계단, 의자 아래의 가느다란 틈에 주목합니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 이대로 홈페이지 게시 요청",
+  "approved_at": "2026-10-28",
   "sources": [
     {
       "title": "시카고 미술관 — Secrets of the Modern Wing",

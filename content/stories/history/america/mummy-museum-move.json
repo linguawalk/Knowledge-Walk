@@ -5,11 +5,11 @@
   "category": "history",
   "subcategory": "America",
   "summary": "박물관 미라의 이동에도 포장 외에 확인할 일이 있었습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 이대로 홈페이지 게시 요청",
+  "approved_at": "2026-10-28",
   "sources": [
     {
       "title": "시카고 미술관 — The Mummy Returns",
