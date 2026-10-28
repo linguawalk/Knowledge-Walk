@@ -10,7 +10,7 @@ Life · Clothing
 
 *얼레빗 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=372004) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=372004) · 공공누리 제1유형(출처표시)
 
 작은 갈색 조각이 반달처럼 굽어 있다. 아래쪽의 빗살을 보기 전에는 무슨 물건인지 잠깐 고개를 기울이게 된다. 이름은 얼레빗이다.
 

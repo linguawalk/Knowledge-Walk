@@ -10,7 +10,7 @@ Life · Clothing
 
 *쌍학무늬 흉배, 궁중115 · 세부 사진 · 국립고궁박물관 소장·제공*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=376760) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=376760) · 공공누리 제1유형(출처표시)
 
 옛 관복을 보면 가슴께의 사각형 그림이 먼저 눈에 띌 때가 있다. 넓은 옷 한가운데에서 동물이 날거나 구름 사이를 움직인다.
 

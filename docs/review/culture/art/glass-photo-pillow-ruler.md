@@ -10,7 +10,7 @@ Culture · Art
 
 *백자베개 유리건판 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438673) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438673) · 공공누리 제1유형(출처표시)
 
 오래된 흑백 사진 한 장을 보자. 가운데에는 베개가 놓여 있고 오른쪽에는 긴 막대가 서 있다. 기념사진이라면 치워 두었을 것 같은 물건인데, 이 사진에서는 함께 남아 있다.
 

@@ -10,7 +10,7 @@ Life · Clothing
 
 *줄향노리개 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367850) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367850) · 공공누리 제1유형(출처표시)
 
 사진 속 물건은 긴 목걸이처럼 보인다. 색이 다른 작은 알들이 줄을 따라 이어지고, 아래에는 술이 달렸다. 그런데 이름은 목걸이가 아니라 줄향노리개다.
 

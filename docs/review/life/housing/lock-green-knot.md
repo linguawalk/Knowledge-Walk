@@ -10,7 +10,7 @@ Life · Housing
 
 *자물쇠, 열쇠 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=366520) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=366520) · 공공누리 제1유형(출처표시)
 
 열쇠를 찾느라 가방 안을 뒤적인 경험이 있다면, 열쇠고리 하나에도 취향이 들어간다는 말을 이해할 것이다. 잘 보이는 색을 고르기도 하고, 마음에 드는 작은 장식을 달기도 한다.
 

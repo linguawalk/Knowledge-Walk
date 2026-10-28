@@ -10,7 +10,7 @@ Science · Physics
 
 *복각천상열차분야지도각석 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=422252) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=422252) · 공공누리 제1유형(출처표시)
 
 별지도를 생각하면 종이나 화면부터 떠오른다. 그런데 국립고궁박물관에는 돌에 새긴 별지도가 있다. 이름은 길다. 복각천상열차분야지도각석. 오늘은 그 이름을 다 외우지 말고 맨 앞의 복각에만 눈길을 주어 보자.
 

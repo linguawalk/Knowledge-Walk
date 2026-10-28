@@ -10,7 +10,7 @@ History · Korea
 
 *시계 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367612) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367612) · 공공누리 제1유형(출처표시)
 
 사진 속 작은 문이 양쪽으로 열려 있다. 그 안에는 시계가 앉아 있다. 시계를 넣는 상자가 아니라 시계만을 위해 지은 작은 집처럼 보인다.
 

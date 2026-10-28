@@ -10,7 +10,7 @@ Culture · Literature
 
 *석제 연경재장서인 인장, 창덕7857 · 국립고궁박물관 소장·제공*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=363701) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=363701) · 공공누리 제1유형(출처표시)
 
 책을 빌려주기 전에 첫 장에 이름을 써 둔 경험이 있을 것이다. 나중에 돌아왔을 때 누구의 책인지 알아볼 수 있게 하려는 작은 표시다.
 

@@ -47,7 +47,7 @@ def main():
     index = ['# KnowledgeWalk — 이야기 서가', '',
              f'분야를 고른 다음 소주제로 들어가면 전체 {len(stories)}편의 글과 이미지를 함께 읽을 수 있습니다.', '',
              f'**공개 승인 {sum(publishable(s) for s in stories)}편 / 자료 대조 완료·편집 검토 {sum(s["source_review"] == "verified" and not publishable(s) for s in stories)}편 / 출처 추가 확인 {sum(s["source_review"] != "verified" for s in stories)}편.** 실제 웹 게시는 별도의 배포 상태를 따릅니다.', '',
-             '[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261028-ten-world.md)', '',
+             '[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261028-ten-curiosities.md)', '',
              '| 분야 | 이야기 | 소주제 수 |', '|---|---:|---:|']
     for category in categories:
         cid = category['id']
@@ -81,7 +81,7 @@ def main():
                  f"> {review_notice(story)}", '',
                  f"![{story['image']['alt']}]({image})", '', f"*{story['image']['credit']}*", '']
         if story['image']['type'] != 'ai_illustration':
-            draft += [f"[이미지 출처와 소장품 안내]({story['image']['source_url']}) · {story['image']['license']}", '']
+            draft += [f"[이미지 출처·제작 근거]({story['image']['source_url']}) · {story['image']['license']}", '']
         for block in story['body']:
             if block.get('heading'):
                 draft += [f"## {block['heading']}", '']
@@ -118,7 +118,7 @@ def main():
                  '| 분야 · 세부 분류 | 이야기 | 이미지 |', '|---|---|---|']
         for sid in ids:
             story = by_id[sid]
-            kind = 'AI 설명용 삽화' if story['image']['type'] == 'ai_illustration' else '박물관 제공 소장품 사진'
+            kind = story['image'].get('label') or ('AI 설명용 삽화' if story['image']['type'] == 'ai_illustration' else '박물관 제공 소장품 사진')
             lines.append(f"| {cmap[story['category']]['title']} · {story['subcategory']} | [{story['title']}]({review_path(story).as_posix()}) | {kind} |")
         lines += ['', '[분야별 이야기 서가](README.md) · [43개 소주제 현황](../topic-coverage.md)', '']
         (destination / f'batch-{path.stem}.md').write_text('\n'.join(lines), encoding='utf-8')

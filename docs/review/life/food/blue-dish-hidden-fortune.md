@@ -10,7 +10,7 @@ Life · Food
 
 *백자청화복자·풀꽃무늬접시 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=409289) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=409289) · 공공누리 제1유형(출처표시)
 
 음식을 담은 접시에서는 요리가 먼저 보인다. 그릇 한가운데 어떤 그림이 있는지는 다 먹고 나서야 알게 되는 경우가 많다. 이 접시라면 마지막에 복 한 글자를 만나게 될지도 모르겠다.
 

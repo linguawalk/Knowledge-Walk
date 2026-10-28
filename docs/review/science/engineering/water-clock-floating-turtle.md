@@ -10,7 +10,7 @@ Science · Engineering
 
 *자격루 부표 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=436599) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=436599) · 공공누리 제1유형(출처표시)
 
 둥근 몸체에 날개 같은 부분이 네 개 달렸다. 거북이처럼 보이기도 하고 뚜껑처럼 보이기도 한다. 국립고궁박물관은 이것을 자격루의 부표라고 소개한다. 시계 전체가 아니라 그 안에서 움직이던 부품이다.
 

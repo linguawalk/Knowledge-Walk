@@ -10,7 +10,7 @@ Finance · Money
 
 *지폐원판 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=437871) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=437871) · 공공누리 제1유형(출처표시)
 
 낡은 직사각형 나무판이 있다. 가운데는 길게 파였고 가장자리에는 작은 글자와 무늬가 남아 있다. 처음 보면 상자의 부품 같기도 하다. 그런데 박물관이 붙인 이름은 지폐원판이다.
 

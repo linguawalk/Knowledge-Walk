@@ -10,7 +10,7 @@ Life · Housing
 
 *주칠빗접 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438986) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438986) · 공공누리 제1유형(출처표시)
 
 작은 붉은 상자가 있다. 문짝과 금속 장식이 달려 있어서 가구를 줄여 놓은 것처럼 보인다. 가까이 살펴볼 때 재미있는 것은 가운데 붙은 자물쇠다. 모양이 거북이다.
 

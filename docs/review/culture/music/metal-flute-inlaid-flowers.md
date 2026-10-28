@@ -10,7 +10,7 @@ Culture · Music
 
 *철제금은입사대금 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=432873) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=432873) · 공공누리 제1유형(출처표시)
 
 대금이라는 이름을 들으면 길쭉한 대나무 악기가 떠오른다. 그런데 국립고궁박물관의 철제금은입사대금은 이름부터 조금 다르다. 금속으로 만든 악기에 꽃과 학 무늬까지 더했다.
 

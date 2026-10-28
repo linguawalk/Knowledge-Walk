@@ -10,7 +10,7 @@ Life · Housing
 
 *삼족화로 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439135) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439135) · 공공누리 제1유형(출처표시)
 
 둥근 화로 한 점이 놓여 있다. 가운데는 깊게 파였고 가장자리는 넓게 벌어졌다. 위에서 보면 꽤 얌전한 물건인데, 시선을 아래로 내리면 분위기가 달라진다. 세 다리가 작은 짐승처럼 생겼다.
 

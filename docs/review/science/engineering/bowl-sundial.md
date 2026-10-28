@@ -10,7 +10,7 @@ Science · Engineering
 
 *앙부일구, 창덕12944 · 국립고궁박물관 소장·제공*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=360654) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=360654) · 공공누리 제1유형(출처표시)
 
 박물관에서 앙부일구를 보면 먼저 그릇 같다는 생각이 든다. 가운데에는 바늘처럼 생긴 물건이 비스듬히 서 있고, 안쪽에는 여러 줄이 새겨져 있다.
 

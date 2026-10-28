@@ -10,7 +10,7 @@ Life · Food
 
 *자수수저집 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=365789) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=365789) · 공공누리 제1유형(출처표시)
 
 사진을 얼핏 보면 길쭉한 장식품 같다. 붉은 바탕에 꽃이 피고, 새가 서 있고, 여러 색의 술이 아래로 늘어진다. 이름을 보고 나서야 고개를 끄덕인다. 자수수저집이다.
 

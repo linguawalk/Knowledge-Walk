@@ -10,7 +10,7 @@ Culture · Music
 
 *편경 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=371659) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=371659) · 공공누리 제1유형(출처표시)
 
 사진 속 돌은 한쪽이 꺾여 있다. 끝부분에 구멍도 하나 보인다. 따로 놓으면 무엇을 만들다 남긴 조각처럼 보일 수 있지만, 이것은 소리를 내는 악기의 한 부분이다. 이름은 편경이다.
 

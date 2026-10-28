@@ -10,7 +10,7 @@ Culture · Architecture
 
 *선릉 정자각 중수 상량문, 고궁1105 · 국립고궁박물관 소장·제공*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=366115) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=366115) · 공공누리 제1유형(출처표시)
 
 오래된 건물 앞에서는 언제 처음 세웠는지부터 묻게 된다. 하지만 처음 지은 날만으로 건물의 긴 시간을 다 설명할 수는 없다. 기울어진 곳을 바로잡고 오래된 부분을 고친 시간도 있었기 때문이다.
 

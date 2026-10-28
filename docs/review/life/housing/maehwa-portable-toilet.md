@@ -10,7 +10,7 @@ Life · Housing
 
 *매화틀, 창덕26414 · 국립고궁박물관 소장·제공*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367936) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367936) · 공공누리 제1유형(출처표시)
 
 궁궐의 생활을 상상하면 큰 침전과 화려한 가구부터 떠오르기 쉽다. 하지만 생활을 가능하게 하는 것은 멋진 물건만이 아니다. 매일 해결해야 하는 작은 필요도 있다.
 

@@ -10,7 +10,7 @@ Companies · Media
 
 *전보 (Western Union Telegram) · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438369) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438369) · 공공누리 제1유형(출처표시)
 
 화면에 뜬 메시지는 손가락으로 누르면 열린다. 종이로 받은 소식이라면 보통 편지 봉투를 떠올릴 것이다. 그런데 이 오래된 전보는 또 다르다. 회사 이름이 인쇄된 종이에 메시지 종이가 한 번 더 붙어 있다.
 

@@ -10,7 +10,7 @@ Culture · Art
 
 *은제주전자 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=390404) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=390404) · 공공누리 제1유형(출처표시)
 
 은빛 주전자를 보면 먼저 길게 뻗은 주둥이와 휘어진 손잡이가 눈에 들어온다. 가운데 둥근 몸통까지, 물을 따르는 물건이라는 사실은 어렵지 않게 알아볼 수 있다.
 

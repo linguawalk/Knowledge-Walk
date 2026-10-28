@@ -10,7 +10,7 @@ Culture · Art
 
 *독서당계회도, 1531년경 · 국립고궁박물관 소장(고궁4000) · 국립고궁박물관 제공 이미지*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=436733) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=436733) · 공공누리 제1유형(출처표시)
 
 옛 그림을 볼 때 글씨는 일단 건너뛰게 된다. 산이 어디 있는지, 사람은 무엇을 하는지부터 찾아보는 편이 쉽다. 한자가 빽빽하게 적혀 있으면 그림 설명이겠거니 하고 지나치기도 한다.
 

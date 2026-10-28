@@ -10,7 +10,7 @@ Culture · Art
 
 *나전칠기부채무늬연갑, 고궁2 · 국립고궁박물관 소장·제공*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439031) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439031) · 공공누리 제1유형(출처표시)
 
 검은 칠을 한 상자에 반짝이는 부채 무늬가 들어 있다. 겉모습만 보면 장식품을 담은 함일 것 같다. 그런데 국립고궁박물관이 소개하는 이 물건의 이름은 「나전칠기부채무늬연갑」이다. 벼루와 연적을 함께 보관하는 상자다.
 

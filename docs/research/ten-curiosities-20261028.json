@@ -1,0 +1,304 @@
+{
+  "checked_at": "2026-10-28",
+  "scope": "요청에 따른 수동 제작 새 원고 10편. 실제 NASA 사진 2장·지도 텍스처 1장·직접 제작 설명도 3장·AI 개념 삽화 4장을 구별. 홈페이지 게시 승인은 별도.",
+  "stories": [
+    {
+      "id": "apollo-bootprint-close-up",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/Images%20and%20Textures/Moon%20-%20Apollo%20Astronaut%20Bootprint/Moon%20-%20Apollo%20Astronaut%20Bootprint.jpg",
+          "final_url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/Images%20and%20Textures/Moon%20-%20Apollo%20Astronaut%20Bootprint/Moon%20-%20Apollo%20Astronaut%20Bootprint.jpg",
+          "status": 200,
+          "sha256": "65d620d429ea1f49e2f79e60ec0a169ef22871f76fdafa0faa625758b92478f7",
+          "bytes": 4707847,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "아폴로 우주비행사의 달 발자국이라는 NASA 자료명",
+            "실제 사진에 남은 밑창의 줄무늬와 표면의 명암"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/README.md",
+          "final_url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/README.md",
+          "status": 200,
+          "sha256": "2e86b56d48a27803fa32f6fe66d252746c92a875865af162b3a0941435199a12",
+          "bytes": 2396,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "NASA가 공개하는 이미지·텍스처 자료의 성격과 이용 안내"
+          ]
+        }
+      ],
+      "method": "기관·표준·프로젝트 공식 원문을 실제 읽고 사실을 대조. 수학 설명은 인용한 치수·점 정의에서 직접 계산. 사진 관련 글은 실제 원본 이미지도 확인.",
+      "editorial_limits": "최초의 발자국·우주비행사 이름·정확한 촬영일·보존 기간·달의 대기와 풍화 원인을 확인 없이 사용하지 않음. JPEG의 2008년 편집 날짜를 촬영일로 쓰지 않음.",
+      "image": {
+        "file": "content/images/apollo-bootprint-close-up.jpg",
+        "type": "photo",
+        "sha256": "4fb25ea0a914a0e34a75903d19c70ced45011cc3fdf1422a05205e82dcac0ffe",
+        "rights_evidence": "NASA 공식 저장소 README의 assets are free and without copyright 안내 및 해당 저장소의 실제 이미지 파일 대조. NASA 로고·기관 보증을 주장하지 않음."
+      }
+    },
+    {
+      "id": "earth-map-for-globe",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/Images%20and%20Textures/Earth%20(A)/Earth%20(A).jpg",
+          "final_url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/Images%20and%20Textures/Earth%20(A)/Earth%20(A).jpg",
+          "status": 200,
+          "sha256": "5e18afce2860f02a215c09954fff5d3d1ca140cafa26c368d24d7636dd6705a7",
+          "bytes": 1398329,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "NASA가 Earth (A) 이름으로 제공하는 직사각형 지도 텍스처와 실제 대륙·바다 배치"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/README.md",
+          "final_url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/README.md",
+          "status": 200,
+          "sha256": "2e86b56d48a27803fa32f6fe66d252746c92a875865af162b3a0941435199a12",
+          "bytes": 2396,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "공식 저장소가 3D 모델·이미지·텍스처를 제공한다는 설명"
+          ]
+        }
+      ],
+      "method": "기관·표준·프로젝트 공식 원문을 실제 읽고 사실을 대조. 수학 설명은 인용한 치수·점 정의에서 직접 계산. 사진 관련 글은 실제 원본 이미지도 확인.",
+      "editorial_limits": "단일 촬영 사진·특정 관측일·색상의 실제 시각적 일치·투영법·관측 장비·합성 공정을 단정하지 않음.",
+      "image": {
+        "file": "content/images/earth-map-for-globe.jpg",
+        "type": "artwork",
+        "sha256": "95ff45ec763e625b94142ee15f3f4469fae32da4f29dd44f15142971f3632c5d",
+        "rights_evidence": "NASA 공식 저장소 README의 assets are free and without copyright 안내 및 해당 저장소의 실제 이미지 파일 대조. NASA 로고·기관 보증을 주장하지 않음."
+      }
+    },
+    {
+      "id": "discovery-panel-labels",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/Images%20and%20Textures/Discovery%20Flight%20Deck%20Panels/Discovery%20Flight%20Deck%20Panels%20s103e0163.jpg",
+          "final_url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/Images%20and%20Textures/Discovery%20Flight%20Deck%20Panels/Discovery%20Flight%20Deck%20Panels%20s103e0163.jpg",
+          "status": 200,
+          "sha256": "0aa08739be8984fb2ed62ca6e732be5901f440bd40731050c4ede7245172c412",
+          "bytes": 1409904,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "NASA가 Discovery Flight Deck Panels s103e0163 이름으로 제공한 실제 사진",
+            "실제 이미지의 반복되는 원형 부분·색 테두리·작은 표기"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/README.md",
+          "final_url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/README.md",
+          "status": 200,
+          "sha256": "2e86b56d48a27803fa32f6fe66d252746c92a875865af162b3a0941435199a12",
+          "bytes": 2396,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "NASA의 공개 이미지·텍스처 자료 제공과 이용 안내"
+          ]
+        }
+      ],
+      "method": "기관·표준·프로젝트 공식 원문을 실제 읽고 사실을 대조. 수학 설명은 인용한 치수·점 정의에서 직접 계산. 사진 관련 글은 실제 원본 이미지도 확인.",
+      "editorial_limits": "사진 속 장치를 모두 스위치로 부르거나 각 장치의 기능·색상 의미·안전 효과를 추정하지 않음. 전체 조종석 사진이라고 소개하지 않음.",
+      "image": {
+        "file": "content/images/discovery-panel-labels.jpg",
+        "type": "photo",
+        "sha256": "91fea77180e13e59875104827cefa2b09556157e2dac69c491d93d18e9750ad6",
+        "rights_evidence": "NASA 공식 저장소 README의 assets are free and without copyright 안내 및 해당 저장소의 실제 이미지 파일 대조. NASA 로고·기관 보증을 주장하지 않음."
+      }
+    },
+    {
+      "id": "british-calendar-eleven-days",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/util-linux/util-linux/master/misc-utils/cal.1.adoc",
+          "final_url": "https://raw.githubusercontent.com/util-linux/util-linux/master/misc-utils/cal.1.adoc",
+          "status": 200,
+          "sha256": "40032cbba58470f59c65f9dcd118fd6259b5c7267eec8abb6a6508cc8711fdd6",
+          "bytes": 9603,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "1752년 영국 제국의 그레고리력 채택",
+            "9월 2일 다음 14일과 3~13일 생략",
+            "윤년 규칙 차이와 태양 주기 동기화",
+            "지역별 전환일은 다르며 cal 기본값은 특정 전환을 반영"
+          ]
+        }
+      ],
+      "method": "기관·표준·프로젝트 공식 원문을 실제 읽고 사실을 대조. 수학 설명은 인용한 치수·점 정의에서 직접 계산. 사진 관련 글은 실제 원본 이미지도 확인.",
+      "editorial_limits": "모든 나라가 같은 날 전환했다거나 날짜 생략만큼 물리적 시간이 사라졌다고 설명하지 않음. 폭동 일화·출생일 변경 등은 다루지 않음.",
+      "image": {
+        "file": "content/images/british-calendar-eleven-days.jpg",
+        "type": "artwork",
+        "sha256": "80375693b5f52986eb4bf9ef77e2739cc015d6b031225bf8efc3504b792cdfbb",
+        "method": "원자료의 값과 배치에서 직접 만든 수학·날짜 설명도. 역사적 원본·실제 촬영물·AI 생성 이미지가 아님."
+      }
+    },
+    {
+      "id": "a4-fold-same-shape",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/w3c/csswg-drafts/main/css-page-3/Overview.bs",
+          "final_url": "https://raw.githubusercontent.com/w3c/csswg-drafts/main/css-page-3/Overview.bs",
+          "status": 200,
+          "sha256": "641fe086a52f057865bb774ed94b58ab48482ba6ae0fcf54c457fa0fcf7cae7d",
+          "bytes": 97983,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "ISO A4 210×297mm와 A5 148×210mm라는 공개 규격값",
+            "본문의 반접기·비율·제곱근2 관계는 이 치수와 직사각형에서 직접 계산한 설명"
+          ]
+        }
+      ],
+      "method": "기관·표준·프로젝트 공식 원문을 실제 읽고 사실을 대조. 수학 설명은 인용한 치수·점 정의에서 직접 계산. 사진 관련 글은 실제 원본 이미지도 확인.",
+      "editorial_limits": "현행 W3C 문서는 용지 치수 근거로만 사용. ISO 제정 역사·설계자의 의도는 단정하지 않음. 실제 반절148.5mm와 A5 148mm를 구별.",
+      "image": {
+        "file": "content/images/a4-fold-same-shape.jpg",
+        "type": "artwork",
+        "sha256": "eb91545b263effac7ebfa308c621a543644a99b7a8ce0ffad4b1cc90d74c0ed1",
+        "method": "원자료의 값과 배치에서 직접 만든 수학·날짜 설명도. 역사적 원본·실제 촬영물·AI 생성 이미지가 아님."
+      }
+    },
+    {
+      "id": "braille-six-dots",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/liblouis/liblouis/master/tables/latinLetterDef6Dots.uti",
+          "final_url": "https://raw.githubusercontent.com/liblouis/liblouis/master/tables/latinLetterDef6Dots.uti",
+          "status": 200,
+          "sha256": "644b8b0c9a49ec88d487d2068933995cfa4d77cabb64ec5db26ae04b3d458f71",
+          "bytes": 1993,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "라틴 문자용 6점 정의와 a=1, b=12, c=14",
+            "64·63은 여섯 자리의 두 상태에서 직접 계산한 값"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/liblouis/liblouis/master/doc/liblouis.texi",
+          "final_url": "https://raw.githubusercontent.com/liblouis/liblouis/master/doc/liblouis.texi",
+          "status": 200,
+          "sha256": "6d1a0c149d34bee32c48751bbcddb629d7c6aa4378cf62f82f33b6131994cbb9",
+          "bytes": 155389,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "6점 체계와 점 패턴·언어별 변환 규칙을 사용하는 공식 문서"
+          ]
+        }
+      ],
+      "method": "기관·표준·프로젝트 공식 원문을 실제 읽고 사실을 대조. 수학 설명은 인용한 치수·점 정의에서 직접 계산. 사진 관련 글은 실제 원본 이미지도 확인.",
+      "editorial_limits": "점자 전체를 단순한 일대일 암호표로 설명하지 않음. 한국 점자 교육표로 제시하지 않음. 점이 있는 칸만63이라는 계산을 문자·의미 전체 개수로 혼동하지 않음.",
+      "image": {
+        "file": "content/images/braille-six-dots.jpg",
+        "type": "artwork",
+        "sha256": "e82b4a2c38b6e03c0b82915b78398657edbcf66348476ba5c57dccd3c48a5421",
+        "method": "원자료의 값과 배치에서 직접 만든 수학·날짜 설명도. 역사적 원본·실제 촬영물·AI 생성 이미지가 아님."
+      }
+    },
+    {
+      "id": "http-404-410",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/httpwg/http-core/main/rfc9110.xml",
+          "final_url": "https://raw.githubusercontent.com/httpwg/http-core/main/rfc9110.xml",
+          "status": 200,
+          "sha256": "22797e1c392d3a08cca9dca4d8affd7f3461fe574b333658c97b397627efb4d1",
+          "bytes": 601561,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "RFC 9110의 404: 현재 표현 미발견 또는 존재 비공개와 영구성 미지정",
+            "410: 접근 불가 상태의 지속 가능성·웹 유지관리 목적",
+            "모든 영구적 부재에 410을 의무 적용하지 않는다는 규정"
+          ]
+        }
+      ],
+      "method": "기관·표준·프로젝트 공식 원문을 실제 읽고 사실을 대조. 수학 설명은 인용한 치수·점 정의에서 직접 계산. 사진 관련 글은 실제 원본 이미지도 확인.",
+      "editorial_limits": "방 번호 기원 같은 근거 없는 일화·특정 사이트 상태·복구 가능성을 단정하지 않음.",
+      "image": {
+        "file": "content/illustrations/http-404-410.jpg",
+        "type": "ai_illustration",
+        "sha256": "2f234c62f1c18c6e1350062dd12e52e01ac4d327d70e273948081880f3958d30"
+      }
+    },
+    {
+      "id": "metal-flute-woodwind-family",
+      "sources": [
+        {
+          "url": "https://philharmonia.co.uk/resources/instruments/flute/",
+          "final_url": "https://philharmonia.co.uk/resources/instruments/flute/",
+          "status": 200,
+          "sha256": "16d72654de5cd23a0ebfe89e05010aa0c81a38b0f9ceb87a9956998a48395bde",
+          "bytes": 101928,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "옛 플루트는 나무·현대 다수는 금속·피콜로는 대체로 목제",
+            "목관악기로 소개되는 플루트",
+            "19세기 키·패드 체계와 복잡한 연주",
+            "C·피콜로·알토·베이스 플루트 종류"
+          ]
+        }
+      ],
+      "method": "기관·표준·프로젝트 공식 원문을 실제 읽고 사실을 대조. 수학 설명은 인용한 치수·점 정의에서 직접 계산. 사진 관련 글은 실제 원본 이미지도 확인.",
+      "editorial_limits": "재료 외에 악기 분류 원리 전체를 단순화하지 않음. 플루트가 목관 전체의 최고음이라는 포괄 주장은 채택하지 않음. 삽화는 정확한 키 배열 자료 아님.",
+      "image": {
+        "file": "content/illustrations/metal-flute-woodwind-family.jpg",
+        "type": "ai_illustration",
+        "sha256": "ae1efba661d5b273d27212eebf61ce3273a201d7eaf27b401ef708d9b0368626"
+      }
+    },
+    {
+      "id": "clarinet-many-sizes",
+      "sources": [
+        {
+          "url": "https://philharmonia.co.uk/resources/instruments/clarinet/",
+          "final_url": "https://philharmonia.co.uk/resources/instruments/clarinet/",
+          "status": 200,
+          "sha256": "516122a40d43ded45d1c5957304f309e2f8d2c7d49a0ab70aa3188e6baa3769c",
+          "bytes": 97464,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "소프라니노부터 콘트라베이스까지 다양한 크기",
+            "저음·고음의 음색 차이",
+            "콘트라베이스 종류의 매우 낮은 음역",
+            "재즈·스윙과 리듬·스우핑 표현 관련 기관 설명"
+          ]
+        }
+      ],
+      "method": "기관·표준·프로젝트 공식 원문을 실제 읽고 사실을 대조. 수학 설명은 인용한 치수·점 정의에서 직접 계산. 사진 관련 글은 실제 원본 이미지도 확인.",
+      "editorial_limits": "발명 연도를 특정한 1690년으로 확정하는 단순화는 피함. 전 종류를 동일 음역·정확한 치수로 표시하지 않음. AI 삽화는 제품·구조 도해 아님.",
+      "image": {
+        "file": "content/illustrations/clarinet-many-sizes.jpg",
+        "type": "ai_illustration",
+        "sha256": "77cb45c82295372601ecc485a707495774986387d0ccbc0acfa48b0d950c6e23"
+      }
+    },
+    {
+      "id": "tass-stencil-posters",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/55.json",
+          "final_url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/55.json",
+          "status": 200,
+          "sha256": "df0295a62d2cc3bc040cec5ad3750c8f8a23022b539e0ef1db61fb4d6419f549",
+          "bytes": 3557,
+          "checked_at": "2026-10-28",
+          "supports": [
+            "소련 중앙 통신기관 타스와 전쟁기 포스터",
+            "화가·삽화가·시인·작가 참여와 전황·선전 목적",
+            "손으로 자른 스텐실·채색·종이 조각과 글 패널·번호의 결합",
+            "모스크바 상점·공장·공공 건물 배포"
+          ]
+        }
+      ],
+      "method": "기관·표준·프로젝트 공식 원문을 실제 읽고 사실을 대조. 수학 설명은 인용한 치수·점 정의에서 직접 계산. 사진 관련 글은 실제 원본 이미지도 확인.",
+      "editorial_limits": "이 시기의 모든 포스터가 같은 방식이었다고 일반화하지 않음. 선전 내용을 사실 보도와 동일시하지 않음. 특정 작품·정치 상징을 AI로 모사하지 않음.",
+      "image": {
+        "file": "content/illustrations/tass-stencil-posters.jpg",
+        "type": "ai_illustration",
+        "sha256": "00307e910dd58d279e3887ce1e2338473c5d5e1f1a8891d00af9abd26e12cc0e"
+      }
+    }
+  ]
+}

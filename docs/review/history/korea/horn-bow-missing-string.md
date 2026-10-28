@@ -10,7 +10,7 @@ History · Korea
 
 *각궁, 창덕26703 · 국립고궁박물관 소장·제공*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=370166) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=370166) · 공공누리 제1유형(출처표시)
 
 활을 떠올리면 팽팽한 줄과 화살을 당기는 모습부터 생각난다. 그런데 박물관에 놓인 활에 줄이 없다면 어디를 보아야 할까.
 

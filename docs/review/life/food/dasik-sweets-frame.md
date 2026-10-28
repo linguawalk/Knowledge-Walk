@@ -10,7 +10,7 @@ Life · Food
 
 *유제 다식우리 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=371019) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=371019) · 공공누리 제1유형(출처표시)
 
 작은 원통 하나가 놓여 있다. 옆은 기둥 사이로 훤히 보이고 위와 아래도 뚫려 있다. 물을 담는 그릇 같지는 않다. 무엇에 썼을까 궁금해지는 순간, 이름을 읽는다. 다식우리다.
 

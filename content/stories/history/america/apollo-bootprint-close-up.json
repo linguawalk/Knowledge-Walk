@@ -1,0 +1,76 @@
+{
+  "id": "apollo-bootprint-close-up",
+  "title": "달에서는 신발 바닥도 기록이 되었다",
+  "subtitle": "큰 탐사 이야기를 작은 발자국으로 보기",
+  "category": "history",
+  "subcategory": "America",
+  "summary": "NASA가 공개한 달의 발자국 사진에서 탐사의 작은 흔적을 살펴봅니다.",
+  "status": "review",
+  "publication_ready": false,
+  "source_review": "verified",
+  "approved_by": null,
+  "approved_at": null,
+  "sources": [
+    {
+      "title": "NASA — Moon: Apollo Astronaut Bootprint",
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/Images%20and%20Textures/Moon%20-%20Apollo%20Astronaut%20Bootprint/Moon%20-%20Apollo%20Astronaut%20Bootprint.jpg",
+      "checked_at": "2026-10-28",
+      "verified": true,
+      "supports": [
+        "아폴로 우주비행사의 달 발자국이라는 NASA 자료명",
+        "실제 사진에 남은 밑창의 줄무늬와 표면의 명암"
+      ]
+    },
+    {
+      "title": "NASA 3D Resources — 공개 자료 이용 안내",
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/README.md",
+      "checked_at": "2026-10-28",
+      "verified": true,
+      "supports": [
+        "NASA가 공개하는 이미지·텍스처 자료의 성격과 이용 안내"
+      ]
+    }
+  ],
+  "image": {
+    "file": "content/images/apollo-bootprint-close-up.jpg",
+    "alt": "NASA가 아폴로 우주비행사의 달 발자국으로 공개한 실제 사진. 표면에 신발 밑창의 줄무늬가 남아 있습니다.",
+    "type": "photo",
+    "credit": "NASA / NASA 3D Resources · 실제 공개 사진. 사진 전체를 유지하고 웹 표시 크기로 줄였습니다.",
+    "width": 1591,
+    "height": 1600,
+    "label": "NASA 실제 사진",
+    "source_url": "https://github.com/nasa/NASA-3D-Resources",
+    "license": "NASA 공식 저장소에서 free and without copyright로 안내한 공개 자료",
+    "license_url": "https://github.com/nasa/NASA-3D-Resources/blob/master/README.md"
+  },
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "달 탐사를 떠올리면 우주선과 우주복, 멀리 보이는 지구가 먼저 생각난다. 그런데 NASA의 공개 자료에는 사람의 얼굴도 우주선도 없이 발자국을 가까이 찍은 사진이 있다. 화면을 채우는 것은 바닥의 흙과 신발 밑창의 무늬다.",
+        "NASA는 이 사진을 아폴로 우주비행사의 달 발자국 자료로 소개한다. 커다란 탐사 이야기를 잠시 내려놓고 보면, 사람이 어떤 곳에 다녀갔는지를 알려 주는 아주 익숙한 흔적이 나온다."
+      ]
+    },
+    {
+      "heading": "발보다 먼저 보이는 줄무늬",
+      "paragraphs": [
+        "사진에는 밑창의 여러 줄이 밝고 어두운 부분으로 남아 있다. 발자국의 모양을 알아보는 데 신발 전체나 우주복을 볼 필요는 없다. 바닥에 옮겨진 무늬만으로도 사람이 디뎠던 자리를 읽게 된다.",
+        "우리는 일상에서도 비슷한 일을 한다. 젖은 바닥이나 흙길에 남은 자국을 보고 누군가 지나갔다고 짐작한다. 낯선 달 표면에서 갑자기 그런 가까운 경험을 만나는 것이다."
+      ]
+    },
+    {
+      "heading": "이름을 아는 것과 보는 것",
+      "paragraphs": [
+        "이 자료의 이름에는 아폴로와 달, 우주비행사의 발자국이라는 정보가 들어 있다. 덕분에 단순한 흙바닥 사진과는 다른 맥락에서 이미지를 읽을 수 있다.",
+        "하지만 사진 한 장에 붙은 익숙한 이름만으로 모든 사정을 알 수 있는 것은 아니다. 여기서는 이 자국이 최초의 발자국이라고 단정하거나 어느 우주비행사의 어느 발인지 정하지 않는다. 확인한 자료가 알려 주는 범위 안에서 사진을 보는 편이 정확하다."
+      ]
+    },
+    {
+      "heading": "커다란 업적 곁의 작은 물건",
+      "paragraphs": [
+        "이 이미지는 NASA가 공개한 실제 사진이다. 삽화로 밑창을 다시 그리지 않고 원래 사진을 함께 실은 이유도 여기에 있다. 어떤 무늬가 어떻게 남았는지는 실제 자료를 보는 편이 훨씬 빠르다.",
+        "우주 탐사는 거대한 기계만의 이야기가 아니다. 사람의 몸을 감싼 옷과 발을 디딘 신발도 함께 움직였다. 달을 보고 고개를 들던 시선을 이번에는 아래로 내려 보자. 작은 밑창의 흔적에서도 탐사의 다른 얼굴을 만날 수 있다."
+      ]
+    }
+  ]
+}

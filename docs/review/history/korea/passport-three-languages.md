@@ -10,7 +10,7 @@ History · Korea
 
 *대조선국 여권 양식 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=437344) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=437344) · 공공누리 제1유형(출처표시)
 
 여권을 떠올리면 손바닥만 한 책자를 생각하게 된다. 그런데 국립고궁박물관의 대조선국 여권 양식은 한 장의 넓은 종이다. 사진을 보면 가운데를 경계로 글줄의 모습도 달라진다.
 

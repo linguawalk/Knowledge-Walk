@@ -10,7 +10,7 @@ Cities · Asia
 
 *잡상 '천산갑' · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438950) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438950) · 공공누리 제1유형(출처표시)
 
 궁궐 지붕을 올려다보면 끝부분을 따라 작은 형상들이 늘어서 있다. 멀리서는 윤곽만 보여서 모두 비슷한 조각처럼 느껴지기 쉽다. 가까이 보면 그중 하나는 굵은 목과 작은 얼굴을 가진 낯선 모습이다.
 

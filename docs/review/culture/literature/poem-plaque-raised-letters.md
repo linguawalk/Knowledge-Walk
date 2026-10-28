@@ -10,7 +10,7 @@ Culture · Literature
 
 *배림춘방경차어제 현판 · 국립고궁박물관 소장·제공. 전체 사진을 자르지 않고 사용했습니다.*
 
-[이미지 출처와 소장품 안내](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=430001) · 공공누리 제1유형(출처표시)
+[이미지 출처·제작 근거](https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=430001) · 공공누리 제1유형(출처표시)
 
 현판이라고 하면 건물 이름이 크게 적힌 판을 떠올리기 쉽다. 그런데 이 현판에는 여러 줄의 글이 담겨 있다. 이름표라기보다 벽에 걸어 두는 한 편의 시에 가깝다.
 

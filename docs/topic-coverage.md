@@ -1,13 +1,13 @@
 # 세부 주제 제작 현황
 
-전체 43개 세부 주제 중 원고가 있는 곳은 27개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
+전체 43개 세부 주제 중 원고가 있는 곳은 29개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
 
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
 | History | Asia | 0 | 0 | 0 |
-| History | Europe | 1 | 1 | 1 |
-| History | America | 2 | 2 | 2 |
+| History | Europe | 2 | 2 | 1 |
+| History | America | 3 | 3 | 2 |
 | History | Middle East | 0 | 0 | 0 |
 | History | Africa | 0 | 0 | 0 |
 | Cities | Asia | 2 | 2 | 2 |
@@ -18,7 +18,7 @@
 | Culture | Architecture | 3 | 3 | 3 |
 | Culture | Literature | 2 | 2 | 2 |
 | Culture | Philosophy | 0 | 0 | 0 |
-| Culture | Music | 5 | 4 | 4 |
+| Culture | Music | 7 | 6 | 4 |
 | Culture | Art | 8 | 8 | 8 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
@@ -29,11 +29,11 @@
 | Companies | Technology | 2 | 2 | 2 |
 | Companies | Automotive | 0 | 0 | 0 |
 | Companies | Finance | 0 | 0 | 0 |
-| Companies | Media | 1 | 1 | 1 |
+| Companies | Media | 2 | 2 | 1 |
 | Companies | Fashion | 0 | 0 | 0 |
 | Computing | Computers | 1 | 1 | 1 |
 | Computing | Software | 1 | 1 | 1 |
-| Computing | Internet | 1 | 1 | 1 |
+| Computing | Internet | 2 | 2 | 1 |
 | Computing | Programming | 1 | 1 | 1 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
 | Finance | Money | 2 | 1 | 1 |
@@ -41,23 +41,23 @@
 | Finance | Insurance | 0 | 0 | 0 |
 | Finance | Investment | 1 | 1 | 1 |
 | Finance | Fintech | 0 | 0 | 0 |
-| Science | Mathematics | 0 | 0 | 0 |
+| Science | Mathematics | 2 | 2 | 0 |
 | Science | Physics | 2 | 2 | 2 |
 | Science | Chemistry | 0 | 0 | 0 |
 | Science | Biology | 3 | 3 | 3 |
-| Science | Earth-Science | 0 | 0 | 0 |
-| Science | Engineering | 2 | 2 | 2 |
+| Science | Earth-Science | 1 | 1 | 0 |
+| Science | Engineering | 3 | 3 | 2 |
 
 ## 먼저 살펴볼 빈 주제
 
 아래는 원고가 적은 분야의 빈 주제를 먼저 보여주는 조사 대기 목록입니다. 자료의 신뢰성과 이야기의 재미를 확인한 뒤 실제 소재를 정하며, 이 순서대로 무조건 집필하지 않습니다.
 
-- Companies → Automotive
-- Companies → Finance
-- Companies → Fashion
 - Finance → Banking
 - Finance → Insurance
 - Finance → Fintech
+- Companies → Automotive
+- Companies → Finance
+- Companies → Fashion
 - Cities → Middle East
 - History → Asia
 
