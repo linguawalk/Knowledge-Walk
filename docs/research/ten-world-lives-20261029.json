@@ -1,0 +1,329 @@
+{
+  "checked_at": "2026-10-29",
+  "scope": "사용자 요청에 따른 새 원고 10편. 한국 밖의 지역을 다루며 모든 이미지가 실제 사진이다. 개별 사진의 CC BY 또는 Public Domain 표기를 직접 확인. 교재 전체 라이선스를 사진에 일괄 적용하지 않음. 홈페이지 게시 승인은 별도.",
+  "stories": [
+    {
+      "id": "jordan-moving-tent",
+      "region": "요르단·중동",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00045/index.cnxml",
+          "title": "Pastoralism",
+          "status": 200,
+          "sha256": "88237384902d38ad8c58d75634c5fd3d6de3870e95566fe8ef2a6cbfbfa08e8e",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "사진의 요르단 베두인 천막",
+            "일부 목축 집단의 목초지·물에 따른 이동과 이동 가능한 천막",
+            "전통 거처의 활동별 공간 구분",
+            "현재의 다양한 정착·노동 형태도 교재가 함께 설명"
+          ]
+        }
+      ],
+      "method": "해당 장의 설명·사진 캡션을 실제 읽고 사진을 확인. 본문은 확인된 사실과 사진 관찰을 바탕으로 새로 쓴 글이며 교재 문장의 번역·복제 아님.",
+      "editorial_limits": "사진의 천막 재료·구조·실내 배치·촬영일을 추정하지 않음. 모든 베두인을 유목민으로 일반화하지 않음.",
+      "image": {
+        "file": "content/images/jordan-moving-tent.jpg",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_07_04_007.jpg",
+        "status": 200,
+        "source_sha256": "6360b49499bad8b4f0c06f62c86f69e28f9753266a472910c532a780bb6e6689",
+        "sha256": "6aa8bdaad9a9b35ba697135bc306ff6ce970a72bef3186ebd8c5d728e021f4cb",
+        "original_caption_and_credit": "A Bedouin tent in Jordan. Tents can be quickly constructed and easily transported, making them the perfect home for those practicing a lifestyle that requires frequent movement. (credit: “Bedouin Camp” by young shanahan/flickr, CC BY 2.0)",
+        "license": "CC BY 2.0",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00045/index.cnxml",
+        "license_note": "교재 전체의 이용 조건을 사진에 일괄 적용하지 않음. 개별 캡션에 명시된 CC BY 또는 Public Domain 사진만 채택. NC 또는 권리 불명 사진은 제외.",
+        "modifications": "사진 전체 유지. 웹용 JPEG로 저장했으며 인물·배경·작품 내용은 변경하지 않음."
+      }
+    },
+    {
+      "id": "mexico-tortilla-grinding-stone",
+      "region": "멕시코 푸에르토바야르타",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00081/index.cnxml",
+          "title": "Introduction",
+          "status": 200,
+          "sha256": "d1a3d9542d1ab7b199844e41ec75bccd27f10fa85484a98763ab7b7537af3104",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "푸에르토바야르타의 토르티야 준비 장면이라는 캡션",
+            "메타테와 마노라는 도구·형태·옥수수를 가는 용도",
+            "재료 선택·분쇄 정도 판단·갈돌 사용 능력이 준비 과정에 필요하다는 해설"
+          ]
+        }
+      ],
+      "method": "해당 장의 설명·사진 캡션을 실제 읽고 사진을 확인. 본문은 확인된 사실과 사진 관찰을 바탕으로 새로 쓴 글이며 교재 문장의 번역·복제 아님.",
+      "editorial_limits": "석회 처리 등 확인하지 않은 조리법·기원 연대·현대 사용률은 다루지 않음. 모든 멕시코 가정으로 일반화하지 않음.",
+      "image": {
+        "file": "content/images/mexico-tortilla-grinding-stone.jpg",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_14_Intro_002.jpg",
+        "status": 200,
+        "source_sha256": "101234b16ebc172aa1915612aca019c4962f9eee2ade0629c7653f2b1d4e9596",
+        "sha256": "779f2e8193bd3b2365d8f0442c69bf0f16be4c2413c281f035c76102897c9e31",
+        "original_caption_and_credit": "A woman in Puerto Vallarta, Mexico, makes tortillas. In the foreground are the  metate  (the large, flat stone) and the  mano  (the smaller, oblong stone) she used to grind dried corn into flour to create the batter for this traditional food. (credit: “Grinding Corn for Tortillas” by Terri Bateman/flickr, CC BY 2.0)",
+        "license": "CC BY 2.0",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00081/index.cnxml",
+        "license_note": "교재 전체의 이용 조건을 사진에 일괄 적용하지 않음. 개별 캡션에 명시된 CC BY 또는 Public Domain 사진만 채택. NC 또는 권리 불명 사진은 제외.",
+        "modifications": "사진 전체 유지. 웹용 JPEG로 저장했으며 인물·배경·작품 내용은 변경하지 않음."
+      }
+    },
+    {
+      "id": "three-sisters-garden",
+      "region": "북미·하우데노쇼니 재배 사례",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00083/index.cnxml",
+          "title": "A Biocultural Approach to Food",
+          "status": 200,
+          "sha256": "b636d35993f2c73edc998c6371e8119d17b24cc798b390a66198f9eb704df624",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "북미·중미의 세 자매 혼작과 하우데노쇼니 사례",
+            "옥수수의 덩굴 지지·콩의 세균과 질소 고정·호박 잎의 피복 역할",
+            "실제 사진은 교재의 세 자매 수확 예이며 Sterling College 사진으로 크레딧"
+          ]
+        }
+      ],
+      "method": "해당 장의 설명·사진 캡션을 실제 읽고 사진을 확인. 본문은 확인된 사실과 사진 관찰을 바탕으로 새로 쓴 글이며 교재 문장의 번역·복제 아님.",
+      "editorial_limits": "수확량 배수·영양 치료 효과·모든 품종에서 같은 효과를 주장하지 않음. 사진 인물의 민족·농장 위치는 추정하지 않음.",
+      "image": {
+        "file": "content/images/three-sisters-garden.jpg",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_14_02_006.jpg",
+        "status": 200,
+        "source_sha256": "15c798ac1699bb2435feb155364b89010c97df348d64637525d29130d7445c96",
+        "sha256": "49763ecf9bd5e1d19e0439dd57be8be66a448afe14274d9a76a290099122f048",
+        "original_caption_and_credit": "A Three Sisters garden usually includes corn, beans, and squash planted together in a small mound. The plants nourish and protect each other as they grow. Here, gardeners display a bountiful harvest from their Three Sisters garden. (credit: “IMG_4326” by Sterling College/flickr, CC BY 2.0)",
+        "license": "CC BY 2.0",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00083/index.cnxml",
+        "license_note": "교재 전체의 이용 조건을 사진에 일괄 적용하지 않음. 개별 캡션에 명시된 CC BY 또는 Public Domain 사진만 채택. NC 또는 권리 불명 사진은 제외.",
+        "modifications": "사진 전체 유지. 웹용 JPEG로 저장했으며 인물·배경·작품 내용은 변경하지 않음."
+      }
+    },
+    {
+      "id": "zongzi-leaf-parcel",
+      "region": "중국",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00084/index.cnxml",
+          "title": "Food and Cultural Identity",
+          "status": 200,
+          "sha256": "34ad77bd8328dc199a52ad499d0d75bf86045aecc485f89ce62067cd9bea38be",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "실제 사진은 대나무 잎·실로 감싼 단오 쫑쯔로 캡션에 소개",
+            "찹쌀과 다양한 속재료라는 설명",
+            "중국 음력 5월 5일 행사와 쫑쯔의 연관",
+            "굴원 관련 유래는 복수의 기원 이야기 중 하나로 소개"
+          ]
+        }
+      ],
+      "method": "해당 장의 설명·사진 캡션을 실제 읽고 사진을 확인. 본문은 확인된 사실과 사진 관찰을 바탕으로 새로 쓴 글이며 교재 문장의 번역·복제 아님.",
+      "editorial_limits": "자료에 잘못 기재된 것으로 보이는 굴원 생몰년은 쓰지 않음. 특정 전설을 검증된 기원으로 단정하지 않음. 잎 종류·형태를 전 지역에 일반화하지 않음.",
+      "image": {
+        "file": "content/images/zongzi-leaf-parcel.jpg",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_14_03_011.jpg",
+        "status": 200,
+        "source_sha256": "d7f4a1e7d416924047cfc95597185393d1ad19c9d9b3d1a6f23024adf4c264ec",
+        "sha256": "084a4023efad22d46e469457975428a0767bbe327cf3873a4c81ce151a87afc2",
+        "original_caption_and_credit": "Zongzi , a sticky rice dumpling, wrapped in bamboo leaves, prepared for the Dragon Boat Festival. Festival foods are typically associated with specific ritual events. (credit: “Dragon Boat Festival Zongzi” by Evan Wood/flickr, CC BY 2.0)",
+        "license": "CC BY 2.0",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00084/index.cnxml",
+        "license_note": "교재 전체의 이용 조건을 사진에 일괄 적용하지 않음. 개별 캡션에 명시된 CC BY 또는 Public Domain 사진만 채택. NC 또는 권리 불명 사진은 제외.",
+        "modifications": "사진 전체 유지. 웹용 JPEG로 저장했으며 인물·배경·작품 내용은 변경하지 않음."
+      }
+    },
+    {
+      "id": "rome-arena-crowd",
+      "region": "이탈리아 로마",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00095/index.cnxml",
+          "title": "Introduction",
+          "status": 200,
+          "sha256": "672245a74bf89ffcefc57001097691aa05ace523aae2ef271b07aa6ced04f696",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "콜로세움 내부 실제 사진과 로마 소재",
+            "수만 관중·검투사와 동물이 등장하는 경기라는 본문",
+            "현대 경기장과 비교한 사회적 소속감·정체성의 관점"
+          ]
+        }
+      ],
+      "method": "해당 장의 설명·사진 캡션을 실제 읽고 사진을 확인. 본문은 확인된 사실과 사진 관찰을 바탕으로 새로 쓴 글이며 교재 문장의 번역·복제 아님.",
+      "editorial_limits": "정확한 수용 인원·건설 연도·좌석별 계층·현존 부분의 복원 연대는 주장하지 않음. 현대 스포츠와 당시 폭력적 구경거리를 동일시하지 않음.",
+      "image": {
+        "file": "content/images/rome-arena-crowd.jpg",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_16_Intro_001_Splash.jpg",
+        "status": 200,
+        "source_sha256": "3328ba26af15619fb900d1799154cb010da4a82cc74ba7ed0da46cafa94341b0",
+        "sha256": "425245640b8129c7b1c7809704bd52ff34337f7f3b64edef6f35c2cfd221fd78",
+        "original_caption_and_credit": "The Colosseum in Rome played a role similar to a professional football stadium today. Here, tens of thousands of Romans gathered to view competitions that not only entertained but also contributed to a sense of belonging and identity. (credit: “Colosseum” by Rennett Stowe/flickr, CC BY 2.0)",
+        "license": "CC BY 2.0",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00095/index.cnxml",
+        "license_note": "교재 전체의 이용 조건을 사진에 일괄 적용하지 않음. 개별 캡션에 명시된 CC BY 또는 Public Domain 사진만 채택. NC 또는 권리 불명 사진은 제외.",
+        "modifications": "사진 전체 유지. 웹용 JPEG로 저장했으며 인물·배경·작품 내용은 변경하지 않음."
+      }
+    },
+    {
+      "id": "bulgaria-magura-human-figures",
+      "region": "불가리아 마구라 동굴",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00096/index.cnxml",
+          "title": "Anthropology of the Arts",
+          "status": 200,
+          "sha256": "348ce3a096dac936eb1f24619dbc7d88f433a19d327199f8789684fa2f699d6e",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "마구라 동굴의 불가리아 소재와 실제 벽화 사진",
+            "선사시대 그림에 사람·동물이 함께 등장한다는 교재 캡션",
+            "형태에 관한 본문 관찰은 실제 사진과 대조"
+          ]
+        }
+      ],
+      "method": "해당 장의 설명·사진 캡션을 실제 읽고 사진을 확인. 본문은 확인된 사실과 사진 관찰을 바탕으로 새로 쓴 글이며 교재 문장의 번역·복제 아님.",
+      "editorial_limits": "확정 제작 연도·그림의 정확한 뜻·태양력 해독·의례 장면을 주장하지 않음. 동물 종과 특정 자세의 목적은 판정하지 않음.",
+      "image": {
+        "file": "content/images/bulgaria-magura-human-figures.jpg",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_16_01_003.jpg",
+        "status": 200,
+        "source_sha256": "6c1b15373bfb56422d27fd9e5df76e4c0b1e6ca9811e14e8c4d68fe930f3a114",
+        "sha256": "a4576b92d25a987caf7fc19b27908b8c5b6bf50f69874925b390994e9bfdc88e",
+        "original_caption_and_credit": "These prehistoric cave drawings are located in the Magura cave in Bulgaria. While cave drawings typically focus on large animals such as cave bears, horses, and bison, the drawings in the Magura cave include both humans and animals, and provide information about the solar calendar, religious festivals and other customs. (credit: “Prehistoric drawings in the Magura cave, Bulgaria” by Nk/Wikimedia Commons, Public Domain)",
+        "license": "퍼블릭 도메인 · 공개 교재의 개별 사진 표기",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00096/index.cnxml",
+        "license_note": "교재 전체의 이용 조건을 사진에 일괄 적용하지 않음. 개별 캡션에 명시된 CC BY 또는 Public Domain 사진만 채택. NC 또는 권리 불명 사진은 제외.",
+        "modifications": "사진 전체 유지. 웹용 JPEG로 저장했으며 인물·배경·작품 내용은 변경하지 않음."
+      }
+    },
+    {
+      "id": "henna-paste-and-stain",
+      "region": "인도 아대륙·북아프리카 등",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00096/index.cnxml",
+          "title": "Anthropology of the Arts",
+          "status": 200,
+          "sha256": "348ce3a096dac936eb1f24619dbc7d88f433a19d327199f8789684fa2f699d6e",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "헤나 잎을 분쇄·체질한 재료와 피부 적용·제거 후 붉거나 주황빛 착색",
+            "혼례·기념일과 손·발 장식의 여러 지역 사례",
+            "실제 사진의 헤나 작업 장면 및 캡션상 페이스트와 착색 구분"
+          ]
+        }
+      ],
+      "method": "해당 장의 설명·사진 캡션을 실제 읽고 사진을 확인. 본문은 확인된 사실과 사진 관찰을 바탕으로 새로 쓴 글이며 교재 문장의 번역·복제 아님.",
+      "editorial_limits": "피부 시술법·대기 시간·지속 기간·안전·건강 효과를 조언하지 않음. 사진 장소·인물 신분·국가·같은 팔의 연속 촬영을 추정하지 않음.",
+      "image": {
+        "file": "content/images/henna-paste-and-stain.jpg",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_16_01_012.jpg",
+        "status": 200,
+        "source_sha256": "1679f3a825ce9b6aa043c5b0d52ab6231e31970f9891d118a80962c65e9563f2",
+        "sha256": "1cb8513bae646536bc8a0b40a98c95ef6f3dbc6e055f55fd46ce651ec2636bf5",
+        "original_caption_and_credit": "The elaborate patterns on these women’s arms are created using henna paste. After giving the paste time to stain the skin, it is washed away. The arm on the left shows the paste before washing, the arm of the woman on the right shows the color once the paste is removed. (credit: “Henna” by Rovich/500px/Wikimedia Commons, CC BY 3.0)",
+        "license": "CC BY 3.0",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00096/index.cnxml",
+        "license_note": "교재 전체의 이용 조건을 사진에 일괄 적용하지 않음. 개별 캡션에 명시된 CC BY 또는 Public Domain 사진만 채택. NC 또는 권리 불명 사진은 제외.",
+        "modifications": "사진 전체 유지. 웹용 JPEG로 저장했으며 인물·배경·작품 내용은 변경하지 않음."
+      }
+    },
+    {
+      "id": "mountain-chief-recorded-song",
+      "region": "북미 블랙풋 공동체·미국 기록 사진",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00097/index.cnxml",
+          "title": "Anthropology of Music",
+          "status": 200,
+          "sha256": "476ff1153908d7a0c184bfbb51886894d73932f772bfd5c06016be9e4c804a63",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "1916년 마운틴 치프와 프랜시스 덴스모어의 실제 사진",
+            "녹음한 노래 청취와 북미 평원 수화로 해석했다는 캡션",
+            "덴스모어의 북미 원주민 음악 연구"
+          ]
+        }
+      ],
+      "method": "해당 장의 설명·사진 캡션을 실제 읽고 사진을 확인. 본문은 확인된 사실과 사진 관찰을 바탕으로 새로 쓴 글이며 교재 문장의 번역·복제 아님.",
+      "editorial_limits": "사진을 라이브 녹음 장면으로 단정하지 않음. 구체적 노래·가사·대화·당사자 감정은 만들지 않음. 모든 공동체의 음악 관습으로 일반화하지 않음.",
+      "image": {
+        "file": "content/images/mountain-chief-recorded-song.jpg",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_16_02_015.jpg",
+        "status": 200,
+        "source_sha256": "e55cd380d770bac7698abc007c4906c0f3dc7dc40c73337eb9c4f853816508b6",
+        "sha256": "64974ca322e9e2115a794e14741a735f8af2b38fc4d0c6c7cff33c5a7542f19a",
+        "original_caption_and_credit": "Frances Densmore was an American anthropologist and ethnographer. This image from 1916 shows her with Blackfoot chief, Mountain Chief. During this session, Mountain Chief listened to a song Densmore had recorded and interpreted it for her in Plains Indian Sign Language. (credit: “Piegan Indian, Mountain Chief, Listening to Recording with Ethnologist Frances Densmore” by National Photo Company/Library of Congress, Public Domain)",
+        "license": "퍼블릭 도메인 · 공개 교재의 개별 사진 표기",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00097/index.cnxml",
+        "license_note": "교재 전체의 이용 조건을 사진에 일괄 적용하지 않음. 개별 캡션에 명시된 CC BY 또는 Public Domain 사진만 채택. NC 또는 권리 불명 사진은 제외.",
+        "modifications": "사진 전체 유지. 웹용 JPEG로 저장했으며 인물·배경·작품 내용은 변경하지 않음."
+      }
+    },
+    {
+      "id": "canada-dog-travois",
+      "region": "캐나다 남부 앨버타·카이나이",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00106/index.cnxml",
+          "title": "Humans and Animals",
+          "status": 200,
+          "sha256": "59b8c1417481c60e1c17c35e0eb7a9baf3f87f2ad0fc89c9d398d3d710ff0515",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "카이나이 여성과 개의 트래보이 사진·1910년 무렵·현 캐나다 남부 앨버타라는 캡션",
+            "두 막대와 짐 플랫폼이라는 구조·운반 용도",
+            "교재가 소개하는 인간과 개의 운반 관계"
+          ]
+        }
+      ],
+      "method": "해당 장의 설명·사진 캡션을 실제 읽고 사진을 확인. 본문은 확인된 사실과 사진 관찰을 바탕으로 새로 쓴 글이며 교재 문장의 번역·복제 아님.",
+      "editorial_limits": "정확한 하중·이동거리·발명 기원·모든 원주민의 도구·현재 생활을 추정하지 않음. 사진의 시점과 공동체를 명시.",
+      "image": {
+        "file": "content/images/canada-dog-travois.jpg",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_18_01_005.jpg",
+        "status": 200,
+        "source_sha256": "cfd68180fd24fb84759f87bf28325720afa005d6801110d4be06129e142f4330",
+        "sha256": "d8995f5baa1bb1e4f2b5574f7600b6c067966923de5592f9abee4692d2ba639a",
+        "original_caption_and_credit": "Kainai  women use dog travois, constructed of two shafts lashed to a platform, to carry their possessions. This photo was taken around 1910 in what is now southern Alberta, Canada. (credit: “Kainai Women and Dog Travois” by Provincial Archives of Alberta/Wikimedia Commons, Public Domain)",
+        "license": "퍼블릭 도메인 · 공개 교재의 개별 사진 표기",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00106/index.cnxml",
+        "license_note": "교재 전체의 이용 조건을 사진에 일괄 적용하지 않음. 개별 캡션에 명시된 CC BY 또는 Public Domain 사진만 채택. NC 또는 권리 불명 사진은 제외.",
+        "modifications": "사진 전체 유지. 웹용 JPEG로 저장했으며 인물·배경·작품 내용은 변경하지 않음."
+      }
+    },
+    {
+      "id": "kabyle-house-shared-roof",
+      "region": "알제리 북부·카빌 공동체",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00017/index.cnxml",
+          "title": "The Homeyness of Culture",
+          "status": 200,
+          "sha256": "75ba86c36cf9f97d11ce377cee7f3a0628658f936f6dab81899741292863ee77",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "카빌 주택 사진의 알제리 북부 소재·돌 구조·공유 지붕이라는 캡션",
+            "1960년대 부르디외의 전통 주택 분석",
+            "가축 구획·사람 구획의 높이 차이와 내부 경계",
+            "베틀·빛·손님 자리 등 내부 용도의 예"
+          ]
+        }
+      ],
+      "method": "해당 장의 설명·사진 캡션을 실제 읽고 사진을 확인. 본문은 확인된 사실과 사진 관찰을 바탕으로 새로 쓴 글이며 교재 문장의 번역·복제 아님.",
+      "editorial_limits": "사진의 특정 집과 연구 평면이 동일하다고 주장하지 않음. 당시 연구의 규범적 젠더 구분을 현재 공동체 전체의 사실로 일반화하지 않음. 사진만으로 내부를 재현하지 않음.",
+      "image": {
+        "file": "content/images/kabyle-house-shared-roof.jpg",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_03_01_002.jpg",
+        "status": 200,
+        "source_sha256": "5dc1e2085c3ac73cb206037c6fdaf9965d30aa32834890805a9628040e07a934",
+        "sha256": "abb233318068c8778100e23fb04ea5c7e97a3b2a4ce5b456a1a97ee6fe1f5fcc",
+        "original_caption_and_credit": "These houses in Northern Algeria, built by the Kabyle people, are constructed of stone, and include open space for both animals and human inhabitants under a shared roof. (credit: PhR610/flickr, CC BY 2.0)",
+        "license": "CC BY 2.0",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00017/index.cnxml",
+        "license_note": "교재 전체의 이용 조건을 사진에 일괄 적용하지 않음. 개별 캡션에 명시된 CC BY 또는 Public Domain 사진만 채택. NC 또는 권리 불명 사진은 제외.",
+        "modifications": "사진 전체 유지. 웹용 JPEG로 저장했으며 인물·배경·작품 내용은 변경하지 않음."
+      }
+    }
+  ]
+}

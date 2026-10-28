@@ -7,25 +7,25 @@
 | History | Korea | 4 | 3 | 3 |
 | History | Asia | 0 | 0 | 0 |
 | History | Europe | 2 | 2 | 2 |
-| History | America | 3 | 3 | 3 |
+| History | America | 4 | 4 | 3 |
 | History | Middle East | 0 | 0 | 0 |
 | History | Africa | 0 | 0 | 0 |
 | Cities | Asia | 2 | 2 | 2 |
-| Cities | Europe | 1 | 1 | 1 |
+| Cities | Europe | 2 | 2 | 1 |
 | Cities | Americas | 1 | 1 | 1 |
 | Cities | Middle East | 0 | 0 | 0 |
 | Cities | Africa | 1 | 1 | 1 |
 | Culture | Architecture | 3 | 3 | 3 |
 | Culture | Literature | 2 | 2 | 2 |
 | Culture | Philosophy | 0 | 0 | 0 |
-| Culture | Music | 7 | 6 | 6 |
-| Culture | Art | 8 | 8 | 8 |
+| Culture | Music | 8 | 7 | 6 |
+| Culture | Art | 9 | 9 | 8 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
 | Life | Folks | 2 | 2 | 2 |
-| Life | Clothing | 3 | 3 | 3 |
-| Life | Food | 4 | 4 | 4 |
-| Life | Housing | 4 | 4 | 4 |
+| Life | Clothing | 4 | 4 | 3 |
+| Life | Food | 7 | 7 | 4 |
+| Life | Housing | 6 | 6 | 4 |
 | Companies | Technology | 2 | 2 | 2 |
 | Companies | Automotive | 0 | 0 | 0 |
 | Companies | Finance | 0 | 0 | 0 |

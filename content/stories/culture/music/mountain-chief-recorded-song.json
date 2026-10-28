@@ -1,0 +1,67 @@
+{
+  "id": "mountain-chief-recorded-song",
+  "title": "옛 녹음 사진에서 그는 노래를 듣고 있었다",
+  "subtitle": "1916년의 나팔과 사람 사이에 놓인 설명",
+  "category": "culture",
+  "subcategory": "Music",
+  "summary": "소리를 담는 기계 곁에 사람의 해석도 필요했던 장면을 봅니다.",
+  "status": "review",
+  "publication_ready": false,
+  "source_review": "verified",
+  "approved_by": null,
+  "approved_at": null,
+  "sources": [
+    {
+      "title": "OpenStax — Introduction to Anthropology: Anthropology of Music",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00097/index.cnxml",
+      "checked_at": "2026-10-29",
+      "verified": true,
+      "supports": [
+        "1916년 마운틴 치프와 프랜시스 덴스모어의 실제 사진",
+        "녹음한 노래 청취와 북미 평원 수화로 해석했다는 캡션",
+        "덴스모어의 북미 원주민 음악 연구"
+      ]
+    }
+  ],
+  "image": {
+    "file": "content/images/mountain-chief-recorded-song.jpg",
+    "alt": "1916년 프랜시스 덴스모어와 마운틴 치프, 나팔 모양 장치가 함께 있는 역사 사진. 교재는 녹음된 노래를 듣고 수화로 해석하는 장면이라고 설명합니다.",
+    "type": "photo",
+    "label": "실제 사진 · 퍼블릭 도메인",
+    "credit": "“Piegan Indian, Mountain Chief, Listening to Recording with Ethnologist Frances Densmore” by National Photo Company/Library of Congress, Public Domain · OpenStax 수록본. 원본 전체 사진을 자르지 않고 사용했습니다.",
+    "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_16_02_015.jpg",
+    "license": "퍼블릭 도메인 · 공개 교재의 개별 사진 표기",
+    "width": 614,
+    "height": 800
+  },
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "흑백 사진 속에 커다란 나팔 모양의 장치가 있다. 오른쪽에는 한 사람이 앉아 있고 왼쪽에는 다른 사람이 자리한다. 오래된 녹음 장면이라고만 생각하면 누군가 노래하는 순간을 떠올리기 쉽다.",
+        "하지만 OpenStax가 소개하는 이 1916년 사진에서 마운틴 치프는 녹음된 노래를 듣고 있었다. 그 곁에는 북미 원주민 음악을 연구한 프랜시스 덴스모어가 있다."
+      ]
+    },
+    {
+      "heading": "소리를 듣고 뜻을 전하기",
+      "paragraphs": [
+        "교재의 캡션에 따르면 마운틴 치프는 덴스모어가 녹음한 노래를 들으며 북미 평원 지역의 수화로 해석해 주었다. 사진을 단순히 소리를 저장하는 기계의 기록으로만 읽기 어려워지는 대목이다.",
+        "노래가 장치 안에 담겨 있다고 그 노래의 맥락까지 저절로 전달되지는 않는다. 듣는 사람과 설명하는 사람, 서로 의미를 나누는 과정도 그 곁에 있다. 이것은 이 장면에서 생각해 볼 수 있는 점이다."
+      ]
+    },
+    {
+      "heading": "박물관 사진의 동사를 바꾸면",
+      "paragraphs": [
+        "녹음한다고 설명할 때와 녹음을 듣는다고 설명할 때 사진의 시간이 달라진다. 누가 무엇을 하고 있었는지 알려 주는 짧은 캡션이 보는 방향을 바꾸는 것이다.",
+        "이 사진에서 실제로 어떤 가사의 어느 부분을 설명했는지까지 새로 만들어 붙이지는 않는다. 자료가 알려 주는 행동을 먼저 읽으면, 고개와 손의 위치도 그 장면 안에서 다시 살펴보게 된다."
+      ]
+    },
+    {
+      "heading": "기록은 함께 이해하는 일",
+      "paragraphs": [
+        "함께 실은 것은 실제 역사 사진이다. 당시의 자세와 장치, 사람 사이의 거리를 상상으로 재배치하지 않고 자료가 남긴 모습을 보도록 했다. 오래된 장비에 시선을 빼앗기다가도 사람 쪽으로 다시 돌아오게 된다.",
+        "소리를 남기는 기술은 중요하지만 소리의 뜻을 아는 사람도 중요하다. 이 작은 만남을 통해 노래를 기록한다는 것이 기계의 일로만 끝나지 않는다는 사실을 생각해 볼 수 있다. 사진 속에는 듣는 시간과 설명하는 시간이 함께 있다."
+      ]
+    }
+  ]
+}

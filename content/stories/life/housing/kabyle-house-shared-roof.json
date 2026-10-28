@@ -1,0 +1,69 @@
+{
+  "id": "kabyle-house-shared-roof",
+  "title": "한 지붕 아래 사람과 가축의 자리가 있었다",
+  "subtitle": "알제리 카빌 주택을 읽는 작은 단서",
+  "category": "life",
+  "subcategory": "Housing",
+  "summary": "돌집의 외관과 집 안을 구분한 옛 연구 사례를 함께 봅니다.",
+  "status": "review",
+  "publication_ready": false,
+  "source_review": "verified",
+  "approved_by": null,
+  "approved_at": null,
+  "sources": [
+    {
+      "title": "OpenStax — Introduction to Anthropology: The Homeyness of Culture",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00017/index.cnxml",
+      "checked_at": "2026-10-29",
+      "verified": true,
+      "supports": [
+        "카빌 주택 사진의 알제리 북부 소재·돌 구조·공유 지붕이라는 캡션",
+        "1960년대 부르디외의 전통 주택 분석",
+        "가축 구획·사람 구획의 높이 차이와 내부 경계",
+        "베틀·빛·손님 자리 등 내부 용도의 예"
+      ]
+    }
+  ],
+  "image": {
+    "file": "content/images/kabyle-house-shared-roof.jpg",
+    "alt": "알제리 북부의 카빌 주택 외관 실제 사진. 돌벽과 붉은 기와지붕이 모여 있으며 실내는 보이지 않습니다.",
+    "type": "photo",
+    "label": "실제 사진 · CC BY 2.0",
+    "credit": "PhR610/flickr, CC BY 2.0 · OpenStax 수록본. 원본 전체 사진을 자르지 않고 사용했습니다.",
+    "source_url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/media/ANTHRO_Figure_03_01_002.jpg",
+    "license": "CC BY 2.0",
+    "width": 800,
+    "height": 800,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "사진에는 붉은 지붕과 돌벽이 모여 있다. 알제리 북부의 카빌 사람들이 지은 집들이다. 밖에서 보면 단단한 벽과 지붕이 먼저 보이지만, 집을 이해하는 일은 그 안의 자리를 생각하는 데서도 시작된다.",
+        "OpenStax 교재는 1960년대 피에르 부르디외가 분석한 전통 카빌 주택의 사례를 소개한다. 이 사진의 집 한 채를 그대로 조사한 평면도라는 뜻은 아니다. 외관 사진과 설명의 사례를 함께 읽는 것이다."
+      ]
+    },
+    {
+      "heading": "바닥의 높이가 다른 자리",
+      "paragraphs": [
+        "연구 사례의 집에는 낮은 구획을 나누는 벽이 있었고, 그쪽은 밤에 가축을 들이는 자리였다. 같은 지붕 아래에서도 바닥을 낮추고 구분해 서로 다른 활동의 자리를 만들었다.",
+        "나머지 더 높고 넓은 부분은 사람의 생활에 쓰였다. 집을 방 이름 몇 개로만 나누는 대신 높이와 경계로 읽어 보면 내부의 구성이 다르게 느껴진다."
+      ]
+    },
+    {
+      "heading": "빛이 잘 드는 쪽의 쓰임",
+      "paragraphs": [
+        "교재는 문 반대쪽의 베틀 자리와 그곳에 드는 빛도 설명한다. 손님 등을 맞는 자리와 여러 생활 활동이 집 안의 위치에 따라 구별되었다.",
+        "사진에서 보이지 않는 내부를 마음대로 그려 넣을 필요는 없다. 여기서 볼 것은 지붕의 재료만이 아니라 일을 하고 사람을 맞는 방식도 집의 구성에 영향을 준다는 점이다. 어떤 자리를 좋다고 여기는지에도 생활의 생각이 담길 수 있다."
+      ]
+    },
+    {
+      "heading": "모든 집이 같은 이야기인 것은 아니다",
+      "paragraphs": [
+        "이것은 특정 시기의 전통 주택 연구 사례다. 오늘날의 모든 카빌 가정이 같은 공간에서 같은 규칙으로 산다고 넓혀 말할 수는 없다. 집의 쓰임은 시간과 사람에 따라 달라진다.",
+        "그럼에도 이런 사례는 익숙한 집을 다시 보는 방법을 준다. 왜 이 자리는 높고 저 자리는 낮을까, 왜 손님을 이쪽에 앉힐까. 돌벽과 지붕 안에는 재료뿐 아니라 서로 다른 생활을 한 공간에 놓으려던 선택도 들어 있다."
+      ]
+    }
+  ]
+}

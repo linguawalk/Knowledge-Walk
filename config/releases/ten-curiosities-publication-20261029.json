@@ -15,7 +15,10 @@
     "tass-stencil-posters"
   ],
   "scope": "직전 발자국과 종이 이야기 10편의 사이트 게시 승인. 오늘 새로 제작하는 원고 10편의 게시 승인은 포함하지 않음. 자동 제작 철회 유지.",
-  "deployment_status": "prepared",
+  "deployment_status": "live_verified",
   "expected_live_story_count": 68,
-  "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-curiosities/index.html"
+  "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-curiosities/index.html",
+  "live_story_count": 68,
+  "verified_new_story_count": 10,
+  "verification": "홈페이지·검색 목록·10편 모음·개별 글 10개·이미지 10개의 HTTPS 응답을 제작 결과와 대조."
 }
