@@ -5,11 +5,11 @@
   "category": "life",
   "subcategory": "Clothing",
   "summary": "구슬처럼 이어진 장신구가 향기를 간직하던 방법을 들여다봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-10-28",
   "sources": [
     {
       "title": "국립고궁박물관 — 줄향노리개",

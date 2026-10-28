@@ -5,11 +5,11 @@
   "category": "life",
   "subcategory": "Clothing",
   "summary": "나무로 만든 작은 얼레빗이 낯선 왕실 인물을 가까이 데려옵니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-10-28",
   "sources": [
     {
       "title": "국립고궁박물관 — 얼레빗",

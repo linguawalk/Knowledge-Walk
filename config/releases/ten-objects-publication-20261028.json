@@ -1,0 +1,21 @@
+{
+  "id": "ten-objects-publication-20261028",
+  "approved_at": "2026-10-28",
+  "user_request": "홈페이지 게시",
+  "story_ids": [
+    "scent-bead-norigae",
+    "brazier-animal-feet",
+    "lock-green-knot",
+    "glass-photo-pillow-ruler",
+    "princess-crescent-comb",
+    "embroidered-spoon-pouch",
+    "silver-kettle-hidden-letters",
+    "clock-little-door-case",
+    "blue-dish-hidden-fortune",
+    "red-comb-chest-turtle"
+  ],
+  "scope": "직전에 검토용으로 제시한 옛 물건 이야기 10편만 게시. 자동 제작 계획 철회 유지.",
+  "deployment_status": "prepared",
+  "expected_live_story_count": 38,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-objects/index.html"
+}
