@@ -2,7 +2,7 @@
 
 익숙한 세상의 사물·장소·이름에 얽힌 작은 이야기를 읽는 사이트입니다. WordPress와 별도 데이터베이스 없이, 콘텐츠 파일에서 HTML을 생성합니다. 작업 범위는 `linguawalk/Knowledge-Walk` 한 저장소입니다.
 
-현재 공개 홈페이지는 `https://knowledgewalk.net/`이며 승인 글 58편을 공개 대상으로 구성했습니다. [도메인 전환 기록](docs/domain-migration.md)을 확인할 수 있습니다.
+현재 공개 홈페이지는 `https://knowledgewalk.net/`이며 승인 글 58편이 게시되어 있으며 새 해외 10편의 글·이미지 HTTPS 응답을 확인했습니다. [도메인 전환 기록](docs/domain-migration.md)을 확인할 수 있습니다.
 
 자동 제작 계획은 2026-10-28 사용자 요청으로 철회했습니다. 예약 실행을 제거했으며 앞으로는 채팅에서 요청할 때 제작하고 사용자 검토 후 게시합니다. [현재 방침](docs/daily-generation.md)
 

@@ -15,8 +15,12 @@
     "italy-print-painting-proposal"
   ],
   "scope": "직전에 검토용으로 제시한 해외 이야기 10편의 현 상태 게시 승인. 자동 제작 철회 유지.",
-  "deployment_status": "prepared",
+  "deployment_status": "live_verified",
   "expected_live_story_count": 58,
   "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-world/index.html",
-  "image_note": "실제 작품 저작권 만료와 개별 사진의 이용 조건은 구분한다. 원작이 보호 중이어서 AI 삽화를 쓴 것이 아니다. 실제 사진 제공 사이트 접속 제한으로 원본 이미지 파일 및 이용 조건 확인을 완료하지 못했으며 현 상태 AI 삽화임을 명시하여 게시한다."
+  "image_note": "실제 작품 저작권 만료와 개별 사진의 이용 조건은 구분한다. 원작이 보호 중이어서 AI 삽화를 쓴 것이 아니다. 실제 사진 제공 사이트 접속 제한으로 원본 이미지 파일 및 이용 조건 확인을 완료하지 못했으며 현 상태 AI 삽화임을 명시하여 게시한다.",
+  "live_story_count": 58,
+  "verified_new_story_count": 10,
+  "pages_run_id": 40639644875,
+  "verification": "홈페이지·검색 목록·10편 모음·개별 글 10개·이미지 10개의 HTTPS 응답을 제작 결과와 바이트 대조."
 }
