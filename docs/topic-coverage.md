@@ -4,49 +4,49 @@
 
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
-| History | Korea | 4 | 3 | 2 |
+| History | Korea | 4 | 3 | 3 |
 | History | Asia | 0 | 0 | 0 |
 | History | Europe | 1 | 1 | 1 |
 | History | America | 1 | 1 | 1 |
 | History | Middle East | 0 | 0 | 0 |
 | History | Africa | 0 | 0 | 0 |
-| Cities | Asia | 2 | 2 | 1 |
+| Cities | Asia | 2 | 2 | 2 |
 | Cities | Europe | 1 | 1 | 1 |
 | Cities | Americas | 0 | 0 | 0 |
 | Cities | Middle East | 0 | 0 | 0 |
 | Cities | Africa | 0 | 0 | 0 |
 | Culture | Architecture | 1 | 1 | 1 |
-| Culture | Literature | 2 | 2 | 1 |
+| Culture | Literature | 2 | 2 | 2 |
 | Culture | Philosophy | 0 | 0 | 0 |
-| Culture | Music | 5 | 4 | 2 |
+| Culture | Music | 5 | 4 | 4 |
 | Culture | Art | 4 | 4 | 4 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
 | Life | Folks | 1 | 1 | 1 |
 | Life | Clothing | 3 | 3 | 3 |
-| Life | Food | 4 | 4 | 3 |
+| Life | Food | 4 | 4 | 4 |
 | Life | Housing | 4 | 4 | 4 |
 | Companies | Technology | 2 | 2 | 2 |
 | Companies | Automotive | 0 | 0 | 0 |
 | Companies | Finance | 0 | 0 | 0 |
-| Companies | Media | 1 | 1 | 0 |
+| Companies | Media | 1 | 1 | 1 |
 | Companies | Fashion | 0 | 0 | 0 |
 | Computing | Computers | 1 | 1 | 1 |
 | Computing | Software | 1 | 1 | 1 |
 | Computing | Internet | 1 | 1 | 1 |
 | Computing | Programming | 1 | 1 | 1 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 2 | 1 | 0 |
+| Finance | Money | 2 | 1 | 1 |
 | Finance | Banking | 0 | 0 | 0 |
 | Finance | Insurance | 0 | 0 | 0 |
 | Finance | Investment | 1 | 1 | 1 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 0 | 0 | 0 |
-| Science | Physics | 2 | 2 | 1 |
+| Science | Physics | 2 | 2 | 2 |
 | Science | Chemistry | 0 | 0 | 0 |
 | Science | Biology | 3 | 3 | 3 |
 | Science | Earth-Science | 0 | 0 | 0 |
-| Science | Engineering | 2 | 2 | 1 |
+| Science | Engineering | 2 | 2 | 2 |
 
 ## 먼저 살펴볼 빈 주제
 

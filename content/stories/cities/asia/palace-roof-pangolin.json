@@ -5,11 +5,11 @@
   "category": "cities",
   "subcategory": "Asia",
   "summary": "높은 지붕에서 멀리 보이던 작은 조각상을 가까이 봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 10편 홈페이지 게시 요청",
+  "approved_at": "2026-10-28",
   "sources": [
     {
       "title": "국립고궁박물관 — 잡상 '천산갑'",

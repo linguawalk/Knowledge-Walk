@@ -5,11 +5,11 @@
   "category": "life",
   "subcategory": "Food",
   "summary": "위아래가 뚫린 금속 틀에서 제사상 음식의 모양을 잡던 방법을 봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 10편 홈페이지 게시 요청",
+  "approved_at": "2026-10-28",
   "sources": [
     {
       "title": "국립고궁박물관 — 유제 다식우리",

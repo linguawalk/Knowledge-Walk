@@ -1,0 +1,21 @@
+{
+  "id": "ten-discoveries-publication-20261028",
+  "approved_at": "2026-10-28",
+  "user_request": "이 내용들을 홈페이지에 게시해 주세요. 그리고 다시 새 글 10개를 만들어 주세요. 그런데 이번 새글은 소재를 한국을 벗어나 유럽이나 다른 아시아 국가 혹은 미주나 중동아프리카 같은 지역을 대상으로 하였으면 합니다.",
+  "story_ids": [
+    "banknote-plate-fifty-yang",
+    "stone-chime-thickness",
+    "passport-three-languages",
+    "western-union-pasted-message",
+    "palace-roof-pangolin",
+    "star-map-carved-again",
+    "poem-plaque-raised-letters",
+    "water-clock-floating-turtle",
+    "metal-flute-inlaid-flowers",
+    "dasik-sweets-frame"
+  ],
+  "scope": "앞서 검토용으로 만든 음악과 여행 이야기 10편만 게시. 이번에 새로 만들 해외 소재 10편의 게시 승인은 포함하지 않음. 자동 제작 철회 유지.",
+  "deployment_status": "prepared",
+  "expected_live_story_count": 48,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-discoveries/index.html"
+}

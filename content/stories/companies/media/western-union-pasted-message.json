@@ -5,11 +5,11 @@
   "category": "companies",
   "subcategory": "Media",
   "summary": "1959년 웨스턴유니언 전보에서 인쇄된 양식과 덧붙인 메시지를 구분해 봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 10편 홈페이지 게시 요청",
+  "approved_at": "2026-10-28",
   "sources": [
     {
       "title": "국립고궁박물관 — 전보 (Western Union Telegram)",

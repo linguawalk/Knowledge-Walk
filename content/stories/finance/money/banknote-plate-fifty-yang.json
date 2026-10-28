@@ -5,11 +5,11 @@
   "category": "finance",
   "subcategory": "Money",
   "summary": "숫자와 글자가 남은 지폐원판에서 종이돈의 뒷모습을 만납니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 10편 홈페이지 게시 요청",
+  "approved_at": "2026-10-28",
   "sources": [
     {
       "title": "국립고궁박물관 — 지폐원판",
