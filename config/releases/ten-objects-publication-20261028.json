@@ -15,7 +15,11 @@
     "red-comb-chest-turtle"
   ],
   "scope": "직전에 검토용으로 제시한 옛 물건 이야기 10편만 게시. 자동 제작 계획 철회 유지.",
-  "deployment_status": "prepared",
+  "deployment_status": "live_verified",
   "expected_live_story_count": 38,
-  "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-objects/index.html"
+  "public_collection_url": "https://knowledgewalk.net/collections/20261028-ten-objects/index.html",
+  "live_story_count": 38,
+  "verified_new_story_count": 10,
+  "verification": "HTTPS 응답으로 홈페이지·전체 검색 목록·10편 모음·개별 글 10개·이미지 10개를 제작 결과와 바이트 대조.",
+  "pages_run_id": 40620314100
 }
