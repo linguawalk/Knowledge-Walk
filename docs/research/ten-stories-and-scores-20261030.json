@@ -1,0 +1,403 @@
+{
+  "checked_at": "2026-10-30",
+  "scope": "사용자 요청의 새 글 10편. 문학에는 장면 중심 AI 삽화 2장, 음악에는 실제 악보와 역사적 출판 삽화, 미술·인물에는 실제 회화·초상 도판을 사용. 도식 없음. 새 원고 모두 검토용이며 공개 승인 없음.",
+  "general_limits": "원작·악보·역사적 자료와 편집적 감상을 구분. 옛 전기의 날짜·작품 귀속·편견·유명 일화를 무비판적으로 옮기지 않음. 원작의 권리와 개별 이미지의 판본·종류를 구별.",
+  "stories": [
+    {
+      "id": "oz-wizard-road-and-home",
+      "sources": [
+        {
+          "title": "L. 프랭크 바움 — The Wonderful Wizard of Oz 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Wonderful-Wizard-of-Oz_55/master/55.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1900년 서문·도로시와 토토·캔자스·동쪽 마녀와 은구두",
+            "허수아비·양철 나무꾼·사자의 소망과 실제 행동",
+            "서쪽 마녀·물·오즈의 정체·기구·글린다·귀환"
+          ],
+          "status": 200,
+          "sha256": "18274f31ae11aea07ea9b4f707998636c6f75d784c60d7e8fea0b4d5c2d77af6"
+        }
+      ],
+      "review_method": "원문·악보·역사적 전기와 실제 이미지를 대조하고 한국어로 새로 서술. 사실과 감상, 원작 설정과 후대 각색을 구분.",
+      "editorial_limits": "원작의 은구두와 각색의 구두를 구분. 결말 포함 안내. AI 삽화의 도시·의상·얼굴은 원작의 유일한 정답이나 역사적 실물이 아닌 창작 표현으로 표시. 인물의 성장에 대한 감상을 유일한 작가 의도로 단정하지 않음.",
+      "image": {
+        "file": "content/images/oz-wizard-road-and-home.png",
+        "alt": "노란 벽돌길을 함께 걷는 도로시와 토토, 허수아비, 양철 나무꾼과 사자를 그린 상상 삽화.",
+        "type": "ai_illustration",
+        "label": "AI 문학 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 소설의 인물과 분위기를 바탕으로 새로 상상한 장면입니다. 원작 도판이나 실제 역사 현장을 재현한 자료는 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "34de9d489edb634541213c44494b478054079c3968065430ff95b734b61c87d4",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "문학 작품의 인물·분위기에 기반한 장면 삽화",
+          "limits": "독창적 인물 디자인. 원작 도판·영화 장면·실제 역사 현장·정확한 특정 역을 복제한 자료로 주장하지 않음."
+        }
+      },
+      "paragraph_characters": 2407,
+      "body_sha256": "a6f578c476e20c01b203112079789ee43507ccf84467964d411c17b44cf71029"
+    },
+    {
+      "id": "eighty-days-time-and-travel",
+      "sources": [
+        {
+          "title": "쥘 베른 — Around the World in Eighty Days 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/Around-the-World-in-80-Days_103/master/103.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1872년 런던·리폼 클럽·80일과 2만 파운드 내기",
+            "파스파르투·픽스·아우다·기차·배·코끼리·미국 여정",
+            "체포·날짜 계산·동쪽 여행에서 얻은 하루·결말과 아우다의 관계"
+          ],
+          "status": 200,
+          "sha256": "b5bd33ca78ea5edb314d0f543180229819e4617851c00246adf7ef27b4c6ec4d"
+        }
+      ],
+      "review_method": "원문·악보·역사적 전기와 실제 이미지를 대조하고 한국어로 새로 서술. 사실과 감상, 원작 설정과 후대 각색을 구분.",
+      "editorial_limits": "결말 포함 안내. 원작을 열기구 중심 모험으로 오인하지 않음. 식민주의 시대의 풍습 묘사를 현대 지역 전체의 사실로 수용하지 않음. 날짜 변화는 작품의 장치로 설명하며 현대 표준시·날짜변경선 제도를 1872년에 그대로 대입하지 않음. AI 그림의 역·의상은 창작적 분위기.",
+      "image": {
+        "file": "content/images/eighty-days-time-and-travel.png",
+        "alt": "1870년대 기차역 분위기 속에서 회중시계를 보는 포그와 기차를 살피는 파스파르투를 그린 상상 삽화.",
+        "type": "ai_illustration",
+        "label": "AI 문학 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 소설의 인물과 분위기를 바탕으로 새로 상상한 장면입니다. 원작 도판이나 실제 역사 현장을 재현한 자료는 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "32c8f8ecdb26f5cf908df4fb2037b5445591c1f764823e33c90a16e03c3cf1ea",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "문학 작품의 인물·분위기에 기반한 장면 삽화",
+          "limits": "독창적 인물 디자인. 원작 도판·영화 장면·실제 역사 현장·정확한 특정 역을 복제한 자료로 주장하지 않음."
+        }
+      },
+      "paragraph_characters": 2440,
+      "body_sha256": "a1ac73188545491a811083153a15845b952b8707da1b601c9b0ab815242d3061"
+    },
+    {
+      "id": "beethoven-fifth-four-notes",
+      "sources": [
+        {
+          "title": "알렉산더 티트겐 — Beethoven’s Symphonies Critically Discussed 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/Beethoven-s-Symphonies-Critically-Discussed_40849/master/40849.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "교향곡 제5번 다단조·Op.67·네 악장의 설명",
+            "대표 음형·반복과 대비·마지막 악장의 힘과 관현악 표현"
+          ],
+          "status": 200,
+          "sha256": "40676bc113b8d619ee08fb2f16ecbe91e2930328a2c42edb16ebfeb00f10b942"
+        },
+        {
+          "title": "알렉산더 티트겐 — 교향곡 제5번 해설과 실제 악보 도판",
+          "url": "https://raw.githubusercontent.com/GITenberg/Beethoven-s-Symphonies-Critically-Discussed_40849/master/40849-h/40849-h.htm",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "p_061 악보의 세 짧은 음과 긴 음·쉼표·늘임표·강약 표기",
+            "운명이 문을 두드린다는 해석이 전해진 옛 수용 기록"
+          ],
+          "status": 200,
+          "sha256": "c682fae7ac41d9d194874342d059bcd79ffeb1ed4a5ae68785ce99dab2774303"
+        }
+      ],
+      "review_method": "원문·악보·역사적 전기와 실제 이미지를 대조하고 한국어로 새로 서술. 사실과 감상, 원작 설정과 후대 각색을 구분.",
+      "editorial_limits": "옛 해설서의 영웅·종교적 해석을 작곡가의 확정 의도로 채택하지 않음. 운명 문구를 직접 검증된 베토벤 친필 발언으로 주장하지 않음. 악보는 역사적 인쇄 일부이며 전체 관현악 총보·친필 원본이 아님. 이미지의 음표를 AI로 생성하지 않음.",
+      "image": {
+        "file": "content/images/beethoven-fifth-four-notes.jpg",
+        "alt": "베토벤 교향곡 제5번의 대표 음형을 보여 주는 실제 악보 일부. 세 개의 짧은 음과 길게 머무는 음, 강약·쉼표·늘임표가 보입니다.",
+        "type": "artwork",
+        "label": "실제 악보 · 옛 인쇄본",
+        "credit": "베토벤 원작 · 19세기 교향곡 해설서 수록 악보 일부 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Beethoven-s-Symphonies-Critically-Discussed_40849/master/40849-h/images/p_061.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 500,
+        "height": 115,
+        "sha256": "9c83deef596308d6fb540292963b1197aa6dce11d4eb6a9c783041d071c2d315"
+      },
+      "paragraph_characters": 2412,
+      "body_sha256": "d8b772074357d5bffd326227ac7220bb68664016a0c3901d9c7e1eb333077515"
+    },
+    {
+      "id": "schubert-erlking-four-voices",
+      "sources": [
+        {
+          "title": "Mutopia — 슈베르트 Erlkönig D.328, 성악·피아노 악보",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/SchubertF/D328/Erlkoenig/Erlkoenig.ly",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "괴테 시·성악과 피아노·1815·D.328 Op.1 표기",
+            "화자·아버지·아이·마왕의 가사와 음악·반복되는 피아노 음형·마지막 대목"
+          ],
+          "status": 200,
+          "sha256": "aeffcc41652579ef1e13cf8e2a20283cb04c33989480ce4798d0945e34083839"
+        },
+        {
+          "title": "Herbert F. Peyser — Schubert and His Work",
+          "url": "https://raw.githubusercontent.com/GITenberg/Schubert-and-His-Work_49026/master/49026-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "마왕의 작품 설명·피아노의 셋잇단음과 아이의 외침",
+            "원문 시와 음악의 관계·출판 제2판을 위한 프란츠 바이글 판화"
+          ],
+          "status": 200,
+          "sha256": "efe9302bf17381eb4ca5532ff5cc3f47d721a3ccc0f87dc2968e27c1e5a8d29f"
+        },
+        {
+          "title": "Schubert and His Work — 실제 삽화와 캡션",
+          "url": "https://raw.githubusercontent.com/GITenberg/Schubert-and-His-Work_49026/master/49026-h/49026-h.htm",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "img007을 마왕 제2판을 위한 판화로 식별"
+          ],
+          "status": 200,
+          "sha256": "33539569374319e9640437e774ff3f5e25d9415b2dc9bf2fd23a97b7ea574b0c"
+        }
+      ],
+      "review_method": "원문·악보·역사적 전기와 실제 이미지를 대조하고 한국어로 새로 서술. 사실과 감상, 원작 설정과 후대 각색을 구분.",
+      "editorial_limits": "결말 포함 안내. 아이의 죽음을 선정적으로 묘사하거나 병명을 확정하지 않음. 출판번호 1을 생애 첫 작곡으로 설명하지 않음. 작곡 일화·괴테 반응에 관한 후대 전승을 현장 기록으로 단정하지 않음. 실제 역사적 출판 삽화로 식별.",
+      "image": {
+        "file": "content/images/schubert-erlking-four-voices.jpg",
+        "alt": "슈베르트 마왕의 제2판을 위해 제작된 옛 판화. 말을 타고 달리는 인물과 주위의 환상적 형상이 표현되어 있습니다.",
+        "type": "artwork",
+        "label": "역사적 음악 삽화",
+        "credit": "프란츠 바이글의 마왕 제2판 삽화 · 음악 전기 수록 역사적 판화 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Schubert-and-His-Work_49026/master/49026-h/images/img007.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 500,
+        "height": 286,
+        "sha256": "63894851757c445d82758a24a03f5042954c7526363c9c9fbcabe8589571c13c"
+      },
+      "paragraph_characters": 2371,
+      "body_sha256": "46ae13c2bebc0e49f8b48d11640e0dcdd78d39105906a7b0ff373b0ed9a0db7c"
+    },
+    {
+      "id": "rembrandt-emmaus-light",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 렘브란트와 Plate XXIX",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "Les Pèlerins d’Emmaüs·1648년 서명·예수와 두 제자의 식탁",
+            "빵을 나누는 행위로 인물을 알아보는 서사·오른쪽에서 들어오는 시중 인물·왼쪽의 빛"
+          ],
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05"
+        }
+      ],
+      "review_method": "원문·악보·역사적 전기와 실제 이미지를 대조하고 한국어로 새로 서술. 사실과 감상, 원작 설정과 후대 각색을 구분.",
+      "editorial_limits": "기독교 서사의 회화로 설명하되 실제 역사 현장을 촬영한 자료로 취급하지 않음. 렘브란트의 상실 경험이 모든 작품의 직접 원인이라는 옛 전기의 단정을 채택하지 않음. 빛과 빈 공간의 감상은 작가 의도를 확정하는 진술과 구분.",
+      "image": {
+        "file": "content/images/rembrandt-emmaus-light.jpg",
+        "alt": "렘브란트의 엠마오의 순례자들. 예수와 두 제자가 식탁에 앉고 오른쪽에는 음식을 나르는 인물이 있습니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "렘브란트 원작 · 옛 루브르 도록 Plate XXIX 색채 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate29.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 947,
+        "height": 1200,
+        "sha256": "5123e5822bb0a6faa2e2df3201c024fcba78f68b39bdf43430bb0c05ab57f69d"
+      },
+      "paragraph_characters": 2250,
+      "body_sha256": "4b155a5827331c85422536f3e141d10e986b68daa3cdd25a21773936d5d008e6"
+    },
+    {
+      "id": "millet-gleaners-harvest",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 밀레와 Plate LII",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "밀레·Les Glaneuses 표제·전경에서 이삭 줍는 세 여성",
+            "배경의 곡식 더미·수레·수확 인물과 말 탄 사람·넓은 들판",
+            "옛 도록에 수록된 실제 작품 도판의 정체"
+          ],
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05"
+        }
+      ],
+      "review_method": "원문·악보·역사적 전기와 실제 이미지를 대조하고 한국어로 새로 서술. 사실과 감상, 원작 설정과 후대 각색을 구분.",
+      "editorial_limits": "그림만으로 법적 줍기 권리·토지 제도·임금·모델의 신원을 확정하지 않음. 오래된 도록의 소장 번호를 현재 전시 정보로 제공하지 않음. 계급·분배에 대한 감상은 화면 관찰에 근거한 해석으로 구분. 인물의 얼굴에서 확인할 수 없는 감정을 창작하지 않음.",
+      "image": {
+        "file": "content/images/millet-gleaners-harvest.jpg",
+        "alt": "밀레의 이삭 줍는 여인들. 전경의 세 여인이 허리를 숙여 이삭을 줍고 뒤쪽에서는 많은 수확물이 모입니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "장프랑수아 밀레 원작 · 옛 도록 Plate LII 색채 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate52.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 1200,
+        "height": 866,
+        "sha256": "351f8bf18ab4083c4db0448cc7e23aea9ce20fabb84bae28b48209fa3a25eb10"
+      },
+      "paragraph_characters": 2291,
+      "body_sha256": "b808fa190f56090c26fc20b4224eaf606cfc106400178cad80a4e783981b6c39"
+    },
+    {
+      "id": "titian-man-with-glove",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 티치아노와 Plate XII",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "L’homme au Gant 표제·검은 옷과 흰 셔츠·금목걸이·반지",
+            "장갑 낀 손과 다른 장갑·받침대·인물의 시선과 서명",
+            "실제 초상화 재현 도판의 정체"
+          ],
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05"
+        }
+      ],
+      "review_method": "원문·악보·역사적 전기와 실제 이미지를 대조하고 한국어로 새로 서술. 사실과 감상, 원작 설정과 후대 각색을 구분.",
+      "editorial_limits": "모델 신원·직업·신분 및 특정 심리 상태를 그림만으로 확정하지 않음. 티치아노 출생연도 등 논쟁적 날짜는 추가하지 않음. 재료·빛에 관한 감상은 옛 도판이 허용하는 범위에서 서술.",
+      "image": {
+        "file": "content/images/titian-man-with-glove.jpg",
+        "alt": "티치아노의 장갑을 낀 남자. 검은 옷과 흰 셔츠를 입은 인물이 옆을 바라보고 한 손에는 장갑을 끼고 있습니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "티치아노 원작 · 옛 루브르 도록 Plate XII 색채 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate12.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 1054,
+        "height": 1200,
+        "sha256": "0a45f97baf47989e8df13ce65e63d443b1480608f2a6c2a6c0e80f0ee57381a8"
+      },
+      "paragraph_characters": 2332,
+      "body_sha256": "e8b0fc40e794fc105bb0a2cc14ba4af3c7e43cc778b1a9fafcc3f640fae0b9a7"
+    },
+    {
+      "id": "leonardo-life-of-observation",
+      "sources": [
+        {
+          "title": "Maurice W. Brockwell — Leonardo da Vinci, 역사적 전기",
+          "url": "https://raw.githubusercontent.com/GITenberg/Leonardo-Da-Vinci_7785/master/7785-8.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1452~1519 생애·베로키오 공방·밀라노와 스포르차의 후원",
+            "미완성 작품·최후의 만찬·모나리자·해부학과 광학 등 연구·거꾸로 쓴 기록·프랑스 말년"
+          ],
+          "status": 200,
+          "sha256": "8bf6d5e14032396547e3e58eafc5b40e5db44ad0765b55e016887fb9bb663c50"
+        },
+        {
+          "title": "Leonardo da Vinci — 작품 도판과 캡션",
+          "url": "https://raw.githubusercontent.com/GITenberg/Leonardo-Da-Vinci_7785/master/7785-h/7785-h.htm",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "Plate IV를 밀라노 최후의 만찬의 역사적 재현 도판으로 식별"
+          ],
+          "status": 200,
+          "sha256": "647ddf98983966201d1307cbc6741ea639ff9658f3c8a77a25ae8235c8846254"
+        }
+      ],
+      "review_method": "원문·악보·역사적 전기와 실제 이미지를 대조하고 한국어로 새로 서술. 사실과 감상, 원작 설정과 후대 각색을 구분.",
+      "editorial_limits": "옛 전기의 작품 귀속 오류(수태고지 등)·부자 관계의 숫자 상징 추측·프랑수아의 품에서 사망했다는 전승을 사실로 채택하지 않음. 구상을 모두 제작된 기계로 설명하지 않으며 현대 진단을 붙이지 않음. 최후의 만찬은 옛 재현 도판으로 식별.",
+      "image": {
+        "file": "content/images/leonardo-life-of-observation.jpg",
+        "alt": "다빈치의 최후의 만찬을 재현한 옛 도판. 긴 식탁 중앙의 예수와 양쪽 제자들이 표현되어 있습니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "레오나르도 다빈치 원작 · Brockwell의 전기 수록 최후의 만찬 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Leonardo-Da-Vinci_7785/master/7785-h/images/Plate0004.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 700,
+        "height": 359,
+        "sha256": "831e2ba75a2a824b594e98ad1092623497e3030a285219dbf6ae4d64fd1618a5"
+      },
+      "paragraph_characters": 2373,
+      "body_sha256": "b63274cfdce4aa505d2dd0c5e5fd34ae9e1c22714fbe5acda0ae5f0b476314ec"
+    },
+    {
+      "id": "jane-austen-life-and-writing",
+      "sources": [
+        {
+          "title": "Austen-Leigh — Jane Austen: Her Life and Letters, 가족 전기와 편지",
+          "url": "https://raw.githubusercontent.com/GITenberg/Jane-Austen-Her-Life-and-LettersA-Family-Record_22536/master/22536.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1775년 출생·1817년 사망·캐선드라·가족의 독서와 글쓰기",
+            "스티븐턴·배스·초턴·아버지 사망과 이주·출판 과정",
+            "1811년 이성과 감성·1813년 오만과 편견·다른 작품과 말년·편지 전승의 한계"
+          ],
+          "status": 200,
+          "sha256": "ff97cd5afadeab49e05137587234dc903bf0df0dd2866ba22a4a8b74b12c25dc"
+        }
+      ],
+      "review_method": "원문·악보·역사적 전기와 실제 이미지를 대조하고 한국어로 새로 서술. 사실과 감상, 원작 설정과 후대 각색을 구분.",
+      "editorial_limits": "가족 전기의 선택·편지 소실이라는 한계를 구분. 실제 연애·혼인 거절 일화를 확인하지 않고 소설 인물과 연결하지 않음. 특정 병명·사망 원인을 현대 진단으로 확정하지 않음. 작가의 실제 초상과 소설 인물을 구별.",
+      "image": {
+        "file": "content/images/jane-austen-life-and-writing.jpg",
+        "alt": "오스틴 가족 전기에 실린 제인 오스틴의 역사적 초상 재현 도판.",
+        "type": "artwork",
+        "label": "역사적 초상 재현 도판",
+        "credit": "1913년 오스틴 가족 전기 수록 작가 초상 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Jane-Austen-Her-Life-and-LettersA-Family-Record_22536/master/22536-h/images/frontis.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 693,
+        "height": 1200,
+        "sha256": "a4e43b56b186b8dfd88418614994ea2b2f5b305fdd77217f8a9d8a249653e317"
+      },
+      "paragraph_characters": 2433,
+      "body_sha256": "e617289cd8dc26d28789ee357c53a8134a656e84be01ef0faef8d649454cdebb"
+    },
+    {
+      "id": "marcus-aurelius-meditations",
+      "sources": [
+        {
+          "title": "마르쿠스 아우렐리우스 — Thoughts of Marcus Aurelius Antoninus, George Long 번역",
+          "url": "https://raw.githubusercontent.com/GITenberg/Thoughts-of-Marcus-Aurelius-Antoninus_15877/master/15877.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "121~180 생애·161년 황제 계승·전쟁과 통치의 맥락",
+            "제1권의 배움과 감사·제2권의 하루와 타인·제5권의 일어나기",
+            "판단과 외부 사건·공동체와 정의·후대에 전해진 짧은 기록의 형식"
+          ],
+          "status": 200,
+          "sha256": "b1294c672a509fbc3aa0ae2eec1f3fe371b2f44409bd49e6d6eb06a6b3c45dc7"
+        },
+        {
+          "title": "명상록 — 역사적 영문판과 인물 도판",
+          "url": "https://raw.githubusercontent.com/GITenberg/Thoughts-of-Marcus-Aurelius-Antoninus_15877/master/15877-h/15877-h.htm",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "antoninus.jpg를 마르쿠스 아우렐리우스의 역사적 초상 도판으로 식별"
+          ],
+          "status": 200,
+          "sha256": "43a3e2e94957139d2983f250fac65f0837b093fa49ff33aa079abfc9123e86cf"
+        },
+        {
+          "title": "명상록 서지·인물 식별 정보",
+          "url": "https://raw.githubusercontent.com/GITenberg/Thoughts-of-Marcus-Aurelius-Antoninus_15877/master/metadata.yaml",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "Marcus Aurelius, Emperor of Rome, 121~180; 스토아 철학 관련 자료"
+          ],
+          "status": 200,
+          "sha256": "5c5238c2f27379f4515024077d8340f449541dbaec398384a7a8e2ede9764053"
+        }
+      ],
+      "review_method": "원문·악보·역사적 전기와 실제 이미지를 대조하고 한국어로 새로 서술. 사실과 감상, 원작 설정과 후대 각색을 구분.",
+      "editorial_limits": "본문의 예시와 실제 고대 구절을 구분. 황제의 철학 기록을 통치 전체에 대한 무조건적 찬양으로 쓰지 않음. 현대 정신건강 치료·생산성 처방이나 무조건적 복종으로 확대하지 않음. 출판 의도·매일 기록했다는 빈도를 확정하지 않음.",
+      "image": {
+        "file": "content/images/marcus-aurelius-meditations.jpg",
+        "alt": "명상록의 옛 영문판에 수록된 마르쿠스 아우렐리우스의 초상 재현 도판.",
+        "type": "artwork",
+        "label": "역사적 초상 재현 도판",
+        "credit": "George Long 번역 명상록의 역사적 초상 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Thoughts-of-Marcus-Aurelius-Antoninus_15877/master/15877-h/images/antoninus.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 340,
+        "height": 500,
+        "sha256": "aa2a91ee92efdd5b3ebbcc955798eadd5c007ed2b77e9f8bd0b4ee6669a136e9"
+      },
+      "paragraph_characters": 2495,
+      "body_sha256": "0217cfe0457bbf55fc0e932bed8d3d6fc42350004acae5284a95942aee55445f"
+    }
+  ]
+}

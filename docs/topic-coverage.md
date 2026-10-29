@@ -16,10 +16,10 @@
 | Cities | Middle East | 0 | 0 | 0 |
 | Cities | Africa | 1 | 1 | 1 |
 | Culture | Architecture | 3 | 3 | 3 |
-| Culture | Literature | 6 | 6 | 6 |
-| Culture | Philosophy | 2 | 2 | 2 |
-| Culture | Music | 14 | 13 | 13 |
-| Culture | Art | 16 | 16 | 16 |
+| Culture | Literature | 9 | 9 | 6 |
+| Culture | Philosophy | 3 | 3 | 2 |
+| Culture | Music | 16 | 15 | 13 |
+| Culture | Art | 20 | 20 | 16 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
 | Life | Folks | 2 | 2 | 2 |

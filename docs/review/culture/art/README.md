@@ -12,10 +12,14 @@
 | [벼루함 속 해태의 입에는 작은 구멍이 있다](inkstone-water-dropper.md) | 자료 대조·공개 게시 승인 완료 |
 | [판화 한 장이 큰 그림의 제안서가 되었다](italy-print-painting-proposal.md) | 자료 대조·공개 게시 승인 완료 |
 | [절을 지키는 얼굴은 왜 그렇게 무서울까](japan-fierce-temple-guardian.md) | 자료 대조·공개 게시 승인 완료 |
+| [레오나르도 다빈치의 생애 — 그림 한 장에서 세상을 관찰하다](leonardo-life-of-observation.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [체스 말을 어디에 둘지 오래된 사진에 물었다](man-ray-chess-photo-layout.md) | 자료 대조·공개 게시 승인 완료 |
+| [이삭 줍는 여인들 — 풍요로운 들판의 가장 낮은 자리](millet-gleaners-harvest.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [모나리자 — 미소와 손, 그리고 그림이 사라진 해](mona-lisa-looking-guide.md) | 자료 대조·공개 게시 승인 완료 |
 | [아름다운 정원사 — 그림 속 여인은 누구일까](raphael-belle-jardiniere.md) | 자료 대조·공개 게시 승인 완료 |
+| [엠마오의 순례자들 — 식탁에서 낯선 이를 알아보는 순간](rembrandt-emmaus-light.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [주전자의 이야기는 바닥에도 적혀 있다](silver-kettle-hidden-letters.md) | 자료 대조·공개 게시 승인 완료 |
+| [장갑을 낀 남자 — 얼굴보다 손이 먼저 알려 주는 것](titian-man-with-glove.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [반 고흐의 생애 — 그림 곁에는 편지가 있었다](van-gogh-life-and-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [레이스 뜨는 여인 — 작은 일에 시선이 모일 때](vermeer-lacemaker-looking-guide.md) | 자료 대조·공개 게시 승인 완료 |
 | [딸을 안은 자화상 — 비제 르 브룅이 남긴 두 가지 얼굴](vigee-lebrun-mother-daughter.md) | 자료 대조·공개 게시 승인 완료 |
