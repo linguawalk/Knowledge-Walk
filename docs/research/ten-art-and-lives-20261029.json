@@ -1,0 +1,494 @@
+{
+  "checked_at": "2026-10-29",
+  "scope": "사용자가 승인한 확장 개정 원고의 분량·깊이를 기본값으로 삼아 새로 작성한 검토용 10편. 문학 2·음악 작품 2·회화 3·인물 3. 아직 사용자 공개 승인을 받지 않음.",
+  "general_limits": "오래된 자료의 오류·성차별·민족적 편견은 그대로 수용하지 않음. 원작·편지·악보와 감상을 구분. 후기 전승을 확인된 작곡 현장으로 쓰지 않음. 현대 번역·새 표지·현대 조판 악보를 이미지로 복제하지 않음.",
+  "stories": [
+    {
+      "id": "christmas-carol-scrooge-change",
+      "sources": [
+        {
+          "title": "찰스 디킨스 — A Christmas Carol 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/A-Christmas-Carol_46/master/46-0.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "1843년 서문·5부 구성·말리와 세 유령",
+            "페지위그·벨·크래칫 가족과 타이니 팀·무지와 결핍의 아이들·변화와 결말"
+          ],
+          "status": 200,
+          "sha256": "919e060656548dd0bf5f615fe85932e67718b9a58e5a535d1ff7548c4380caeb"
+        },
+        {
+          "title": "크리스마스 캐럴 — 원문 HTML과 삽화 캡션",
+          "url": "https://raw.githubusercontent.com/GITenberg/A-Christmas-Carol_46/master/46-h/46-h.htm",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "Mr. Fezziwig’s Ball로 식별된 옛 삽화와 작품 장면"
+          ],
+          "status": 200,
+          "sha256": "90389d5f7ea51f0da98d8264261c0aef6d67b6c49813f411056e9e5fc372b5f4"
+        }
+      ],
+      "review_method": "원문·악보·역사적 기록과 실제 이미지를 읽고 작품 내용·생애의 전환점과 감상을 구분하여 한국어로 새로 작성.",
+      "editorial_limits": "결말 포함을 첫머리에 안내. 빈곤을 낭만화하지 않으며 작품의 상징과 현대 편집적 해석을 구분. 원문을 현대 번역본에서 복제하지 않음.",
+      "image": {
+        "file": "content/images/christmas-carol-scrooge-change.jpg",
+        "alt": "페지위그의 크리스마스 무도회를 그린 옛 삽화. 실내에 사람들이 모여 춤추고 있습니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "존 리치의 원작 삽화 · Project Gutenberg 수록 역사적 재현 도판",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/A-Christmas-Carol_46/master/46-h/images/03.jpg",
+        "license": "퍼블릭 도메인 원작·역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 529,
+        "height": 692,
+        "sha256": "cf3e1662e2f75a0cb0990eddc4392409e5680ba3926f9f175959ba3e7085088e",
+        "method": "원본 파일을 내려받아 실제 이미지와 캡션·판본·이용 근거를 대조. AI 재현이나 임의 크롭·색보정 없음."
+      },
+      "paragraph_characters": 2495,
+      "body_sha256": "877c930efbb8e3e38647fecc54c6ce424c6d0cfec1f97f9fcd34704a9a864834"
+    },
+    {
+      "id": "frankenstein-creator-and-creature",
+      "sources": [
+        {
+          "title": "메리 셸리 — Frankenstein 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/Frankenstein_84/master/84-0.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "월턴의 편지·빅터의 고백·피조물의 회상이라는 서술 구조",
+            "생명 창조·버림·드 라세 가족·윌리엄·쥐스틴·동반자 약속·추격과 마지막 장면"
+          ],
+          "status": 200,
+          "sha256": "c29a4f56dd91aa894a3f17d5f96b356ccb499e3e2c5a27964de911845e39efab"
+        },
+        {
+          "title": "Standard Ebooks — 프랑켄슈타인 출간·판본 안내",
+          "url": "https://raw.githubusercontent.com/standardebooks/mary-shelley_frankenstein/master/src/epub/text/colophon.xhtml",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "1818년 최초 출간 및 1831년 판본 구분"
+          ],
+          "status": 200,
+          "sha256": "7e9fe9600298d9ffbc334aea168a13f57f4cbe4ddf12b5ff3410339749cb3c35"
+        }
+      ],
+      "review_method": "원문·악보·역사적 기록과 실제 이미지를 읽고 작품 내용·생애의 전환점과 감상을 구분하여 한국어로 새로 작성.",
+      "editorial_limits": "주요 결말과 폭력의 결과를 안내하되 선정적 묘사 없음. 1818년 초판과 대조 원문의 후대 판본을 구분. 피조물의 자살 실행을 확인된 장면처럼 쓰지 않음. 영화의 전기 장치·외모를 원작 설정으로 옮기지 않음.",
+      "image": {
+        "file": "content/images/frankenstein-creator-and-creature.png",
+        "alt": "프랑켄슈타인의 화자 구조 설명도. 월턴의 편지 안에 빅터의 고백, 그 안에 피조물의 회상이 담깁니다.",
+        "type": "artwork",
+        "label": "직접 제작 설명도",
+        "credit": "KnowledgeWalk 제작 · 원문·악보와 해설에 근거한 읽기 안내도. 실제 인물 사진·원작 장면·완전한 연주용 악보를 재현한 자료가 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Frankenstein_84/master/84-0.txt",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "width": 1536,
+        "height": 960,
+        "sha256": "5a4a9e236b70235c3013f061e6dd529b5317c2ff04cb159989e3af929c205d68",
+        "method": "직접 제작 읽기 안내도. 실제 얼굴·사건·완전한 악보로 제시하지 않음."
+      },
+      "paragraph_characters": 2671,
+      "body_sha256": "664c3d3c8381e6ceff0c46a8ee54c7edcd1f483e3ca207c44aa99c47cde07134"
+    },
+    {
+      "id": "mozart-turkish-rondo",
+      "sources": [
+        {
+          "title": "Mutopia — Mozart K.331 Rondo Alla Turca, 악보 정보",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/MozartWA/KV331/KV331_3_RondoAllaTurca/KV331_3_RondoAllaTurca-lys/KV331_3_RondoAllaTurca.ly",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "Rondo Alla Turca·Turkish March·Allegretto·K.331·피아노 독주 표기"
+          ],
+          "status": 200,
+          "sha256": "eb5aeab7ca2cd4299e7a99f95dee9c8d2d52d73c8327474b6249c1ee4d5a20d9"
+        },
+        {
+          "title": "Mutopia — 터키 행진곡 음표·강약·반주 원문",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/MozartWA/KV331/KV331_3_RondoAllaTurca/KV331_3_RondoAllaTurca-lys/KV331_3_RondoAllaTurcaNotes.ly",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "2박의 흐름과 약하게 시작하는 음형, 장조 구간·화음 반주·강약의 대비"
+          ],
+          "status": 200,
+          "sha256": "281da85484e82f2c874d8ab6d710868b70b54d44b3a01b5b7d396b4086125d89"
+        },
+        {
+          "title": "오토 얀 — Life of Mozart 제2권, 기악·터키풍 음악 해설",
+          "url": "https://raw.githubusercontent.com/GITenberg/Life-Of-Mozart-Vol.-2--of-3-_43412/master/43412.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "K.331의 변주곡·미뉴에트·론도 세 악장 구성",
+            "유럽의 터키풍 음악 표현과 음악극의 맥락; 실제 터키 음악과 양식을 동일시하지 않는 설명"
+          ],
+          "status": 200,
+          "sha256": "8a2fcca0146faa07a4186f1992e5240b93330a0e2f7b2f4e1c27414d47c471ba"
+        }
+      ],
+      "review_method": "원문·악보·역사적 기록과 실제 이미지를 읽고 작품 내용·생애의 전환점과 감상을 구분하여 한국어로 새로 작성.",
+      "editorial_limits": "터키풍을 오스만 음악의 정확한 복제나 민족 전체의 특징으로 일반화하지 않음. 작곡 연도·장소·특정 군대 방문 일화를 근거 없이 추가하지 않음. 현대 악보 전체를 이미지로 복제하지 않고 자체 안내도 사용.",
+      "image": {
+        "file": "content/images/mozart-turkish-rondo.png",
+        "alt": "모차르트 피아노 소나타 K.331의 세 악장 안내도. 첫째는 주제와 변주, 둘째는 미뉴에트, 셋째는 론도 알라 투르카입니다.",
+        "type": "artwork",
+        "label": "직접 제작 설명도",
+        "credit": "KnowledgeWalk 제작 · 원문·악보와 해설에 근거한 읽기 안내도. 실제 인물 사진·원작 장면·완전한 연주용 악보를 재현한 자료가 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/MozartWA/KV331/KV331_3_RondoAllaTurca/KV331_3_RondoAllaTurca-lys/KV331_3_RondoAllaTurca.ly",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "width": 1536,
+        "height": 960,
+        "sha256": "0f7ec32de571ecc245b04a3be644e7b9a563f696386d6d93701a3f11df2929a1",
+        "method": "직접 제작 읽기 안내도. 실제 얼굴·사건·완전한 악보로 제시하지 않음."
+      },
+      "paragraph_characters": 2453,
+      "body_sha256": "b6a8a5e42aaf891d39601b2444e4c9e92775ef9a524a46aabc68f38fec056ec5"
+    },
+    {
+      "id": "goldberg-variations-return",
+      "sources": [
+        {
+          "title": "포르켈·테리 편 — Johann Sebastian Bach: His Life, Art and Work",
+          "url": "https://raw.githubusercontent.com/GITenberg/Johann-Sebastian-Bach-his-Life-Art-and-Work_35041/master/35041-0.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "포르켈의 1802년 전기와 후대 판본의 성격",
+            "백작·골드베르크·불면의 일화, 서른 변주와 반복되는 화성의 바탕·쿼들리벳"
+          ],
+          "status": 200,
+          "sha256": "e62ef8367c4296bc51b07ad9043d742db3a443abc1cfe4063382407aab96d6d5"
+        },
+        {
+          "title": "Mutopia — BWV 988 아리아",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BachJS/BWV988/bwv-988-aria/bwv-988-aria.ly",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "아리아·서른 변주 표제·건반악기·1741년 표기·세 박의 아리아"
+          ],
+          "status": 200,
+          "sha256": "f86adfb84573bc7775fe48750f7ee9b6df2adf2fcc5e32fb52c09e589c9e12af"
+        },
+        {
+          "title": "Mutopia — 제3변주 카논",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BachJS/BWV988/bwv-988-v03/bwv-988-v03.ly",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "Canone all’Unisono 표제와 모방되는 성부"
+          ],
+          "status": 200,
+          "sha256": "ff0d2b05ad82e6941ade222cba2818667cde157fb9e8918d7d51a985a93a815d"
+        },
+        {
+          "title": "Mutopia — 제25변주",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BachJS/BWV988/bwv-988-v25/bwv-988-v25.ly",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "사단조·3박의 성부와 움직임"
+          ],
+          "status": 200,
+          "sha256": "82546e6b2d03e5f0e23b2e596a74ae074e9c1aa690e24560795124beee8b2811"
+        },
+        {
+          "title": "Mutopia — 제30변주와 마지막 지시",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BachJS/BWV988/bwv-988-v30/bwv-988-v30.ly",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "Quodlibet 표제·Aria da Capo e Fine로 첫 아리아에 돌아가 끝내는 지시"
+          ],
+          "status": 200,
+          "sha256": "2a3191ca67c54cf73b20f0d2d58e4093e8bd0e0f58b0c1f224d9cdb29562b9f3"
+        }
+      ],
+      "review_method": "원문·악보·역사적 기록과 실제 이미지를 읽고 작품 내용·생애의 전환점과 감상을 구분하여 한국어로 새로 작성.",
+      "editorial_limits": "백작·골드베르크 일화는 포르켈의 후대 전승으로 표시하고 주문 경위의 확정 증거로 쓰지 않음. 골드베르크 출생연도 등 옛 전기의 잘못된 날짜 제외. 현대 조판 악보 CC BY-SA 3.0를 그림으로 복제하지 않고 사실 분석에만 사용.",
+      "image": {
+        "file": "content/images/goldberg-variations-return.jpg",
+        "alt": "하우스만이 그린 요한 제바스티안 바흐 초상의 옛 재현 도판. 바흐가 악보를 들고 있습니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "E. G. 하우스만의 바흐 초상 재현 도판 · Forkel·Terry 편 바흐 전기 수록",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Johann-Sebastian-Bach-his-Life-Art-and-Work_35041/master/35041-h/images/bach2.jpg",
+        "license": "퍼블릭 도메인 원작·역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 515,
+        "height": 640,
+        "sha256": "bf88d7cefb60db8b25d82083600b9eaad740ff3f72f7dd11955dc5522812ed95",
+        "method": "원본 파일을 내려받아 실제 이미지와 캡션·판본·이용 근거를 대조. AI 재현이나 임의 크롭·색보정 없음."
+      },
+      "paragraph_characters": 2423,
+      "body_sha256": "3fd295cb99ca7d53b1fe84795e3af8dffe8447e3c265ffff20460d0cbf7c4ddf"
+    },
+    {
+      "id": "watteau-cythera-pilgrimage",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 와토 설명과 Plate XXXIX",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "1717년 아카데미 제출작과 루브르 판본",
+            "오른쪽 비너스의 표지·연인들의 자세·왼쪽 배와 공중의 큐피드·먼 풍경",
+            "별도의 후대 판본과 구별되는 도판의 정체"
+          ],
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05"
+        }
+      ],
+      "review_method": "원문·악보·역사적 기록과 실제 이미지를 읽고 작품 내용·생애의 전환점과 감상을 구분하여 한국어로 새로 작성.",
+      "editorial_limits": "도착·출발은 확정된 하나의 서사로 단정하지 않고 관찰과 감상을 구분. 옛 도록의 와토 출생·프랑스 편입 연도 설명 오류 및 7일 제작설은 재사용하지 않음. 다른 판본과 현재 전시 위치를 혼동하지 않음.",
+      "image": {
+        "file": "content/images/watteau-cythera-pilgrimage.jpg",
+        "alt": "와토의 시테라 섬으로의 순례. 오른쪽 나무 아래에서 왼쪽 배 쪽으로 연인들의 움직임이 이어집니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "앙투안 와토 원작 · 옛 루브르 도록 Plate XXXIX의 색채 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate39.jpg",
+        "license": "퍼블릭 도메인 원작·역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 1200,
+        "height": 778,
+        "sha256": "4e66b128083628eb45dfaead7c8959971c4da4a5318cb42fbb931deb52ca6b80",
+        "method": "원본 파일을 내려받아 실제 이미지와 캡션·판본·이용 근거를 대조. AI 재현이나 임의 크롭·색보정 없음."
+      },
+      "paragraph_characters": 2390,
+      "body_sha256": "1c51b4744635a8b057d39a6247457a51ccb414e12c425a724e988279154b573a"
+    },
+    {
+      "id": "chardin-grace-before-meal",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 샤르댕과 Plate XLI",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "샤르댕 1699~1779·가정 장면과 정물화",
+            "Le Bénédicité 표제·식탁·수프 그릇·어른과 두 아이·작은 북·주변 물건",
+            "여러 판본이 존재하며 이 도판은 루브르 소장본"
+          ],
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05"
+        }
+      ],
+      "review_method": "원문·악보·역사적 기록과 실제 이미지를 읽고 작품 내용·생애의 전환점과 감상을 구분하여 한국어로 새로 작성.",
+      "editorial_limits": "아이들의 성별·실제 가족 신원을 도판만으로 확정하지 않음. 당시 모든 가정의 식사 관행으로 일반화하지 않음. 도록의 소장본·반복 판본을 구분하고 특정 버전 제작연도는 확인 없이 덧붙이지 않음.",
+      "image": {
+        "file": "content/images/chardin-grace-before-meal.jpg",
+        "alt": "샤르댕의 식사 전의 기도. 식탁 곁의 어른과 두 아이, 수프 그릇과 의자 뒤의 작은 북이 보입니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "장바티스트 시메옹 샤르댕 원작 · 옛 루브르 도록 Plate XLI의 색채 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate41.jpg",
+        "license": "퍼블릭 도메인 원작·역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 949,
+        "height": 1200,
+        "sha256": "86faf6d95e14b87d4da7cd7faf8667c2ad53dbe1244b71b802eca9e2352da9ff",
+        "method": "원본 파일을 내려받아 실제 이미지와 캡션·판본·이용 근거를 대조. AI 재현이나 임의 크롭·색보정 없음."
+      },
+      "paragraph_characters": 2363,
+      "body_sha256": "6c17f04d430f96812b4328b6162e770d554a310a25ef6609cb4045ebf8c70875"
+    },
+    {
+      "id": "vigee-lebrun-mother-daughter",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, Plate XLIV",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "비제 르 브룅 1755~1842·작가와 딸의 초상·옷·팔·소파의 구성",
+            "루브르 소장 자화상 두 점 중 No.522라는 도판 식별"
+          ],
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05"
+        },
+        {
+          "title": "엘리자베트 비제 르 브룅 — The Memoirs of Madame Vigée Lebrun",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Memoirs-of-Madame-Vig-e-Lebrun_31934/master/31934.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "화가인 아버지·초상 작업과 생계·왕실 의뢰와 아카데미 입회",
+            "혁명기에 딸과 파리를 떠난 기록·여러 도시에서 이어진 작업과 사회 관계"
+          ],
+          "status": 200,
+          "sha256": "c84585aa50e15f351741c53051dfef4259740d64615bea18b9c873b5a33f6516"
+        }
+      ],
+      "review_method": "원문·악보·역사적 기록과 실제 이미지를 읽고 작품 내용·생애의 전환점과 감상을 구분하여 한국어로 새로 작성.",
+      "editorial_limits": "옛 도록의 여성 화가에 대한 성차별적 평가를 채택하지 않음. 회고록의 딸 나이 등 내부 불일치와 귀환 연도는 재사용하지 않음. 파리 탈출을 1793년 공포정치의 일로 오인하지 않고 혁명기로 설명. 그림 한 점으로 모녀 관계 전체를 단정하지 않음.",
+      "image": {
+        "file": "content/images/vigee-lebrun-mother-daughter.jpg",
+        "alt": "비제 르 브룅이 딸을 두 팔로 안은 자화상. 두 사람의 얼굴이 관객을 향합니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "엘리자베트 루이즈 비제 르 브룅 원작 · 옛 루브르 도록 Plate XLIV의 색채 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate44.jpg",
+        "license": "퍼블릭 도메인 원작·역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 948,
+        "height": 1200,
+        "sha256": "1ed0ff2170c4298f808c0ef2f554840e7c31bd96302358e624f28998ee81d3d1",
+        "method": "원본 파일을 내려받아 실제 이미지와 캡션·판본·이용 근거를 대조. AI 재현이나 임의 크롭·색보정 없음."
+      },
+      "paragraph_characters": 2485,
+      "body_sha256": "75b15fea4fae7ec51fd1628a4e376e2dd834ebf725c03ead51f5ab5f0a4ce8a0"
+    },
+    {
+      "id": "chopin-life-piano-and-home",
+      "sources": [
+        {
+          "title": "제임스 휴너커 — Chopin: The Man and His Music",
+          "url": "https://raw.githubusercontent.com/GITenberg/Chopin---the-Man-and-His-Music_4939/master/4939.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "바르샤바의 성장·엘스네르·1830년 떠남과 1831년 파리 정착",
+            "교습과 사교·피아노 표현·마주르카·폴로네즈·야상곡·루바토",
+            "조르주 상드·마요르카·노앙·건강의 어려움과 1849년 죽음"
+          ],
+          "status": 200,
+          "sha256": "89c78ae3509993065364d1e037cbb831efc25731de61a60e0eb959e786b3372e"
+        },
+        {
+          "title": "쇼팽 전기 서지 정보 — 표준 인물 식별",
+          "url": "https://raw.githubusercontent.com/GITenberg/Chopin---the-Man-and-His-Music_4939/master/metadata.yaml",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "주제 표목 Chopin, Frédéric, 1810–1849; 옛 전기 본문의 출생연도 논쟁과 구별"
+          ],
+          "status": 200,
+          "sha256": "11cdb6c536d40a407420d3fe5f8e31dc2aa07e89e850e0d71512b5240c6b6ccb"
+        },
+        {
+          "title": "토머스 태퍼 — Chopin, 초상 도판이 있는 역사적 음악 안내서",
+          "url": "https://raw.githubusercontent.com/GITenberg/Chopin---The-Story-of-the-Boy-Who-Made-Beautiful-Melodies_35013/master/35013-h/35013-h.htm",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "인물 초상으로 식별된 illus01 도판의 성격; 본문의 낡은 출생연도는 사용하지 않음"
+          ],
+          "status": 200,
+          "sha256": "afeda1e366c874c27dac3d4ca22cbfc832aca8554b590154bff16264a4d559bc"
+        }
+      ],
+      "review_method": "원문·악보·역사적 기록과 실제 이미지를 읽고 작품 내용·생애의 전환점과 감상을 구분하여 한국어로 새로 작성.",
+      "editorial_limits": "옛 전기와 아동 안내서의 1809년 출생설은 반복하지 않고 서지 표준 인물 표목의 1810~1849 사용. 전기 속 여성·민족 관련 편견을 채택하지 않음. 상드와의 관계·건강은 선정적 일화나 현대의 확정 진단으로 서술하지 않음. 출생·출국의 정확한 일자는 생략.",
+      "image": {
+        "file": "content/images/chopin-life-piano-and-home.png",
+        "alt": "토머스 태퍼의 옛 쇼팽 안내서에 수록된 쇼팽의 초상 재현 도판.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "쇼팽의 역사적 초상 재현 도판 · Thomas Tapper의 음악 안내서 수록 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Chopin---The-Story-of-the-Boy-Who-Made-Beautiful-Melodies_35013/master/35013-h/images/illus01.png",
+        "license": "퍼블릭 도메인 원작·역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 400,
+        "height": 560,
+        "sha256": "c83af1febba77086fe19893b231aea1d61777733004ef474f755c812649cabcd",
+        "method": "원본 파일을 내려받아 실제 이미지와 캡션·판본·이용 근거를 대조. AI 재현이나 임의 크롭·색보정 없음."
+      },
+      "paragraph_characters": 2460,
+      "body_sha256": "1d3d84a9d16d10ebb623e318027749e0010534bfc7404f4625f1272f5589f431"
+    },
+    {
+      "id": "confucius-life-and-learning",
+      "sources": [
+        {
+          "title": "논어 — 제임스 레그 영문 번역 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Analects-of-Confucius-from-the-Chinese-Classics_3330/master/3330.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "위정편의 열다섯부터 일흔까지 회고·학습과 성찰",
+            "인·예·서·자신이 원하지 않는 일을 남에게 강요하지 않는 태도·제자들과의 문답"
+          ],
+          "status": 200,
+          "sha256": "717cd5d679d45ee8f297dc55d9f81551679dd6a3786d74104431afc0347efcaa"
+        },
+        {
+          "title": "라이오넬 자일스 — The Sayings of Confucius, 서론과 역사 설명",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Sayings-of-ConfuciusA-New-Translation-of-the-Greater-Part-of-the-Confucian-Analects_46389/master/46389-0.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "춘추시대 노나라의 정치·가르침과 관직·여러 나라의 유랑과 귀환",
+            "논어가 공자 자신의 완성 저술·녹취록이 아닌 후대 전승이라는 사료 성격"
+          ],
+          "status": 200,
+          "sha256": "6f647751b7864a7ea6dead26e8846b5f6f01c05509018cf43148b2c00e3f1ccd"
+        },
+        {
+          "title": "공자 관련 서지·인물 식별 정보",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Sayings-of-ConfuciusA-New-Translation-of-the-Greater-Part-of-the-Confucian-Analects_46389/master/metadata.yaml",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "공자 551~479 BCE 생몰년·제자들의 후대 전승이라는 자료 성격"
+          ],
+          "status": 200,
+          "sha256": "800a6da0070594c8b0f3deda04300522960004a978320542b8f7d2049152a313"
+        }
+      ],
+      "review_method": "원문·악보·역사적 기록과 실제 이미지를 읽고 작품 내용·생애의 전환점과 감상을 구분하여 한국어로 새로 작성.",
+      "editorial_limits": "생몰년은 표준 서지로 대조. 공자의 후대 전승·정치 행적과 실제 발언을 동일시하지 않음. 자일스 현대 번역 문구를 복제하지 않고 사실 조사에만 참고. 위정편 회고를 현대 모든 사람의 의무적 나이 기준으로 일반화하지 않음. 제자 3천명 등의 전승 수치를 확정 사실로 쓰지 않음.",
+      "image": {
+        "file": "content/images/confucius-life-and-learning.png",
+        "alt": "논어 위정편에 나오는 열다섯, 서른, 마흔, 쉰, 예순, 일흔의 회고를 정리한 안내도. 모든 사람의 나이별 목표를 뜻하지 않습니다.",
+        "type": "artwork",
+        "label": "직접 제작 설명도",
+        "credit": "KnowledgeWalk 제작 · 원문·악보와 해설에 근거한 읽기 안내도. 실제 인물 사진·원작 장면·완전한 연주용 악보를 재현한 자료가 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Analects-of-Confucius-from-the-Chinese-Classics_3330/master/3330.txt",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "width": 1536,
+        "height": 960,
+        "sha256": "969a6300ff5066a9cfc42f33e598cf0c34912f7a750863f45b1f1293024940d6",
+        "method": "직접 제작 읽기 안내도. 실제 얼굴·사건·완전한 악보로 제시하지 않음."
+      },
+      "paragraph_characters": 2604,
+      "body_sha256": "7a7d7ccb9d020bacd179409052a483db198e40cc7ee5d5c3d452f498f672cd6d"
+    },
+    {
+      "id": "marie-curie-life-and-discovery",
+      "sources": [
+        {
+          "title": "마리 퀴리 — Pierre Curie(1923), 자전적 기록 포함",
+          "url": "https://raw.githubusercontent.com/GITenberg/Pierre-Curie_69617/master/69617-0.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "1867년 바르샤바 출생·가정교사와 공부·1891년 파리 유학",
+            "베크렐의 연구·방사능 측정·폴로늄과 라듐 발견·광석 처리",
+            "1903년 공동 노벨상·1906년 피에르 사망과 강의·1911년 두 번째 노벨상",
+            "방사선 차량·X선 장비·교육과 전시 활동·특허를 내지 않은 연구 공유"
+          ],
+          "status": 200,
+          "sha256": "de8c05de6964a84b662d7e9df07a15a0c18559b03230fd522403196587fe8e16"
+        },
+        {
+          "title": "Pierre Curie — 사진 도판과 본문 HTML",
+          "url": "https://raw.githubusercontent.com/GITenberg/Pierre-Curie_69617/master/69617-h/69617-h.htm",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "Figure 6을 파리 퀴리 연구소 실험실의 마리 퀴리로 식별"
+          ],
+          "status": 200,
+          "sha256": "8ed9a222eb38ead4d81930ec70620a2a6b571425229e5ad0da872dbd7aac9b6f"
+        },
+        {
+          "title": "마리 퀴리 저서의 서지·판본 정보",
+          "url": "https://raw.githubusercontent.com/GITenberg/Pierre-Curie_69617/master/metadata.yaml",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "마리 퀴리 1867~1934·1923년 출간·역사적 사진이 수록된 판본"
+          ],
+          "status": 200,
+          "sha256": "c187152c648749a29691ead0cb889bb7921a57e558b8514772848a0937c3064e"
+        }
+      ],
+      "review_method": "원문·악보·역사적 기록과 실제 이미지를 읽고 작품 내용·생애의 전환점과 감상을 구분하여 한국어로 새로 작성.",
+      "editorial_limits": "현대 의학적 진단·일반 방사선 안전 처방으로 확장하지 않음. 라듐 연구와 X선 차량을 혼동하지 않음. 1923년 자전 기록의 현대 번역 문장을 복제하지 않고 사실을 직접 한국어로 해설. 여성·노벨상 관련 최상급 주장이나 부정확한 라듐 금속 분리 날짜는 추가하지 않음.",
+      "image": {
+        "file": "content/images/marie-curie-life-and-discovery.jpg",
+        "alt": "파리 퀴리 연구소의 실험실에서 장비 곁에 앉아 있는 마리 퀴리의 옛 사진.",
+        "type": "photo",
+        "label": "역사적 실제 사진",
+        "credit": "마리 퀴리 저서 Pierre Curie(1923) 수록 실험실 사진 · Project Gutenberg·HathiTrust 원본 인쇄 자료",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Pierre-Curie_69617/master/69617-h/images/figure06.jpg",
+        "license": "퍼블릭 도메인 원작·역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 1024,
+        "height": 739,
+        "sha256": "384ca358703e70cfac048eb0bbe7c3da410ea632f2afe10efc6e9bd5f9026910",
+        "method": "원본 파일을 내려받아 실제 이미지와 캡션·판본·이용 근거를 대조. AI 재현이나 임의 크롭·색보정 없음."
+      },
+      "paragraph_characters": 2468,
+      "body_sha256": "de5a46ae2e197dbde27ac83e19572df8c7c335ac3055419d99037e8a06378b61"
+    }
+  ]
+}
