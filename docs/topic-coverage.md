@@ -1,6 +1,6 @@
 # 세부 주제 제작 현황
 
-전체 43개 세부 주제 중 원고가 있는 곳은 29개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
+전체 43개 세부 주제 중 원고가 있는 곳은 30개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
 
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
@@ -16,10 +16,10 @@
 | Cities | Middle East | 0 | 0 | 0 |
 | Cities | Africa | 1 | 1 | 1 |
 | Culture | Architecture | 3 | 3 | 3 |
-| Culture | Literature | 2 | 2 | 2 |
-| Culture | Philosophy | 0 | 0 | 0 |
-| Culture | Music | 8 | 7 | 7 |
-| Culture | Art | 9 | 9 | 9 |
+| Culture | Literature | 4 | 4 | 2 |
+| Culture | Philosophy | 1 | 1 | 0 |
+| Culture | Music | 11 | 10 | 7 |
+| Culture | Art | 13 | 13 | 9 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
 | Life | Folks | 2 | 2 | 2 |

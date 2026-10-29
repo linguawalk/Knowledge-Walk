@@ -1,0 +1,380 @@
+{
+  "checked_at": "2026-10-29",
+  "scope": "작품 해설·표제 이야기·짧은 생애 소개 중심으로 방향 수정한 새 원고 10편. 문학 원문·악보·역사적 전기·교재의 사실과 편집적 감상을 구분. 새 원고의 홈페이지 공개 승인은 별도.",
+  "general_limits": "현대 소설 번역본·박물관 해설문을 복제하지 않음. 오래된 자료의 잘못된 연도·매체·추측·가격을 그대로 이식하지 않음. 후대 도판과 현재 실물·원래 역사 장면을 구별. 현대 CC BY-NC 표지는 사용하지 않음.",
+  "stories": [
+    {
+      "id": "les-miserables-reading-guide",
+      "sources": [
+        {
+          "title": "빅토르 위고 — Les Misérables, 이사벨 햅굿 영문 번역 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/Les-Mis-rables_135/master/135-0.txt",
+          "status": 200,
+          "sha256": "a878fd45f6d14808624d71154c1c1c75f64cb71ca5537f79bed1454255329004",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "장발장의 빵 절도·수감·석방과 미리엘 주교의 은식기·촛대 장면",
+            "자베르·팡틴·코제트·마리우스 관계와 인물의 행위",
+            "원문 서문 1862년 및 제4부의 1832년 6월 봉기 날짜"
+          ]
+        }
+      ],
+      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "editorial_limits": "초반 설정과 큰 갈등만 요약하며 최종 결말은 밝히지 않음. 원문의 특정 인물 판단을 유일한 작가 의도로 단정하지 않음. 2015년 CC BY-NC 현대 표지는 사용하지 않음.",
+      "image": {
+        "file": "content/images/les-miserables-reading-guide.jpg",
+        "type": "artwork",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Les-Mis-rables_135/master/135-0.txt",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "sha256": "742bfe49dbbc129c9d16ebdd70d512f6b6fd1d0377be98892e4c35f17691043e",
+        "method": "원문·공개 악보의 관계·음높이·시의 장면으로 자체 제작. 현대 표지·완전한 악보 판면을 복제하지 않음."
+      }
+    },
+    {
+      "id": "pride-prejudice-first-impressions",
+      "sources": [
+        {
+          "title": "제인 오스틴 — Pride and Prejudice 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/Pride-and-Prejudice_1342/master/1342-0.txt",
+          "status": 200,
+          "sha256": "48e0522844402a86a3ea98f0947ba85ea54838db3c59022299298ed968a5a163",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "베넷가 딸 다섯 명·빙리·다아시와 엘리자베스의 초기 관계",
+            "베넷 재산의 한정 상속·콜린스 관련 조건",
+            "위컴에 대한 판단·다아시의 편지와 후속 행위"
+          ]
+        },
+        {
+          "title": "Austen-Leigh — Jane Austen: Her Life and Letters(1913)",
+          "url": "https://raw.githubusercontent.com/GITenberg/Jane-Austen-Her-Life-and-LettersA-Family-Record_22536/master/22536-h/22536-h.htm",
+          "status": 200,
+          "sha256": "f9053fd02cdeb98d217526224678995618de16667820f2d5dee77995c9eae8ba",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "1813년 1월 출간이라는 연표·서지 정보",
+            "1913년 전기에 실린 제인 오스틴 초상의 성격"
+          ]
+        }
+      ],
+      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "editorial_limits": "결말과 결정적 후반 사건은 생략. 한정 상속을 당시 모든 여성의 상속 불가능으로 일반화하지 않음. 2015년 CC BY-NC 새 표지 대신 역사적 작가 초상을 사용.",
+      "image": {
+        "file": "content/images/pride-prejudice-first-impressions.jpg",
+        "type": "artwork",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Jane-Austen-Her-Life-and-LettersA-Family-Record_22536/master/22536-h/images/frontis.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 도판 · Project Gutenberg 수록본",
+        "sha256": "1215bae37d4fbd5c5697bcf0d77e29752937aadfd547e8dee4815907c232fe74",
+        "original_image_url": "https://raw.githubusercontent.com/GITenberg/Jane-Austen-Her-Life-and-LettersA-Family-Record_22536/master/22536-h/images/frontis.jpg",
+        "original_image_status": 200,
+        "original_image_sha256": "a4e43b56b186b8dfd88418614994ea2b2f5b305fdd77217f8a9d8a249653e317"
+      }
+    },
+    {
+      "id": "fur-elise-title-and-theme",
+      "sources": [
+        {
+          "title": "Mutopia — Für Elise, WoO 59, 공개 악보",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BeethovenLv/WoO59/fur_Elise_WoO59/fur_Elise_WoO59.ly",
+          "status": 200,
+          "sha256": "828a7bd1b42e441fe1b0eb0389ba46f1502dab28bbe488389e635fb446ba7a67",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "Für Elise라는 표제·Beethoven·WoO 59·가단조·1810년 표기",
+            "1888년 Breitkopf & Härtel 출처와 현 조판자의 Public Domain 선언",
+            "악보 첫 아홉 음의 순서와 뒤에 반복되는 주제·빠른 음형",
+            "해당 악보 자료에는 헌정 인물의 신원을 확인하는 설명이 없음"
+          ]
+        }
+      ],
+      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "editorial_limits": "특정 엘리제·테레제 설, 고백 일화, 원고 분실·발견·출판 경위에 대한 미확인 내용을 쓰지 않음. 신원에 관한 전체 학계의 결론을 이 악보만으로 확정하지 않음.",
+      "image": {
+        "file": "content/images/fur-elise-title-and-theme.jpg",
+        "type": "artwork",
+        "source_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BeethovenLv/WoO59/fur_Elise_WoO59/fur_Elise_WoO59.ly",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "sha256": "8a31b6c3254ebd84b753e946daa41b31f52fc902647575ecbecae88b870ddff9",
+        "method": "원문·공개 악보의 관계·음높이·시의 장면으로 자체 제작. 현대 표지·완전한 악보 판면을 복제하지 않음."
+      }
+    },
+    {
+      "id": "moonlight-sonata-name",
+      "sources": [
+        {
+          "title": "Mutopia — Sonata Op.27 No.2, 제1악장 공개 악보",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BeethovenLv/O27/moonlight/moonlight-lys/moonlight1-a4.ly",
+          "status": 200,
+          "sha256": "97f5f8f0b3cc31de38dd2c284f7e66f4f4b319fca0cdc941ee6f5f4927833ac5",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "Sonata No.14·Op.27 No.2·제1악장 Adagio sostenuto라는 악보 표기"
+          ]
+        },
+        {
+          "title": "로맹 롤랑 — Beethoven(영문판 1917), 소나타 해설",
+          "url": "https://raw.githubusercontent.com/GITenberg/Beethoven_55941/master/55941-0.txt",
+          "status": 200,
+          "sha256": "6c5d9f192b563c2720f35fd2fdc05ee3cf8753c262b7017fc53ccd8cbaab1c27",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "월광 별칭과 렐슈타프를 연결한 해설·작곡가 본래 표제로 보지 않는 설명",
+            "Sonata quasi una Fantasia·세 악장 이름과 Presto agitato",
+            "1917년 판본의 자필 악보 도판 캡션"
+          ]
+        }
+      ],
+      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "editorial_limits": "별칭의 정확한 연도·루체른 호수 일화·특정 연애 감정에 대한 작곡 동기를 확인 없이 사용하지 않음. 역사적 전기의 심리 추측은 사실로 채택하지 않음.",
+      "image": {
+        "file": "content/images/moonlight-sonata-name.jpg",
+        "type": "artwork",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Beethoven_55941/master/55941-h/images/ilo_pag100.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 도판 · Project Gutenberg 수록본",
+        "sha256": "91de7ef8c6d15072ead15614a76abf40ba29df16bceec751bd7805cbc60e4c64",
+        "original_image_url": "https://raw.githubusercontent.com/GITenberg/Beethoven_55941/master/55941-h/images/ilo_pag100.jpg",
+        "original_image_status": 200,
+        "original_image_sha256": "7268cdfc4c3bff0c20414d111954e05ba4361b018e4224c5d1ec18e6513bd266"
+      }
+    },
+    {
+      "id": "vivaldi-four-seasons-spring",
+      "sources": [
+        {
+          "title": "Mutopia — Vivaldi Op.8 No.1 Spring, 악보 정보",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/VivaldiA/O8/spring/spring-lys/spring-header.ly",
+          "status": 200,
+          "sha256": "e597d7c794c345a1ce645354d9a7051ac2741839227c9a202e6acb5f78e0d9dc",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "La Primavera·Op.8 No.1·Violin, Strings·1725·작곡가 생몰년이라는 악보 머리말"
+          ]
+        },
+        {
+          "title": "Mutopia — Spring, 악장별 소네트 배치",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/VivaldiA/O8/spring/spring-lys/spring-sonnet.ly",
+          "status": 200,
+          "sha256": "31efd5eef319d8fe40a5b50372c5dd54fc36a8e8edfe7c9997474400107d4ad1",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "봄 소네트의 새·시냇물·번개·천둥·새들의 복귀 장면과 제1악장 배치",
+            "제2악장의 잠든 목동과 개·제3악장의 춤 장면"
+          ]
+        },
+        {
+          "title": "Mutopia — Vivaldi Op.8 No.2 Summer",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/VivaldiA/O8/summer/summer-lys/summer-header.ly",
+          "status": 200,
+          "sha256": "cd909844b53a1eed64338a6511ec4b8c013e409d3c5c1bc99ce6a0dd68802a64",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "여름은 Op.8 No.2"
+          ]
+        },
+        {
+          "title": "Mutopia — Vivaldi Op.8 No.3 Autumn",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/VivaldiA/O8/autumn/autumn-lys/autumn-header.ly",
+          "status": 200,
+          "sha256": "3a56d0a132a25fd7afc307084441a416ad45828f3e7cc11fd5c23aeebb2e9005",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "가을은 Op.8 No.3"
+          ]
+        },
+        {
+          "title": "Mutopia — Vivaldi Op.8 No.4 Winter",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/VivaldiA/O8/winter/winter-lys/winter-header.ly",
+          "status": 200,
+          "sha256": "7e80f15240a211b96bfc06c8d376cad194bf0c3c0e29086bd0c462e9bd6e861a",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "겨울은 Op.8 No.4"
+          ]
+        }
+      ],
+      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "editorial_limits": "소네트의 작자를 확정하거나 특정 악기와 개 짖는 소리의 대응을 미확인 상태에서 단정하지 않음. 현대 악보의 판면·코드는 복제하지 않고 사실에 근거한 새 감상 지도를 제작.",
+      "image": {
+        "file": "content/images/vivaldi-four-seasons-spring.jpg",
+        "type": "artwork",
+        "source_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/VivaldiA/O8/spring/spring-lys/spring-header.ly",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "sha256": "320f850b071e557dc4f18ebdef05b559940dd0a0d2d9d8dcda7321d83832d80a",
+        "method": "원문·공개 악보의 관계·음높이·시의 장면으로 자체 제작. 현대 표지·완전한 악보 판면을 복제하지 않음."
+      }
+    },
+    {
+      "id": "mona-lisa-looking-guide",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 작품별 설명·도판",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "레오나르도 작품·리자 게라르디니 모델·La Joconde 명칭의 가족 성과 연관",
+            "몸의 방향·포개진 손·관객을 향한 얼굴·풍경의 도판 관찰",
+            "실제 루브르 회화 도판과 역사적 도록의 출처"
+          ]
+        }
+      ],
+      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "editorial_limits": "옛 도록의 템페라 매체·1500년 착수 추정·부정확한 복원사·모델의 심리·구입액·옛 번호를 현대 사실로 채택하지 않음. 현재 색상·전시 상태를 확인한 사진이라고 소개하지 않음.",
+      "image": {
+        "file": "content/images/mona-lisa-looking-guide.jpg",
+        "type": "artwork",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/frontispiece.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 도판 · Project Gutenberg 수록본",
+        "sha256": "d8965049a0a79c73890a8bc5392c12e614e35dcfe5f88bf7504ead9dc1585711",
+        "original_image_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/frontispiece.jpg",
+        "original_image_status": 200,
+        "original_image_sha256": "78013eba64f7e9d92cf48e29206a0b79784e14c910c028e926e838573969fea1"
+      }
+    },
+    {
+      "id": "vermeer-lacemaker-looking-guide",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 작품별 설명·도판",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "Vermeer·La Dentellière 표제와 루브르 도록 Plate XXXVI",
+            "고개를 숙여 보빈을 다루는 여인·노란 상의·쿠션·책 등의 설명과 실제 도판",
+            "17세기 화가라는 도판의 시기 정보와 작품 감상"
+          ]
+        }
+      ],
+      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "editorial_limits": "본문과 도판에서 서로 어긋나는 작가 출생연도 및 치수를 채택하지 않음. 모델 신원·의뢰인·확정된 상징 해석·가격 환산을 사용하지 않음.",
+      "image": {
+        "file": "content/images/vermeer-lacemaker-looking-guide.jpg",
+        "type": "artwork",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate36.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 도판 · Project Gutenberg 수록본",
+        "sha256": "e50d215ac7a3346ad92a4510d3d4edb0ba6f6f5161a73e222ed3f574c6aeae63",
+        "original_image_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate36.jpg",
+        "original_image_status": 200,
+        "original_image_sha256": "fc9c2f2d43a33caf4ad59ba6f0bfe441a6502d3f3077dc54f9d1e1178f598e78"
+      }
+    },
+    {
+      "id": "raphael-belle-jardiniere",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 작품별 설명·도판",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "Raphael·La Belle Jardinière·Plate VII라는 표제",
+            "마리아·아기 예수·어린 세례 요한·들판과 꽃·빨강과 파란 옷에 관한 작품 설명",
+            "실제 도판의 인물 배치·몸짓·세례 요한의 표지 관찰"
+          ]
+        }
+      ],
+      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "editorial_limits": "제목이 만들어진 정확한 연대·작가 사생활·실제 모델을 단정하지 않음. 감상용 삼각형 읽기를 작가의 확정된 의도로 제시하지 않음. 색채 상징을 보편 공식으로 만들지 않음.",
+      "image": {
+        "file": "content/images/raphael-belle-jardiniere.jpg",
+        "type": "artwork",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate07.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 도판 · Project Gutenberg 수록본",
+        "sha256": "eabbb966e11bf2ddbdcb9912e4fc41561cea5e3ec5928a67d0104e0c72c64dfa",
+        "original_image_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate07.jpg",
+        "original_image_status": 200,
+        "original_image_sha256": "1a84302388c14b340b69593f530b396bc1abf54a8c95474e0803bac0c577744b"
+      }
+    },
+    {
+      "id": "van-gogh-life-and-letters",
+      "sources": [
+        {
+          "title": "반 고흐 — The Letters of a Post-Impressionist(1913), 서간 선집",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Letters-of-a-Post-ImpressionistBeing-the-Familiar-Correspondence-of-Vincent-Van-Gogh_40393/master/40393-0.txt",
+          "status": 200,
+          "sha256": "af1e16c27f1a805c97b9af24580f716916d9f053bd66454e3fa8ac84e597d383",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "동생 테오에게 보내는 작업·생활·재료·지원에 관한 편지와 편집 서문",
+            "네덜란드 및 파리·아를·생레미·오베르쉬르우아즈라는 작업 장소",
+            "서간집의 치료·생활상의 어려움 언급과 자신의 작업 계획",
+            "자화상을 By Himself라고 식별하는 1913년 도판 캡션"
+          ]
+        },
+        {
+          "title": "반 고흐 서간집 서지 정보 — 저자 생몰년·판본 정보",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Letters-of-a-Post-ImpressionistBeing-the-Familiar-Correspondence-of-Vincent-Van-Gogh_40393/master/metadata.yaml",
+          "status": 200,
+          "sha256": "4c55af2042c3892cd165c2d7d40f00012aa8713147363e2938433f1fbdf8816b",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "반 고흐 1853~1890 생몰년·판본 및 번역자 정보"
+          ]
+        }
+      ],
+      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "editorial_limits": "1913년 편집자의 추정 연대를 현재의 서신 연대 확정으로 채택하지 않음. 정신과 진단·귀 절단 일화·정확한 사인·생전 판매 수량을 단정하지 않음. 1971년에 사망한 영문 번역자의 표현을 직접 번역 인용하지 않고 확인 사실과 자기 관찰로 새로 서술.",
+      "image": {
+        "file": "content/images/van-gogh-life-and-letters.jpg",
+        "type": "artwork",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Letters-of-a-Post-ImpressionistBeing-the-Familiar-Correspondence-of-Vincent-Van-Gogh_40393/master/40393-h/images/i_004f_lg.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 도판 · Project Gutenberg 수록본",
+        "sha256": "ea6c7429cb7db4361fcd9e748891134cd726371d834c51a00571bf74fd9eb707",
+        "original_image_url": "https://raw.githubusercontent.com/GITenberg/The-Letters-of-a-Post-ImpressionistBeing-the-Familiar-Correspondence-of-Vincent-Van-Gogh_40393/master/40393-h/images/i_004f_lg.jpg",
+        "original_image_status": 200,
+        "original_image_sha256": "57d237f4767f9a5a5cf627dba4be2f1186d53cd7f56f97fba4b324c7d4decbb8"
+      }
+    },
+    {
+      "id": "socrates-life-and-questions",
+      "sources": [
+        {
+          "title": "OpenStax — World History: Ancient Greece, 소크라테스와 플라톤",
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00133/index.cnxml",
+          "status": 200,
+          "sha256": "a8a6cebb6935ecebc371057bf21d59d1be8cda4fd038ee48994fd0929c68baae",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "아테네의 공개 질문 활동·399 BCE 재판·불경과 청년 타락 혐의·저술을 남기지 않음",
+            "플라톤 등 제자들의 기록이라는 사료 성격",
+            "다비드의 1787년 회화·개별 이미지 CC0 1.0 캡션"
+          ]
+        },
+        {
+          "title": "플라톤 — Apology, 벤저민 조윗 영문 번역",
+          "url": "https://raw.githubusercontent.com/GITenberg/Apology_1656/master/1656.txt",
+          "status": 200,
+          "sha256": "751ccda3a1ad39035b3ecf8e35d6132da8d1049c6e1875b188ce7ce6bf13786e",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "신탁·정치가·시인·장인과의 지혜 검토 이야기",
+            "자신의 무지에 관한 태도·법정 변론의 형식과 혐의"
+          ]
+        }
+      ],
+      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "editorial_limits": "탄생 연도·석공 직업의 확정·모든 명언의 직접 발언을 주장하지 않음. 잘못된 다른 교재의 30인 참주에 의한 소크라테스 처형 설명은 채택하지 않음. 대화 예는 필자 예시로 표시. 그림을 당시의 실물 초상으로 제시하지 않음.",
+      "image": {
+        "file": "content/images/socrates-life-and-questions.jpg",
+        "type": "artwork",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A06_02_DeadSoc.jpg",
+        "license": "CC0 1.0 · 개별 도판의 OpenStax 캡션 확인",
+        "sha256": "cf2a3f86adc1e5e7f05dfc0454bc811de77093c01c563dff8ce01998172f1310",
+        "original_image_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A06_02_DeadSoc.jpg",
+        "original_image_status": 200,
+        "original_image_sha256": "2c52dcf58bdff637155445fc5ebadd3294fcee2a8e258fc817e2210e8bbb3d1b"
+      }
+    }
+  ],
+  "rights_review": {
+    "modern_covers": "Les Misérables_135와 Pride_and_Prejudice_1342의 2015년 새 표지는 CC BY-NC로 명시되어 있어 사용하지 않았음.",
+    "original_works": "소설·회화·작곡 자체는 오래된 작품. 현대 한국어 번역·해설·새 판면을 복제하지 않음.",
+    "text_sources": "Gutenberg의 역사적 전기·영문 번역에서 사실을 확인하되 번역자의 표현을 한국어로 옮겨 싣지 않음. 특히 반 고흐 서간집의 1971년 사망 영문 번역자의 표현은 직접 인용하지 않음.",
+    "images": "옛 책의 실제 재현 도판 6장과 OpenStax가 CC0 1.0으로 식별한 다비드 회화 1장을 사용. 박물관의 최신 직접 촬영 이미지라고 주장하지 않음. 직접 만든 설명도 3장은 별도 표시."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "moonlight-sonata-name",
+  "title": "월광 — 베토벤이 붙인 제목은 아니었다",
+  "subtitle": "달빛이라는 별명 뒤에서 세 악장을 듣기",
+  "category": "culture",
+  "subcategory": "Music",
+  "summary": "월광이라는 이름과 소나타 자체를 나누어 듣는 방법을 제안합니다.",
+  "status": "review",
+  "publication_ready": false,
+  "source_review": "verified",
+  "approved_by": null,
+  "approved_at": null,
+  "sources": [
+    {
+      "title": "Mutopia — Sonata Op.27 No.2, 제1악장 공개 악보",
+      "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BeethovenLv/O27/moonlight/moonlight-lys/moonlight1-a4.ly",
+      "checked_at": "2026-10-29",
+      "verified": true,
+      "supports": [
+        "Sonata No.14·Op.27 No.2·제1악장 Adagio sostenuto라는 악보 표기"
+      ]
+    },
+    {
+      "title": "로맹 롤랑 — Beethoven(영문판 1917), 소나타 해설",
+      "url": "https://raw.githubusercontent.com/GITenberg/Beethoven_55941/master/55941-0.txt",
+      "checked_at": "2026-10-29",
+      "verified": true,
+      "supports": [
+        "월광 별칭과 렐슈타프를 연결한 해설·작곡가 본래 표제로 보지 않는 설명",
+        "Sonata quasi una Fantasia·세 악장 이름과 Presto agitato",
+        "1917년 판본의 자필 악보 도판 캡션"
+      ]
+    }
+  ],
+  "image": {
+    "file": "content/images/moonlight-sonata-name.jpg",
+    "alt": "1917년 Romain Rolland, Beethoven 수록 월광 소나타 자필 악보 재현도판",
+    "type": "artwork",
+    "label": "실제 작품 재현 도판",
+    "credit": "1917년 Romain Rolland, Beethoven 수록 월광 소나타 자필 악보 재현도판 · 원본 도판 전체 유지. AI 재현 이미지가 아닙니다.",
+    "source_url": "https://raw.githubusercontent.com/GITenberg/Beethoven_55941/master/55941-h/images/ilo_pag100.jpg",
+    "license": "퍼블릭 도메인 원작의 역사적 재현 도판 · Project Gutenberg 수록본",
+    "width": 500,
+    "height": 800
+  },
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "피아노에서 낮은 소리가 깔리고 잔잔한 음들이 이어진다. 베토벤의 「월광」 첫 악장을 들으면 밤과 달빛을 떠올리는 사람이 많다. 제목이 이미 귀에 풍경을 먼저 그려 놓기 때문일지도 모른다.",
+        "그런데 월광은 작곡가가 작품에 붙인 본래의 제목으로 읽어서는 안 된다. 로맹 롤랑의 전기 『베토벤』에 함께 실린 소나타 해설은 이 별칭을 시인 렐슈타프와 연결하며, 작곡가가 직접 붙인 표제와는 다르다고 설명한다."
+      ]
+    },
+    {
+      "heading": "본래의 작품 이름을 찾아보기",
+      "paragraphs": [
+        "우리가 월광이라고 부르는 곡은 피아노 소나타 작품번호 27의 2번이다. 피아노 소나타 제14번이라는 번호로도 찾을 수 있다. 작품에는 환상곡풍의 소나타, 곧 Sonata quasi una fantasia라는 표제가 붙어 있다.",
+        "이런 이름은 달과 호수의 풍경을 직접 지시하지 않는다. 반면 월광이라는 별칭은 듣는 이에게 매우 구체적인 이미지를 준다. 작품을 분류하는 이름과 누군가의 감상에서 생긴 이름이 한 곡 위에 겹친 것이다."
+      ]
+    },
+    {
+      "heading": "별명도 음악의 역사에 들어온다",
+      "paragraphs": [
+        "후대의 별칭이라고 해서 아무 의미가 없는 것은 아니다. 사람들이 어떤 이미지를 떠올리며 이 곡을 듣고 기억해 왔는지 보여 주는 흔적이 된다. 다만 그 이미지를 작곡가가 실제로 묘사하려 한 장면과 곧바로 같은 것으로 만들지는 말자.",
+        "별칭은 청중이 작품을 해석하며 남긴 말이기도 하다. 달빛이라는 이름이 익숙해졌다는 사실은 음악이 작곡된 뒤에도 감상의 역사가 이어진다는 점을 떠올리게 한다. 우리는 곡을 듣는 동시에, 그 곡을 먼저 들었던 사람들의 이름 붙이기도 함께 만나는 셈이다."
+      ]
+    },
+    {
+      "heading": "첫 악장에서 멈추지 않기",
+      "paragraphs": [
+        "작품은 세 악장으로 이어진다. 첫 악장은 느리고 지속되는 흐름, 둘째는 그보다 가벼운 움직임, 셋째는 빠르고 격렬한 성격으로 소개할 수 있다. 마지막 악장의 지시는 Presto agitato다. 첫 악장의 고요함만으로 곡 전체를 정하면 놀라운 변화가 남는다.",
+        "그래서 제목을 알고 난 다음에는 한 번쯤 세 악장을 이어 들어 보면 좋다. 첫 악장의 밤 같은 인상과 마지막 악장의 움직임이 어떻게 한 작품 안에 놓이는지 느끼는 것이다. 정해진 줄거리를 찾지 않아도 서로 다른 표정의 대비를 만날 수 있다."
+      ]
+    },
+    {
+      "heading": "악보와 이름을 함께 남기기",
+      "paragraphs": [
+        "함께 실은 이미지는 1917년 전기에 수록된 자필 악보의 재현도판이다. 최근에 원본을 직접 촬영한 사진이나 현대 조판 악보는 아니다. 베토벤의 글씨로 전해지는 자료를 통해, 유명한 별명 뒤에 실제로 쓰인 음들이 있었다는 점도 떠올릴 수 있다.",
+        "이 곡을 다시 들을 때 월광이라는 이름을 버릴 필요는 없다. 다만 그 이름이 유일한 정답은 아니라는 작은 여유를 가져 보자. 달빛을 떠올리며 들어도 좋고, 이름을 잠시 잊고 악장 사이의 변화를 따라가도 좋다. 익숙한 작품이 조금 더 넓게 들리는 방법이다."
+      ]
+    }
+  ]
+}
