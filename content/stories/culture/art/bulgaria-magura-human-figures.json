@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Art",
   "summary": "벽면에 남은 실제 그림에서 사람과 동물의 형상을 찾아봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 세계 생활 10편 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "OpenStax — Introduction to Anthropology: Anthropology of the Arts",

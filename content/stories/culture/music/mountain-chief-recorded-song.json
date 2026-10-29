@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "소리를 담는 기계 곁에 사람의 해석도 필요했던 장면을 봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 세계 생활 10편 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "OpenStax — Introduction to Anthropology: Anthropology of Music",

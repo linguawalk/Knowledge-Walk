@@ -5,11 +5,11 @@
   "category": "history",
   "subcategory": "America",
   "summary": "1910년 무렵의 사진에 남은 트래보이의 모양을 살펴봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 기존 세계 생활 10편 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "OpenStax — Introduction to Anthropology: Humans and Animals",

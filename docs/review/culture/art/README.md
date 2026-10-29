@@ -4,7 +4,7 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
-| [동굴 벽에는 동물만 그려진 것이 아니다](bulgaria-magura-human-figures.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [동굴 벽에는 동물만 그려진 것이 아니다](bulgaria-magura-human-figures.md) | 자료 대조·공개 게시 승인 완료 |
 | [그림 속 뱃놀이에는 참석자 명단이 있다](dokseodang-gathering.md) | 자료 대조·공개 게시 승인 완료 |
 | [유명한 그림도 처음에는 거절당했다](el-greco-painting-journey.md) | 자료 대조·공개 게시 승인 완료 |
 | [옛 베개 사진 옆에는 왜 자가 서 있을까](glass-photo-pillow-ruler.md) | 자료 대조·공개 게시 승인 완료 |
