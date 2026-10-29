@@ -14,4 +14,4 @@
 | [공연 시작 전, 오케스트라는 왜 한 음을 길게 낼까](orchestra-oboe-a.md) | 출처 추가 확인 중 |
 | [이 돌은 두드리면 음이 된다](stone-chime-thickness.md) | 자료 대조·공개 게시 승인 완료 |
 | [트롬본 연주자는 왜 팔을 길게 뻗을까](trombone-sliding-notes.md) | 자료 대조·공개 게시 승인 완료 |
-| [비발디 사계 — 봄에는 새소리만 있는 것이 아니다](vivaldi-four-seasons-spring.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [비발디 사계 — 새소리에서 폭풍과 겨울의 불가까지](vivaldi-four-seasons-spring.md) | 자료 대조 완료 · 게시 승인 대기 |

@@ -1,6 +1,6 @@
 {
   "checked_at": "2026-10-29",
-  "scope": "작품 해설·표제 이야기·짧은 생애 소개 중심으로 방향 수정한 새 원고 10편. 문학 원문·악보·역사적 전기·교재의 사실과 편집적 감상을 구분. 새 원고의 홈페이지 공개 승인은 별도.",
+  "scope": "2026-10-29 사용자 상세화 요청에 따라 기존 교양 원고 10편 전면 확대. 문학 줄거리·결말, 음악 구조와 계절별 감상, 미술 맥락과 도난의 동시대 기록, 생애의 전환점을 설명. 새 공개 승인은 없음.",
   "general_limits": "현대 소설 번역본·박물관 해설문을 복제하지 않음. 오래된 자료의 잘못된 연도·매체·추측·가격을 그대로 이식하지 않음. 후대 도판과 현재 실물·원래 역사 장면을 구별. 현대 CC BY-NC 표지는 사용하지 않음.",
   "stories": [
     {
@@ -15,12 +15,17 @@
           "supports": [
             "장발장의 빵 절도·수감·석방과 미리엘 주교의 은식기·촛대 장면",
             "자베르·팡틴·코제트·마리우스 관계와 인물의 행위",
-            "원문 서문 1862년 및 제4부의 1832년 6월 봉기 날짜"
+            "원문 서문 1862년 및 제4부의 1832년 6월 봉기 날짜",
+            "석방·프티 제르베 동전·마들렌 시장·샹마티외 재판과 정체 공개",
+            "팡틴·코제트·테나르디에·포슐르방·수녀원 관계",
+            "마리우스·에포닌·앙졸라·가브로슈와 1832년 6월 봉기",
+            "자베르를 풀어 줌·하수도 탈출·마리우스 구조·자베르의 죽음",
+            "코제트의 결혼·장발장 고백·오해 해소·죽음과 은촛대·원문 배경 설명"
           ]
         }
       ],
-      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
-      "editorial_limits": "초반 설정과 큰 갈등만 요약하며 최종 결말은 밝히지 않음. 원문의 특정 인물 판단을 유일한 작가 의도로 단정하지 않음. 2015년 CC BY-NC 현대 표지는 사용하지 않음.",
+      "review_method": "기존 원문을 확대 범위까지 다시 읽고 추가 자료의 실제 본문과 대조. 줄거리·연도와 편집적 해석을 구분하고 한국어로 새로 서술. 이미지 이용 조건과 사용자 게시 승인은 별도 유지.",
+      "editorial_limits": "사용자 요청에 따라 주요 줄거리와 결말 포함, 본문 첫머리에 안내. 해석은 단정하지 않음. 현대 번역본을 복제하지 않으며 기존 이미지 권리·식별을 유지.",
       "image": {
         "file": "content/images/les-miserables-reading-guide.jpg",
         "type": "artwork",
@@ -28,6 +33,13 @@
         "license": "KnowledgeWalk 직접 제작 설명도",
         "sha256": "742bfe49dbbc129c9d16ebdd70d512f6b6fd1d0377be98892e4c35f17691043e",
         "method": "원문·공개 악보의 관계·음높이·시의 장면으로 자체 제작. 현대 표지·완전한 악보 판면을 복제하지 않음."
+      },
+      "expanded_revision": {
+        "date": "2026-10-29",
+        "paragraph_characters": 3765,
+        "sections": 10,
+        "body_sha256": "cd8a369200266e6ddaa2b4d5142c2654df3f500673a82a9d2fd421adeb93205a",
+        "publication_approval": "not_granted"
       }
     },
     {
@@ -42,7 +54,10 @@
           "supports": [
             "베넷가 딸 다섯 명·빙리·다아시와 엘리자베스의 초기 관계",
             "베넷 재산의 한정 상속·콜린스 관련 조건",
-            "위컴에 대한 판단·다아시의 편지와 후속 행위"
+            "위컴에 대한 판단·다아시의 편지와 후속 행위",
+            "베넷의 다섯 딸·빙리·다아시·무도회·한정 상속 조건",
+            "콜린스 청혼 거절·샬럿 결혼·위컴 진술과 다아시 편지",
+            "펨벌리 방문·리디아와 위컴 사건·다아시의 도움·레이디 캐서린과 두 쌍의 결혼"
           ]
         },
         {
@@ -57,8 +72,8 @@
           ]
         }
       ],
-      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
-      "editorial_limits": "결말과 결정적 후반 사건은 생략. 한정 상속을 당시 모든 여성의 상속 불가능으로 일반화하지 않음. 2015년 CC BY-NC 새 표지 대신 역사적 작가 초상을 사용.",
+      "review_method": "기존 원문을 확대 범위까지 다시 읽고 추가 자료의 실제 본문과 대조. 줄거리·연도와 편집적 해석을 구분하고 한국어로 새로 서술. 이미지 이용 조건과 사용자 게시 승인은 별도 유지.",
+      "editorial_limits": "사용자 요청에 따라 주요 줄거리와 결말 포함, 본문 첫머리에 안내. 해석은 단정하지 않음. 현대 번역본을 복제하지 않으며 기존 이미지 권리·식별을 유지.",
       "image": {
         "file": "content/images/pride-prejudice-first-impressions.jpg",
         "type": "artwork",
@@ -68,6 +83,13 @@
         "original_image_url": "https://raw.githubusercontent.com/GITenberg/Jane-Austen-Her-Life-and-LettersA-Family-Record_22536/master/22536-h/images/frontis.jpg",
         "original_image_status": 200,
         "original_image_sha256": "a4e43b56b186b8dfd88418614994ea2b2f5b305fdd77217f8a9d8a249653e317"
+      },
+      "expanded_revision": {
+        "date": "2026-10-29",
+        "paragraph_characters": 2450,
+        "sections": 7,
+        "body_sha256": "89d6b8ce1ba8992b5a9083b64a1c66e5845044bfd21723386ad45174de777380",
+        "publication_approval": "not_granted"
       }
     },
     {
@@ -83,11 +105,13 @@
             "Für Elise라는 표제·Beethoven·WoO 59·가단조·1810년 표기",
             "1888년 Breitkopf & Härtel 출처와 현 조판자의 Public Domain 선언",
             "악보 첫 아홉 음의 순서와 뒤에 반복되는 주제·빠른 음형",
-            "해당 악보 자료에는 헌정 인물의 신원을 확인하는 설명이 없음"
+            "해당 악보 자료에는 헌정 인물의 신원을 확인하는 설명이 없음",
+            "첫 음형·가단조·펼친 반주·주제 귀환과 대비 구간",
+            "첫 대비 구간의 촘촘한 움직임과 뒤 대비 구간의 낮은 반복음"
           ]
         }
       ],
-      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "review_method": "기존 원문을 확대 범위까지 다시 읽고 추가 자료의 실제 본문과 대조. 줄거리·연도와 편집적 해석을 구분하고 한국어로 새로 서술. 이미지 이용 조건과 사용자 게시 승인은 별도 유지.",
       "editorial_limits": "특정 엘리제·테레제 설, 고백 일화, 원고 분실·발견·출판 경위에 대한 미확인 내용을 쓰지 않음. 신원에 관한 전체 학계의 결론을 이 악보만으로 확정하지 않음.",
       "image": {
         "file": "content/images/fur-elise-title-and-theme.jpg",
@@ -96,6 +120,13 @@
         "license": "KnowledgeWalk 직접 제작 설명도",
         "sha256": "8a31b6c3254ebd84b753e946daa41b31f52fc902647575ecbecae88b870ddff9",
         "method": "원문·공개 악보의 관계·음높이·시의 장면으로 자체 제작. 현대 표지·완전한 악보 판면을 복제하지 않음."
+      },
+      "expanded_revision": {
+        "date": "2026-10-29",
+        "paragraph_characters": 2387,
+        "sections": 7,
+        "body_sha256": "fc7c7ec96e016ffeb90edae7fb068b68b805e46eafab4758e49463f33738d611",
+        "publication_approval": "not_granted"
       }
     },
     {
@@ -120,11 +151,13 @@
           "supports": [
             "월광 별칭과 렐슈타프를 연결한 해설·작곡가 본래 표제로 보지 않는 설명",
             "Sonata quasi una Fantasia·세 악장 이름과 Presto agitato",
-            "1917년 판본의 자필 악보 도판 캡션"
+            "1917년 판본의 자필 악보 도판 캡션",
+            "귀차르디 헌정·환상곡풍 표제·작곡가의 표제가 아닌 별칭",
+            "세 악장 지시·지속되는 반주와 선율·악장 대비 및 첫 악장과 피날레 음형 연결"
           ]
         }
       ],
-      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "review_method": "기존 원문을 확대 범위까지 다시 읽고 추가 자료의 실제 본문과 대조. 줄거리·연도와 편집적 해석을 구분하고 한국어로 새로 서술. 이미지 이용 조건과 사용자 게시 승인은 별도 유지.",
       "editorial_limits": "별칭의 정확한 연도·루체른 호수 일화·특정 연애 감정에 대한 작곡 동기를 확인 없이 사용하지 않음. 역사적 전기의 심리 추측은 사실로 채택하지 않음.",
       "image": {
         "file": "content/images/moonlight-sonata-name.jpg",
@@ -135,6 +168,13 @@
         "original_image_url": "https://raw.githubusercontent.com/GITenberg/Beethoven_55941/master/55941-h/images/ilo_pag100.jpg",
         "original_image_status": 200,
         "original_image_sha256": "7268cdfc4c3bff0c20414d111954e05ba4361b018e4224c5d1ec18e6513bd266"
+      },
+      "expanded_revision": {
+        "date": "2026-10-29",
+        "paragraph_characters": 2564,
+        "sections": 8,
+        "body_sha256": "f693d1d1927944b0711028fc61595278cc4818efacdaa06918063fe80dd16297",
+        "publication_approval": "not_granted"
       }
     },
     {
@@ -190,9 +230,39 @@
           "supports": [
             "겨울은 Op.8 No.4"
           ]
+        },
+        {
+          "title": "Mutopia — 여름 소네트와 악장별 대응",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/VivaldiA/O8/summer/summer-lys/summer-sonnet.ly",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "더위·새·바람·목동의 불안, 번개·벌레, 셋째 악장의 폭풍과 우박"
+          ],
+          "status": 200,
+          "sha256": "a72ea0c6f961c1fb6f64dff0a5416041e81fd63eea3343a359c9e38ed0ba955d"
+        },
+        {
+          "title": "Mutopia — 가을 소네트와 악장별 대응",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/VivaldiA/O8/autumn/autumn-lys/autumn-sonnet.ly",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "수확·춤·술과 잠, 둘째 악장의 휴식, 셋째 악장의 사냥"
+          ],
+          "status": 200,
+          "sha256": "0412e41785a98d25ae1e96daa625a0f8d6fdc77bfeb7ecbf33f9e73141129250"
+        },
+        {
+          "title": "Mutopia — 겨울 소네트와 악장별 대응",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/VivaldiA/O8/winter/winter-lys/winter-sonnet.ly",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "추위·발 구르기·이 떨림, 불가와 바깥의 비, 얼음 위 걸음·넘어짐과 바람"
+          ],
+          "status": 200,
+          "sha256": "ae24d96d4750837298ebfab842e80e35d97644d7503137651240749689cf5675"
         }
       ],
-      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "review_method": "기존 원문을 확대 범위까지 다시 읽고 추가 자료의 실제 본문과 대조. 줄거리·연도와 편집적 해석을 구분하고 한국어로 새로 서술. 이미지 이용 조건과 사용자 게시 승인은 별도 유지.",
       "editorial_limits": "소네트의 작자를 확정하거나 특정 악기와 개 짖는 소리의 대응을 미확인 상태에서 단정하지 않음. 현대 악보의 판면·코드는 복제하지 않고 사실에 근거한 새 감상 지도를 제작.",
       "image": {
         "file": "content/images/vivaldi-four-seasons-spring.jpg",
@@ -201,6 +271,13 @@
         "license": "KnowledgeWalk 직접 제작 설명도",
         "sha256": "320f850b071e557dc4f18ebdef05b559940dd0a0d2d9d8dcda7321d83832d80a",
         "method": "원문·공개 악보의 관계·음높이·시의 장면으로 자체 제작. 현대 표지·완전한 악보 판면을 복제하지 않음."
+      },
+      "expanded_revision": {
+        "date": "2026-10-29",
+        "paragraph_characters": 2610,
+        "sections": 8,
+        "body_sha256": "ef6d99732e41e855d468206e8d89d658714f9d194852a57c2876cc5d388f1e2d",
+        "publication_approval": "not_granted"
       }
     },
     {
@@ -217,10 +294,30 @@
             "몸의 방향·포개진 손·관객을 향한 얼굴·풍경의 도판 관찰",
             "실제 루브르 회화 도판과 역사적 도록의 출처"
           ]
+        },
+        {
+          "title": "E. V. Lucas — A Wanderer in Florence, 제9장(1912년 서문)",
+          "url": "https://raw.githubusercontent.com/GITenberg/A-Wanderer-in-Florence_10769/master/10769.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "1911년 모나리자가 루브르에서 도난당했다는 동시대 서술; 범인·당일 경로·회수 날짜까지 확인하는 자료는 아님"
+          ],
+          "status": 200,
+          "sha256": "00744c5166fd93e5d4152788624b34ddf67dc65f0a86c88e2ceec3f7d36845ed"
+        },
+        {
+          "title": "E. V. Lucas — A Wanderer in Paris, 제7장 모나리자 설명",
+          "url": "https://raw.githubusercontent.com/GITenberg/A-Wanderer-in-Paris_37937/master/37937.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "도난 이전부터 모나리자를 루브르·파리의 대표작으로 높이 평가한 대목; 판본 목록과 그림 설명의 성격"
+          ],
+          "status": 200,
+          "sha256": "9ab76beda8555487abf8acba2279bece3b2d3b4e476cea9a1493198f9c215d28"
         }
       ],
-      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
-      "editorial_limits": "옛 도록의 템페라 매체·1500년 착수 추정·부정확한 복원사·모델의 심리·구입액·옛 번호를 현대 사실로 채택하지 않음. 현재 색상·전시 상태를 확인한 사진이라고 소개하지 않음.",
+      "review_method": "기존 원문을 확대 범위까지 다시 읽고 추가 자료의 실제 본문과 대조. 줄거리·연도와 편집적 해석을 구분하고 한국어로 새로 서술. 이미지 이용 조건과 사용자 게시 승인은 별도 유지.",
+      "editorial_limits": "동시대 여행기에서 1911년 도난 및 사건 전 명성을 대조. 범인 신원·수사 경로·정확한 도난일·회수일 등 이 자료가 입증하지 않는 세부는 추가하지 않음. 옛 도록의 잘못된 제작 연도·재료를 재사용하지 않음.",
       "image": {
         "file": "content/images/mona-lisa-looking-guide.jpg",
         "type": "artwork",
@@ -230,6 +327,13 @@
         "original_image_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/frontispiece.jpg",
         "original_image_status": 200,
         "original_image_sha256": "78013eba64f7e9d92cf48e29206a0b79784e14c910c028e926e838573969fea1"
+      },
+      "expanded_revision": {
+        "date": "2026-10-29",
+        "paragraph_characters": 2617,
+        "sections": 7,
+        "body_sha256": "504c0a0bd89c14feef2855b55b23b79633f25c1df0b74c08920fb9376038ebde",
+        "publication_approval": "not_granted"
       }
     },
     {
@@ -248,7 +352,7 @@
           ]
         }
       ],
-      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "review_method": "기존 원문을 확대 범위까지 다시 읽고 추가 자료의 실제 본문과 대조. 줄거리·연도와 편집적 해석을 구분하고 한국어로 새로 서술. 이미지 이용 조건과 사용자 게시 승인은 별도 유지.",
       "editorial_limits": "본문과 도판에서 서로 어긋나는 작가 출생연도 및 치수를 채택하지 않음. 모델 신원·의뢰인·확정된 상징 해석·가격 환산을 사용하지 않음.",
       "image": {
         "file": "content/images/vermeer-lacemaker-looking-guide.jpg",
@@ -259,6 +363,13 @@
         "original_image_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate36.jpg",
         "original_image_status": 200,
         "original_image_sha256": "fc9c2f2d43a33caf4ad59ba6f0bfe441a6502d3f3077dc54f9d1e1178f598e78"
+      },
+      "expanded_revision": {
+        "date": "2026-10-29",
+        "paragraph_characters": 2275,
+        "sections": 7,
+        "body_sha256": "67afa565c4bde9c46b2a5a2a0197cfe97c72c4e34bcb91c15ee741dfcdf2329e",
+        "publication_approval": "not_granted"
       }
     },
     {
@@ -277,7 +388,7 @@
           ]
         }
       ],
-      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "review_method": "기존 원문을 확대 범위까지 다시 읽고 추가 자료의 실제 본문과 대조. 줄거리·연도와 편집적 해석을 구분하고 한국어로 새로 서술. 이미지 이용 조건과 사용자 게시 승인은 별도 유지.",
       "editorial_limits": "제목이 만들어진 정확한 연대·작가 사생활·실제 모델을 단정하지 않음. 감상용 삼각형 읽기를 작가의 확정된 의도로 제시하지 않음. 색채 상징을 보편 공식으로 만들지 않음.",
       "image": {
         "file": "content/images/raphael-belle-jardiniere.jpg",
@@ -288,6 +399,13 @@
         "original_image_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate07.jpg",
         "original_image_status": 200,
         "original_image_sha256": "1a84302388c14b340b69593f530b396bc1abf54a8c95474e0803bac0c577744b"
+      },
+      "expanded_revision": {
+        "date": "2026-10-29",
+        "paragraph_characters": 2167,
+        "sections": 7,
+        "body_sha256": "73e3d4d1e18deae3a140a3d3a620fd77decca1df63b68bbb80d2732853d1dbaa",
+        "publication_approval": "not_granted"
       }
     },
     {
@@ -315,10 +433,70 @@
           "supports": [
             "반 고흐 1853~1890 생몰년·판본 및 번역자 정보"
           ]
+        },
+        {
+          "title": "반 고흐 편지 155 — 1880년 6월경, 퀴엠에서 테오에게(현대 정리본의 공개 미러)",
+          "url": "https://raw.githubusercontent.com/eeditiones/vangogh/master/data/let155.xml",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "보리나주 체류, 가족 관계·진로의 불확실성, 테오의 송금과 독서·미술 관심"
+          ],
+          "status": 200,
+          "sha256": "b35d4519f920118bf08ce59ef3cfae2ad934da33345263a8124b16913ef36cb3"
+        },
+        {
+          "title": "반 고흐 편지 497 — 1885년 4월 30일, 뉘넌에서 테오에게(현대 정리본의 공개 미러)",
+          "url": "https://raw.githubusercontent.com/eeditiones/vangogh/master/data/let497.xml",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "감자 먹는 사람들의 머리·손 습작과 농민의 노동을 연결하려던 설명"
+          ],
+          "status": 200,
+          "sha256": "5b8142392700582435e8a11bada3aa12ca7f18614bbf0444cc932413a6526797"
+        },
+        {
+          "title": "반 고흐 편지 705 — 1888년 10월 16일, 아를에서 테오에게(현대 정리본의 공개 미러)",
+          "url": "https://raw.githubusercontent.com/eeditiones/vangogh/master/data/let705.xml",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "침실 그림에서 색과 단순함으로 휴식을 표현하려던 설명"
+          ],
+          "status": 200,
+          "sha256": "13b071fde05f5e92b078a7d50e6cb1f9739c9f664a386a80f2b15dc1e94485a1"
+        },
+        {
+          "title": "반 고흐 편지 782 — 1889년 6월 18일경, 생레미에서 테오에게(현대 정리본의 공개 미러)",
+          "url": "https://raw.githubusercontent.com/eeditiones/vangogh/master/data/let782.xml",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "치료와 생활, 올리브나무와 별이 있는 밤하늘 작업·동료 화가에 관한 언급"
+          ],
+          "status": 200,
+          "sha256": "b6b484ae97bb6569815dd02a02fb423c4b792176414da42d57177eaeb70f389e"
+        },
+        {
+          "title": "반 고흐 편지 898 — 1890년 7월 10일경, 오베르에서 테오와 요에게(현대 정리본의 공개 미러)",
+          "url": "https://raw.githubusercontent.com/eeditiones/vangogh/master/data/let898.xml",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "밀밭과 거친 하늘 그림·가족의 생활 걱정; 정리본 주석의 1888 오타는 머리말의 1890으로 대조"
+          ],
+          "status": 200,
+          "sha256": "14dc3b158749823f08d4c5d4cf0b6a148021ea068ff44dbbc574c6524dc4d60f"
+        },
+        {
+          "title": "편지 데이터의 편집·기관·이용 조건 안내 — TEI Publisher 공개 미러",
+          "url": "https://raw.githubusercontent.com/eeditiones/vangogh/master/README.md",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "원 정리본은 Van Gogh Museum·Huygens ING의 Jansen·Luijten·Bakker 편집본; 미러 및 CC BY-NC-SA 4.0 조건"
+          ],
+          "status": 200,
+          "sha256": "49fb1b27c4a46057d548ba72dfd1b359a9ea211b0fb232252df6b71f82b97489"
         }
       ],
-      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
-      "editorial_limits": "1913년 편집자의 추정 연대를 현재의 서신 연대 확정으로 채택하지 않음. 정신과 진단·귀 절단 일화·정확한 사인·생전 판매 수량을 단정하지 않음. 1971년에 사망한 영문 번역자의 표현을 직접 번역 인용하지 않고 확인 사실과 자기 관찰로 새로 서술.",
+      "review_method": "기존 원문을 확대 범위까지 다시 읽고 추가 자료의 실제 본문과 대조. 줄거리·연도와 편집적 해석을 구분하고 한국어로 새로 서술. 이미지 이용 조건과 사용자 게시 승인은 별도 유지.",
+      "editorial_limits": "1913년 편지 선집의 날짜 오류는 현대 편지 정리본의 머리말과 대조. 현대 번역·주석·이미지 데이터 CC BY-NC-SA 4.0는 번역·복제·배포하지 않고 사실의 조사에만 사용. 본문은 직접 작성한 한국어 사실 해설이며 편지의 문장·비유를 번역 인용하지 않음. let898 주석의 1888 오타를 반복하지 않음. 그림으로 병·사망 경위를 진단하지 않음.",
       "image": {
         "file": "content/images/van-gogh-life-and-letters.jpg",
         "type": "artwork",
@@ -328,6 +506,13 @@
         "original_image_url": "https://raw.githubusercontent.com/GITenberg/The-Letters-of-a-Post-ImpressionistBeing-the-Familiar-Correspondence-of-Vincent-Van-Gogh_40393/master/40393-h/images/i_004f_lg.jpg",
         "original_image_status": 200,
         "original_image_sha256": "57d237f4767f9a5a5cf627dba4be2f1186d53cd7f56f97fba4b324c7d4decbb8"
+      },
+      "expanded_revision": {
+        "date": "2026-10-29",
+        "paragraph_characters": 3182,
+        "sections": 9,
+        "body_sha256": "bc723cc87e445af849ca335b5ba890b3aad57fbe6a8f8895dda1a6ab114b3369",
+        "publication_approval": "not_granted"
       }
     },
     {
@@ -355,9 +540,19 @@
             "신탁·정치가·시인·장인과의 지혜 검토 이야기",
             "자신의 무지에 관한 태도·법정 변론의 형식과 혐의"
           ]
+        },
+        {
+          "title": "플라톤 — Phaedo, 벤저민 조윗 영문 번역",
+          "url": "https://raw.githubusercontent.com/GITenberg/Phaedo_1658/master/1658.txt",
+          "checked_at": "2026-10-29",
+          "supports": [
+            "마지막 감옥 대화의 문학적 형식과 독약을 마시는 장면"
+          ],
+          "status": 200,
+          "sha256": "255b4eb8564d0d44fb62db73d75522520969872d6d7083217dd9287af7019b51"
         }
       ],
-      "review_method": "작품 원문·악보·역사적 전기·교재를 실제 읽어 사실 대조. 현대 해설을 번역 복제하지 않고 한국어로 새로 서술. 해석은 감상 제안으로 구별.",
+      "review_method": "기존 원문을 확대 범위까지 다시 읽고 추가 자료의 실제 본문과 대조. 줄거리·연도와 편집적 해석을 구분하고 한국어로 새로 서술. 이미지 이용 조건과 사용자 게시 승인은 별도 유지.",
       "editorial_limits": "탄생 연도·석공 직업의 확정·모든 명언의 직접 발언을 주장하지 않음. 잘못된 다른 교재의 30인 참주에 의한 소크라테스 처형 설명은 채택하지 않음. 대화 예는 필자 예시로 표시. 그림을 당시의 실물 초상으로 제시하지 않음.",
       "image": {
         "file": "content/images/socrates-life-and-questions.jpg",
@@ -368,6 +563,13 @@
         "original_image_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A06_02_DeadSoc.jpg",
         "original_image_status": 200,
         "original_image_sha256": "2c52dcf58bdff637155445fc5ebadd3294fcee2a8e258fc817e2210e8bbb3d1b"
+      },
+      "expanded_revision": {
+        "date": "2026-10-29",
+        "paragraph_characters": 2759,
+        "sections": 8,
+        "body_sha256": "a3c1faa13dd1b6cbcd9d02f72693b992aa36b8bcb0ed8c35293d02ddbd45d81b",
+        "publication_approval": "not_granted"
       }
     }
   ],
@@ -376,5 +578,6 @@
     "original_works": "소설·회화·작곡 자체는 오래된 작품. 현대 한국어 번역·해설·새 판면을 복제하지 않음.",
     "text_sources": "Gutenberg의 역사적 전기·영문 번역에서 사실을 확인하되 번역자의 표현을 한국어로 옮겨 싣지 않음. 특히 반 고흐 서간집의 1971년 사망 영문 번역자의 표현은 직접 인용하지 않음.",
     "images": "옛 책의 실제 재현 도판 6장과 OpenStax가 CC0 1.0으로 식별한 다비드 회화 1장을 사용. 박물관의 최신 직접 촬영 이미지라고 주장하지 않음. 직접 만든 설명도 3장은 별도 표시."
-  }
+  },
+  "revision_note": "초기 짧은 소개를 8~10개 안팎의 읽기 단위로 확대하되 고정 분량을 요구하지 않음. 10편 모두 기존 ID와 검토 상태 유지. 새로운 도난 세부나 헌정 신원을 미확인 상태로 창작하지 않음."
 }
