@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "제목의 뜻과 시대의 음악 취향, 가벼운 선율과 힘찬 구간의 대비를 따라 듣습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "Mutopia — Mozart K.331 Rondo Alla Turca, 악보 정보",

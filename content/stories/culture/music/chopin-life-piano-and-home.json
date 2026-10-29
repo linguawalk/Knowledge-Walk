@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "배움과 이주, 가르치는 생활과 작곡의 시간을 통해 쇼팽을 만납니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "제임스 휴너커 — Chopin: The Man and His Music",

@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "곡의 이름에 얽힌 전승을 구분하고, 반복과 변형을 따라 바흐의 긴 작품을 듣습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "포르켈·테리 편 — Johann Sebastian Bach: His Life, Art and Work",

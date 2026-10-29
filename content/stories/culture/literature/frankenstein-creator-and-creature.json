@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Literature",
   "summary": "빅터와 피조물의 줄거리, 여러 겹의 이야기 구조를 통해 창조와 책임의 문제를 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "메리 셸리 — Frankenstein 원문",

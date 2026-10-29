@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Art",
   "summary": "엄마와 아이의 몸짓을 읽고 왕실의 초상화가였던 여성의 작업과 이동을 함께 살펴봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, Plate XLIV",

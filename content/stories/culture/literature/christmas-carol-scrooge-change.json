@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Literature",
   "summary": "줄거리와 결말을 따라가며 돈을 세던 스크루지가 사람들의 삶을 다시 보게 되는 과정을 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "찰스 디킨스 — A Christmas Carol 원문",

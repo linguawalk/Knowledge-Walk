@@ -5,11 +5,11 @@
   "category": "science",
   "subcategory": "Physics",
   "summary": "유학과 공동 연구, 두 번의 노벨상과 전시 활동을 통해 발견을 이어 가는 삶을 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "마리 퀴리 — Pierre Curie(1923), 자전적 기록 포함",

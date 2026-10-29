@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Philosophy",
   "summary": "노나라에서 여러 나라를 거친 여정, 논어의 배움과 관계를 통해 공자를 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "논어 — 제임스 레그 영문 번역 원문",

@@ -1,0 +1,21 @@
+{
+  "id": "ten-art-and-lives-publication-20261029",
+  "approved_at": "2026-10-29",
+  "user_request": "홈페이지 게시",
+  "story_ids": [
+    "christmas-carol-scrooge-change",
+    "frankenstein-creator-and-creature",
+    "mozart-turkish-rondo",
+    "goldberg-variations-return",
+    "watteau-cythera-pilgrimage",
+    "chardin-grace-before-meal",
+    "vigee-lebrun-mother-daughter",
+    "chopin-life-piano-and-home",
+    "confucius-life-and-learning",
+    "marie-curie-life-and-discovery"
+  ],
+  "scope": "직전 검토용 교양 이야기 10편만 공개 승인.",
+  "deployment_status": "prepared",
+  "expected_live_story_count": 98,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261029-ten-art-and-lives/index.html"
+}

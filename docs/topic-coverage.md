@@ -16,10 +16,10 @@
 | Cities | Middle East | 0 | 0 | 0 |
 | Cities | Africa | 1 | 1 | 1 |
 | Culture | Architecture | 3 | 3 | 3 |
-| Culture | Literature | 6 | 6 | 4 |
-| Culture | Philosophy | 2 | 2 | 1 |
-| Culture | Music | 14 | 13 | 10 |
-| Culture | Art | 16 | 16 | 13 |
+| Culture | Literature | 6 | 6 | 6 |
+| Culture | Philosophy | 2 | 2 | 2 |
+| Culture | Music | 14 | 13 | 13 |
+| Culture | Art | 16 | 16 | 16 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
 | Life | Folks | 2 | 2 | 2 |
@@ -42,7 +42,7 @@
 | Finance | Investment | 1 | 1 | 1 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 2 | 2 | 2 |
-| Science | Physics | 3 | 3 | 2 |
+| Science | Physics | 3 | 3 | 3 |
 | Science | Chemistry | 0 | 0 | 0 |
 | Science | Biology | 3 | 3 | 3 |
 | Science | Earth-Science | 1 | 1 | 1 |

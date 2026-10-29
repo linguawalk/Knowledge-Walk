@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Art",
   "summary": "어른과 두 아이, 식기와 장난감의 관계로 18세기 일상의 회화를 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 샤르댕과 Plate XLI",
