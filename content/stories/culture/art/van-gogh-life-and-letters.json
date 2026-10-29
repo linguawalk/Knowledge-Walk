@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Art",
   "summary": "서간집과 자화상을 통해 배우고 일하고 관계를 맺던 화가를 살펴봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 확장 개정 원고 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "반 고흐 — The Letters of a Post-Impressionist(1913), 서간 선집",

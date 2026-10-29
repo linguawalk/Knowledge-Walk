@@ -1,0 +1,21 @@
+{
+  "id": "ten-classics-publication-20261029",
+  "approved_at": "2026-10-29",
+  "user_request": "지금 글들을 홈페이지에 게시하고 다음 새글 10개를 만들어 주세요",
+  "story_ids": [
+    "les-miserables-reading-guide",
+    "pride-prejudice-first-impressions",
+    "fur-elise-title-and-theme",
+    "moonlight-sonata-name",
+    "vivaldi-four-seasons-spring",
+    "mona-lisa-looking-guide",
+    "vermeer-lacemaker-looking-guide",
+    "raphael-belle-jardiniere",
+    "van-gogh-life-and-letters",
+    "socrates-life-and-questions"
+  ],
+  "scope": "확장 개정 교양 10편만 공개 승인. 다음 새 원고 10편은 검토용으로 보관.",
+  "deployment_status": "prepared",
+  "expected_live_story_count": 88,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261029-ten-classics/index.html"
+}

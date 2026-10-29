@@ -4,7 +4,7 @@
 
 Culture · Art
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![반 고흐 자화상 · 1913년 The Letters of a Post-Impressionist 수록 재현도판](../../../../content/images/van-gogh-life-and-letters.jpg)
 

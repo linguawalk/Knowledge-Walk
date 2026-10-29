@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "베토벤의 작은 피아노곡을 선율과 표제에서 시작해 들어 봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 확장 개정 원고 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "Mutopia — Für Elise, WoO 59, 공개 악보",

@@ -3,6 +3,8 @@ import copy
 import importlib.util
 import json
 import unittest
+import tempfile
+from unittest.mock import patch
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -182,6 +184,22 @@ class SiteTests(unittest.TestCase):
         self.assertIn(approved['title'], page)
         self.assertNotIn(draft['title'], page)
         self.assertNotIn(draft['id'], page)
+
+    def test_latest_collection_uses_release_time_instead_of_alphabetical_id(self):
+        story = self.approved_fixture()
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            folder = root / 'content/batches'
+            folder.mkdir(parents=True)
+            for name, timestamp in [('20261029-z-older', '2026-10-29T09:00:00+09:00'),
+                                    ('20261029-a-newer', '2026-10-29T14:00:00+09:00')]:
+                (folder / (name + '.json')).write_text(json.dumps({
+                    'id': name, 'title': name, 'story_ids': [story['id']],
+                    'published_at': timestamp}))
+            with patch.object(builder, 'ROOT', root):
+                pages = builder.Site(self.categories, [story]).render()
+            self.assertIn('collections/20261029-a-newer/index.html', pages['index.html'])
+            self.assertNotIn('collections/20261029-z-older/index.html', pages['index.html'])
 
     def test_featured_draft_cannot_displace_approved_story(self):
         draft = {**self.story, "featured": True, "status": "review", "publication_ready": False,

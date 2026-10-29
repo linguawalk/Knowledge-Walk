@@ -4,7 +4,7 @@
 
 Culture · Philosophy
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![자크 루이 다비드, 소크라테스의 죽음(1787) · Metropolitan Museum of Art / Wikimedia Commons, CC0 1.0; OpenStax 수록본](../../../../content/images/socrates-life-and-questions.jpg)
 

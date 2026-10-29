@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Philosophy",
   "summary": "직접 남긴 저술 없이도 오래 기억되는 철학자를 질문과 재판의 장면에서 만나 봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 확장 개정 원고 홈페이지 게시 요청",
+  "approved_at": "2026-10-29",
   "sources": [
     {
       "title": "OpenStax — World History: Ancient Greece, 소크라테스와 플라톤",

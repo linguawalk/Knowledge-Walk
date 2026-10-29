@@ -257,6 +257,12 @@ class Site:
             members = [s for s in self.stories if s['id'] in batch['story_ids']]
             if members:
                 result.append((batch, members))
+        # A second collection can be published on the same day with an ID
+        # that sorts earlier alphabetically. Prefer its recorded release time.
+        result.sort(key=lambda item: (
+            item[0].get('published_at',
+                        '-'.join((item[0]['id'][:4], item[0]['id'][4:6], item[0]['id'][6:8]))),
+            item[0]['id']), reverse=True)
         return result
 
     def collection_pages(self):
