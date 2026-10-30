@@ -6,25 +6,25 @@
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
 | History | Asia | 0 | 0 | 0 |
-| History | Europe | 3 | 3 | 2 |
+| History | Europe | 3 | 3 | 3 |
 | History | America | 4 | 4 | 4 |
 | History | Middle East | 0 | 0 | 0 |
-| History | Africa | 1 | 1 | 0 |
+| History | Africa | 1 | 1 | 1 |
 | Cities | Asia | 2 | 2 | 2 |
 | Cities | Europe | 2 | 2 | 2 |
 | Cities | Americas | 1 | 1 | 1 |
 | Cities | Middle East | 0 | 0 | 0 |
 | Cities | Africa | 1 | 1 | 1 |
 | Culture | Architecture | 3 | 3 | 3 |
-| Culture | Literature | 13 | 13 | 11 |
-| Culture | Philosophy | 5 | 5 | 4 |
-| Culture | Music | 20 | 19 | 18 |
-| Culture | Art | 26 | 26 | 24 |
+| Culture | Literature | 13 | 13 | 13 |
+| Culture | Philosophy | 5 | 5 | 5 |
+| Culture | Music | 20 | 19 | 19 |
+| Culture | Art | 26 | 26 | 26 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
 | Life | Folks | 2 | 2 | 2 |
 | Life | Clothing | 4 | 4 | 4 |
-| Life | Food | 8 | 8 | 7 |
+| Life | Food | 8 | 8 | 8 |
 | Life | Housing | 6 | 6 | 6 |
 | Companies | Technology | 4 | 4 | 4 |
 | Companies | Automotive | 1 | 1 | 1 |
@@ -44,7 +44,7 @@
 | Science | Mathematics | 2 | 2 | 2 |
 | Science | Physics | 3 | 3 | 3 |
 | Science | Chemistry | 0 | 0 | 0 |
-| Science | Biology | 4 | 4 | 3 |
+| Science | Biology | 4 | 4 | 4 |
 | Science | Earth-Science | 1 | 1 | 1 |
 | Science | Engineering | 3 | 3 | 3 |
 

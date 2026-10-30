@@ -6,11 +6,11 @@
 |---|---|
 | [동굴 벽에는 동물만 그려진 것이 아니다](bulgaria-magura-human-figures.md) | 자료 대조·공개 게시 승인 완료 |
 | [식사 전의 기도 — 수프가 식기 전, 잠깐 멈춘 시간](chardin-grace-before-meal.md) | 자료 대조·공개 게시 승인 완료 |
-| [레카미에 부인의 초상 — 빈 공간이 사람을 돋보이게 할 때](david-recamier-empty-space.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [레카미에 부인의 초상 — 빈 공간이 사람을 돋보이게 할 때](david-recamier-empty-space.md) | 자료 대조·공개 게시 승인 완료 |
 | [그림 속 뱃놀이에는 참석자 명단이 있다](dokseodang-gathering.md) | 자료 대조·공개 게시 승인 완료 |
 | [유명한 그림도 처음에는 거절당했다](el-greco-painting-journey.md) | 자료 대조·공개 게시 승인 완료 |
 | [음악 수업 — 악보보다 서로의 얼굴이 가까운 시간](fragonard-music-lesson.md) | 자료 대조·공개 게시 승인 완료 |
-| [메두사호의 뗏목 — 멀리 보이는 작은 배를 향하여](gericault-medusa-distant-ship.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [메두사호의 뗏목 — 멀리 보이는 작은 배를 향하여](gericault-medusa-distant-ship.md) | 자료 대조·공개 게시 승인 완료 |
 | [옛 베개 사진 옆에는 왜 자가 서 있을까](glass-photo-pillow-ruler.md) | 자료 대조·공개 게시 승인 완료 |
 | [에라스무스의 초상 — 글을 쓰는 손이 얼굴을 설명할 때](holbein-erasmus-writing.md) | 자료 대조·공개 게시 승인 완료 |
 | [벼루함 속 해태의 입에는 작은 구멍이 있다](inkstone-water-dropper.md) | 자료 대조·공개 게시 승인 완료 |

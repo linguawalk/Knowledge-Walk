@@ -19,7 +19,7 @@
 | [터키 행진곡 — 피아노에서 군악대가 들리는 이유](mozart-turkish-rondo.md) | 자료 대조·공개 게시 승인 완료 |
 | [공연 시작 전, 오케스트라는 왜 한 음을 길게 낼까](orchestra-oboe-a.md) | 출처 추가 확인 중 |
 | [슈베르트 마왕 — 한 가수가 네 사람을 노래할 때](schubert-erlking-four-voices.md) | 자료 대조·공개 게시 승인 완료 |
-| [슈베르트 송어 — 맑은 물은 왜 흐려졌을까](schubert-trout-clear-water.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [슈베르트 송어 — 맑은 물은 왜 흐려졌을까](schubert-trout-clear-water.md) | 자료 대조·공개 게시 승인 완료 |
 | [트로이메라이 — 짧은 피아노곡이 오래된 기억처럼 들릴 때](schumann-traumerei-memory.md) | 자료 대조·공개 게시 승인 완료 |
 | [이 돌은 두드리면 음이 된다](stone-chime-thickness.md) | 자료 대조·공개 게시 승인 완료 |
 | [트롬본 연주자는 왜 팔을 길게 뻗을까](trombone-sliding-notes.md) | 자료 대조·공개 게시 승인 완료 |
