@@ -4,5 +4,6 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
+| [그레이트 짐바브웨 — 돌을 붙이지 않고 벽을 세우다](great-zimbabwe-stone-and-trade.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [고향 마을에 둥근 창의 문화 공간을 만들다](mozambique-village-cultural-center.md) | 자료 대조·공개 게시 승인 완료 |
 | [팀북투 — 사막의 길 끝에서 책을 펼치다](timbuktu-trade-and-learning.md) | 자료 대조·공개 게시 승인 완료 |

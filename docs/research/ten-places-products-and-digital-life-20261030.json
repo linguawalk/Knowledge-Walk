@@ -1,0 +1,442 @@
+{
+  "checked_at": "2026-10-30",
+  "status": "source_review_complete_editorial_approval_pending",
+  "scope": "새 도시 4편·기업 3편·컴퓨터 3편, 총 10편은 검토용. 직전 묶음만 사용자 승인으로 게시. 공개 홈페이지 148편 유지.",
+  "source_method": "공식 GitHub 저장소의 OpenStax 원문과 기술 문서를 실제 읽고 대조. OpenStax 본문을 번역·복제하지 않고 확인한 사실로 독립적인 해설을 작성. 개별 이미지 캡션의 이용 조건 확인.",
+  "fact_check_notes": [
+    "아야 소피아 1857년 도판과 비잔틴·오스만 시대를 구분. 십자형 평면이라는 출처의 단순화는 사용하지 않음. 105피트는 약32m로 환산.",
+    "카호키아의 현대 계단을 고대 계단 원형으로 제시하지 않고 유적 쇠퇴를 원주민 문화 전체의 소멸로 설명하지 않음.",
+    "그레이트 짐바브웨의 구체적 공간 용도와 정치 구조 추정은 확정하지 않음. 교역품의 발견과 한 사람의 직접 장거리 여행을 구분.",
+    "레기스탄 사진의 셰르도르 마드라사와 역사 회화의 대모스크, 울루그베크의 천문대는 다른 장소임을 명시.",
+    "토요타 생산 원리의 가상 비유를 실제 공장 사례로 꾸미지 않음. 파타고니아 원문에 있는 시점 오류 경영진 정보와 환경 무해성 단정은 제외.",
+    "어웨이 사례는 2015~2016년 시작기의 조사·생산·여행 책 제안으로 한정. 최신 사양·가격·배송 안내와 구분.",
+    "DNS는 계층적 분산 체계로 설명. 원문의 전 세계 동일 데이터베이스 일괄 갱신이라는 단순화는 따르지 않음.",
+    "ZIP의 파일 묶음과 압축·암호화를 구분. DEFLATE 원리와 모든 입력이 작아질 수 없다는 한계 확인.",
+    "OCR은 원본의 텍스트 복원과 문서 구조 해석을 구분하고 인식 오류의 원문 대조 필요성을 명시."
+  ],
+  "stories": [
+    {
+      "id": "istanbul-hagia-sophia-many-times",
+      "body_characters": 2365,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00100/index.cnxml",
+          "title": "OpenStax World History — 유스티니아누스와 아야 소피아",
+          "status": 200,
+          "sha256": "3369e5fc0bc5b38cc5284bbd247ce31fca1abb3235698d9852883ba8dee3f995",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "유스티니아누스의 교회 후원·성스러운 지혜라는 이름·궁전과 히포드롬의 인접",
+            "중앙 돔 105피트라는 설명·1857년 외관 도판; 평면 형태에 대한 부정확한 단순화는 채택하지 않음"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00123/index.cnxml",
+          "title": "OpenStax World History — 오스만·티무르와 도시의 변화",
+          "status": 200,
+          "sha256": "be20f90bfee76657e897867502aa0810a20c8b6c5bca97ad4eef79a9c9623439",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "1453년 정복·메흐메트 2세의 도시 재건과 아야 소피아의 모스크 전환",
+            "티무르의 사마르칸트 수도 건설·정복 지역 장인의 강제 이동",
+            "울루그베크의 마드라사·천문대와 학자 초청·레기스탄 도판의 사진과 회화 구분"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/istanbul-hagia-sophia-many-times.jpg",
+        "alt": "아야 소피아의 큰 중앙 돔과 낮은 지붕, 첨탑과 거리의 사람들을 표현한 1857년 역사 도판.",
+        "type": "photo",
+        "label": "1857년 실제 역사 도판",
+        "credit": "“Lithography of the Hagia Sophia, Istanbul, 1857” · Dmitry Makeev / Wikimedia Commons 제공 도판 · OpenStax 수록 · Public Domain 표기. 6세기나 현재의 외관을 그대로 보여 주는 자료는 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A10_02_HagiaSoph.jpg",
+        "license": "Public Domain",
+        "width": 1300,
+        "height": 843,
+        "source_caption": "Built on the layout of a cross, the Hagia Sophia or Church of Holy Wisdom in Constantinople is massive in size; its main dome is 105 feet in diameter. This lithograph of the exterior was made in 1857; mosaics decorated the rich interior. (credit: modification of work “Lithography of the Hagia Sophia, Istanbul, 1857” by Dmitry Makeev/Wikimedia Commons, Public Domain)",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00100/index.cnxml",
+        "modifications": "원본 도판 그대로 복사. 자르기·색 보정·내용 변경 없음.",
+        "sha256": "129410a30045b419a44c47497d422e925ee58f7578903cb0f67abd60f40b40f4"
+      },
+      "editorial_method": "자료의 확인된 사실을 바탕으로 독립적인 한국어 해설 작성. 비유·관찰·해석과 실제 사건을 구별. 공개 승인은 별도."
+    },
+    {
+      "id": "cahokia-mound-and-plaza",
+      "body_characters": 2397,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00116/index.cnxml",
+          "title": "OpenStax World History — 미시시피 문화권과 카호키아",
+          "status": 200,
+          "sha256": "25a5a6109ce4b436131f6433a964bbd5833f2dcb382816b0c65c508468c2d200",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "1050년 무렵 도시 중심지 발전·여러 기단과 중심 광장·목조와 이엉 주택",
+            "몽크스 마운드 약 100피트·단계적 건설·꼭대기의 목조 구조물",
+            "농경과 교역·계층 및 흙 구조물 용도 차이; 쇠퇴를 원주민 문화 전체의 소멸로 일반화하지 않음"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/cahokia-mound-and-plaza.jpg",
+        "alt": "풀로 덮인 계단식 흙 기단인 카호키아 몽크스 마운드의 실제 전경과 현대 방문 계단.",
+        "type": "photo",
+        "label": "실제 유적 사진",
+        "credit": "“Monk’s mound panorama” · Tim Vickers / Wikimedia Commons · OpenStax 수록 · Public Domain. 현대 계단을 고대 시설의 원형으로 제시하지 않습니다.",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A08_03_Cahokia.jpg",
+        "license": "Public Domain",
+        "width": 1301,
+        "height": 360,
+        "source_caption": "The terraced remains of Monks Mound at Cahokia, completed around 1100, stand today as the largest human-made earthen mound in North America. It rises almost one hundred feet above the surrounding landscape. (credit: “Monk’s mound panorama” by Tim Vickers/Wikimedia Commons, Public Domain)",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00116/index.cnxml",
+        "modifications": "원본 도판 그대로 복사. 자르기·색 보정·내용 변경 없음.",
+        "sha256": "fcc5091f01363afa8d8183b49f3304d7c48cd7c1b2ff09ecaba00be0d9c5b458"
+      },
+      "editorial_method": "자료의 확인된 사실을 바탕으로 독립적인 한국어 해설 작성. 비유·관찰·해석과 실제 사건을 구별. 공개 승인은 별도."
+    },
+    {
+      "id": "great-zimbabwe-stone-and-trade",
+      "body_characters": 2363,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00150/index.cnxml",
+          "title": "OpenStax World History — 그레이트 짐바브웨의 생산·교역·석조 기술",
+          "status": 200,
+          "sha256": "cc1e248c2d3efb5484fd612081e30d847baf6b047c9641062108557109617c01",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "쇼나 공동체·석조 건물과 드라이스톤·언덕과 그레이트 인클로저 및 계곡 구조물",
+            "목축·농경·철공 및 금·구리·상아의 교역과 스와힐리 해안의 연결",
+            "중국·페르시아 물품; 공간의 구체적 용도와 사회 구조에 대한 추정을 확정 사실로 제시하지 않음"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00154/index.cnxml",
+          "title": "OpenStax World History — 동아프리카 해안과 내륙의 교역",
+          "status": 200,
+          "sha256": "02ab819045d032da19e60141d0e0b28b9d130220025797b6c245722063ec5a6f",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "내륙 그레이트 짐바브웨와 스와힐리 해안 및 인도양 교역의 연결",
+            "Jan Derk의 그레이트 인클로저 실제 사진과 Public Domain 캡션"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/great-zimbabwe-stone-and-trade.jpg",
+        "alt": "그레이트 짐바브웨 그레이트 인클로저 안에 남은 돌벽과 원뿔형 구조물, 나무의 실제 사진.",
+        "type": "photo",
+        "label": "실제 유적 사진",
+        "credit": "“Inside of the Great Enclosure which is part of the Great Zimbabwe ruins” · Jan Derk / Wikimedia Commons · OpenStax 수록 · Public Domain.",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A12_04_GrZimb.jpg",
+        "license": "Public Domain",
+        "width": 1100,
+        "height": 710,
+        "source_caption": "Great Zimbabwe was an advanced trade-based civilization established by Bantu speakers between the Limpopo and Zambezi Rivers in the south-central African interior. Shown here are the remains of the one of the walls of Great Zimbabwe. (credit: “Inside of the Great Enclosure which is part of the Great Zimbabwe ruins” by Jan Derk/Wikimedia commons, Public Domain)",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00154/index.cnxml",
+        "modifications": "원본 도판 그대로 복사. 자르기·색 보정·내용 변경 없음.",
+        "sha256": "ac429586c35ccfa675ee231b408d5a4aa2af5af3ca8737004578d790572d9deb"
+      },
+      "editorial_method": "자료의 확인된 사실을 바탕으로 독립적인 한국어 해설 작성. 비유·관찰·해석과 실제 사건을 구별. 공개 승인은 별도."
+    },
+    {
+      "id": "samarkand-registan-and-learning",
+      "body_characters": 2341,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00123/index.cnxml",
+          "title": "OpenStax World History — 오스만·티무르와 도시의 변화",
+          "status": 200,
+          "sha256": "be20f90bfee76657e897867502aa0810a20c8b6c5bca97ad4eef79a9c9623439",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "1453년 정복·메흐메트 2세의 도시 재건과 아야 소피아의 모스크 전환",
+            "티무르의 사마르칸트 수도 건설·정복 지역 장인의 강제 이동",
+            "울루그베크의 마드라사·천문대와 학자 초청·레기스탄 도판의 사진과 회화 구분"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00155/index.cnxml",
+          "title": "OpenStax World History — 소그드인과 중앙아시아 도시",
+          "status": 200,
+          "sha256": "cdcc7cb500991301d503768c1b05e367430b449c523d6cbbb111177c4d0bf314",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "사마르칸트와 부하라의 오아시스 교역·소그드 상인과 동서 교류",
+            "중국 도시에도 존재한 교역 공동체와 언어·종교의 이동; 특정 수도 지정 연대는 단정하지 않음"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/samarkand-registan-and-learning.jpg",
+        "alt": "왼쪽은 사마르칸트 셰르도르 마드라사의 실제 사진, 오른쪽은 역사적 대모스크 건설 회화.",
+        "type": "photo",
+        "label": "실제 건축 사진·역사 회화 도판",
+        "credit": "사진: Arian Zwegers / Flickr, CC BY 2.0 · 회화: Bihzad, 《Zafarnama》 수록 건설 장면, Wikimedia Commons, Public Domain · OpenStax가 구성한 도판 그대로 사용. 두 장면은 같은 건물의 전후 모습이 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A17_01_Registan.jpg",
+        "license": "사진 CC BY 2.0 · 회화 Public Domain",
+        "width": 1300,
+        "height": 627,
+        "source_caption": "(a) A word meaning “country of sand” in Persian, the Registan of Samarkand was the public square of Timur’s splendid capital city of Samarkand in what is today Uzbekistan. A center for public gatherings, it was also a center of learning in the city and region, as evidenced by the three madrasas flanking the central square. (b) This image from the Zafarnama (“Book of Victories”), an account of Timur’s campaigns, depicts the construction of the Great Mosque for Timur's new capital in Samarkand. (credit a: modification of work “Samarkand, Registan, Sher-Dor Madrasah” by Arian Zwegers/Flickr, CC BY 2.0 ; credit b: modification of work “Building of the Great Mosque in Samarkand” by Bihzad/Wikimedia Commons, Public Domain)",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00123/index.cnxml",
+        "modifications": "원본 도판 그대로 복사. 자르기·색 보정·내용 변경 없음.",
+        "sha256": "6e2e1202671ba301f5bb642db0380d6368164e2a286568e9ff3aeba7a1a2f7c6"
+      },
+      "editorial_method": "자료의 확인된 사실을 바탕으로 독립적인 한국어 해설 작성. 비유·관찰·해석과 실제 사건을 구별. 공개 승인은 별도."
+    },
+    {
+      "id": "toyota-inventory-and-timing",
+      "body_characters": 2370,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-business/main/modules/m67725/index.cnxml",
+          "title": "OpenStax Introduction to Business — 생산·품질·린 및 적시 공급",
+          "status": 200,
+          "sha256": "b3d3a2fba57d259be4279ba4f1c1b0e61750271942dbfe8cba81adc010fb36b0",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "토요타의 린 생산 선도·고객 가치에 보탬이 되지 않는 단계의 제거",
+            "재고 비용·JIT와 수요에 따른 공급·구매/생산/공급자 협력",
+            "재해 등 공급 중단 위험·품질과 생산성의 관계; 최근 토요타 공장이나 모델의 실적을 주장하지 않음"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/toyota-inventory-and-timing.png",
+        "alt": "자동차 조립 작업장에서 작은 부품을 함께 확인하는 두 작업자의 AI 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 특정 토요타 공장·설비·표준 작업을 복원한 자료가 아닌 생산 협력의 분위기 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 인물·사료·제품·프로그램으로 제시하지 않음.",
+        "sha256": "22a8ea05e2a71eecfaede872647bb0e282afbf35c6c56e932afc1b252a79bed1"
+      },
+      "editorial_method": "자료의 확인된 사실을 바탕으로 독립적인 한국어 해설 작성. 비유·관찰·해석과 실제 사건을 구별. 공개 승인은 별도."
+    },
+    {
+      "id": "patagonia-climbing-gear-and-rock",
+      "body_characters": 2433,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-business-ethics/main/modules/m66993/index.cnxml",
+          "title": "OpenStax Business Ethics — 이본 쉬나드와 등반 장비의 선택",
+          "status": 200,
+          "sha256": "b16f9fde1b5b22bd344dc047ccd143d0c54544e0ff67691e0e98ed4368d3da22",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "등반 생활·강철 피톤 사업과 바위 손상·알루미늄 초크로의 방향 전환",
+            "장비 사업에서 의류의 성장·재활용 소재와 유기농 면 선택의 사례",
+            "시점 문제가 있는 경영진 정보와 모든 상품에 대한 환경 무해성 주장은 채택하지 않음"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-business-ethics/main/modules/m66941/index.cnxml",
+          "title": "OpenStax Business Ethics — 기업과 이해관계자",
+          "status": 200,
+          "sha256": "4daac880af4bc8d2600b519c0808f22f2c68ece6fe87ecef6b9db246c4680175",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "고객·직원·공급자·지역사회·환경 등 기업 결정의 영향을 받는 대상"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/patagonia-climbing-gear-and-rock.png",
+        "alt": "등반용 금속 장비와 밧줄, 야외 의류가 놓인 작업대의 AI 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 역사적 제품의 정밀한 재현이나 안전·설치 안내가 아닌 장비를 다시 생각하는 분위기 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 인물·사료·제품·프로그램으로 제시하지 않음.",
+        "sha256": "59e79c229cac3ed02a2d1fe76ea3bdf1cde0cb1d3d20294874a15b0e52d0b394"
+      },
+      "editorial_method": "자료의 확인된 사실을 바탕으로 독립적인 한국어 해설 작성. 비유·관찰·해석과 실제 사건을 구별. 공개 승인은 별도."
+    },
+    {
+      "id": "away-suitcase-and-travel-book",
+      "body_characters": 2462,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-of-management-bundle/main/modules/m70608/index.cnxml",
+          "title": "OpenStax Principles of Management — 어웨이 창업 초기의 결정",
+          "status": 200,
+          "sha256": "38e7a84189855ab0a2f5a6b6df87282ffdf53b896267f0a1f2bdc60614714fed",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "2015년 고객 조사·소비자 직접 판매 구상·두 창업자의 경험과 역할",
+            "시제품·제조 후보 현장 조사·중국 파트너 선택",
+            "40명 여행 인터뷰 책·2015년 11월 교환권 판매/2016년 2월 교환 안내·초기 1200부; 현재 사양과 가격으로 제시하지 않음"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/away-suitcase-and-travel-book.png",
+        "alt": "여행가방과 책 곁에서 두 사람이 가방 시제품을 의논하는 AI 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 어웨이 실제 창립자·제품·책 표지를 복원한 자료가 아닌 제품 기획의 분위기 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 인물·사료·제품·프로그램으로 제시하지 않음.",
+        "sha256": "11fdfa390df1094617b0660618d95ab94751ddebc6991e59d08ae4f5e2e7277f"
+      },
+      "editorial_method": "자료의 확인된 사실을 바탕으로 독립적인 한국어 해설 작성. 비유·관찰·해석과 실제 사건을 구별. 공개 승인은 별도."
+    },
+    {
+      "id": "dns-names-and-addresses",
+      "body_characters": 2443,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/howto/web_mechanics/what_is_a_domain_name/index.md",
+          "title": "MDN Web Docs — 도메인 이름과 DNS 조회",
+          "status": 200,
+          "sha256": "cedc50bbf0a19e0ba18fbaf54c115d8b76044d8811ca93dc03630d2e842d1ea1",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 확보",
+          "supports": [
+            "읽기 쉬운 이름과 IP 주소·점으로 나뉜 계층·하위 도메인",
+            "이름 조회와 서버 접속의 구분·등록 및 갱신·저장된 응답의 유지 시간",
+            "전 세계 DNS가 동일 데이터베이스를 일괄 갱신한다는 단순화는 채택하지 않음"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/glossary/dns/index.md",
+          "title": "MDN Web Docs — 계층적·분산된 DNS",
+          "status": 200,
+          "sha256": "827d2c89bf49b3f0ffd98e7c79e54edab44144c3af6b1dba4f640311784d6461",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 확보",
+          "supports": [
+            "DNS의 계층적·분산된 구조·사람이 쓰는 도메인 이름을 주소 정보에 연결"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/howto/web_mechanics/how_does_the_internet_work/index.md",
+          "title": "MDN Web Docs — 인터넷과 주소의 기본 역할",
+          "status": 200,
+          "sha256": "8df6976307c1130b8efa2cd7f4231c35dd899f33968e2b51ef3c45f71ce634d5",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 확보",
+          "supports": [
+            "IP 주소와 도메인의 관계·인터넷 통신과 웹 콘텐츠의 구분"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/dns-names-and-addresses.png",
+        "alt": "주소 카드를 들고 노트북과 창밖의 거리 풍경을 바라보는 사람의 AI 비유 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 DNS 구조·주소 목록·프로그램을 재현하지 않은 이름과 장소 찾기의 비유 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 인물·사료·제품·프로그램으로 제시하지 않음.",
+        "sha256": "c054e209c9a2622bddf5dd9ce4f7f4b8459592603db33ac1eebc70d5a3032d94"
+      },
+      "editorial_method": "자료의 확인된 사실을 바탕으로 독립적인 한국어 해설 작성. 비유·관찰·해석과 실제 사건을 구별. 공개 승인은 별도."
+    },
+    {
+      "id": "zip-files-and-repetition",
+      "body_characters": 2419,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/libarchive/libarchive/master/libarchive/libarchive-formats.5",
+          "title": "libarchive 공식 형식 문서 — ZIP 아카이브",
+          "status": 200,
+          "sha256": "d1f2567b4e19b45fc3c80943673491b7650c06c6d6d70ba21b99b275dd0e158f",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 확보",
+          "supports": [
+            "파일 묶음·비압축 항목과 여러 압축 방법·중앙 디렉터리",
+            "ZIP의 압축과 암호화는 별개; 모든 구현이 같은 기능을 제공한다고 단정하지 않음"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/madler/zlib/master/doc/rfc1951.txt",
+          "title": "zlib 공식 저장소 수록 RFC 1951 — DEFLATE 형식",
+          "status": 200,
+          "sha256": "5ebf4b5b7fe1c3a0c0ab9aa3ac8c0f3853a7dc484905e76e03b0b0f301350009",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 확보",
+          "supports": [
+            "무손실 압축·LZ77 반복 배열의 길이와 뒤로 가는 거리·허프먼 부호화",
+            "가능한 모든 입력을 반드시 작게 만들 수는 없음; 관리 정보와 압축 한계"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/zip-files-and-repetition.png",
+        "alt": "여러 문서를 정리하는 사람 곁에 지퍼 파우치가 놓인 AI 비유 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 압축률·전후 용량 비교가 아닌 파일 묶음의 분위기 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 인물·사료·제품·프로그램으로 제시하지 않음.",
+        "sha256": "ad542681cecfa17c50cdc556d0abedd9359f0d2d562055585384e04bd1978916"
+      },
+      "editorial_method": "자료의 확인된 사실을 바탕으로 독립적인 한국어 해설 작성. 비유·관찰·해석과 실제 사건을 구별. 공개 승인은 별도."
+    },
+    {
+      "id": "ocr-picture-to-searchable-text",
+      "body_characters": 2442,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/ocrmypdf/OCRmyPDF/main/docs/introduction.md",
+          "title": "OCRmyPDF 공식 문서 — 스캔과 검색 가능한 텍스트",
+          "status": 200,
+          "sha256": "1d003468184dee2807b1572190c6e33bd41fbc96f08e2a53c1d50e276d3823f2",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 확보",
+          "supports": [
+            "스캔 이미지와 텍스트·PDF의 복합 내용·인식한 텍스트 층 추가",
+            "검색 가능한 자료와 완전한 편집 문서의 차이·읽기 순서와 인식 오류의 한계"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdoc/main/ImproveQuality.md",
+          "title": "Tesseract 공식 문서 — 인식 품질에 영향을 주는 조건",
+          "status": 200,
+          "sha256": "f141e4c082d1f3e036206fc33912fdf7bfe5599db21722abc03713d6a3db46cf",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 확보",
+          "supports": [
+            "해상도·기울기·잡음·배경·언어 및 사전·문서 배치에 따른 인식 문제",
+            "텍스트 인식과 표/문서 구조 해석의 차이; 완벽한 인식이나 손글씨 전반의 지원을 보장하지 않음"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/ocr-picture-to-searchable-text.png",
+        "alt": "오래된 책 곁에서 인쇄 페이지와 스캐너를 살펴보는 사람의 AI 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 문서·장비 사용 순서·인식 정확도를 재현한 자료가 아닌 디지털 자료화의 분위기 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 인물·사료·제품·프로그램으로 제시하지 않음.",
+        "sha256": "b732e6d17df248638bb43fcc492673f26b1e2aed702a93c343f2605e6ac03f32"
+      },
+      "editorial_method": "자료의 확인된 사실을 바탕으로 독립적인 한국어 해설 작성. 비유·관찰·해석과 실제 사건을 구별. 공개 승인은 별도."
+    }
+  ],
+  "validation": {
+    "unit_tests": "34 passed",
+    "browser": "새 10편의 PC 1440px·모바일 390px에서 이미지 디코딩, 출처 링크, 제목, 가로 넘침과 자바스크립트 오류를 점검.",
+    "editorial": "본문 2341~2462자. 반복 문단과 언어 혼입 검사, 수동 사실·표현 검토.",
+    "publication": "총 원고 161편, 공개 148편, 새 검토 10편, 출처 확인 중 3편. 새 글의 공개 페이지·검색·모음 제외, 자동 제작 비활성 유지."
+  }
+}

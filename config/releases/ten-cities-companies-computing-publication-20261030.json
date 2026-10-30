@@ -14,7 +14,10 @@
     "png-transparent-background",
     "qr-code-three-corners"
   ],
-  "deployment_status": "prepared",
+  "deployment_status": "live_verified",
   "expected_live_story_count": 148,
-  "public_collection_url": "https://knowledgewalk.net/collections/20261030-ten-cities-companies-computing/index.html"
+  "public_collection_url": "https://knowledgewalk.net/collections/20261030-ten-cities-companies-computing/index.html",
+  "live_story_count": 148,
+  "verified_new_story_count": 10,
+  "verification": "홈페이지·검색·모음·새 원고 10개·이미지 10개 총 23개 HTTPS 응답을 공개 빌드와 바이트 대조."
 }
