@@ -1,0 +1,1390 @@
+{
+  "date": "2026-10-30",
+  "status": "completed",
+  "scope": {
+    "revised_stories": 81,
+    "public_revisions": 78,
+    "pending_unpublished": 3
+  },
+  "method": "기존 원고의 확인된 사실을 유지하면서 배경, 작동 방식, 감상 순서를 보강했다. 사실과 해석을 구분하고 반복 문장과 표현을 교정했다.",
+  "source_method": "기존 조사 기록과 이번에 확보한 공식 자료를 이용했다. 응답을 확보하지 못한 URL을 새로 검증한 것으로 표시하지 않았으며 기존 출처 검토 상태와 확인 날짜를 유지했다.",
+  "publication_rule": "공개 원고 78편만 개정 반영. 출처 추가 확인 중인 3편은 미공개 유지. 예약 제작 없음.",
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/master/json/artworks/16.json",
+      "response_sha256": "37a880f439d5be827d5a574dc0666cf4076400993c6c3d9dd9c2383b0ddd958f",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/Images%20and%20Textures/Moon%20-%20Apollo%20Astronaut%20Bootprint/Moon%20-%20Apollo%20Astronaut%20Bootprint.jpg",
+      "response_sha256": "65d620d429ea1f49e2f79e60ec0a169ef22871f76fdafa0faa625758b92478f7",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/README.md",
+      "response_sha256": "2e86b56d48a27803fa32f6fe66d252746c92a875865af162b3a0941435199a12",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/Images%20and%20Textures/Earth%20(A)/Earth%20(A).jpg",
+      "response_sha256": "5e18afce2860f02a215c09954fff5d3d1ca140cafa26c368d24d7636dd6705a7",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/Images%20and%20Textures/Discovery%20Flight%20Deck%20Panels/Discovery%20Flight%20Deck%20Panels%20s103e0163.jpg",
+      "response_sha256": "0aa08739be8984fb2ed62ca6e732be5901f440bd40731050c4ede7245172c412",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/util-linux/util-linux/master/misc-utils/cal.1.adoc",
+      "response_sha256": "40032cbba58470f59c65f9dcd118fd6259b5c7267eec8abb6a6508cc8711fdd6",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/w3c/csswg-drafts/main/css-page-3/Overview.bs",
+      "response_sha256": "641fe086a52f057865bb774ed94b58ab48482ba6ae0fcf54c457fa0fcf7cae7d",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/liblouis/liblouis/master/tables/latinLetterDef6Dots.uti",
+      "response_sha256": "644b8b0c9a49ec88d487d2068933995cfa4d77cabb64ec5db26ae04b3d458f71",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/liblouis/liblouis/master/doc/liblouis.texi",
+      "response_sha256": "6d1a0c149d34bee32c48751bbcddb629d7c6aa4378cf62f82f33b6131994cbb9",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/httpwg/http-core/main/rfc9110.xml",
+      "response_sha256": "22797e1c392d3a08cca9dca4d8affd7f3461fe574b333658c97b397627efb4d1",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://philharmonia.co.uk/resources/instruments/flute/",
+      "response_sha256": "16d72654de5cd23a0ebfe89e05010aa0c81a38b0f9ceb87a9956998a48395bde",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://philharmonia.co.uk/resources/instruments/clarinet/",
+      "response_sha256": "516122a40d43ded45d1c5957304f309e2f8d2c7d49a0ab70aa3188e6baa3769c",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/55.json",
+      "response_sha256": "df0295a62d2cc3bc040cec5ad3750c8f8a23022b539e0ef1db61fb4d6419f549",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00045/index.cnxml",
+      "response_sha256": "88237384902d38ad8c58d75634c5fd3d6de3870e95566fe8ef2a6cbfbfa08e8e",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00081/index.cnxml",
+      "response_sha256": "d1a3d9542d1ab7b199844e41ec75bccd27f10fa85484a98763ab7b7537af3104",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00083/index.cnxml",
+      "response_sha256": "b636d35993f2c73edc998c6371e8119d17b24cc798b390a66198f9eb704df624",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00084/index.cnxml",
+      "response_sha256": "34ad77bd8328dc199a52ad499d0d75bf86045aecc485f89ce62067cd9bea38be",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00095/index.cnxml",
+      "response_sha256": "672245a74bf89ffcefc57001097691aa05ace523aae2ef271b07aa6ced04f696",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00096/index.cnxml",
+      "response_sha256": "348ce3a096dac936eb1f24619dbc7d88f433a19d327199f8789684fa2f699d6e",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00097/index.cnxml",
+      "response_sha256": "476ff1153908d7a0c184bfbb51886894d73932f772bfd5c06016be9e4c804a63",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00106/index.cnxml",
+      "response_sha256": "59b8c1417481c60e1c17c35e0eb7a9baf3f87f2ad0fc89c9d398d3d710ff0515",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-anthropology/main/modules/m00017/index.cnxml",
+      "response_sha256": "75ba86c36cf9f97d11ce377cee7f3a0628658f936f6dab81899741292863ee77",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=376760",
+      "response_sha256": "fefcc26f9fe0fa28aaf96a66f8c74318e4775b278fe2efc7bdfbba12137e577d",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://philharmonia.co.uk/resources/instruments/harp/",
+      "response_sha256": "71fd9563eebacbfae812239cf9b44c3f99957bd0f8b8616f4ca8b725dec4cf57",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438950",
+      "response_sha256": "ededc8cd30c19364d8ee07919a78fccb8b716260632d70b11cbac4dae41974d2",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=371019",
+      "response_sha256": "79717bc00bd13a368042238a9775e7eaeee7690691380c712e09819050a5ca86",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=436733",
+      "response_sha256": "fe0793df54b557c3c6c7a02ca8b8e5a4af8fc31e69dea08b01999991fd85f3e6",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.royalmintmuseum.org.uk/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367936",
+      "response_sha256": "6352915203a17574007d76e46de873b542c627647acc69615e2fac6064854eca",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.internethalloffame.org/inductee/douglas-engelbart/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/46.json",
+      "response_sha256": "707c19ac18d9b3cb1483a221ccd42edb1d38a75bc314015db1acb109fa2f2842",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=363701",
+      "response_sha256": "395b575395ee8f6262b5052d2ec548eae8d89a5b5dcf873d6b50b7dc144a9ce8",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.royalmint.com/stories/collect/why-are-some-uk-coins-magnetic/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/34.json",
+      "response_sha256": "994c0859aa22fc1f834064ee952463f9d1a8aedd98cce76782471d1464af8569",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367935",
+      "response_sha256": "335857ec775b7223e05ddce07e12a2b7d6fb2ab1d518d3b2ded9eafc090f5de3",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=372004",
+      "response_sha256": "27dfd3defe379b5dfe804d7ef57ea305353b6721c077a0cb4b1ad5c679a13810",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/digital-publication-articles/10.json",
+      "response_sha256": "83afddef0574b34ed11c8f02d64e3331436398d786be2e978aeec587ff334128",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/14.json",
+      "response_sha256": "162b818e0f94c371b111d53a208f9e940835cb9fb94e870e98734ed7c6bdea94",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=366115",
+      "response_sha256": "d8df125e588f628b95fecc8846f63fd9f7500e749cf157efd9290e143e1fbcac",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://philharmonia.co.uk/resources/instruments/oboe/",
+      "response_sha256": "908552c027157c1cc52152c4b1a30e0ed5b766a92868f8e9274057436eed79de",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.royalmint.com/aboutus/press-centre/save-the-christmas-pud-recovered-silver-sixpence-released-to-revive-stir-up-sunday-tradition/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://nationalzoo.si.edu/animals/american-flamingo",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=366520",
+      "response_sha256": "f098fecbf5a02437b4510c0b0dbb8d57609c3dc1cb0d5a7b987f4bd3c6bde280",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=430001",
+      "response_sha256": "57c2ede6cb5cd34c2e4e0eda7f9c0ac635ca784229dc21588dd05b8826a134ad",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/18.json",
+      "response_sha256": "1f21f55887a946bcc7c75e9af207977e0b796dd32d26d9c1bd6d77442a392ed6",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://nationalzoo.si.edu/animals/news/why-are-flamingos-pink-and-other-flamingo-facts",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://philharmonia.co.uk/resources/instruments/trombone/",
+      "response_sha256": "382a57914d4af11d6eb495aefe091fb0e85127e009a3b0a014a245377785e712",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/bbs/BMSR00002/view.do?menuNo=800040&boardId=5359",
+      "response_sha256": "8f8d285643733598db9c329e059ba94f62533b23af1ee9f66a7997b343b78ea8",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.basilicasanmarco.it/storia/san-marco-evangelista/",
+      "response_sha256": "f68ec159c362b3984cf8fbe8eed65a41158806cafb1cf3be721723b9b4f895d2",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439031",
+      "response_sha256": "c047282a2c0f741b1641b0679ce354d5374fcbb0e5ab67377b16f049dde99f36",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/43.json",
+      "response_sha256": "7400ce899fe51e064854bcd39baea32db1f7c60ca9fb6441b21fcf93f60b68ca",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://royal.khs.go.kr/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.basilicasanmarco.it/basilica/scultura-2/la-decorazione-delle-facciate/",
+      "response_sha256": "7e89c0adb138b9b4e504567575dd33f4bbc121aa9825880f98769da9265d03b5",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/74.json",
+      "response_sha256": "20ae47c2c891d40bdf5105aac604e0bdad2cd806a596fa6fd27daa3606716b5e",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=422252",
+      "response_sha256": "37bb3ddee9a92294e604224e5d0c4690442d50c06e9ac8d5ea7bed897dc49246",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/educator-resources/34.json",
+      "response_sha256": "308b36ee665687f661b3d3f1dac48c6e039998cd1f3b4c3c36d4871f37b8b6a9",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=370166",
+      "response_sha256": "d1ab4e13e856225f9d58003df50ee112eb32ebc1fe0e471a8748478ee16ecc95",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367850",
+      "response_sha256": "b6faecf620f0c7712780a335a4fd7b013eb31bf3caa25fe3887c29b2cb1f48a2",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=360654",
+      "response_sha256": "449bec9598f45a910d99a7be524345fe8fc3da54e3fab4232dc519bd9d8a2e2e",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.royalmint.com/faqs/bullion/what-is-a-troy-ounce/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.internethalloffame.org/inductee/leonard-kleinrock/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://nationalzoo.si.edu/animals/asian-elephant",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/bbs/BMSR00019/view.do?menuNo=800051&boardId=3521&gubunCd=BMSR00019_001",
+      "response_sha256": "96a7f759a043277d14cfee40d10ea94151101574f623ffa9ecb1b0eaa8423246",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://philharmonia.co.uk/orchestral-concerts-a-60-second-beginners-guide/",
+      "response_sha256": "24661cf9cf07fc99e39ee2c8775d4427c4e343b0bee781ff6bc08d6349aa5fd8",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.royalmint.com/faqs/collectors/what-are-bronze-coins-made-from-why-are-some-magnetic-and-some-not/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.royalmint.com/stories/commemorate/sir-isaac-newton-and-the-royal-mint/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=365789",
+      "response_sha256": "eeecc34e0842922655da44e4db2253ff7dd8eedb507ab7d0882b02004d36fdea",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438369",
+      "response_sha256": "3ee9bb61a26365f667302e97ddb18e825be0012871bbf7aa25a605c5f26957ad",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=437344",
+      "response_sha256": "e29efb279a49590529833305440f554904ed2ed2c5049df8276f0ba4883f286e",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=432873",
+      "response_sha256": "5c1321653d570ffa9a162af9681d46157e750658e203a345d00388f678ff8257",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.lego.com/en-us/history/articles/d-the-stud-and-tube-principle",
+      "response_sha256": "77f77231f4823fce2900aa0e1789f9c0d20ca22c408b9c89cd5591e8f9900617",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.heritage.go.kr/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=436599",
+      "response_sha256": "5698abf226db6a7fe0115371acfbdf87543ec768a1e1b9572cc7b2a7bb504396",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.internethalloffame.org/timeline/ray-tomlinson-invents-email/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=371659",
+      "response_sha256": "03ab0157fb42e79e4a1e2958561ed0d307eec5b4f1d9788f74c7ca82db49e595",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.lego.com/en-us/history/articles/ole-kirk-kristiansen-settles-in-billund",
+      "response_sha256": "437ec7ba623a0645ffdc57cd3ac52cd8f7844daf1ef57b9846837710767e3147",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438986",
+      "response_sha256": "4690bfe1030a506d1bb2a53f88f521e2eb7608b70fd0bfa649a4de3284491efd",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/art-institute-of-chicago/api-data/main/json/articles/76.json",
+      "response_sha256": "f8848b219deaecfda882cc5c040ea0314f0a46b78c8f7132b76a81e8edbde8e6",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/unicode-org/unicodetools/main/unicodetools/data/emoji/16.0/emoji-test.txt",
+      "response_sha256": "24f0c534e86cf142e2496953e8f0e46a3e702392911eddcd29c6cced85139697",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/popcorn/how-does-popcorn-pop-",
+      "response_sha256": "c4db9941274a92c44c9ebdcbdc1843ef8462b41e21f8c7c3104c16c064e68036",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.lego.com/en-us/history/articles/b-the-beginning-of-the-lego-group",
+      "response_sha256": "8b054de70bf0c48c41a79a6b04a23eeb6edc4b4e1d0bff68284771f471dccbd4",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=437871",
+      "response_sha256": "626eed5100d8dc5b55138c53ab8d58900a9cd7ab0d86a5094f363ca652e1183a",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.yamaha.com/en/musical_instrument_guide/oboe/structure/structure002.html",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.internethalloffame.org/official-biography-raymond-tomlinson/",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=439135",
+      "response_sha256": "7cb5968869c2695a37122036f44423371d1483a7d8ef07678a00b6a286b5d1e2",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.lego.com/en-us/history/articles/e-developing-the-lego-wheel",
+      "response_sha256": "37525dfe4a23ccb290feac9f7f8d58225cd8e9b5545b986f73239e71e7d28826",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=390404",
+      "response_sha256": "e9875ec1687a07afe2cfacec71dae811e8cc4903ccd32735be7d1c3d61ab2cd2",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://nationalzoo.si.edu/animals/red-panda",
+      "response_sha256": null,
+      "available_for_review": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/python/cpython/main/Doc/faq/general.rst",
+      "response_sha256": "75a7f99f77a4b4d98e01eb0e6add0679703ddffdb7a6eb799ccc4154c7d800f0",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/popcorn/from-the-field-to-the-table",
+      "response_sha256": "bb766f055400530d732dccec7e6e105e00fc55c31ff4a43b3b783fc7a47eeee5",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=438673",
+      "response_sha256": "5b89c20d3a7115e18d3d1758cc60cd6917dabe7d270505e25818ecdcf516d1da",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=367612",
+      "response_sha256": "85284673f30b77292256d00d8d90f6d5a2c5c462dd2914cf8ec0dbb59046ddda",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?menuNo=800065&psgudSn=409289",
+      "response_sha256": "f3cdd80038ddacbb1ff9badf03efc94498f03de2ca2ff6f4f53a51a053f452ef",
+      "available_for_review": true,
+      "error": null
+    },
+    {
+      "url": "https://raw.githubusercontent.com/tensorflow/docs/master/site/en/tutorials/keras/classification.ipynb",
+      "response_sha256": "a920bf50382ac731eb31a1aef5b02216eaf87c357c5f434c9a34a8437295673c",
+      "available_for_review": true,
+      "error": null
+    }
+  ],
+  "stories": [
+    {
+      "id": "mozambique-village-cultural-center",
+      "title": "고향 마을에 둥근 창의 문화 공간을 만들다",
+      "path": "content/stories/cities/africa/mozambique-village-cultural-center.json",
+      "before_characters": 867,
+      "after_characters": 2417,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "169efe8f7071bcf1ef28e4c8260a1f450301e314c9457e1a0171d9d6e871c953"
+    },
+    {
+      "id": "chicago-lion-sports-helmet",
+      "title": "시카고의 사자는 가끔 헬멧을 쓴다",
+      "path": "content/stories/cities/americas/chicago-lion-sports-helmet.json",
+      "before_characters": 840,
+      "after_characters": 2358,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "4c6459df6f76f6eafc759f4a2005e565dceb4df20a495a76acbddb1d90091eee"
+    },
+    {
+      "id": "gyeonghoeru-pond-dragon",
+      "title": "경회루 연못에서는 왜 청동 용이 나왔을까",
+      "path": "content/stories/cities/asia/gyeonghoeru-pond-dragon.json",
+      "before_characters": 1189,
+      "after_characters": 2675,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "fe142c2b5c658557d6a75c8549802d2435c00f1c5a8ba1de83c29086de23d21d"
+    },
+    {
+      "id": "palace-roof-pangolin",
+      "title": "궁궐 지붕 위에는 낯선 동물이 앉아 있었다",
+      "path": "content/stories/cities/asia/palace-roof-pangolin.json",
+      "before_characters": 851,
+      "after_characters": 2295,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "a8625cefcca08f07e1c2fdeeda99057eb6f2d0e219d3db5888a1e205e6b1d32c"
+    },
+    {
+      "id": "venice-winged-lion",
+      "title": "베네치아에서는 사자에게도 날개가 있다",
+      "path": "content/stories/cities/europe/venice-winged-lion.json",
+      "before_characters": 1967,
+      "after_characters": 2417,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "b8656b65dc7e3620a3b822176a422d6e7d5cc04f7ec7e15e5323f960e3d0fc16"
+    },
+    {
+      "id": "rome-arena-crowd",
+      "title": "콜로세움에서는 무대만큼 관중석도 크다",
+      "path": "content/stories/cities/europe/rome-arena-crowd.json",
+      "before_characters": 871,
+      "after_characters": 2383,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "11be19ccaff3fba141608e2db2aeb5d8c29d0005fa239324869a2ba485115431"
+    },
+    {
+      "id": "western-union-pasted-message",
+      "title": "전보 한 장에는 종이가 한 번 더 붙어 있다",
+      "path": "content/stories/companies/media/western-union-pasted-message.json",
+      "before_characters": 883,
+      "after_characters": 2364,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "13dbd45b94998e2a98c7cdd6567b5dc022c031720ebbf4302803b4cf5b6a3f83"
+    },
+    {
+      "id": "tass-stencil-posters",
+      "title": "포스터를 한 장씩 붓으로 칠하던 작업장",
+      "path": "content/stories/companies/media/tass-stencil-posters.json",
+      "before_characters": 831,
+      "after_characters": 2317,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "3989a9cbeba77c34b4cff3a5752a080e4ad2faca342b86724e3f9dca45bdeef8"
+    },
+    {
+      "id": "lego-first-wheels",
+      "title": "레고 블록이 굴러가기 시작한 날",
+      "path": "content/stories/companies/technology/lego-first-wheels.json",
+      "before_characters": 1022,
+      "after_characters": 2511,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "09efdd41bb63c1e508a6bafddbe771e725ae7e96e816730d0a7c9b17dafe917a"
+    },
+    {
+      "id": "lego-play-well",
+      "title": "레고라는 이름은 원래 무슨 뜻일까",
+      "path": "content/stories/companies/technology/lego-play-well.json",
+      "before_characters": 1562,
+      "after_characters": 2318,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "a606227562336348c7fdad6c9cf2d68737669218cc83ebbbd940406ceee51b0c"
+    },
+    {
+      "id": "ai-clothing-labels",
+      "title": "AI는 옷 사진으로 무엇을 연습할까",
+      "path": "content/stories/computing/artificial-intelligence/ai-clothing-labels.json",
+      "before_characters": 1212,
+      "after_characters": 2711,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "5eb767d63e044bb72bc922f86ee44226a28d38c3d6203dd7c2893e425efa8d8b"
+    },
+    {
+      "id": "engelbart-mouse-demo",
+      "title": "작은 마우스가 함께 등장한 큰 시연",
+      "path": "content/stories/computing/computers/engelbart-mouse-demo.json",
+      "before_characters": 1135,
+      "after_characters": 2613,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "e91dd22c1ea3e4391999489e3be71b6f644c909597cb1c8cb8f3d89d076b87df"
+    },
+    {
+      "id": "email-at-sign",
+      "title": "이메일 주소에는 왜 골뱅이가 들어갈까",
+      "path": "content/stories/computing/internet/email-at-sign.json",
+      "before_characters": 1501,
+      "after_characters": 2239,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "44136ab1f11c0ae63ce35e689f50a5221228285ce3815f588712ad0ae8c096d4"
+    },
+    {
+      "id": "http-404-410",
+      "title": "404와 410은 같은 빈 페이지가 아니다",
+      "path": "content/stories/computing/internet/http-404-410.json",
+      "before_characters": 822,
+      "after_characters": 2279,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "c3036426c82d2808c3d9aae7115260e0165b92dbefb867cd86b1541ae5eee62e"
+    },
+    {
+      "id": "python-comedy-name",
+      "title": "파이썬이라는 이름은 코미디에서 왔다",
+      "path": "content/stories/computing/programming/python-comedy-name.json",
+      "before_characters": 1123,
+      "after_characters": 2596,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "a276843a8744e0a1909db7a7a16b880987039c0de1bbf12099d749954e140c4f"
+    },
+    {
+      "id": "emoji-number-tags",
+      "title": "웃는 이모지에도 번호표가 있다",
+      "path": "content/stories/computing/software/emoji-number-tags.json",
+      "before_characters": 1037,
+      "after_characters": 2519,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "974f525e217c44cd0bd0e77db79b6cddcbf0978757cb0911878ff2c65cbea7c3"
+    },
+    {
+      "id": "building-repair-letter",
+      "title": "건물을 고치는 일은 글로도 남았다",
+      "path": "content/stories/culture/architecture/building-repair-letter.json",
+      "before_characters": 1194,
+      "after_characters": 2657,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "017e2247210ac9c2e609a1d19d629aaf16134a4dc26a99993713d2f4fa46ee09"
+    },
+    {
+      "id": "chicago-floating-stair-detail",
+      "title": "계단 아래의 작은 틈이 건물을 가볍게 만든다",
+      "path": "content/stories/culture/architecture/chicago-floating-stair-detail.json",
+      "before_characters": 828,
+      "after_characters": 2282,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "18b0376bd74c037157e3b24d39c57860537421a48d4c4106fd38346e17c15ab6"
+    },
+    {
+      "id": "japan-phoenix-wood-panels",
+      "title": "일본의 나무 장식은 관람석 아래에서 발견됐다",
+      "path": "content/stories/culture/architecture/japan-phoenix-wood-panels.json",
+      "before_characters": 861,
+      "after_characters": 2325,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "f0e24bf2a2317f004a7efe30f2237e7e3e43d93b945d54d0721a97f0114d6194"
+    },
+    {
+      "id": "dokseodang-gathering",
+      "title": "그림 속 뱃놀이에는 참석자 명단이 있다",
+      "path": "content/stories/culture/art/dokseodang-gathering.json",
+      "before_characters": 1802,
+      "after_characters": 2586,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "899034142f50f6af40d9abd93dab3bb3a4292d4dd9cceb396a1582b8295bcc01"
+    },
+    {
+      "id": "el-greco-painting-journey",
+      "title": "유명한 그림도 처음에는 거절당했다",
+      "path": "content/stories/culture/art/el-greco-painting-journey.json",
+      "before_characters": 841,
+      "after_characters": 2394,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "94bd8921a950fcf763e4e3032de0f50891e2d85a910bb167bb84f228dd05a8f3"
+    },
+    {
+      "id": "glass-photo-pillow-ruler",
+      "title": "옛 베개 사진 옆에는 왜 자가 서 있을까",
+      "path": "content/stories/culture/art/glass-photo-pillow-ruler.json",
+      "before_characters": 823,
+      "after_characters": 2335,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "692f374d3ce570c6e271dfd4a9e44468800b26db74ffed142ab7d315fea6a962"
+    },
+    {
+      "id": "inkstone-water-dropper",
+      "title": "벼루함 속 해태의 입에는 작은 구멍이 있다",
+      "path": "content/stories/culture/art/inkstone-water-dropper.json",
+      "before_characters": 1029,
+      "after_characters": 2525,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "5b4643ecd4e62c3f5a431ab0698c1144b8eedadeb72aa17b51f2030a8f8ee4d9"
+    },
+    {
+      "id": "italy-print-painting-proposal",
+      "title": "판화 한 장이 큰 그림의 제안서가 되었다",
+      "path": "content/stories/culture/art/italy-print-painting-proposal.json",
+      "before_characters": 845,
+      "after_characters": 2295,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "6a9f5048222bc3b1403b25370b2f3a9ef5368be662d43ad856ab0f390b4b8ec5"
+    },
+    {
+      "id": "japan-fierce-temple-guardian",
+      "title": "절을 지키는 얼굴은 왜 그렇게 무서울까",
+      "path": "content/stories/culture/art/japan-fierce-temple-guardian.json",
+      "before_characters": 824,
+      "after_characters": 2298,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "bb715e1ff61134dff4b159bf7566e5ea11c2f3b49a3c8e337aa9e970c38cef3b"
+    },
+    {
+      "id": "man-ray-chess-photo-layout",
+      "title": "체스 말을 어디에 둘지 오래된 사진에 물었다",
+      "path": "content/stories/culture/art/man-ray-chess-photo-layout.json",
+      "before_characters": 848,
+      "after_characters": 2296,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "acdb5aedd8e9b0dbe21afe68df7f8e360964f317f71153969ff9fca2e9f9f247"
+    },
+    {
+      "id": "silver-kettle-hidden-letters",
+      "title": "주전자의 이야기는 바닥에도 적혀 있다",
+      "path": "content/stories/culture/art/silver-kettle-hidden-letters.json",
+      "before_characters": 878,
+      "after_characters": 2337,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "4a07a0e19fe6459da7acf95ad9e34743a2d4834a776bde2a0dbbafe1f6903d9f"
+    },
+    {
+      "id": "bulgaria-magura-human-figures",
+      "title": "동굴 벽에는 동물만 그려진 것이 아니다",
+      "path": "content/stories/culture/art/bulgaria-magura-human-figures.json",
+      "before_characters": 836,
+      "after_characters": 2339,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "f814136c06068f907be635575d9b1ad707b2c2762404fb3a83259a90c8243536"
+    },
+    {
+      "id": "book-owner-seal",
+      "title": "책에도 주인의 이름표를 찍어 두었다",
+      "path": "content/stories/culture/literature/book-owner-seal.json",
+      "before_characters": 1186,
+      "after_characters": 2688,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "0fdfcb2f53aba2bd87e95dc3105b81f1192b694ae8773a7e1de0bee07ed44009"
+    },
+    {
+      "id": "poem-plaque-raised-letters",
+      "title": "이 현판의 글자는 따로 만들어 붙였다",
+      "path": "content/stories/culture/literature/poem-plaque-raised-letters.json",
+      "before_characters": 805,
+      "after_characters": 2285,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "745b406543afe0f30a974413835b200663cda135fe5c23a3924fc5301f82aa72"
+    },
+    {
+      "id": "harp-colored-strings",
+      "title": "하프 줄에는 왜 빨간색이 섞여 있을까",
+      "path": "content/stories/culture/music/harp-colored-strings.json",
+      "before_characters": 1001,
+      "after_characters": 2488,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "4ca95d038db817f4020c21a94da94c210d668ad708bb5d730006b4b61621a82b"
+    },
+    {
+      "id": "metal-flute-inlaid-flowers",
+      "title": "대금에도 반짝이는 꽃무늬가 있었다",
+      "path": "content/stories/culture/music/metal-flute-inlaid-flowers.json",
+      "before_characters": 841,
+      "after_characters": 2324,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "3a376e9da3cb64259811109b492c2c5fe143512c1e81cdb883d249e16eda92c9"
+    },
+    {
+      "id": "orchestra-oboe-a",
+      "title": "공연 시작 전, 오케스트라는 왜 한 음을 길게 낼까",
+      "path": "content/stories/culture/music/orchestra-oboe-a.json",
+      "before_characters": 1573,
+      "after_characters": 2728,
+      "status": "review",
+      "source_review": "pending",
+      "body_sha256": "33da2d500d61042d7e41d3dc821dffba4c8488043992598c65b72974de0e7037"
+    },
+    {
+      "id": "stone-chime-thickness",
+      "title": "이 돌은 두드리면 음이 된다",
+      "path": "content/stories/culture/music/stone-chime-thickness.json",
+      "before_characters": 814,
+      "after_characters": 2238,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "04a7a830b5675e31c0042ae5d4f930a211d89707262e016eb9b80388ef0f13da"
+    },
+    {
+      "id": "trombone-sliding-notes",
+      "title": "트롬본 연주자는 왜 팔을 길게 뻗을까",
+      "path": "content/stories/culture/music/trombone-sliding-notes.json",
+      "before_characters": 1036,
+      "after_characters": 2529,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "6c257216b45cbae5be92b262b927997ea4148a58f61720692ccc58651cb09029"
+    },
+    {
+      "id": "clarinet-many-sizes",
+      "title": "클라리넷은 한 가지 크기가 아니다",
+      "path": "content/stories/culture/music/clarinet-many-sizes.json",
+      "before_characters": 807,
+      "after_characters": 2252,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "deb482bd139f6f6ac138cfafbb43d8b6f1362b90d9a8bc09916a20f2a143a6a2"
+    },
+    {
+      "id": "mountain-chief-recorded-song",
+      "title": "옛 녹음 사진에서 그는 노래를 듣고 있었다",
+      "path": "content/stories/culture/music/mountain-chief-recorded-song.json",
+      "before_characters": 833,
+      "after_characters": 2291,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "ecacc8a89e6c0259ffab4a2ed4cfaa1558c2388064de83626f37c1a28097c6a7"
+    },
+    {
+      "id": "metal-flute-woodwind-family",
+      "title": "금속으로 만든 플루트는 왜 목관악기일까",
+      "path": "content/stories/culture/music/metal-flute-woodwind-family.json",
+      "before_characters": 798,
+      "after_characters": 2285,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "0eb7de3af7ccd819ecee6d6316e239dfc076383dbafc480343cb47d055934297"
+    },
+    {
+      "id": "troy-ounce-weight",
+      "title": "금 한 온스와 보통 한 온스는 무게가 다르다",
+      "path": "content/stories/finance/investment/troy-ounce-weight.json",
+      "before_characters": 1090,
+      "after_characters": 2613,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "d8395c649795af520ce70e76d42c96bb5719c8281e1511e3e749b3b323f8f770"
+    },
+    {
+      "id": "banknote-plate-fifty-yang",
+      "title": "돈을 만들던 나무판에는 무엇이 남았을까",
+      "path": "content/stories/finance/money/banknote-plate-fifty-yang.json",
+      "before_characters": 868,
+      "after_characters": 2334,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "bd187eee3666affb7fbb02cd19a8ce86a6f3897852e94796d566d3d1c158c9cf"
+    },
+    {
+      "id": "coin-ridged-edge",
+      "title": "동전 가장자리에는 왜 작은 톱니가 있을까",
+      "path": "content/stories/finance/money/coin-ridged-edge.json",
+      "before_characters": 1485,
+      "after_characters": 2598,
+      "status": "review",
+      "source_review": "pending",
+      "body_sha256": "c8cfa653036aa1c12cefbfb4f510bdcd8e7a7dfdd2dfe300527b921c12f23a69"
+    },
+    {
+      "id": "arpanet-first-node",
+      "title": "인터넷에도 첫 번째 정거장이 있었다",
+      "path": "content/stories/history/america/arpanet-first-node.json",
+      "before_characters": 1325,
+      "after_characters": 2477,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "6e62659ccf75df7617e10431fb0a532d07db4179f8ba7a10dfdf7f9a156b4cb9"
+    },
+    {
+      "id": "mummy-museum-move",
+      "title": "미라가 이사하려면 누구에게 물어봐야 할까",
+      "path": "content/stories/history/america/mummy-museum-move.json",
+      "before_characters": 848,
+      "after_characters": 2337,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "4becb0f2daf91388931d96aa830628f6df91ac440ebb78be7ed6aef6205820d2"
+    },
+    {
+      "id": "apollo-bootprint-close-up",
+      "title": "달에서는 신발 바닥도 기록이 되었다",
+      "path": "content/stories/history/america/apollo-bootprint-close-up.json",
+      "before_characters": 870,
+      "after_characters": 2314,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "8c1cdac87ebc1288e3976959df3a6f079d406205d9b1b9326d047b2d9daed179"
+    },
+    {
+      "id": "canada-dog-travois",
+      "title": "바퀴 없이 짐을 옮기던 긴 두 개의 막대",
+      "path": "content/stories/history/america/canada-dog-travois.json",
+      "before_characters": 785,
+      "after_characters": 2215,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "28295527d7eaa5c9384e5033294467bb40bbc368bd84cae158772fa78e3557ed"
+    },
+    {
+      "id": "newton-mint-work",
+      "title": "뉴턴의 또 다른 일터는 조폐국이었다",
+      "path": "content/stories/history/europe/newton-mint-work.json",
+      "before_characters": 1328,
+      "after_characters": 2447,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "45ad9f241d2ae74fd42edc2c268f32bb5c268e2a8ecb66972cca87eaf9ee4323"
+    },
+    {
+      "id": "british-calendar-eleven-days",
+      "title": "9월 2일 다음 날이 14일이었던 달력",
+      "path": "content/stories/history/europe/british-calendar-eleven-days.json",
+      "before_characters": 806,
+      "after_characters": 2292,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "fa038e2fcb7e1307ac50a001a9cab35141086cf456641fb503ecb5b686baf691"
+    },
+    {
+      "id": "clock-little-door-case",
+      "title": "시계에도 작은 문이 달린 집이 있었다",
+      "path": "content/stories/history/korea/clock-little-door-case.json",
+      "before_characters": 825,
+      "after_characters": 2286,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "ee23cf27be5b29a8679bff53eabb09ed6b0dc3f8a98048bda13a6434422aff6b"
+    },
+    {
+      "id": "horn-bow-missing-string",
+      "title": "시위 없는 옛 활에서는 무엇을 볼 수 있을까",
+      "path": "content/stories/history/korea/horn-bow-missing-string.json",
+      "before_characters": 998,
+      "after_characters": 2457,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "b07f4f00f944f20b52b581620e1fcd5d480510281dd8febdbabf87d5ad9639af"
+    },
+    {
+      "id": "palace-rank-stones",
+      "title": "궁궐 마당에도 줄 서는 자리가 있었다",
+      "path": "content/stories/history/korea/palace-rank-stones.json",
+      "before_characters": 1542,
+      "after_characters": 2667,
+      "status": "review",
+      "source_review": "pending",
+      "body_sha256": "178ddf6c5017254277a6212660c96a3a62ce022918705bb0f532de43abc8d5d6"
+    },
+    {
+      "id": "passport-three-languages",
+      "title": "옛 여권 한 장에 세 언어가 모였다",
+      "path": "content/stories/history/korea/passport-three-languages.json",
+      "before_characters": 839,
+      "after_characters": 2296,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "fa75aa27e6a80ff545985f63940021c3a4aeba3c02f97e8bcb1c4b166dea1bcb"
+    },
+    {
+      "id": "crane-embroidered-badge",
+      "title": "관복의 학 두 마리는 무엇을 알려줄까",
+      "path": "content/stories/life/clothing/crane-embroidered-badge.json",
+      "before_characters": 1154,
+      "after_characters": 2622,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "e00f0bc7457d7c56a104a247ef59d4b5e09049bab0474b7d6d2f25495e157b62"
+    },
+    {
+      "id": "princess-crescent-comb",
+      "title": "작은 반달은 머리를 빗는 도구였다",
+      "path": "content/stories/life/clothing/princess-crescent-comb.json",
+      "before_characters": 824,
+      "after_characters": 2245,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "32518d0daa095fcc1f1188644b4461215122d8505febf430993ef138ced6f00e"
+    },
+    {
+      "id": "scent-bead-norigae",
+      "title": "이 목걸이 같은 장식은 치마 속에 숨었다",
+      "path": "content/stories/life/clothing/scent-bead-norigae.json",
+      "before_characters": 845,
+      "after_characters": 2302,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "ee23b73ec33628d1f7685ec6c260b063968c0ff7ab734801bd6e545011aceee5"
+    },
+    {
+      "id": "henna-paste-and-stain",
+      "title": "피부 위의 무늬는 씻어 낸 뒤에도 남는다",
+      "path": "content/stories/life/clothing/henna-paste-and-stain.json",
+      "before_characters": 837,
+      "after_characters": 2288,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "3f5c1dcf89fd491035c493c99d50b322de00987467bd4aad9a3fd6146aafcb2c"
+    },
+    {
+      "id": "christmas-pudding-sixpence",
+      "title": "크리스마스 푸딩에는 왜 동전 이야기가 따라올까",
+      "path": "content/stories/life/folks/christmas-pudding-sixpence.json",
+      "before_characters": 1087,
+      "after_characters": 2589,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "2f00ab2a8bdf1f78497f86a6d2b9a1da725aba987cc7355647c5793fd50252fa"
+    },
+    {
+      "id": "victorian-paper-lace-valentine",
+      "title": "옛 연애편지에는 종이로 만든 레이스가 있었다",
+      "path": "content/stories/life/folks/victorian-paper-lace-valentine.json",
+      "before_characters": 870,
+      "after_characters": 2340,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "110724488a4f07cc0c589c4710afa6aac287c59e1ce951783883d8d0e2cf1a47"
+    },
+    {
+      "id": "blue-dish-hidden-fortune",
+      "title": "접시 바닥에서 복 한 글자를 만나다",
+      "path": "content/stories/life/food/blue-dish-hidden-fortune.json",
+      "before_characters": 842,
+      "after_characters": 2271,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "4402b7dba95ffabb5c437c3903cd0392aa73f9e1bc38b82f84c814091fd42f6e"
+    },
+    {
+      "id": "dasik-sweets-frame",
+      "title": "과자를 높이 쌓는 데에도 틀이 필요했다",
+      "path": "content/stories/life/food/dasik-sweets-frame.json",
+      "before_characters": 828,
+      "after_characters": 2255,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "efbc5ab049ede59a23de9112579e4b874e2b6e3c28d66b83301b13070dee65af"
+    },
+    {
+      "id": "embroidered-spoon-pouch",
+      "title": "수저를 넣는 주머니에 바람을 수놓았다",
+      "path": "content/stories/life/food/embroidered-spoon-pouch.json",
+      "before_characters": 859,
+      "after_characters": 2306,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "4f75b2eda1c0bbe41613e3a337dde4d96dd8a41896230f9021b9302362e29adc"
+    },
+    {
+      "id": "popcorn-little-explosion",
+      "title": "팝콘 한 알은 어떻게 저렇게 커질까",
+      "path": "content/stories/life/food/popcorn-little-explosion.json",
+      "before_characters": 1530,
+      "after_characters": 2543,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "25a54c2ebb3541d9a544011140386282953c19f11fe7138e29e4ae33d79ff230"
+    },
+    {
+      "id": "mexico-tortilla-grinding-stone",
+      "title": "토르티야 앞에는 돌 두 개가 있었다",
+      "path": "content/stories/life/food/mexico-tortilla-grinding-stone.json",
+      "before_characters": 813,
+      "after_characters": 2266,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "cebedd08403c27ff5bf626c8998d3af78a50fd00b47829a9d7eb3711ddbbdf99"
+    },
+    {
+      "id": "three-sisters-garden",
+      "title": "옥수수와 콩, 호박은 왜 세 자매일까",
+      "path": "content/stories/life/food/three-sisters-garden.json",
+      "before_characters": 848,
+      "after_characters": 2333,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "4b6069cbec954b05031726694e8f917ecfcf4fd5b29070d352c42f072660c1c3"
+    },
+    {
+      "id": "zongzi-leaf-parcel",
+      "title": "중국의 명절 음식에는 잎사귀 포장이 있다",
+      "path": "content/stories/life/food/zongzi-leaf-parcel.json",
+      "before_characters": 807,
+      "after_characters": 2256,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "062ccb24fac51f4986be0b8517ef08f157cf3f23aba53a6d97b600baf554432c"
+    },
+    {
+      "id": "brazier-animal-feet",
+      "title": "화로 아래에 작은 짐승의 발이 있다",
+      "path": "content/stories/life/housing/brazier-animal-feet.json",
+      "before_characters": 884,
+      "after_characters": 2297,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "397911e2dcdd74b23109e06a4c469698e75d134c1b7ac7699a59e7a4768694ba"
+    },
+    {
+      "id": "lock-green-knot",
+      "title": "옛 열쇠에도 초록색 매듭이 달려 있었다",
+      "path": "content/stories/life/housing/lock-green-knot.json",
+      "before_characters": 835,
+      "after_characters": 2263,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "edf0cbe7f065cb9db738913ea9f9cdbc4cd4913833984636add2a8cd7dabdfaa"
+    },
+    {
+      "id": "maehwa-portable-toilet",
+      "title": "궁궐의 작은 상자에는 생활의 필요가 담겼다",
+      "path": "content/stories/life/housing/maehwa-portable-toilet.json",
+      "before_characters": 1152,
+      "after_characters": 2611,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "a61392ac2fc3ba2c950fecb9f727ebfb7cb55e1144b4aac38c2f67e161d2c00c"
+    },
+    {
+      "id": "red-comb-chest-turtle",
+      "title": "빗을 담는 상자의 문지기는 거북이었다",
+      "path": "content/stories/life/housing/red-comb-chest-turtle.json",
+      "before_characters": 845,
+      "after_characters": 2281,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "3a789951f523caf1fc811bfa27dc08cd9c81cf6717f82f514efeaeb75b652f2f"
+    },
+    {
+      "id": "jordan-moving-tent",
+      "title": "이 집은 다음 목초지까지 함께 간다",
+      "path": "content/stories/life/housing/jordan-moving-tent.json",
+      "before_characters": 867,
+      "after_characters": 2326,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "9c7be37e22a790010c71f5a37dc0a5eae96aa3ab48d5b010a9a9701111068c04"
+    },
+    {
+      "id": "kabyle-house-shared-roof",
+      "title": "한 지붕 아래 사람과 가축의 자리가 있었다",
+      "path": "content/stories/life/housing/kabyle-house-shared-roof.json",
+      "before_characters": 817,
+      "after_characters": 2299,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "f42ec272d5cd4fd0560055c4abf3f691884f600b3d554e835a61a8d782fabaef"
+    },
+    {
+      "id": "elephant-ear-fan",
+      "title": "코끼리가 귀를 흔드는 데에는 이유가 있다",
+      "path": "content/stories/science/biology/elephant-ear-fan.json",
+      "before_characters": 1067,
+      "after_characters": 2496,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "24a65797879eee949054adb6a3d2e303b51b6532ed17098c9540c06fcd399b39"
+    },
+    {
+      "id": "flamingo-pink-feathers",
+      "title": "플라밍고는 태어날 때부터 분홍색일까",
+      "path": "content/stories/science/biology/flamingo-pink-feathers.json",
+      "before_characters": 1465,
+      "after_characters": 2538,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "16d0791d3037ee92f948b5957ab52ffd855eb044e76c1a6803d3cf42aa291bb7"
+    },
+    {
+      "id": "red-panda-tail",
+      "title": "레서판다의 꼬리는 담요가 되기도 한다",
+      "path": "content/stories/science/biology/red-panda-tail.json",
+      "before_characters": 1074,
+      "after_characters": 2532,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "4aa920a4d227768ebb0af5ff7f02ab6b5c08ff1ba3f0666d112f8f76aa099747"
+    },
+    {
+      "id": "bowl-sundial",
+      "title": "그릇처럼 생긴 해시계에는 두 종류의 선이 있다",
+      "path": "content/stories/science/engineering/bowl-sundial.json",
+      "before_characters": 1250,
+      "after_characters": 2361,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "9dbba8fbb81c2b1c8b79110a19260b0ede747549435887b0b32d59ab5ca0abbe"
+    },
+    {
+      "id": "water-clock-floating-turtle",
+      "title": "이 거북이는 물이 차면 떠올랐다",
+      "path": "content/stories/science/engineering/water-clock-floating-turtle.json",
+      "before_characters": 866,
+      "after_characters": 2335,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "94d4f7f570acf91c66ec1a98cea92be39051aab956c025d08cdd5dcccdeec1e2"
+    },
+    {
+      "id": "discovery-panel-labels",
+      "title": "우주선 안에도 작은 이름표가 가득하다",
+      "path": "content/stories/science/engineering/discovery-panel-labels.json",
+      "before_characters": 858,
+      "after_characters": 2380,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "53c3fa16efce95a91521e728b747cccbe5a48f0b54ad7f532338f89eeb8b5690"
+    },
+    {
+      "id": "magnetic-penny",
+      "title": "닮은 동전인데 왜 하나만 자석에 붙을까",
+      "path": "content/stories/science/physics/magnetic-penny.json",
+      "before_characters": 1014,
+      "after_characters": 2486,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "3193205fb0e9d78ec0bf3fbdfaf8a0a853c7f85a3aa4db5aaadee36556738a76"
+    },
+    {
+      "id": "star-map-carved-again",
+      "title": "별지도를 다른 돌에 다시 새긴 이유",
+      "path": "content/stories/science/physics/star-map-carved-again.json",
+      "before_characters": 875,
+      "after_characters": 2318,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "1bce8f3d627d9f5bd3726c533fbc61936ff4b41369d209486be8cf1c7518ab31"
+    },
+    {
+      "id": "a4-fold-same-shape",
+      "title": "A4를 반으로 접어도 비슷한 모양인 이유",
+      "path": "content/stories/science/mathematics/a4-fold-same-shape.json",
+      "before_characters": 809,
+      "after_characters": 2299,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "24564a16c85299bd1048b0881c45fb60a7d71c1647befa40512696d6977c7df2"
+    },
+    {
+      "id": "braille-six-dots",
+      "title": "여섯 개의 점으로 얼마나 많은 모양을 만들까",
+      "path": "content/stories/science/mathematics/braille-six-dots.json",
+      "before_characters": 832,
+      "after_characters": 2295,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "206588b65fb7ad4496478d9778d92b6aa0cfefc31cdc8d659e09045ea026301d"
+    },
+    {
+      "id": "earth-map-for-globe",
+      "title": "지구본의 둥근 몸에는 어떤 그림을 입힐까",
+      "path": "content/stories/science/earth-science/earth-map-for-globe.json",
+      "before_characters": 920,
+      "after_characters": 2395,
+      "status": "approved",
+      "source_review": "verified",
+      "body_sha256": "289ba49425f1c672b383f594e587b9b19bd7257d0525a71176577fc8a2396424"
+    }
+  ]
+}
