@@ -6,8 +6,8 @@
 
 | 소주제 | 이야기 |
 |---|---:|
-| [Technology](technology/README.md) | 4편 |
+| [Technology](technology/README.md) | 5편 |
 | [Automotive](automotive/README.md) | 1편 |
 | [Finance](finance/README.md) | 0편 |
-| [Media](media/README.md) | 2편 |
-| [Fashion](fashion/README.md) | 0편 |
+| [Media](media/README.md) | 3편 |
+| [Fashion](fashion/README.md) | 1편 |
