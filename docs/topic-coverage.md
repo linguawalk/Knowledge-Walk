@@ -1,30 +1,30 @@
 # 세부 주제 제작 현황
 
-전체 43개 세부 주제 중 원고가 있는 곳은 32개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
+전체 43개 세부 주제 중 원고가 있는 곳은 33개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
 
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
 | History | Asia | 0 | 0 | 0 |
-| History | Europe | 2 | 2 | 2 |
+| History | Europe | 3 | 3 | 2 |
 | History | America | 4 | 4 | 4 |
 | History | Middle East | 0 | 0 | 0 |
-| History | Africa | 0 | 0 | 0 |
+| History | Africa | 1 | 1 | 0 |
 | Cities | Asia | 2 | 2 | 2 |
 | Cities | Europe | 2 | 2 | 2 |
 | Cities | Americas | 1 | 1 | 1 |
 | Cities | Middle East | 0 | 0 | 0 |
 | Cities | Africa | 1 | 1 | 1 |
 | Culture | Architecture | 3 | 3 | 3 |
-| Culture | Literature | 11 | 11 | 11 |
-| Culture | Philosophy | 4 | 4 | 4 |
-| Culture | Music | 19 | 18 | 18 |
-| Culture | Art | 24 | 24 | 24 |
+| Culture | Literature | 13 | 13 | 11 |
+| Culture | Philosophy | 5 | 5 | 4 |
+| Culture | Music | 20 | 19 | 18 |
+| Culture | Art | 26 | 26 | 24 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
 | Life | Folks | 2 | 2 | 2 |
 | Life | Clothing | 4 | 4 | 4 |
-| Life | Food | 7 | 7 | 7 |
+| Life | Food | 8 | 8 | 7 |
 | Life | Housing | 6 | 6 | 6 |
 | Companies | Technology | 4 | 4 | 4 |
 | Companies | Automotive | 1 | 1 | 1 |
@@ -44,7 +44,7 @@
 | Science | Mathematics | 2 | 2 | 2 |
 | Science | Physics | 3 | 3 | 3 |
 | Science | Chemistry | 0 | 0 | 0 |
-| Science | Biology | 3 | 3 | 3 |
+| Science | Biology | 4 | 4 | 3 |
 | Science | Earth-Science | 1 | 1 | 1 |
 | Science | Engineering | 3 | 3 | 3 |
 
@@ -59,6 +59,6 @@
 - Companies → Fashion
 - History → Asia
 - History → Middle East
-- History → Africa
+- Science → Chemistry
 
 분류 수를 채우려고 같은 소재를 여러 분야에 반복 사용하지 않습니다. 소재·중심 질문의 중복 여부는 편집 단계에서 별도 확인합니다. 제작 주기와 공개 일정은 아직 정하지 않았습니다.

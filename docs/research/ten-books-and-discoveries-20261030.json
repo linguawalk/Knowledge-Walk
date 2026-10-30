@@ -1,0 +1,430 @@
+{
+  "checked_at": "2026-10-30",
+  "user_request": "아주 좋습니다. 다음 10개를 만들어 주세요",
+  "scope": "문학 2·음악 1·미술 2·철학 1·역사 2·과학 인물 1·생활 1의 새 검토 원고. 사용자 공개 승인 전 홈페이지 미게시.",
+  "general_limits": "문학은 결말 안내·사건의 인과관계 포함. 미술은 실제 작품 도판. 옛 역사·과학 자료는 이후 연구와 시대적 한계를 구별하며 현대 의학 조언으로 사용하지 않음. 현장·인물·악보를 AI로 복원했다는 주장 없음.",
+  "stories": [
+    {
+      "id": "dorian-gray-portrait-and-conscience",
+      "sources": [
+        {
+          "title": "오스카 와일드 — The Picture of Dorian Gray 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Picture-of-Dorian-Gray_174/master/174.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/The-Picture-of-Dorian-Gray_174/master/174.txt",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "0c9a2cbf188ca6534c60381b764ac37bf4594b16971aea5cc8263e83b9ce9a05",
+          "supports": [
+            "배질의 초상·헨리의 말·시빌의 공연과 죽음",
+            "그림의 변화·배질 살해·캠벨 압박·마지막 초상과 반지로 정체 확인"
+          ]
+        }
+      ],
+      "review_method": "확보한 실제 원문·악보·도판을 읽고 사실 범위를 대조. 후대 해석과 창작 이미지·현대 예시는 별도로 명시. 한국어로 새 해설 작성.",
+      "editorial_limits": "줄거리와 결말 안내. 헨리의 도발적 발언을 저자의 단일 정답으로 해석하지 않음. 배질·시빌·앨런의 역할과 마지막 초상·반지를 대조. 폭력의 잔혹한 세부와 자해 방법을 덧붙이지 않음.",
+      "body_characters": 2485,
+      "body_sha256": "3e352701a99a1d2c9ecbc6015a26371c4e57003dec7b01f41991c2ff976cc256",
+      "image": {
+        "file": "content/images/dorian-gray-portrait-and-conscience.png",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "alt": "빅토리아 시대풍 화실에서 젊은 도리언이 자신의 초상화를 바라보는 원작 기반 상상 삽화.",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 원작의 인물과 화실을 새로 상상한 장면 · 실제 초상이나 영화 속 배우를 복제한 자료가 아닙니다.",
+        "width": 1672,
+        "height": 941,
+        "sha256": "2bfe4d941240784f3b85ea26271bda03e277ddaec4a1867f8c5040d352d05c68",
+        "visual_check": "파일을 직접 보고 본문의 대상·구도와 대조. 원본 파일을 변경하지 않고 복사. AI 삽화와 역사적 도판 구분.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-c5f228d1-cfb2-46a5-a071-737277f0e3a3.png",
+          "purpose": "원작의 인물과 화실을 새로 상상한 장면 · 실제 초상이나 영화 속 배우를 복제한 자료가 아닙니다."
+        }
+      }
+    },
+    {
+      "id": "sherlock-red-headed-league",
+      "sources": [
+        {
+          "title": "아서 코넌 도일 — The Adventures of Sherlock Holmes, The Red-Headed League 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Adventures-of-Sherlock-Holmes_1661/master/1661.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/The-Adventures-of-Sherlock-Holmes_1661/master/1661.txt",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "2a0ce5568625a304f54fbb6bfdeeadf527a1437254b5f0e06b5a9e233d4784a2",
+          "supports": [
+            "윌슨·스폴딩·주당 4파운드·오전 10시~오후 2시 필사",
+            "연맹 해산·조수와 지하실·은행을 향한 통로·체포와 해결"
+          ]
+        }
+      ],
+      "review_method": "확보한 실제 원문·악보·도판을 읽고 사실 범위를 대조. 후대 해석과 창작 이미지·현대 예시는 별도로 명시. 한국어로 새 해설 작성.",
+      "editorial_limits": "원문의 한 사건만 다룸. 시간·보수·조수·지하 통로를 대조하고 결말 안내. 정교한 구직 사기를 현실의 실행 절차로 만들지 않으며 문학적 단서 연결에 집중.",
+      "body_characters": 2417,
+      "body_sha256": "a11ab11e385ca2c7416897d8c009f45231d5a2261dffc6aebc8a78a1d1782e75",
+      "image": {
+        "file": "content/images/sherlock-red-headed-league.png",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "alt": "붉은 머리의 윌슨이 런던 사무실에서 커다란 백과사전을 손으로 베끼는 원작 기반 상상 장면.",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 필사하는 윌슨의 상황을 새로 상상한 장면 · 실제 인물·영화·옛 출판 도판을 복제한 자료가 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "c7dee0f0f8fe6522862545e6ea1072d4a0d135f7584624cb05c3ee1f7f1dfea1",
+        "visual_check": "파일을 직접 보고 본문의 대상·구도와 대조. 원본 파일을 변경하지 않고 복사. AI 삽화와 역사적 도판 구분.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-12d1ff7a-5257-49ba-8ae2-04e3d243f48b.png",
+          "purpose": "필사하는 윌슨의 상황을 새로 상상한 장면 · 실제 인물·영화·옛 출판 도판을 복제한 자료가 아닙니다."
+        }
+      }
+    },
+    {
+      "id": "schubert-trout-clear-water",
+      "sources": [
+        {
+          "title": "Mutopia — 슈베르트 Die Forelle D.550, 악보 표제와 편성",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/SchubertF/D550/forelle/forelle-lys/forelle.ly",
+          "final_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/SchubertF/D550/forelle/forelle-lys/forelle.ly",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "193bf3163178eeb31118938b452541d372671e71d15b28b9eef1491c36b04d10",
+          "supports": [
+            "가곡 D.550·Op.32·성악과 피아노·슈바르트의 시·Etwas lebhaft 표제"
+          ]
+        },
+        {
+          "title": "Mutopia — Die Forelle에 실린 가사",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/SchubertF/D550/forelle/forelle-lys/lyrics.ly",
+          "final_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/SchubertF/D550/forelle/forelle-lys/lyrics.ly",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "e27ea3de15dd442966b47c3aa5c7874ce6648953af5fbe7194d54dbd87b95ee2",
+          "supports": [
+            "맑은 물의 송어·관찰하는 화자·낚시꾼·물을 흐린 뒤 포획·화자의 반응"
+          ]
+        },
+        {
+          "title": "Mutopia — Die Forelle 피아노 반주",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/SchubertF/D550/forelle/forelle-lys/piano.ly",
+          "final_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/SchubertF/D550/forelle/forelle-lys/piano.ly",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "a6aafe1331e22a1aab39aa275718d4d288e6e55b24952e06e34a5541e18c048b",
+          "supports": [
+            "반복되는 반주의 움직임·후반 강약과 긴장·연주에 들을 지점"
+          ]
+        },
+        {
+          "title": "Mutopia — Die Forelle 성악 선율",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/SchubertF/D550/forelle/forelle-lys/melody.ly",
+          "final_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/SchubertF/D550/forelle/forelle-lys/melody.ly",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "492da493d7a7dfd5339ce654890356b7f5265f6dedbbc701b65c5b095392f557",
+          "supports": [
+            "가사에 배치된 선율·구간의 반복과 후반 변화"
+          ]
+        }
+      ],
+      "review_method": "확보한 실제 원문·악보·도판을 읽고 사실 범위를 대조. 후대 해석과 창작 이미지·현대 예시는 별도로 명시. 한국어로 새 해설 작성.",
+      "editorial_limits": "기악 편성의 다른 작품과 섞지 않고 가곡 D.550·성악/피아노만 해설. 악보 표제에 적힌 슈베르트 생년 1798은 오류이므로 원고에 쓰지 않음. 소리의 풍경 비유는 감상이며 특정 작곡 장소·전기적 비밀을 꾸미지 않음.",
+      "body_characters": 2381,
+      "body_sha256": "a134fafcd293f31d9b21a7b138b102480212f83f30a62604f304edfba091ece3",
+      "image": {
+        "file": "content/images/schubert-trout-clear-water.png",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "alt": "맑은 시냇물에서 송어가 헤엄치고 먼 강가에 작은 사람이 서 있는 상상 풍경.",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 가곡 첫 부분의 맑은 물과 움직임을 표현한 분위기 삽화 · 실제 장소나 악보가 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "4ee8aa9bfc2dd8d61a1df74a1c123af7f4eff0e9ce2cfd93653a89e37624a533",
+        "visual_check": "파일을 직접 보고 본문의 대상·구도와 대조. 원본 파일을 변경하지 않고 복사. AI 삽화와 역사적 도판 구분.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-993b7c5e-8ba9-4315-8ef5-887335353bd4.png",
+          "purpose": "가곡 첫 부분의 맑은 물과 움직임을 표현한 분위기 삽화 · 실제 장소나 악보가 아닙니다."
+        }
+      }
+    },
+    {
+      "id": "david-recamier-empty-space",
+      "sources": [
+        {
+          "title": "The Louvre: Fifty Plates in Colour — 다비드·제리코 해설과 도판 캡션",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05",
+          "supports": [
+            "Plate XLV: 레카미에 부인·흰 엠파이어 드레스·긴 소파·미완성",
+            "다비드의 역사화·혁명과 나폴레옹 시대의 작업",
+            "Plate XLVI: 실제 난파에 바탕한 메두사호의 뗏목·1819년 살롱·멀리 보이는 Argus·크기 약 4.91×7.16m"
+          ]
+        }
+      ],
+      "review_method": "확보한 실제 원문·악보·도판을 읽고 사실 범위를 대조. 후대 해석과 창작 이미지·현대 예시는 별도로 명시. 한국어로 새 해설 작성.",
+      "editorial_limits": "미완성은 도록의 설명으로 확인. 제작 중단 원인·모델의 성격·실제 방의 모습은 추측하지 않음. 도록의 강한 미적 평가와 성차별적 인물평을 오늘의 사실로 반복하지 않음. 시선과 색의 관계는 편집적 감상.",
+      "body_characters": 2408,
+      "body_sha256": "b6a4dca01a040a9bc7552cdd50d6cb90b4a645261fc78ceba4e665d5d0194564",
+      "image": {
+        "file": "content/images/david-recamier-empty-space.jpg",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "alt": "다비드의 레카미에 부인 초상을 재현한 옛 도판. 흰 드레스를 입은 인물이 긴 의자에 기대고 왼쪽에 등잔대가 서 있습니다.",
+        "credit": "자크 루이 다비드 · Portrait of Mme. Récamier · The Louvre: Fifty Plates in Colour, Plate XLV · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate45.jpg",
+        "license": "퍼블릭 도메인 원작 및 옛 출판물의 재현 도판 · Project Gutenberg 수록본",
+        "width": 1200,
+        "height": 859,
+        "sha256": "c1c2c50ad882818013de26688e98724c7f5f5f5d41b93799044a1d0019c08f9a",
+        "visual_check": "파일을 직접 보고 본문의 대상·구도와 대조. 원본 파일을 변경하지 않고 복사. AI 삽화와 역사적 도판 구분."
+      }
+    },
+    {
+      "id": "gericault-medusa-distant-ship",
+      "sources": [
+        {
+          "title": "The Louvre: Fifty Plates in Colour — 다비드·제리코 해설과 도판 캡션",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05",
+          "supports": [
+            "Plate XLV: 레카미에 부인·흰 엠파이어 드레스·긴 소파·미완성",
+            "다비드의 역사화·혁명과 나폴레옹 시대의 작업",
+            "Plate XLVI: 실제 난파에 바탕한 메두사호의 뗏목·1819년 살롱·멀리 보이는 Argus·크기 약 4.91×7.16m"
+          ]
+        }
+      ],
+      "review_method": "확보한 실제 원문·악보·도판을 읽고 사실 범위를 대조. 후대 해석과 창작 이미지·현대 예시는 별도로 명시. 한국어로 새 해설 작성.",
+      "editorial_limits": "실제 사건과 회화 구성을 구분. 옛 캡션의 추정 인물 신원·인종 용어·난파 참가자 통계를 반복하지 않음. 잔혹한 묘사를 추가하지 않고 몸짓·거리·구도에 집중. 화가의 사망 원인 등 확인 부족한 전기 일화 생략.",
+      "body_characters": 2366,
+      "body_sha256": "a24442ff2665c33e3700dc10589ecc04d7f0da12111ec3c3d37cf94eb2681591",
+      "image": {
+        "file": "content/images/gericault-medusa-distant-ship.jpg",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "alt": "제리코의 메두사호의 뗏목을 재현한 옛 도판. 앞쪽의 쓰러진 인물들과 먼 배를 향해 천을 드는 사람들이 함께 보입니다.",
+        "credit": "테오도르 제리코 · The Raft of the Medusa · The Louvre: Fifty Plates in Colour, Plate XLVI · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate46.jpg",
+        "license": "퍼블릭 도메인 원작 및 옛 출판물의 재현 도판 · Project Gutenberg 수록본",
+        "width": 1200,
+        "height": 816,
+        "sha256": "611b4e01d689b31f1f20534eba338908c4fecb494571fc77566dbb9fa60b2c1e",
+        "visual_check": "파일을 직접 보고 본문의 대상·구도와 대조. 원본 파일을 변경하지 않고 복사. AI 삽화와 역사적 도판 구분."
+      }
+    },
+    {
+      "id": "epictetus-what-is-up-to-us",
+      "sources": [
+        {
+          "title": "에픽테토스 — The Enchiridion, T. W. Higginson 번역",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Enchiridion_45109/master/45109-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/The-Enchiridion_45109/master/45109-0.txt",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "0d80895ec0ed101235a78b89646ee7e4820c9d8fadd0318c69e4195728a787bc",
+          "supports": [
+            "아리아노스의 가르침 정리·제1항의 자신에게 달린 것과 아닌 것",
+            "판단과 욕망·사건의 해석·관계 속 역할; 현대 예시는 원고의 설명"
+          ]
+        }
+      ],
+      "review_method": "확보한 실제 원문·악보·도판을 읽고 사실 범위를 대조. 후대 해석과 창작 이미지·현대 예시는 별도로 명시. 한국어로 새 해설 작성.",
+      "editorial_limits": "고대 철학의 핵심 구분과 원고의 현대 예시를 구별. 정신력으로 병·외부 피해가 사라진다는 주장이나 피해자 책임론으로 확대하지 않음. 현대 치료를 대체하지 않음. 옛 번역·편집 서문을 통째로 번역하지 않고 원전의 주제를 바탕으로 새로 작성.",
+      "body_characters": 2485,
+      "body_sha256": "b23ae96e780b5e584fe73df8808fc164c6ccf55addab7e00a64d2ad99cb0ca4d",
+      "image": {
+        "file": "content/images/epictetus-what-is-up-to-us.png",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "alt": "돌기둥 그늘 아래에서 고대의 스승과 성인 제자가 바람이 부는 바다를 곁에 두고 대화하는 상상 장면.",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 고대 철학의 대화 분위기를 상상한 장면 · 에픽테토스의 실제 얼굴이나 기록된 대화를 복원한 자료가 아닙니다.",
+        "width": 1672,
+        "height": 941,
+        "sha256": "20deb9891974f83dc96d51a7e44e0e1d439318cf37ea15ca8f2ea2f39566d516",
+        "visual_check": "파일을 직접 보고 본문의 대상·구도와 대조. 원본 파일을 변경하지 않고 복사. AI 삽화와 역사적 도판 구분.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-d77fc217-b95e-4a2e-a282-5dc9882ddfe9.png",
+          "purpose": "고대 철학의 대화 분위기를 상상한 장면 · 에픽테토스의 실제 얼굴이나 기록된 대화를 복원한 자료가 아닙니다."
+        }
+      }
+    },
+    {
+      "id": "nightingale-air-and-observation",
+      "sources": [
+        {
+          "title": "플로렌스 나이팅게일 — Notes on Nursing 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/Notes-on-NursingWhat-It-Is-and-What-It-Is-Not_17366/master/17366-8.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/Notes-on-NursingWhat-It-Is-and-What-It-Is-Not_17366/master/17366-8.txt",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "5e0388771b8f60b1aadf6c516166779f1bdb47ce6e37adc33c6ed7a2a7fbbcdd",
+          "supports": [
+            "서문의 간호 범위·환기와 보온·소음·빛·음식과 관찰",
+            "행동의 형식보다 실제 환경·환자가 먹은 양·추측과 직접 관찰의 구분; 현대 의료 지침으로 사용하지 않음"
+          ]
+        }
+      ],
+      "review_method": "확보한 실제 원문·악보·도판을 읽고 사실 범위를 대조. 후대 해석과 창작 이미지·현대 예시는 별도로 명시. 한국어로 새 해설 작성.",
+      "editorial_limits": "19세기 저작의 환경·관찰 관점을 역사적으로 해설. 미아즈마·감염 설명·식이와 처방·민족 및 성별 일반화를 현대 사실로 옮기지 않음. 오늘의 병실 환기·치료 지침으로 사용하지 않음.",
+      "body_characters": 2442,
+      "body_sha256": "258ffe591374579ad2e7b7c796d92a070f9ddb9651b274d7f041e3c4de60dae7",
+      "image": {
+        "file": "content/images/nightingale-air-and-observation.png",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "alt": "낮빛이 드는 19세기풍 병실에서 성인 환자 곁의 돌보는 사람이 수첩을 들고 서 있는 상상 장면.",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 옛 돌봄과 관찰의 분위기를 상상한 장면 · 실제 나이팅게일·병원 복원도나 오늘의 의료 지침이 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "3cdebf17fdd3ab7fa9b900f71b366d0fbcbb6501e150fd76f73249dd3c9247cd",
+        "visual_check": "파일을 직접 보고 본문의 대상·구도와 대조. 원본 파일을 변경하지 않고 복사. AI 삽화와 역사적 도판 구분.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-d57954be-aa15-468a-9c73-729d5f680a8f.png",
+          "purpose": "옛 돌봄과 관찰의 분위기를 상상한 장면 · 실제 나이팅게일·병원 복원도나 오늘의 의료 지침이 아닙니다."
+        }
+      }
+    },
+    {
+      "id": "darwin-life-of-observation",
+      "sources": [
+        {
+          "title": "찰스 다윈 — The Autobiography of Charles Darwin, 가족 편집본",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Autobiography-of-Charles-Darwin_2010/master/2010.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/The-Autobiography-of-Charles-Darwin_2010/master/2010.txt",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "eb2c4e03f7eff1ac5c6fdaa865099e8238df712d04e820c24d7768f6961cde96",
+          "supports": [
+            "1809년 출생·수집·에든버러 의학과 케임브리지·헨슬로",
+            "1831~1836년 비글호·1838년 맬서스 독서·1858년 월리스·1859년 종의 기원",
+            "프랜시스 다윈의 편집 서문에 생략 명시; 현장 녹취가 아닌 후대 회고"
+          ]
+        }
+      ],
+      "review_method": "확보한 실제 원문·악보·도판을 읽고 사실 범위를 대조. 후대 해석과 창작 이미지·현대 예시는 별도로 명시. 한국어로 새 해설 작성.",
+      "editorial_limits": "가족 편집의 생략을 명시하고 후대 회고와 현장 기록을 구분. 한 항해의 새 관찰만으로 진화론이 완성되었다는 신화를 피함. 월리스를 독립적 연구자로 다룸. 유전학 등 후대 지식을 다윈이 모두 알았다고 주장하지 않음.",
+      "body_characters": 2503,
+      "body_sha256": "258d3be9afba873567bfa9eedea145088b8066ecc83ef6eb4ca153a5a2c27a7f",
+      "image": {
+        "file": "content/images/darwin-life-of-observation.png",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "alt": "조개와 식물 표본, 수첩이 놓인 책상에서 돋보기로 표본을 살피는 19세기 연구자의 뒷모습.",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 관찰과 기록의 시간을 상상한 분위기 삽화 · 다윈의 실제 얼굴이나 방을 복원한 자료가 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "f0f38bfeef89e9b68b37ef9d81fa04685bfc1b4bfc21b4faadb5ab92edeae80c",
+        "visual_check": "파일을 직접 보고 본문의 대상·구도와 대조. 원본 파일을 변경하지 않고 복사. AI 삽화와 역사적 도판 구분.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-fc224fa9-b80e-4f86-b511-385b5f126503.png",
+          "purpose": "관찰과 기록의 시간을 상상한 분위기 삽화 · 다윈의 실제 얼굴이나 방을 복원한 자료가 아닙니다."
+        }
+      }
+    },
+    {
+      "id": "coffeehouse-news-and-conversation",
+      "sources": [
+        {
+          "title": "William H. Ukers — All About Coffee, 옛 런던 커피하우스",
+          "url": "https://raw.githubusercontent.com/GITenberg/All-About-Coffee_28500/master/28500-8.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/All-About-Coffee_28500/master/28500-8.txt",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "8b235a1b828bab28dd9778780302904f5ac4f1a8441fc536e5319affd8a1ea7c",
+          "supports": [
+            "1922년 책·런던 1652년 파스콰 로제·신문과 대화",
+            "페니 대학 별명·상이한 비용·정보와 거래·로이즈 커피하우스의 역사"
+          ]
+        },
+        {
+          "title": "All About Coffee — 실제 도판과 캡션",
+          "url": "https://raw.githubusercontent.com/GITenberg/All-About-Coffee_28500/master/28500-h/28500-h.htm",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/All-About-Coffee_28500/master/28500-h/28500-h.htm",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "41fbb484fff923235f083d30db813cf82bd6e7c2f5133f3010b3f8faabf8031a",
+          "supports": [
+            "image30.jpg: A Coffee House in the Time of Charles II, From a wood cut of 1674"
+          ]
+        }
+      ],
+      "review_method": "확보한 실제 원문·악보·도판을 읽고 사실 범위를 대조. 후대 해석과 창작 이미지·현대 예시는 별도로 명시. 한국어로 새 해설 작성.",
+      "editorial_limits": "1922년 자료에 담긴 건강 효능·TIP 약어 기원설·이상적 평등과 고정 가격·과장 통계를 재현하지 않음. 비용과 참여 조건의 차이, 자료의 후대 편집을 구별. 도판은 모든 가게를 대표하는 현장 사진이 아님.",
+      "body_characters": 2457,
+      "body_sha256": "baec85a1728009a9790a008e96d79b837ea0e7736da2ae452931f9d412ceb5bd",
+      "image": {
+        "file": "content/images/coffeehouse-news-and-conversation.jpg",
+        "type": "artwork",
+        "label": "1674년 목판화의 재현 도판",
+        "alt": "탁자 주위에 사람들이 모인 옛 커피하우스의 실제 목판화 재현 도판.",
+        "credit": "William H. Ukers, All About Coffee, 1922 · Charles II 시대 커피하우스 · 책의 캡션: 1674년 목판화에서 재현 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/All-About-Coffee_28500/master/28500-h/images/image30.jpg",
+        "license": "퍼블릭 도메인 원작 및 옛 출판물의 재현 도판 · Project Gutenberg 수록본",
+        "width": 400,
+        "height": 215,
+        "sha256": "9bc336255410eb67f87117474e1fd23909943a9dc79db916b4f476bc718053fd",
+        "visual_check": "파일을 직접 보고 본문의 대상·구도와 대조. 원본 파일을 변경하지 않고 복사. AI 삽화와 역사적 도판 구분."
+      }
+    },
+    {
+      "id": "rosetta-stone-three-scripts",
+      "sources": [
+        {
+          "title": "E. A. Wallis Budge — The Rosetta Stone, 1913년 해설서",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Rosetta-Stone_48649/master/48649-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/The-Rosetta-Stone_48649/master/48649-0.txt",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "8b645b963b95b03804eb175f8c83e00d5731e9f3eda165a10a8179be58812cea",
+          "supports": [
+            "고대 이집트어와 그리스어의 두 언어·상형문자·데모틱·그리스문자",
+            "기원전 196년 왕 관련 포고·1799년 발견·협정과 1802년 영국 도착",
+            "영·샹폴리옹 등의 해독·이름 비교·필라이의 클레오파트라·콥트어·사본과 모형"
+          ]
+        },
+        {
+          "title": "The Rosetta Stone — 1913년 실제 비문 도판과 본문",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Rosetta-Stone_48649/master/48649-h/48649-h.htm",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/The-Rosetta-Stone_48649/master/48649-h/48649-h.htm",
+          "status": 200,
+          "checked_at": "2026-10-30",
+          "sha256": "9e82d8cd8f72b85f7e91914f690feb81db2ed2c962bf52510e057fc953ff348a",
+          "supports": [
+            "서두의 af04.png 비문 도판 식별·1913년 표기"
+          ]
+        }
+      ],
+      "review_method": "확보한 실제 원문·악보·도판을 읽고 사실 범위를 대조. 후대 해석과 창작 이미지·현대 예시는 별도로 명시. 한국어로 새 해설 작성.",
+      "editorial_limits": "두 언어와 세 문자 구분. 1913년 책의 basalt 분류를 반복하지 않음. 클레오파트라 이름의 비교는 다른 비문임을 명시. 영·샹폴리옹 및 여러 연구자의 역할을 단일 천재 신화로 축소하지 않음. 군사적 반출을 중립적 자연 이동으로 표현하지 않음.",
+      "body_characters": 2422,
+      "body_sha256": "4d4aa46b870b4d84029b373191fe55117b0cfdcf508a27cbf323f9928e04f072",
+      "image": {
+        "file": "content/images/rosetta-stone-three-scripts.png",
+        "type": "artwork",
+        "label": "1913년 실제 출판 도판",
+        "alt": "깨진 가장자리와 세 문자 구역이 보이는 로제타석의 옛 비문 도판.",
+        "credit": "E. A. Wallis Budge, The Rosetta Stone, 1913 · 서두 비문 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Rosetta-Stone_48649/master/48649-h/images/af04.png",
+        "license": "퍼블릭 도메인 원작 및 옛 출판물의 재현 도판 · Project Gutenberg 수록본",
+        "width": 1000,
+        "height": 1287,
+        "sha256": "5daa04e626686eaffc5f655f574c93492fdf66a3da7a307cc9fa9dcfa52a6fe7",
+        "visual_check": "파일을 직접 보고 본문의 대상·구도와 대조. 원본 파일을 변경하지 않고 복사. AI 삽화와 역사적 도판 구분."
+      }
+    }
+  ]
+}

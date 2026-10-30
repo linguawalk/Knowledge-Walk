@@ -8,5 +8,5 @@
 |---|---:|
 | [Folks](folks/README.md) | 2편 |
 | [Clothing](clothing/README.md) | 4편 |
-| [Food](food/README.md) | 7편 |
+| [Food](food/README.md) | 8편 |
 | [Housing](housing/README.md) | 6편 |

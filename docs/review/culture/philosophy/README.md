@@ -6,5 +6,6 @@
 |---|---|
 | [공자의 생애 — 배움은 언제 끝나는 걸까](confucius-life-and-learning.md) | 자료 대조·공개 게시 승인 완료 |
 | [데카르트 방법서설 — 무엇을 확실히 안다고 말할 수 있을까](descartes-method-and-doubt.md) | 자료 대조·공개 게시 승인 완료 |
+| [에픽테토스 — 내게 달린 일과 달리지 않은 일](epictetus-what-is-up-to-us.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [마르쿠스 아우렐리우스 명상록 — 황제도 자신에게 말을 걸었다](marcus-aurelius-meditations.md) | 자료 대조·공개 게시 승인 완료 |
 | [소크라테스의 생애 — 질문을 멈추지 않은 사람](socrates-life-and-questions.md) | 자료 대조·공개 게시 승인 완료 |
