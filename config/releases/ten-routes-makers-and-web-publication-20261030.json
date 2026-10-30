@@ -1,0 +1,20 @@
+{
+  "id": "ten-routes-makers-and-web-publication-20261030",
+  "approved_at": "2026-10-30",
+  "user_request": "홈페이지 게시",
+  "story_ids": [
+    "sofala-port-and-hinterland",
+    "cordoba-oranges-and-connections",
+    "changan-travelers-and-music",
+    "cusco-roads-and-empire",
+    "amazon-order-and-warehouse",
+    "pixar-openusd-many-artists",
+    "bombas-socks-and-giving",
+    "cookies-browser-memory",
+    "https-small-s-and-connection",
+    "sqlite-small-database"
+  ],
+  "deployment_status": "prepared",
+  "expected_live_story_count": 168,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261030-ten-routes-makers-and-web/index.html"
+}
