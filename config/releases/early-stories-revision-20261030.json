@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "status": "prepared",
+  "status": "live_verified",
   "public_story_count": 138,
   "revised_public_story_count": 78,
   "story_ids": [
@@ -87,5 +87,8 @@
     "orchestra-oboe-a",
     "coin-ridged-edge",
     "palace-rank-stones"
-  ]
+  ],
+  "verified_public_story_count": 138,
+  "verified_revised_story_count": 78,
+  "verification": "개정 글 78개와 홈페이지·검색 총 80개 HTTPS 응답을 공개 빌드와 바이트 대조. 미공개 3편 제외 확인."
 }
