@@ -1,0 +1,21 @@
+{
+  "id": "ten-business-computing-finance-publication-20261030",
+  "approved_at": "2026-10-30",
+  "user_request": "홈페이지 게시",
+  "story_ids": [
+    "ford-moving-assembly",
+    "kodak-camera-and-lessons",
+    "microsoft-dos-open-archive",
+    "web-links-shared-knowledge",
+    "jpeg-small-photo-file",
+    "linux-shared-kernel",
+    "git-saving-many-versions",
+    "bank-run-lombard-street",
+    "compound-interest-time",
+    "loan-payment-principal-interest"
+  ],
+  "scope": "직전 기업·컴퓨터·금융 검토 원고 10편만 공개 승인. 새 원고 제작 없음.",
+  "deployment_status": "prepared",
+  "expected_live_story_count": 128,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261030-ten-business-computing-finance/index.html"
+}
