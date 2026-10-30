@@ -1,0 +1,404 @@
+{
+  "checked_at": "2026-10-30",
+  "scope": "직전 10편은 사용자의 요청에 따라 별도 공개 승인했으며 이 새 10편은 검토용. 이전과 같은 분량·깊이를 유지하고 도식 대신 장면·관련 회화·역사 자료 사용.",
+  "general_limits": "옛 전기의 오류·인물평·수용사를 현재의 확정 사실로 옮기지 않음. 원작·해설·창작 이미지·감상·현대의 예시를 구분. 문학 결말은 안내하고 의료적 진단과 확정된 심리를 덧붙이지 않음.",
+  "stories": [
+    {
+      "id": "alice-language-and-rules",
+      "sources": [
+        {
+          "title": "루이스 캐럴 — Alice’s Adventures in Wonderland 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/Alice-s-Adventures-in-Wonderland_11/master/11-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "흰 토끼·토끼굴·크기 변화·애벌레·체셔 고양이",
+            "모자 장수와 다과회·여왕의 크로케·파이 재판·잠에서 깨어나는 결말"
+          ],
+          "status": 200,
+          "sha256": "49a0b2726606e1290ac03a63978fa1dd1bd38a8d805704d98265f393533ea094"
+        }
+      ],
+      "review_method": "원문·악보·역사적 해설과 실제 이미지를 대조. 사실·감상·후대 전승을 구분하고 한국어로 새로 작성.",
+      "editorial_limits": "거울 나라의 인물·사건을 섞지 않음. 원작의 장면과 AI 삽화의 창작 표현을 구분. 줄거리·결말 안내. 체셔 고양이의 문답을 현대의 의무적 인생 조언으로 일반화하지 않음.",
+      "image": {
+        "file": "content/images/alice-language-and-rules.png",
+        "alt": "앨리스가 숲속 갈림길에서 나무 위의 체셔 고양이를 바라보는 상상 삽화.",
+        "type": "ai_illustration",
+        "label": "AI 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 작품의 장면이나 분위기를 새로 상상한 그림이며 원작 도판·작곡가의 실제 방·역사적 현장 재현 자료가 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "799842776d51835d18007ea4f00178b1fa2c44de1037e795a16f443e2e3c6985",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "작품의 장면 또는 분위기 삽화. 원작·실제 인물·방의 복원도라고 주장하지 않음.",
+          "review": "이미지의 역할과 실제 자료의 차이를 캡션에 표시."
+        }
+      },
+      "paragraph_characters": 2405,
+      "body_sha256": "7d7b8f34f0798742126e2b6fae71d9306d9020b554c4a4760151d5186ba2a0cc"
+    },
+    {
+      "id": "treasure-island-trust-and-map",
+      "sources": [
+        {
+          "title": "로버트 루이스 스티븐슨 — Treasure Island 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/Treasure-Island_120/master/120-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "짐·빌리 본즈·검은 표식·지도·리브지와 트릴로니·히스파니올라호",
+            "사과 통에서 들은 반란·외다리와 목발의 실버·벤 건·보물 이동",
+            "배의 이동·이스라엘 핸즈·실버의 선택과 탈출·귀환 뒤 기억"
+          ],
+          "status": 200,
+          "sha256": "0fee2fef1b2ffde22e2c962bd8bc2b75ea1ae9b02b3fe85ef08d44f4cc1bb2de"
+        }
+      ],
+      "review_method": "원문·악보·역사적 해설과 실제 이미지를 대조. 사실·감상·후대 전승을 구분하고 한국어로 새로 작성.",
+      "editorial_limits": "줄거리·결말 포함. 실버는 목발을 사용하는 외다리라는 원작 설정에 맞춰 AI 삽화의 의족을 제거한 수정본 사용. 그림의 해안 지도와 배는 창작 표현. 폭력은 결과 중심으로 짧게 설명하고 선정적인 묘사 없음.",
+      "image": {
+        "file": "content/images/treasure-island-trust-and-map.png",
+        "alt": "짐 호킨스가 배 위에서 지도를 들고 외다리의 롱 존 실버와 섬을 바라보는 상상 삽화.",
+        "type": "ai_illustration",
+        "label": "AI 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 작품의 장면이나 분위기를 새로 상상한 그림이며 원작 도판·작곡가의 실제 방·역사적 현장 재현 자료가 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "57d83663f096facdc240151cfdb887c731c7ca2440785e9b0783ec149e6fb56b",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "작품의 장면 또는 분위기 삽화. 원작·실제 인물·방의 복원도라고 주장하지 않음.",
+          "review": "보물섬은 원작의 외다리·목발 설정에 맞춰 의족을 제거한 수정본을 사용."
+        }
+      },
+      "paragraph_characters": 2323,
+      "body_sha256": "ec2b4ac9d9268d0be69a4fbaeb1907c2d635cdae966b59100aad919d3cbe987d"
+    },
+    {
+      "id": "beethoven-pastoral-five-scenes",
+      "sources": [
+        {
+          "title": "Lawrence Gilman — Stories of Symphonic Music, 전원 교향곡 해설",
+          "url": "https://raw.githubusercontent.com/GITenberg/Stories-of-Symphonic-Music-A-Guide-to-the-Meaning-of-Important-Symphonies-Overtures-and-Tone-__57063/master/57063-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1808년 전원 교향곡·다섯 악장의 표제와 순서",
+            "시냇가 악장의 나이팅게일·메추라기·뻐꾸기와 악기",
+            "폭풍과 마지막 목동의 노래·감정의 표현이라는 작곡가 표제의 수용"
+          ],
+          "status": 200,
+          "sha256": "cf1728e12248a63c6e574585db41a018e40ebf17cc25c5f1146797e6c945cea5"
+        },
+        {
+          "title": "옛 미술 도록 — 코로 The Dell, Plate XLIX",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "관련 이미지로 사용한 코로의 풍경화 도판 식별; 베토벤의 작곡 근거로 쓰지 않음"
+          ],
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05"
+        }
+      ],
+      "review_method": "원문·악보·역사적 해설과 실제 이미지를 대조. 사실·감상·후대 전승을 구분하고 한국어로 새로 작성.",
+      "editorial_limits": "코로의 그림은 관련 분위기 이미지임을 명확히 하고 베토벤의 직접 영감·원작 도판으로 주장하지 않음. 옛 해설의 사실과 감상적 표현을 구분. 새소리의 악기 대응은 자료의 명시 범위만 사용. 특정 장소·청중의 감정을 단정하지 않음.",
+      "image": {
+        "file": "content/images/beethoven-pastoral-five-scenes.jpg",
+        "alt": "코로의 풍경화 작은 골짜기를 재현한 옛 도판. 전원 교향곡의 자연 분위기를 함께 떠올리기 위한 관련 이미지입니다.",
+        "type": "artwork",
+        "label": "관련 회화 도판 · 코로",
+        "credit": "카미유 코로 원작 The Dell · 옛 도록 Plate XLIX · 베토벤의 직접적인 영감 자료를 뜻하지 않음 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate49.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 1200,
+        "height": 758,
+        "sha256": "0da6f6c3484a86ee194d396560e579a12154a905f2644f8335e7189235616329"
+      },
+      "paragraph_characters": 2254,
+      "body_sha256": "d1ec3b57edb62d4ed52e00c4dcb43f9f324117bc5cca1474cc99359fa55b86fc"
+    },
+    {
+      "id": "schumann-traumerei-memory",
+      "sources": [
+        {
+          "title": "Mutopia — Schumann Op.15 No.7, 피아노 악보",
+          "url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/SchumannR/O15/SchumannOp15No07/SchumannOp15No07.ly",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "Kinderscenen·Op.15 No.7·피아노·반복과 이어지는 성부·강약 표기"
+          ],
+          "status": 200,
+          "sha256": "be0a952c8465a216c8405a2f6154a9b101e983a4b080d64a90e532bd5118532a"
+        },
+        {
+          "title": "Richard Batka — Schumann(1891), 어린이 정경 해설",
+          "url": "https://raw.githubusercontent.com/GITenberg/Schumann_64151/master/64151-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "어린이 정경의 모음곡 구성과 장면 제목",
+            "놀이·사건·몽상·벽난로·잠과 시인의 말로 이어지는 감상 맥락"
+          ],
+          "status": 200,
+          "sha256": "88d1f6d2d859ae1ec37ed4df4ecadadcec7d0be1717c0c0cbc1a8390cde76b78"
+        }
+      ],
+      "review_method": "원문·악보·역사적 해설과 실제 이미지를 대조. 사실·감상·후대 전승을 구분하고 한국어로 새로 작성.",
+      "editorial_limits": "Mutopia 머리말의 잘못된 18th C. 표기와 제목 철자 오타를 옮기지 않음. 어린이용 입문곡이라고 단정하지 않음. 작곡 당시의 구체적인 하루·꿈·연애 장면을 창작하지 않음. AI 그림은 실제 방·악보가 아닌 분위기 삽화.",
+      "image": {
+        "file": "content/images/schumann-traumerei-memory.png",
+        "alt": "피아노와 창가의 작은 장난감, 정원을 바라보는 인물을 그린 몽상의 분위기 삽화.",
+        "type": "ai_illustration",
+        "label": "AI 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 작품의 장면이나 분위기를 새로 상상한 그림이며 원작 도판·작곡가의 실제 방·역사적 현장 재현 자료가 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "e0ffec6471b17d6b725faf4dba5257b8a0bb76c4c99d13b37e55f9886d4c4d64",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "작품의 장면 또는 분위기 삽화. 원작·실제 인물·방의 복원도라고 주장하지 않음.",
+          "review": "이미지의 역할과 실제 자료의 차이를 캡션에 표시."
+        }
+      },
+      "paragraph_characters": 2377,
+      "body_sha256": "154bf4e19890d4564088f03a354c0b94042de0d5cd8dd6eaea6cdf0284601ec9"
+    },
+    {
+      "id": "holbein-erasmus-writing",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 홀바인과 Plate XXIV",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "한스 홀바인·에라스무스 초상·인문주의자라는 식별",
+            "책상에서 글 쓰는 옆얼굴·모피 옷·어두운 모자·배경 커튼"
+          ],
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05"
+        }
+      ],
+      "review_method": "원문·악보·역사적 해설과 실제 이미지를 대조. 사실·감상·후대 전승을 구분하고 한국어로 새로 작성.",
+      "editorial_limits": "글을 쓰는 내용·정확한 당시 감정·옷만으로 신분과 재산을 확정하지 않음. 인문주의의 간단한 맥락과 인물 사상 전체를 혼동하지 않음. 옛 도록의 다른 홀바인 작품 귀속 논쟁을 이 초상의 확정 정보로 섞지 않음.",
+      "image": {
+        "file": "content/images/holbein-erasmus-writing.jpg",
+        "alt": "홀바인의 에라스무스 초상. 모피 옷과 검은 모자를 쓴 인물이 옆얼굴로 책상에서 글을 씁니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "한스 홀바인 원작 · 옛 루브르 도록 Plate XXIV 색채 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate24.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 969,
+        "height": 1200,
+        "sha256": "95a25d6e8dcf01439477850a401559bd451ad2b59d0a3ecb413abd3fa688bb21"
+      },
+      "paragraph_characters": 2279,
+      "body_sha256": "acd005aa82c8f4b2e3b403a5d3738c2c0e74f83eb6191ad71b9f6efeecc39e83"
+    },
+    {
+      "id": "van-eyck-rolin-window",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 반 에이크와 Plate XVI",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "The Virgin and Child and the Chancellor Rolin 표제·기도하는 기증자·성모자·천사",
+            "회랑·꽃밭·강과 다리·먼 도시·옷과 왕관의 세부"
+          ],
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05"
+        }
+      ],
+      "review_method": "원문·악보·역사적 해설과 실제 이미지를 대조. 사실·감상·후대 전승을 구분하고 한국어로 새로 작성.",
+      "editorial_limits": "기증자의 신앙·정치적 동기 및 특정 도시의 정체를 그림만으로 확정하지 않음. 반 에이크가 유화를 발명했다는 옛 통설을 채택하지 않음. 기독교 회화의 구성과 실제 역사 현장 기록을 구별.",
+      "image": {
+        "file": "content/images/van-eyck-rolin-window.jpg",
+        "alt": "얀 반 에이크의 롤랭 재상의 성모. 기도하는 남성과 성모자, 천사, 창문 너머의 도시와 강이 보입니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "얀 반 에이크 원작 · 옛 루브르 도록 Plate XVI 색채 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate16.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 1140,
+        "height": 1200,
+        "sha256": "7d5d6286e70f65ff32c6af6d8eba4a478bd3d376dd741199f7a5425efaec1b43"
+      },
+      "paragraph_characters": 2267,
+      "body_sha256": "0dee67d0c2916c62239ec87b63d64812f46a5a4095f4a59ec9f1f681d1f91d91"
+    },
+    {
+      "id": "fragonard-music-lesson",
+      "sources": [
+        {
+          "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 프라고나르와 Plate XLII",
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "La Leçon de Musique 표제·건반악기 앞 여성·악보를 든 남성·의자 뒤에 놓인 손",
+            "전경 의자 위 고양이와 현악기·실내의 인물 배치"
+          ],
+          "status": 200,
+          "sha256": "a45ac005c376aa90da8629175d8a8f16d97fc8f75fe63d5d19351e8c29176a05"
+        }
+      ],
+      "review_method": "원문·악보·역사적 해설과 실제 이미지를 대조. 사실·감상·후대 전승을 구분하고 한국어로 새로 작성.",
+      "editorial_limits": "모델 신원·연인 관계·실제 연주 곡을 확정하지 않음. 옛 도록의 현악기 명칭은 확정적인 현대 분류로 재사용하지 않고 현악기로 설명. 고양이에 고정된 상징 의미를 임의로 부여하지 않음. 현대 피아노와 동일한 악기·소리로 주장하지 않음.",
+      "image": {
+        "file": "content/images/fragonard-music-lesson.jpg",
+        "alt": "프라고나르의 음악 수업. 건반악기 앞의 여성과 악보를 든 남성, 의자 위의 고양이와 현악기가 보입니다.",
+        "type": "artwork",
+        "label": "실제 작품 재현 도판",
+        "credit": "장오노레 프라고나르 원작 · 옛 루브르 도록 Plate XLII 색채 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Louvre-Fifty-Plates-in-Colour_63719/master/63719-h/images/i_plate42.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 1200,
+        "height": 1053,
+        "sha256": "36efa88afdcc5a3ed078d5e28032ca2d3cecfb6043bd2fa54781b3b3f2c9ebd7"
+      },
+      "paragraph_characters": 2262,
+      "body_sha256": "6a5558b548713c9acb8893dc6cbd21a6d38e63198e651007c55e261615ca8abc"
+    },
+    {
+      "id": "beethoven-life-and-work",
+      "sources": [
+        {
+          "title": "로맹 롤랑 — Beethoven, 역사적 전기와 문서",
+          "url": "https://raw.githubusercontent.com/GITenberg/Beethoven_55941/master/55941-0.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1770년 본 출생·1792년 빈 이주·배움과 연주·1827년 사망",
+            "청력 저하와 1802년 하일리겐슈타트 유서·편지",
+            "작곡과 수정·후원·생활의 어려움·교향곡 제9번 등 후기 작업"
+          ],
+          "status": 200,
+          "sha256": "6c5d9f192b563c2720f35fd2fdc05ee3cf8753c262b7017fc53ccd8cbaab1c27"
+        },
+        {
+          "title": "Beethoven — 작품·문서·초상 도판의 판본",
+          "url": "https://raw.githubusercontent.com/GITenberg/Beethoven_55941/master/55941-h/55941-h.htm",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1814년 루이 레트론 드로잉을 바탕으로 한 블라지우스 회펠 판화 캡션"
+          ],
+          "status": 200,
+          "sha256": "08fd125ee782f59ec20e1dec439fac9d17ca18fbbc94e77fedda1c5985f5d1cf"
+        }
+      ],
+      "review_method": "원문·악보·역사적 해설과 실제 이미지를 대조. 사실·감상·후대 전승을 구분하고 한국어로 새로 작성.",
+      "editorial_limits": "정확히 확인되지 않은 출생일과 유명한 초연의 박수 장면을 덧붙이지 않음. 청력 손상의 의학적 원인·모든 갈등을 단정하지 않음. 예술이 고통의 자동적 산물이라는 설명과 로맨스의 전승을 채택하지 않음. 초상은 1814년 드로잉을 바탕으로 한 판화로 식별.",
+      "image": {
+        "file": "content/images/beethoven-life-and-work.jpg",
+        "alt": "루이 레트론의 1814년 드로잉을 바탕으로 한 베토벤의 역사적 판화 초상.",
+        "type": "artwork",
+        "label": "역사적 초상 재현 도판",
+        "credit": "루이 레트론 드로잉을 바탕으로 블라지우스 회펠이 제작한 베토벤 초상 · 롤랑 전기 수록 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Beethoven_55941/master/55941-h/images/ilo_pag64.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 518,
+        "height": 671,
+        "sha256": "1d427b0be66186033c6752a4a5626f36d3d25e479aa82b75d43582e7a3a970f7"
+      },
+      "paragraph_characters": 2412,
+      "body_sha256": "d2c52940b8f54e442bb14589a87c3a5a73d52a7480dba47d37f968b14dc3cbf7"
+    },
+    {
+      "id": "rembrandt-life-self-portraits",
+      "sources": [
+        {
+          "title": "Mortimer Menpes·C. Lewis Hind — Rembrandt, 역사적 전기·작품 해설",
+          "url": "https://raw.githubusercontent.com/GITenberg/Rembrandt_17215/master/17215.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "레이던의 배움·암스테르담 이주·사스키아·티투스·재정의 어려움·1669년 사망",
+            "해부학 강의·1642년 시민경비대 집단초상·자화상과 에칭·후기 작업",
+            "1640년 돌 난간에 기댄 자화상 도판과 생애의 작품 비교"
+          ],
+          "status": 200,
+          "sha256": "db6e0f5af595db8412421bb8ca88562f20da15456bc3236dc4f4947065ec8bf0"
+        },
+        {
+          "title": "Rembrandt — 실제 작품 도판과 캡션",
+          "url": "https://raw.githubusercontent.com/GITenberg/Rembrandt_17215/master/17215-h/17215-h.htm",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "illus07을 1640년 Rembrandt Leaning on a Stone Sill, 런던 소장 작품의 재현으로 식별"
+          ],
+          "status": 200,
+          "sha256": "0490bae4f963a16efe4ac61e0570dbbfef87b99f5bcd60c6b293ca554d145eaf"
+        }
+      ],
+      "review_method": "원문·악보·역사적 해설과 실제 이미지를 대조. 사실·감상·후대 전승을 구분하고 한국어로 새로 작성.",
+      "editorial_limits": "옛 전기의 야경 이후 몰락이라는 단일 원인설·모든 자화상의 심리 진단을 채택하지 않음. 사망과 매장 날짜를 혼동하지 않도록 정확한 일자는 생략. 슬라브 왕자 초상을 확정된 자화상으로 쓰지 않고 1640년 자화상을 선택.",
+      "image": {
+        "file": "content/images/rembrandt-life-self-portraits.jpg",
+        "alt": "1640년 렘브란트가 돌 난간에 기대 선 자신의 모습을 그린 초상의 옛 재현 도판.",
+        "type": "artwork",
+        "label": "실제 자화상 재현 도판",
+        "credit": "렘브란트 원작 · 1640년 자화상 · Mortimer Menpes 전기 수록 재현 도판 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Rembrandt_17215/master/17215-h/images/illus07.jpg",
+        "license": "퍼블릭 도메인 원작의 역사적 재현 자료 · Project Gutenberg 수록본",
+        "width": 734,
+        "height": 916,
+        "sha256": "aed00c0b7c58db0b338cc900760b85b0d440c05398574b190845bbe9783d8367"
+      },
+      "paragraph_characters": 2417,
+      "body_sha256": "3970cea2f42b1ff58507594bd45fffed88d4299bcc39019354e9eb79524bd41d"
+    },
+    {
+      "id": "descartes-method-and-doubt",
+      "sources": [
+        {
+          "title": "르네 데카르트 — Discourse on the Method, John Veitch 번역",
+          "url": "https://raw.githubusercontent.com/GITenberg/Discourse-on-the-Method-of-Rightly-Conducting-One-s-Reason-and-of-Seeking-Truth-in-the-Sciences_59/master/59.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "배움과 여행의 회고·방법의 네 규칙",
+            "분명한 근거·문제 나누기·순서와 전체 점검",
+            "감각과 꿈의 의심·생각과 존재·도덕과 신에 관한 후속 논의"
+          ],
+          "status": 200,
+          "sha256": "0dde3687bda0a3c2d0e64f938483d2144d6db2194395d37d245c0dfc12c54495"
+        },
+        {
+          "title": "방법서설 서지·인물 정보",
+          "url": "https://raw.githubusercontent.com/GITenberg/Discourse-on-the-Method-of-Rightly-Conducting-One-s-Reason-and-of-Seeking-Truth-in-the-Sciences_59/master/metadata.yaml",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "데카르트 1596~1650·1637년 프랑스어 작품의 출간과 제4부의 유명한 문장"
+          ],
+          "status": 200,
+          "sha256": "ea63b94b69afa3fed0d5ef9a4ddd5fcf42f94c891d0ae5ad26f63f5815c0b652"
+        },
+        {
+          "title": "방법서설 1649년 영문판 — 표제면과 본문",
+          "url": "https://raw.githubusercontent.com/GITenberg/A-Discourse-of-a-Method-for-the-Well-Guiding-of-Reasonand-the-Discovery-of-Truth-in-the-Scien__25830/master/25830-h/25830-h.htm",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "런던 Thomas Newcombe 인쇄·MDCXLIX 표기·후대 영문판이라는 판본 식별"
+          ],
+          "status": 200,
+          "sha256": "6d55f71721dec127ac1a63d290eb8a8ed77cf41693add051e21352763a3249da"
+        }
+      ],
+      "review_method": "원문·악보·역사적 해설과 실제 이미지를 대조. 사실·감상·후대 전승을 구분하고 한국어로 새로 작성.",
+      "editorial_limits": "방법서설·성찰·다른 저서의 문장을 혼동하지 않음. 네 규칙에 대한 현대 예시는 별도로 표시. 코기토를 모든 개인 의견의 참으로 해석하지 않음. 1649년 영문판 표제면과 1637년 프랑스어 초판·친필 원고를 구분.",
+      "image": {
+        "file": "content/images/descartes-method-and-doubt.png",
+        "alt": "1649년 런던에서 인쇄한 방법서설 영문판의 실제 표제면. Method와 Reason이라는 단어 및 출판 연도가 보입니다.",
+        "type": "artwork",
+        "label": "역사적 원문 표제면",
+        "credit": "방법서설의 1649년 영문판 표제면 · 프랑스어 초판·친필 원고가 아님 · Project Gutenberg",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/A-Discourse-of-a-Method-for-the-Well-Guiding-of-Reasonand-the-Discovery-of-Truth-in-the-Scien__25830/master/25830-page-images/f002.png",
+        "license": "퍼블릭 도메인 역사적 인쇄물의 재현 자료",
+        "width": 1734,
+        "height": 2802,
+        "sha256": "a35accc96232f21b7219780aa983d31167322e2c20e7e0eaad5ab4a3be49e4d8"
+      },
+      "paragraph_characters": 2335,
+      "body_sha256": "9aac24dd20ffdfc3fb65f2a9eb3a479faafb3261961b03db70bdd57b79f5ddaf"
+    }
+  ]
+}

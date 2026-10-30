@@ -15,7 +15,10 @@
     "marcus-aurelius-meditations"
   ],
   "scope": "직전 검토 원고 10편만 공개 승인. 다음 새 원고는 검토용.",
-  "deployment_status": "prepared",
+  "deployment_status": "live_verified",
   "expected_live_story_count": 108,
-  "public_collection_url": "https://knowledgewalk.net/collections/20261030-ten-stories-and-scores/index.html"
+  "public_collection_url": "https://knowledgewalk.net/collections/20261030-ten-stories-and-scores/index.html",
+  "live_story_count": 108,
+  "verified_new_story_count": 10,
+  "verification": "홈페이지·검색·모음·개별 원고 10개·이미지 10개를 실제 HTTPS 주소에서 공개 빌드와 바이트 대조."
 }
