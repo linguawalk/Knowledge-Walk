@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "짧은 음형의 반복과 변화, 마지막 악장으로 이어지는 흐름을 실제 악보와 함께 살펴봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 지금 내용들 홈페이지 게시 요청",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "알렉산더 티트겐 — Beethoven’s Symphonies Critically Discussed 원문",

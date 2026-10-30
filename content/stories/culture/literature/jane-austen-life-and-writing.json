@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Literature",
   "summary": "가족 전기와 편지를 통해 익숙한 연애소설 뒤의 작가 생활을 따라갑니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 지금 내용들 홈페이지 게시 요청",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "Austen-Leigh — Jane Austen: Her Life and Letters, 가족 전기와 편지",

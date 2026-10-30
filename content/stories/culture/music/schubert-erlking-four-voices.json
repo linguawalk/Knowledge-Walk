@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "괴테의 시에 붙인 가곡의 줄거리와 각 인물의 소리를 따라 듣습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 지금 내용들 홈페이지 게시 요청",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "Mutopia — 슈베르트 Erlkönig D.328, 성악·피아노 악보",

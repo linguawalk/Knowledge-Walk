@@ -1,0 +1,21 @@
+{
+  "id": "ten-stories-and-scores-publication-20261030",
+  "approved_at": "2026-10-30",
+  "user_request": "지금 내용들을 홈페이지에 게시하고 다른 10개를 만들어 주세요",
+  "story_ids": [
+    "oz-wizard-road-and-home",
+    "eighty-days-time-and-travel",
+    "beethoven-fifth-four-notes",
+    "schubert-erlking-four-voices",
+    "rembrandt-emmaus-light",
+    "millet-gleaners-harvest",
+    "titian-man-with-glove",
+    "leonardo-life-of-observation",
+    "jane-austen-life-and-writing",
+    "marcus-aurelius-meditations"
+  ],
+  "scope": "직전 검토 원고 10편만 공개 승인. 다음 새 원고는 검토용.",
+  "deployment_status": "prepared",
+  "expected_live_story_count": 108,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261030-ten-stories-and-scores/index.html"
+}

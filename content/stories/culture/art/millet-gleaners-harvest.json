@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Art",
   "summary": "세 사람의 몸과 넓은 들판을 따라 일과 분배를 생각하게 하는 화면을 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "사용자 — 지금 내용들 홈페이지 게시 요청",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 밀레와 Plate LII",
