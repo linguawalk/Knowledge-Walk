@@ -7,7 +7,7 @@
 | 소주제 | 이야기 |
 |---|---:|
 | [Computers](computers/README.md) | 3편 |
-| [Software](software/README.md) | 10편 |
-| [Internet](internet/README.md) | 7편 |
-| [Programming](programming/README.md) | 1편 |
+| [Software](software/README.md) | 11편 |
+| [Internet](internet/README.md) | 8편 |
+| [Programming](programming/README.md) | 2편 |
 | [Artificial-Intelligence](artificial-intelligence/README.md) | 1편 |

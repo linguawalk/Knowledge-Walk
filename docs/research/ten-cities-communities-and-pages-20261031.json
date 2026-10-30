@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-31",
+  "batch_id": "20261031-ten-cities-communities-and-pages",
+  "status": "source_checked_user_publication_approval_pending",
+  "method": "읽은 원문과 사실을 대조한 뒤 독립적으로 한국어 원고를 집필. 교재 문장을 번역·재배열하지 않음. 실제 자료·가상 예·삽화의 역할을 구분.",
+  "sources": [
+    {
+      "key": "borobudur",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00129/index.cnxml",
+      "sha256": "4ea0b0ae6c177ff45731895c2ce3afd042ac213f955b73ffe8d4716b1e77ee8d",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "샤일렌드라 왕조의 불교 후원·순례와 교역",
+        "1913년 사진·부조 패널과 72개 스투파"
+      ]
+    },
+    {
+      "key": "newyork",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00076/index.cnxml",
+      "sha256": "d51084c1a82780962fe47d246f658dcf9a46e94cfb4a2a65c55dbcd3d156866d",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "네덜란드 정착과 허드슨강의 모피 교역·원주민과의 충돌",
+        "노예화된 아프리카인의 방어 시설 건설·월스트리트",
+        "1664년 영국 원정과 이름 변경·빙본스의 그림"
+      ]
+    },
+    {
+      "key": "kyoto",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00155/index.cnxml",
+      "sha256": "cdcc7cb500991301d503768c1b05e367430b449c523d6cbbb111177c4d0bf314",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "794년 수도 이전·후지와라 가문·가나의 발전",
+        "무라사키 시키부의 궁정 생활과 소설·17세기 눈놀이 그림"
+      ]
+    },
+    {
+      "key": "mohenjo",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00107/index.cnxml",
+      "sha256": "ca73deafebacd3104e55773953b04accc91f940aab6aaa01f5ac34cf7bb44eac",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "하라파 명칭·도시 구획·배수와 생산 활동",
+        "인장의 점토 압인·우르의 인더스 인장·메소포타미아 교역",
+        "미해독 문자·실제 인장과 현대 압인의 구별"
+      ]
+    },
+    {
+      "key": "harley",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-business/main/modules/m67739/index.cnxml",
+      "sha256": "567b9ce8b7bae421325299e1c69b2a80850c3d47da2fd597238a1faec0db66fe",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "액세서리와 맞춤 상담·고객의 서로 다른 경험",
+        "H.O.G. 모임·경험 많은 소유자의 안내·온라인 모임과 간행물"
+      ]
+    },
+    {
+      "key": "airbnb",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-business/main/modules/m67683/index.cnxml",
+      "sha256": "8294065c1a6de554ba77a979ce03ff7a51bae41e72962955fb5f736b9fca320d",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "체스키와 게비아의 에어 매트리스 초기 사례",
+        "2012년 NabeWise 인수·낯선 동네 정보의 의미"
+      ]
+    },
+    {
+      "key": "airbnbethics",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-business-ethics/main/modules/m66986/index.cnxml",
+      "sha256": "80691b4b9864e172186447dbfc0d59e931f3ba9aabce8c2dd1598335fffaf6e5",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "자산의 소유와 이용·온라인 플랫폼의 중개",
+        "거래의 신뢰·단기 임대의 세금과 안전·지역별 규칙 논의"
+      ]
+    },
+    {
+      "key": "boxed",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-of-management-bundle/main/modules/m70650/index.cnxml",
+      "sha256": "14e79ff82f91822db748cb92c729b6b6c38c061e4c3a528cc0e9ff805c00ef33",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "차 없는 도시 생활과 창고형 구매의 불편",
+        "대용량 상품의 모바일 주문·물류센터·공급자·자체 상표",
+        "당시 직원 지원과 브랜드 이미지 사례. 현재 기업 상태의 근거가 아님"
+      ]
+    },
+    {
+      "key": "css",
+      "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/styling_basics/what_is_css/index.md",
+      "sha256": "fa82599ce9f4dafbc0fe935ede4f0835c3d2d59a774fb691963de468eaa68edb",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "HTML 문서 구조와 CSS 표현·브라우저 기본 스타일",
+        "공통 요소에 적용하는 규칙·색과 간격·배치",
+        "외부 CSS 파일·브라우저의 문서와 표현 연결"
+      ]
+    },
+    {
+      "key": "csv",
+      "url": "https://raw.githubusercontent.com/python/cpython/main/Doc/library/csv.rst",
+      "sha256": "6aaaa95c41d787c807c8779e9a7b5e013aeffffe4900aebc6b58b0bb0ae40d86",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "표의 텍스트 전달·구분자와 따옴표·프로그램별 관례",
+        "기본 문자열 읽기·자료형 옵션·첫 행을 항목 이름으로 읽기"
+      ]
+    },
+    {
+      "key": "alt",
+      "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/html_images/index.md",
+      "sha256": "71f9a1752978e0929314d8b1c70596fdf8e8167a77d03b7ec8a5b8ecb2b3c1a4",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "이미지 미표시·화면 읽기 프로그램과 대체 텍스트",
+        "정보·장식·링크별 목적·빈 대체 텍스트",
+        "본문에서의 정보 제공·중복을 피하는 설명"
+      ]
+    }
+  ],
+  "actual_images": {
+    "borobudur": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A05_03_Borobudur.jpg",
+      "extension": ".jpg",
+      "caption": "This 1913 photograph of the temple of Borobudur shows one side of the massive Buddhist structure with the local mountains in the background. In the upper left, one can see several of the seventy-two perforated stupas surrounding the central dome. Behind and to the left of the man posing for the photograph are just some of the over 2,600 decorated relief panels that adorn the site. (credit: modification of work “A terrace on the temple of Borobudur, Java, Indonesia, 1913” by State Library of New South Wales, PXD 162/150/Wikimedia Commons, Public Domain)",
+      "license": "Public Domain",
+      "sha256": "b82e03c0c2b42704c6e9a4593174a1db01dd9c0001e296308a53022f17ea4682"
+    },
+    "newyork": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B06_01_Amsterdam.png",
+      "extension": ".png",
+      "caption": "This painting of early New Amsterdam, which later became New York City, was made in 1664 by the Dutch artist and cartographer Johannes Vingboons. (credit: “Gezicht op Nieuw Amsterdam” by Geheugen van Nederland/Wikimedia Commons, Public Domain)",
+      "license": "Public Domain",
+      "sha256": "0765b4cb80233719be99631022605ef6105abf093cf16ee151a4749664beb405"
+    },
+    "kyoto": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A12_03_TaleGenji1.jpg",
+      "extension": ".jpg",
+      "caption": "This scene from a seventeenth-century paper album rendered on paper and consisting of twenty-four album leaves shows the young female servants playing in the snow as Genji and Murasaki watch from their veranda. This scene of childish play was likely intended by the artist to emphasize the youthfulness of Murasaki. (credit: “The Tale of Genji (Genji Monogatari)” by Gift of Mary L. Cassilly, 1894/Metropolitan Museum of Art, Public Domain)",
+      "license": "Public Domain",
+      "sha256": "43797de90f0d4537696e305a38bfca50c277e1c5a5d88e8f26cc67400e396981"
+    },
+    "mohenjo": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A03_04_IndusSeal2.jpg",
+      "extension": ".jpg",
+      "caption": "On the left is a seal from the Indus valley civilization, and on the right is a modern clay impression made from it. Such seals typically showed animals and a script that remains to be deciphered. (credit: modification of work \"Stamp seal and modern impression: unicorn and incense burner (?)\" by Dodge Fund, 1949/The Metropolitan Museum of Art, Public Domain)",
+      "license": "Public Domain",
+      "sha256": "ee5f796db9e3cce49b54d01734c971184cec398655adf161e20cc857daaabac4"
+    }
+  },
+  "ai_images": [
+    {
+      "story_id": "harley-davidson-riders-and-community",
+      "credit": "AI 관련 삽화 · 일반적인 라이더들의 만남과 여행 준비를 표현했습니다. 실제 모임이나 할리데이비슨의 특정 차종을 재현하지 않았습니다.",
+      "sha256": "eccdeba40c2846a731c8687c3273d538f6ae9c378e1b6b74b330b4f2e65b6b76"
+    },
+    {
+      "story_id": "airbnb-room-and-neighborhood",
+      "credit": "AI 관련 삽화 · 집주인과 여행자의 상상 속 만남입니다. 실제 창업자·등록 숙소·이용자의 사진이 아닙니다.",
+      "sha256": "c18ec079d8cfd319be7d29dc2811d881e4b9c09bd8c1a798fb7dae3b256cff1e"
+    },
+    {
+      "story_id": "boxed-bulk-shopping-without-car",
+      "credit": "AI 관련 삽화 · 도시 주거지의 일반적인 생활용품 배송 장면입니다. 실제 박스드의 포장·직원·배송 방식을 재현하지 않았습니다.",
+      "sha256": "61ba8cfe673af874d860069c29bcfd951eabfec1083c566a26f6a47a254b966e"
+    },
+    {
+      "story_id": "css-same-words-different-page",
+      "credit": "AI 관련 삽화 · 원고의 지면 표현을 비교하는 분위기 그림입니다. 실제 CSS 실행 결과나 브라우저 표시 실험 자료는 아닙니다.",
+      "sha256": "0b0551fbe2670931b405ede6587b3fbc8a0b4c4d38acd624f01ac1afe9b6a406"
+    },
+    {
+      "story_id": "csv-comma-inside-a-cell",
+      "credit": "AI 관련 삽화 · 기록 카드를 정리하는 분위기 그림입니다. 실제 CSV 파일이나 실행 결과를 표시한 도식은 아닙니다.",
+      "sha256": "18f5e630be121a64024faa762b268ccfeecab4e3e15d63e7eaa24d972c8cd118"
+    },
+    {
+      "story_id": "alt-text-image-in-words",
+      "credit": "AI 관련 삽화 · 가상의 그림을 함께 감상하며 설명하는 장면입니다. 실제 박물관 작품이나 현장 안내를 재현하지 않았습니다.",
+      "sha256": "1b8c27f806e117e9586a5091985c8cabb852faca3527c8948ea2b99e124b31c6"
+    }
+  ],
+  "notes": [
+    "사진·역사 그림·유물 사진 4장의 개별 Public Domain 표기를 확인. 원본 파일 변경 없이 복사. 교재 본문의 라이선스를 이미지에 일괄 적용하지 않음.",
+    "이미지 10장의 장면을 육안으로 확인. AI 삽화 6장은 실제 기업의 제품·인물·현장이나 코드 실행 결과를 재현하지 않음.",
+    "인더스 자료의 스투파 연대 설명과 바나나 재배, 문자 음가 등의 논쟁적 단정은 원고에 사용하지 않음. 인더스 인장 이미지의 구체적 출토지를 하라파라고 주장하지 않음.",
+    "교토의 17세기 겐지 그림은 11세기 궁정의 현장 기록이 아님. 소설의 배경·화첩 제작 시대를 분리.",
+    "뉴욕은 네덜란드 식민 도시 설립 연도와 원주민 선주를 구별하고 노예화된 아프리카인의 강제 노동을 설명.",
+    "박스드는 2016년 인터뷰를 바탕으로 한 교재의 초기 사업 사례로 한정. 현재 기업 상태나 이후 지속 성장의 근거로 사용하지 않음. 에어비앤비 기업가치·올림픽 계약·현재 도시별 법률 등은 생략.",
+    "CSS 파일의 구조와 표현 역할만 설명하며 복잡한 우선순위의 규칙을 단순한 마지막 규칙 우선으로 축약하지 않음.",
+    "CSV의 가상 한 줄을 Python csv.reader로 읽어 제목 안의 쉼표 유지와 두 항목 분리를 재현. 출력은 validation.csv_example.parsed에 정확히 기록.",
+    "처음 조사한 앙코르·스타벅스·사우스웨스트 자료는 최종 원고의 근거로 인용하지 않음."
+  ],
+  "validation": {
+    "unit_tests": "34 passed",
+    "browser": "All 10 new stories at 1440px desktop and 390px mobile; images decoded, source links present, no horizontal overflow or JavaScript errors",
+    "manuscripts": 191,
+    "approved_live_articles": 178,
+    "new_drafts": 10,
+    "new_drafts_published": false,
+    "schedules_enabled": false,
+    "csv_example": {
+      "input": "\"바다, 그리고 집\",서울",
+      "parsed": [
+        [
+          "바다, 그리고 집",
+          "서울"
+        ]
+      ]
+    }
+  }
+}

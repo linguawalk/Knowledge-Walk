@@ -5,6 +5,7 @@
 | 이야기 | 확인 상태 |
 |---|---|
 | [컴퓨터의 시계 — 오전 1시가 두 번 오는 날](computer-time-repeated-hour.md) | 자료 대조·공개 게시 승인 완료 |
+| [CSS — 같은 글이 다른 얼굴로 보이는 이유](css-same-words-different-page.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [웃는 이모지에도 번호표가 있다](emoji-number-tags.md) | 자료 대조·공개 게시 승인 완료 |
 | [최종본, 진짜 최종본 — 깃은 무엇을 기억할까](git-saving-many-versions.md) | 자료 대조·공개 게시 승인 완료 |
 | [사진 파일은 어떻게 가벼워졌을까 — JPEG의 작은 타협](jpeg-small-photo-file.md) | 자료 대조·공개 게시 승인 완료 |
