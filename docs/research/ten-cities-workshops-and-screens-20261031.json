@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-31",
+  "batch_id": "20261031-ten-cities-workshops-and-screens",
+  "status": "source_checked_user_publication_approval_pending",
+  "method": "원문을 읽고 핵심 사실을 대조한 뒤 독립적으로 한국어 서술. 교재 문장을 번역·복제하지 않음. 역사적 서술과 현재 운영 현황을 구분.",
+  "sources": [
+    {
+      "key": "world141",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00141/index.cnxml",
+      "sha256": "76eac3025af4e4f5c5cc0e35f82bb4e959bd3272bf0dfbae8680f136955d5390",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "이시스 신앙의 이집트 기원과 로마 세계 전파",
+        "폼페이 신전의 건립·62년 지진 이후 재건·공간 구성"
+      ]
+    },
+    {
+      "key": "world133",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00133/index.cnxml",
+      "sha256": "a8a6cebb6935ecebc371057bf21d59d1be8cda4fd038ee48994fd0929c68baae",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "아테나 신전과 아크로폴리스 재건",
+        "델로스 동맹의 공납·아테네의 영향력·민주정의 배제"
+      ]
+    },
+    {
+      "key": "world61",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00061/index.cnxml",
+      "sha256": "44182f43bc20bd863e7071cc6cf43d684517a29254816dc9c2f5ac5e449cc85c",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "1598년 수도 이전·광장의 시장과 궁정·폴로와 행사",
+        "차하르바그·강제 이주와 교역의 관계"
+      ]
+    },
+    {
+      "key": "world134",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00134/index.cnxml",
+      "sha256": "d8e4ce84af99d06b0ee97b8fb1c0fcba1f286caafab83b0f751992710c263187",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "기원전 331년 도시 건설·프톨레마이오스 왕조",
+        "무세이온과 학문·왕실 후원·언어와 문화의 교류"
+      ]
+    },
+    {
+      "key": "dellorigin",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-of-management-bundle/main/modules/m70714/index.cnxml",
+      "sha256": "c6f8a0c48bd107979a6767315b6cf9a8693cbb0d992303d22a125d01a9abd693",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "기숙사에서 시작한 컴퓨터 조립·고객 요청",
+        "제조자와 고객을 직접 연결하는 전략"
+      ]
+    },
+    {
+      "key": "dellsupply",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-business/main/modules/m67743/index.cnxml",
+      "sha256": "ddf1f595c4892e3a970213b679ca2c2a9414795c04c6203da2e9aafa8c74254b",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "주문에 따른 구성 선택",
+        "부품 공급·계약 제조·조립과 배송의 조정"
+      ]
+    },
+    {
+      "key": "postit",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-of-management-bundle/main/modules/m70705/index.cnxml",
+      "sha256": "b39aee11696ec070dd957a3b43061e6c84088c39f986d4e75afd9ef1ce60b8f0",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "스펜서 실버의 접착 소재·아트 프라이의 찬송가 책갈피",
+        "소재와 사용 문제의 만남·제품 개발"
+      ]
+    },
+    {
+      "key": "innovation",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-of-management-bundle/main/modules/m70713/index.cnxml",
+      "sha256": "c7a72acc11c9c8138c010247897c3a42ec49425a717467af08cb54baa0ea0af8",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "3M의 아이디어 실험 사례",
+        "자율적인 탐색 시간과 조직의 지원"
+      ]
+    },
+    {
+      "key": "bmw",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-of-management-bundle/main/modules/m70638/index.cnxml",
+      "sha256": "ca61a84260020976b2e838bbee70ac6be9a4d48f64510a96d6dfc65bd9584063",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "스파턴버그 생산의 교재 사례",
+        "고객 접근·국경의 장벽·현지 생산과 국제적 연결"
+      ]
+    },
+    {
+      "key": "internet",
+      "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/howto/web_mechanics/how_does_the_internet_work/index.md",
+      "sha256": "8df6976307c1130b8efa2cd7f4231c35dd899f33968e2b51ef3c45f71ce634d5",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "유선·무선 네트워크와 라우터·서비스 제공자",
+        "인터넷과 웹·내부 네트워크의 구분"
+      ]
+    },
+    {
+      "key": "zoneinfo",
+      "url": "https://raw.githubusercontent.com/python/cpython/main/Doc/library/zoneinfo.rst",
+      "sha256": "63062c1b17cedb2680f5cd309edd8311080af2ae4a88d228c51be8c14418c529",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "IANA 시간대 데이터",
+        "2020년 로스앤젤레스 서머타임 종료와 반복되는 오전 1시"
+      ]
+    },
+    {
+      "key": "datetime",
+      "url": "https://raw.githubusercontent.com/python/cpython/main/Doc/library/datetime.rst",
+      "sha256": "b09f78849044d04dbb8ad3fb20623c2240b18ed5cbca65d12850375f45dd17d4",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "시각의 시간대 정보 유무와 UTC 오프셋",
+        "반복되는 현지 시각의 구분"
+      ]
+    },
+    {
+      "key": "svg",
+      "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/web/svg/tutorials/svg_from_scratch/introduction/index.md",
+      "sha256": "1afc03ab645c9eeef29d843818a3d9b747aba44bb550f587c6a94db8eb0c3fac",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "XML 기반 도형과 곡선·묶음·효과",
+        "래스터 포함 가능성과 표시 환경의 차이"
+      ]
+    },
+    {
+      "key": "svg2",
+      "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/web/svg/index.md",
+      "sha256": "9eb4fa2692c147a6367a1a8493aa7547effc4090b0e5bb8e8bde892a42ee5726",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "확대 가능한 벡터 도형 표현",
+        "픽셀 기반 이미지와의 차이"
+      ]
+    }
+  ],
+  "actual_images": {
+    "pompeii": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A07_04_Temple.png",
+      "caption": "This is the front of the excavated Temple of Isis, in its small courtyard, as it looks today in Pompeii. (credit: modification of work “Pompeii. Temple of Isis” by Istvánka/Wikimedia Commons, Public Domain)",
+      "module": "m00141",
+      "extension": ".png",
+      "sha256": "c52cd7c3e02082cd3f92c77d90bb9b6f235005f3928db0757befb54d3dd9943c"
+    },
+    "athens": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A06_02_Parth.jpg",
+      "caption": "The large and sumptuous Parthenon, seen here as it is today, was built on the Athenian Acropolis in the fifth century BCE in honor of Athena. Following the temple’s destruction in the Persian War, Athens set out to rebuild it using tribute money, which angered some of the other Greek city-states. (credit: “The Parthenon Athens” by Steve Swayne/Flickr, Public Domain)",
+      "module": "m00133",
+      "extension": ".jpg",
+      "sha256": "b673d7742e1d5c21054d372232c0dc37455c1fd54e3b79326a3f27ac6aca62f4"
+    },
+    "isfahan": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B04_03_IsfahanSqu.jpg",
+      "caption": "The Shah Mosque, built by Abbas I, is located on the south side of Naqsh-e Jahan Square in the center of Isfahan. The square, a UNESCO World Heritage site, still serves as a gathering place today. (credit: “Naqsh-e Jahan Square” by Bijan Tehrani/Wikimedia Commons, CC BY 2.0)",
+      "module": "m00061",
+      "extension": ".jpg",
+      "sha256": "6d33322b5d692de08035897e792c964ca7ec0960ad75480f47bd1823ed3d3935"
+    }
+  },
+  "ai_images": [
+    {
+      "story_id": "alexandria-museion-and-books",
+      "credit": "AI 관련 삽화 · 항구 도시에서 학문을 살피는 분위기를 표현했습니다. 고대 도서관의 실제 내부나 특정 학자를 복원한 그림은 아닙니다.",
+      "sha256": "a9c22499515a7f60d5806e1f76d76aa8909eac57fa7eb7857694a6cd4de48e4d"
+    },
+    {
+      "story_id": "dell-order-before-computer",
+      "credit": "AI 관련 삽화 · 주문에 맞춘 컴퓨터 구성의 개념을 표현했습니다. 마이클 델이나 실제 기숙사·제품을 재현한 그림은 아닙니다.",
+      "sha256": "ad17322868dfe4c5be2087ae49a083e9f7c40802e689cb4071702732d033590e"
+    },
+    {
+      "story_id": "postit-weak-glue-new-use",
+      "credit": "AI 관련 삽화 · 책에 탈착식 표시를 붙이는 상황을 표현했습니다. 실제 발명 당시의 인물이나 최초 시제품을 재현하지 않았습니다.",
+      "sha256": "1d7b020b7aa3a0d2a6523840ffcb64d92495a0f608bdbc5d40980b7de7bcc828"
+    },
+    {
+      "story_id": "bmw-car-made-across-borders",
+      "credit": "AI 관련 삽화 · 국제 생산을 떠올리는 일반적인 자동차 작업 장면입니다. BMW의 실제 공장이나 특정 차종을 묘사한 자료는 아닙니다.",
+      "sha256": "3a311bc6b308fd8d03b14faad2e9b349a7224f9c6d7c22744c6dd0cda6bb5547"
+    },
+    {
+      "story_id": "wifi-connected-without-internet",
+      "credit": "AI 관련 삽화 · 집 안의 연결을 떠올리는 분위기 그림입니다. 실제 장비의 성능·전파 범위·접속 상태를 측정한 자료는 아닙니다.",
+      "sha256": "5e9049cbd52882d45c8f8eaf7260544433cf68d732d6a8d2878d1614d876d9d6"
+    },
+    {
+      "story_id": "computer-time-repeated-hour",
+      "credit": "AI 관련 삽화 · 여행과 일정의 분위기를 표현했습니다. 실제 항공권이나 시각 차이를 비교한 도표는 아닙니다.",
+      "sha256": "bdf89a48290da9ef8ab0a6a7f33d7d470668494c40352f7c319bc450e26648a3"
+    },
+    {
+      "story_id": "svg-shapes-not-fixed-pixels",
+      "credit": "AI 관련 삽화 · 도형의 모양을 살피는 작업 장면입니다. 이 PNG 삽화 자체가 SVG이거나 실제 확대 비교 실험 자료는 아닙니다.",
+      "sha256": "be8b0de57b7f3c5fdb3ceebebb7882774a0df131b74fa1b87fb28bef120c7d78"
+    }
+  ],
+  "notes": [
+    "실제 사진 3장의 개별 크레디트에 명시된 Public Domain / CC BY 2.0을 확인. 교재 본문 라이선스를 이미지에 일괄 적용하지 않음. 사진 원본 파일 변경 없음.",
+    "IANA 시간대 예시는 Python zoneinfo로 2020-11-01T08:00Z와 09:00Z를 변환하여 각각 01:00-07:00 / 01:00-08:00으로 재현. 현재 서머타임 일정 안내가 아님.",
+    "BMW의 생산 사례는 교재 당시의 설명으로 한정. 현재 차종·관세·공장 생산 수치로 확대하지 않음.",
+    "알렉산드리아 인구·장서 수·소실 일화의 불확실한 수치와 단일 사건 설명은 생략. 폼페이 의례 장면을 창작하지 않음.",
+    "이미지 10장을 눈으로 확인. AI 삽화 7장은 실제 인물·공장·고대 건물의 복원이 아님을 명시.",
+    "MDN Wi-Fi 용어 페이지 요청은 404였으므로 인용하지 않고, 실제 읽은 인터넷 작동 원문을 사용."
+  ],
+  "validation": {
+    "unit_tests": "34 passed",
+    "browser": "10 articles at desktop 1440px and mobile 390px; all images decoded; source links present; no horizontal overflow or JavaScript errors",
+    "manuscripts": 181,
+    "public_articles": 168,
+    "new_articles_published": false,
+    "schedules_enabled": false
+  }
+}
