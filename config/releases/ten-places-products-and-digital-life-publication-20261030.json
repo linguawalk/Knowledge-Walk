@@ -1,0 +1,20 @@
+{
+  "id": "ten-places-products-and-digital-life-publication-20261030",
+  "approved_at": "2026-10-30",
+  "user_request": "홈페이지 게시",
+  "story_ids": [
+    "istanbul-hagia-sophia-many-times",
+    "cahokia-mound-and-plaza",
+    "great-zimbabwe-stone-and-trade",
+    "samarkand-registan-and-learning",
+    "toyota-inventory-and-timing",
+    "patagonia-climbing-gear-and-rock",
+    "away-suitcase-and-travel-book",
+    "dns-names-and-addresses",
+    "zip-files-and-repetition",
+    "ocr-picture-to-searchable-text"
+  ],
+  "deployment_status": "prepared",
+  "expected_live_story_count": 158,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261030-ten-places-products-and-digital-life/index.html"
+}
