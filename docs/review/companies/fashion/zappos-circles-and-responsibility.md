@@ -4,7 +4,7 @@
 
 Companies · Fashion
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![신발과 배송 상자가 놓인 사무실에서 동료들이 둥근 식탁에 모여 의논하는 AI 장면.](../../../../content/images/zappos-circles-and-responsibility.png)
 

@@ -63,11 +63,11 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "OpenStax World History — 중세 아프리카의 문화와 교역",

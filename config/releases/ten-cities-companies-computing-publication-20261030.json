@@ -1,0 +1,20 @@
+{
+  "id": "ten-cities-companies-computing-publication-20261030",
+  "approved_at": "2026-10-30",
+  "user_request": "홈페이지 게시하고 새로운 10개를 만들어 주세요",
+  "story_ids": [
+    "baghdad-round-city-and-books",
+    "timbuktu-trade-and-learning",
+    "tenochtitlan-lake-and-city",
+    "suzhou-grand-canal-and-city",
+    "netflix-envelope-to-streaming",
+    "sony-vinyl-records-return",
+    "zappos-circles-and-responsibility",
+    "unicode-letters-shared-numbers",
+    "png-transparent-background",
+    "qr-code-three-corners"
+  ],
+  "deployment_status": "prepared",
+  "expected_live_story_count": 148,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261030-ten-cities-companies-computing/index.html"
+}
