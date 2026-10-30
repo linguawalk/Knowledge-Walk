@@ -1,0 +1,514 @@
+{
+  "checked_at": "2026-10-30",
+  "scope": "직전 문화 10편은 사용자 요청으로 별도 게시. 이번 기업 3·컴퓨팅 4·금융 3편은 검토용이며 홈페이지에는 미게시.",
+  "general_limits": "과거 기업의 회고·광고와 중립적 사실을 구분. 컴퓨터 문서는 실제 확인 가능한 공식·프로젝트 문서에 근거. 원문을 길게 번역·복제하지 않고 한국어로 새 글 작성. 금융의 원화 수치는 가상의 원리 설명이며 실제 상품 추천이 아님.",
+  "access_note": "일부 기업·기관 본사이트는 이 환경의 접속 제한으로 읽을 수 없어 근거로 쓰지 않음. 실제 본문을 읽을 수 있는 공식 GitHub 문서·저자 원전·교재를 사용. 접근 실패를 이미지 저작권 제한으로 설명하지 않음.",
+  "stories": [
+    {
+      "id": "ford-moving-assembly",
+      "sources": [
+        {
+          "title": "헨리 포드·새뮤얼 크라우더 — My Life and Work, 조립 공정의 회고",
+          "url": "https://raw.githubusercontent.com/GITenberg/My-Life-and-Work_7213/master/7213.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/My-Life-and-Work_7213/master/7213.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "사람 대신 일이 이동하도록 하는 조립 원칙",
+            "1913년 마그네토 실험·섀시 이동·1914년 높이와 속도 조정; 경영자의 회고라는 한계"
+          ],
+          "status": 200,
+          "sha256": "e8b43cdc1b5363851b286c1daee8aa39d5acc264ed96bbafd0a7e4e79c36a1c2"
+        }
+      ],
+      "review_method": "실제로 받은 원문·개발 문서·공식 기관 모델을 읽고 사용한 사실의 범위와 대조. 사건을 꾸미지 않고 비유·감상·가상 계산을 별도로 표시.",
+      "editorial_limits": "경영자 회고의 주장과 사실 확인의 범위를 구별. 포드가 분업·조립라인을 세계 최초로 단독 발명했다고 단정하지 않음. 실험 수치로 노동자 전체의 만족을 추론하지 않음.",
+      "body_characters": 2554,
+      "body_sha256": "aa6b892b7ecff6b709288c87fd1b2d02a7a969bdbd3c9d046e284dc643eb5d3c",
+      "image": {
+        "file": "content/images/ford-moving-assembly.png",
+        "alt": "20세기 초 자동차 공장에서 작업자들이 이동하는 섀시의 여러 부분을 조립하는 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 특정 포드 공장의 설비·공정·인물을 복원한 자료가 아닌 원리와 분위기 삽화입니다.",
+        "width": 1774,
+        "height": 887,
+        "sha256": "3d0ad3d97c07ec364733872bd38a80bdbb0162206df977f097c21592647883fb",
+        "visual_check": "파일을 직접 보고 본문의 장면·대상과 대조. 실제 자료와 창작 분위기 이미지 구별. 원본 파일 그대로 사용.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "특정 포드 공장의 설비·공정·인물을 복원한 자료가 아닌 원리와 분위기 삽화",
+          "original_generated_file": "exec-b4d2aa30-ec19-40a0-9493-d5fe1fa6ac20.png"
+        }
+      }
+    },
+    {
+      "id": "kodak-camera-and-lessons",
+      "sources": [
+        {
+          "title": "Canadian Kodak Co. — Kodaks and Kodak Supplies, 1914 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/Kodaks-and-Kodak-Supplies-1914_33183/master/33183.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/Kodaks-and-Kodak-Supplies-1914_33183/master/33183.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "Kodak Service·쉬운 기구와 사용 안내라는 회사의 주장",
+            "No. 1 Brownie·1달러 표시 가격·1914년 5월 이후 Kodakery 구독 제공"
+          ],
+          "status": 200,
+          "sha256": "ff138bd2c46438c43b8481d96c7f9f0d5f273ab535ffa93282e85ad8ffdbb51a"
+        },
+        {
+          "title": "1914년 코닥 카탈로그 — 원문과 브라우니 실제 도판",
+          "url": "https://raw.githubusercontent.com/GITenberg/Kodaks-and-Kodak-Supplies-1914_33183/master/33183-h/33183-h.htm",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/Kodaks-and-Kodak-Supplies-1914_33183/master/33183-h/33183-h.htm",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "No. 1 Brownie 도판·가격표·토론토 주소를 쓰는 판본 확인"
+          ],
+          "status": 200,
+          "sha256": "eb462ae098c66e03086ec77766ae51ada64139bb96e2e43d41e7d9b64b6afcda"
+        }
+      ],
+      "review_method": "실제로 받은 원문·개발 문서·공식 기관 모델을 읽고 사용한 사실의 범위와 대조. 사건을 꾸미지 않고 비유·감상·가상 계산을 별도로 표시.",
+      "editorial_limits": "1914년 토론토 주소가 있는 판본의 가격·조건만 설명. 광고의 약속과 사용자 전체의 경험을 구분. 당시 1달러를 오늘의 체감 가격으로 단정하지 않음.",
+      "body_characters": 2644,
+      "body_sha256": "568cd8f6d06f7e323e4ea0064fb6acff49a79f0bd0bf5a20f537917b255034d8",
+      "image": {
+        "file": "content/images/kodak-camera-and-lessons.jpg",
+        "alt": "1914년 코닥 카탈로그의 No. 1 브라우니 상자형 카메라 실제 도판.",
+        "type": "artwork",
+        "label": "1914년 카탈로그 실제 도판",
+        "credit": "Canadian Kodak Co. · Kodaks and Kodak Supplies, 1914 · No. 1 Brownie, p.31 · Project Gutenberg 수록 도판",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Kodaks-and-Kodak-Supplies-1914_33183/master/33183-h/images/illus31a.jpg",
+        "license": "1914년 공개된 역사적 카탈로그의 퍼블릭 도메인 도판 · Project Gutenberg 수록본",
+        "width": 450,
+        "height": 298,
+        "sha256": "fc3e484827ec652c59f814cb3a3f5237f492132f8279a2e8ba1ebdd150fbeb93",
+        "visual_check": "파일을 직접 보고 본문의 장면·대상과 대조. 실제 자료와 창작 분위기 이미지 구별. 원본 파일 그대로 사용.",
+        "license_sources": [
+          "https://raw.githubusercontent.com/GITenberg/Kodaks-and-Kodak-Supplies-1914_33183/master/33183-h/33183-h.htm"
+        ]
+      }
+    },
+    {
+      "id": "microsoft-dos-open-archive",
+      "sources": [
+        {
+          "title": "마이크로소프트 공식 — MS-DOS 공개 자료 안내",
+          "url": "https://raw.githubusercontent.com/microsoft/MS-DOS/main/README.md",
+          "final_url": "https://raw.githubusercontent.com/microsoft/MS-DOS/main/README.md",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1.25·2.0 소스와 실행 파일 및 IBM·Microsoft 공동 4.00 소스",
+            "2014년 3월 25일 박물관 선공개·역사 참고용 원본 유지·MIT 라이선스·별도 복제 실험 방침"
+          ],
+          "status": 200,
+          "sha256": "d99f96705078d8919e50de06a427238374daa15a8cdfdfc25a63a1a47612fa70"
+        }
+      ],
+      "review_method": "실제로 받은 원문·개발 문서·공식 기관 모델을 읽고 사용한 사실의 범위와 대조. 사건을 꾸미지 않고 비유·감상·가상 계산을 별도로 표시.",
+      "editorial_limits": "공식 저장소의 제한된 공개 범위를 MS-DOS 전체 역사로 확대하지 않음. 공개 이유는 README에서 밝힌 접근·탐구·참조 목적에 한정. 현재 사용 적합성·기업의 미확인 내부 동기를 추론하지 않음.",
+      "body_characters": 2516,
+      "body_sha256": "f033b39bf76df1459262a21204a09a66b1fc5ecd580d70fd0310c14803cd60c6",
+      "image": {
+        "file": "content/images/microsoft-dos-open-archive.png",
+        "alt": "옛 개인용 컴퓨터와 플로피 디스크, 인쇄 기록을 보관 상자와 함께 살펴보는 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 MS-DOS 화면·기업 사무실·원본 코드 도판이 아닌 자료 보존 분위기 삽화입니다.",
+        "width": 1672,
+        "height": 941,
+        "sha256": "c58b7e2d2bbd7e091f889a40cbfa75e00e491f90ef8f89ba8e853d24e5f19fe8",
+        "visual_check": "파일을 직접 보고 본문의 장면·대상과 대조. 실제 자료와 창작 분위기 이미지 구별. 원본 파일 그대로 사용.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "실제 MS-DOS 화면·기업 사무실·원본 코드 도판이 아닌 자료 보존 분위기 삽화",
+          "original_generated_file": "exec-b502c260-7666-43a0-a185-8c053eea7e46.png"
+        }
+      }
+    },
+    {
+      "id": "web-links-shared-knowledge",
+      "sources": [
+        {
+          "title": "MDN Web Docs — 웹의 간략한 역사와 웹 표준",
+          "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/getting_started/web_standards/the_web_standards_model/index.md",
+          "final_url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/getting_started/web_standards/the_web_standards_model/index.md",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1989년 CERN 정보 관리 제안·1990~1991년 HTTP·HTML·브라우저·서버",
+            "웹과 인터넷의 구분·1994년 W3C 설립·공통 표준의 역할"
+          ],
+          "status": 200,
+          "sha256": "ad912792aed951922148280184405fa46c85ef9c1593e8429b02d0bb60198cd0"
+        }
+      ],
+      "review_method": "실제로 받은 원문·개발 문서·공식 기관 모델을 읽고 사용한 사실의 범위와 대조. 사건을 꾸미지 않고 비유·감상·가상 계산을 별도로 표시.",
+      "editorial_limits": "MDN의 역사 개관 중 확인한 웹 관련 항목만 사용. 초기 ARPANET의 TCP/IP 시점과 W3C가 JavaScript를 창안했다는 식의 부정확한 확대를 피함. 읽기 비유는 원고의 설명.",
+      "body_characters": 2474,
+      "body_sha256": "b8a8127efe43b9850f6bc566967d4e6fc611d8b3c89313260dea4afa8810503d",
+      "image": {
+        "file": "content/images/web-links-shared-knowledge.png",
+        "alt": "초기 개인용 컴퓨터와 여러 문서가 놓인 연구실에서 파란 리본이 자료를 잇는 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · CERN의 실제 방·팀 버너스리의 초상·최초 웹 화면을 복원한 자료가 아닌 분위기 삽화입니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "ee203483c1637848a05c7114449c74db3b7ae3261f124b6462cdebb5a1ed94c3",
+        "visual_check": "파일을 직접 보고 본문의 장면·대상과 대조. 실제 자료와 창작 분위기 이미지 구별. 원본 파일 그대로 사용.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "CERN의 실제 방·팀 버너스리의 초상·최초 웹 화면을 복원한 자료가 아닌 분위기 삽화",
+          "original_generated_file": "exec-1b3bfe07-f28d-4893-ae30-6097a0bc4a8e.png"
+        }
+      }
+    },
+    {
+      "id": "jpeg-small-photo-file",
+      "sources": [
+        {
+          "title": "libjpeg-turbo — Independent JPEG Group 구현 문서",
+          "url": "https://raw.githubusercontent.com/libjpeg-turbo/libjpeg-turbo/main/README.ijg",
+          "final_url": "https://raw.githubusercontent.com/libjpeg-turbo/libjpeg-turbo/main/README.ijg",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "사진과 부드러운 색·밝기 변화에 적합한 압축",
+            "일반적인 손실 압축·날카로운 경계의 흔적·품질과 압축의 타협; 손실 없는 기능도 존재"
+          ],
+          "status": 200,
+          "sha256": "75815e3bf6484201a3c3d17a1bbf10f2e8e3237f84df10a2357ea896db2a81d6"
+        },
+        {
+          "title": "MDN Web Docs — JPEG 용어 설명",
+          "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/glossary/jpeg/index.md",
+          "final_url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/glossary/jpeg/index.md",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "Joint Photographic Experts Group 명칭·손실 압축",
+            "색 세부와 밝기 세부에 대한 시각 민감도·색 정보 축소 및 변환·양자화"
+          ],
+          "status": 200,
+          "sha256": "874241891ff8267e844d8fe0fcd221268f418312d72455bfdaaf9e5e0a174039"
+        }
+      ],
+      "review_method": "실제로 받은 원문·개발 문서·공식 기관 모델을 읽고 사용한 사실의 범위와 대조. 사건을 꾸미지 않고 비유·감상·가상 계산을 별도로 표시.",
+      "editorial_limits": "보통의 JPEG 손실 압축을 설명하되 모든 JPEG 기능을 손실 방식이라고 일반화하지 않음. 파일 단순 복사와 재압축을 구별. 이미지의 색 조각은 실제 비교 실험이 아님.",
+      "body_characters": 2550,
+      "body_sha256": "0c2a23c93f45b95a82860a90c3c191888149b178b5f209e0d8e088e4ee3a6bdd",
+      "image": {
+        "file": "content/images/jpeg-small-photo-file.png",
+        "alt": "사진가의 책상 위 풍경 사진 가장자리에 색 조각이 표현된 상상 삽화.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 JPEG 압축 실험·품질 비교가 아닌 압축 개념의 분위기 삽화입니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "70f0a04815498a5393e6209921271bb11b5729354c3ac8509c468d0d2b89a5c2",
+        "visual_check": "파일을 직접 보고 본문의 장면·대상과 대조. 실제 자료와 창작 분위기 이미지 구별. 원본 파일 그대로 사용.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "실제 JPEG 압축 실험·품질 비교가 아닌 압축 개념의 분위기 삽화",
+          "original_generated_file": "exec-deb06ea2-7cce-4ba7-bd8f-4c93dad1f4bc.png"
+        }
+      }
+    },
+    {
+      "id": "linux-shared-kernel",
+      "sources": [
+        {
+          "title": "리눅스 공식 소스 — 커널의 역할과 개발 자료",
+          "url": "https://raw.githubusercontent.com/torvalds/linux/master/README",
+          "final_url": "https://raw.githubusercontent.com/torvalds/linux/master/README",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "커널은 하드웨어·시스템 자원·다른 소프트웨어의 기본 서비스를 관리",
+            "배포판 관리자와 분야별 유지관리 역할의 구분"
+          ],
+          "status": 200,
+          "sha256": "d9e6892ff2c83807c34f4aeb06bff724068803d0e03470bfb81a8f5cbde5f090"
+        },
+        {
+          "title": "리눅스 공식 개발 안내 — HOWTO do Linux kernel development",
+          "url": "https://raw.githubusercontent.com/torvalds/linux/master/Documentation/process/howto.rst",
+          "final_url": "https://raw.githubusercontent.com/torvalds/linux/master/Documentation/process/howto.rst",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "GPL·코드 형식·수정안 제출과 검토·관리자",
+            "새 변경을 모으는 시기·후보 버전·회귀 문제의 수정"
+          ],
+          "status": 200,
+          "sha256": "72fde0300824bab35b4b64e40c3292475cf82c31d5be81f51bf624ee4577e5bc"
+        },
+        {
+          "title": "Pro Git — 깃의 짧은 역사",
+          "url": "https://raw.githubusercontent.com/progit/progit2/main/book/01-introduction/sections/history.asc",
+          "final_url": "https://raw.githubusercontent.com/progit/progit2/main/book/01-introduction/sections/history.asc",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1991년부터의 초기 리눅스 협업·2002년 BitKeeper 채택",
+            "2005년 무료 사용 중단과 Git 개발·분산 및 여러 갈래 작업이라는 목표"
+          ],
+          "status": 200,
+          "sha256": "22951e4e84e2094b777f44f72c6069a5f5ea3afeea87d1a538f2f4dcdb2f169b"
+        },
+        {
+          "title": "리눅스 공식 — 턱스 이미지 이용 조건",
+          "url": "https://raw.githubusercontent.com/torvalds/linux/master/Documentation/images/COPYING-logo",
+          "final_url": "https://raw.githubusercontent.com/torvalds/linux/master/Documentation/images/COPYING-logo",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "Larry Ewing 원작자 표시 조건",
+            "벡터 재작업 Garrett LeSage·IFo Hancroft 표기 및 제작자 저장소 연결"
+          ],
+          "status": 200,
+          "sha256": "351e2234f52ffdbdab095dbeb26ddabee5d6196043e3c848b441e6d8481c8474"
+        },
+        {
+          "title": "Garrett LeSage — 턱스 재작업 이미지와 출처",
+          "url": "https://raw.githubusercontent.com/garrett/Tux/main/README.md",
+          "final_url": "https://raw.githubusercontent.com/garrett/Tux/main/README.md",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "PNG 파일의 원본 제공·Larry Ewing 원작·Garrett 재작업·IFo 정리",
+            "Public domain·CC0 표기; 본문과 이미지 크레딧에 세 제작자 명시"
+          ],
+          "status": 200,
+          "sha256": "76ed02c2ca1825adf11923ffd0d1f1fa5b8438fa562334ef2726933f7492a672"
+        }
+      ],
+      "review_method": "실제로 받은 원문·개발 문서·공식 기관 모델을 읽고 사용한 사실의 범위와 대조. 사건을 꾸미지 않고 비유·감상·가상 계산을 별도로 표시.",
+      "editorial_limits": "커널과 배포판 구별. 공개 코드가 오류 없음이나 무조건 무제한 이용을 보장한다고 주장하지 않음. 로고의 원작과 PNG 재작업·이용 조건 및 세 제작자 구분.",
+      "body_characters": 2559,
+      "body_sha256": "d6eabba266183c0eabaffa51ce081c7d095db65acd2128ce1aec5f6d75635395",
+      "image": {
+        "file": "content/images/linux-shared-kernel.png",
+        "alt": "래리 유잉의 원작을 개릿 르사주가 재작업하고 IFo Hancroft가 다듬은 리눅스 펭귄 턱스의 실제 공개 이미지.",
+        "type": "artwork",
+        "label": "실제 공개 이미지 · 턱스 재작업본",
+        "credit": "Tux · Larry Ewing 원작 · Garrett LeSage 벡터 재작업 · IFo Hancroft 정리 · 제작자 공개 PNG",
+        "source_url": "https://raw.githubusercontent.com/garrett/Tux/main/tux-large.png",
+        "license": "제작자 README: Public domain / CC0 1.0 · 리눅스 공식 이용 안내와 함께 세 제작자 명시",
+        "width": 933,
+        "height": 1139,
+        "sha256": "d300f4d302805c373b4a1b1a253d82b4c23114b04cfb7117dfec00673bde3c12",
+        "visual_check": "파일을 직접 보고 본문의 장면·대상과 대조. 실제 자료와 창작 분위기 이미지 구별. 원본 파일 그대로 사용.",
+        "license_sources": [
+          "https://raw.githubusercontent.com/torvalds/linux/master/Documentation/images/COPYING-logo",
+          "https://raw.githubusercontent.com/garrett/Tux/main/README.md"
+        ]
+      }
+    },
+    {
+      "id": "git-saving-many-versions",
+      "sources": [
+        {
+          "title": "Pro Git — 깃의 짧은 역사",
+          "url": "https://raw.githubusercontent.com/progit/progit2/main/book/01-introduction/sections/history.asc",
+          "final_url": "https://raw.githubusercontent.com/progit/progit2/main/book/01-introduction/sections/history.asc",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "1991년부터의 초기 리눅스 협업·2002년 BitKeeper 채택",
+            "2005년 무료 사용 중단과 Git 개발·분산 및 여러 갈래 작업이라는 목표"
+          ],
+          "status": 200,
+          "sha256": "22951e4e84e2094b777f44f72c6069a5f5ea3afeea87d1a538f2f4dcdb2f169b"
+        },
+        {
+          "title": "Pro Git — What is Git?",
+          "url": "https://raw.githubusercontent.com/progit/progit2/main/book/01-introduction/sections/what-is-git.asc",
+          "final_url": "https://raw.githubusercontent.com/progit/progit2/main/book/01-introduction/sections/what-is-git.asc",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "스냅숏과 바뀌지 않은 파일 참조·커밋·로컬 작업·분산된 이력",
+            "기록되지 않은 변경의 손실 가능성·공유 저장소 반영과 로컬 기록의 구분"
+          ],
+          "status": 200,
+          "sha256": "a839cd52f7038e1bcccc05f6c55c36f71405bc7e416ef6712c4cb8bb7c637d0f"
+        }
+      ],
+      "review_method": "실제로 받은 원문·개발 문서·공식 기관 모델을 읽고 사용한 사실의 범위와 대조. 사건을 꾸미지 않고 비유·감상·가상 계산을 별도로 표시.",
+      "editorial_limits": "원고 편집은 독자의 이해를 위한 현대의 비유. Git과 GitHub·개인 기록과 공동 저장소 반영·웹 게시를 구별. 자동 내용 감수와 영구적인 무손실 보관을 보장하지 않음. Pro Git의 문장·도판을 번역·복제하지 않고 사실을 바탕으로 새 설명 작성.",
+      "body_characters": 2449,
+      "body_sha256": "5d8125b0ca2278e5de47130f9e75212652e4ffba7025c34c300bc36d5bc17a39",
+      "image": {
+        "file": "content/images/git-saving-many-versions.png",
+        "alt": "두 편집자가 여러 원고와 노트북을 함께 살펴보며 다른 판본을 비교하는 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 개발자나 프로그램 화면이 아닌 공동 편집과 버전 관리 분위기 삽화입니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "2fb9cb72f8eb1171cc2631f7a7ce0501cf06150ee7193a40dfd2bb3b75107cf5",
+        "visual_check": "파일을 직접 보고 본문의 장면·대상과 대조. 실제 자료와 창작 분위기 이미지 구별. 원본 파일 그대로 사용.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "실제 개발자나 프로그램 화면이 아닌 공동 편집과 버전 관리 분위기 삽화",
+          "original_generated_file": "exec-84649241-f4e4-4dbe-8cc3-3f57c3114ada.png"
+        }
+      }
+    },
+    {
+      "id": "bank-run-lombard-street",
+      "sources": [
+        {
+          "title": "월터 배저트 — Lombard Street 원문",
+          "url": "https://raw.githubusercontent.com/GITenberg/Lombard-Street--A-Description-of-the-Money-Market_4359/master/4359.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/Lombard-Street--A-Description-of-the-Money-Market_4359/master/4359.txt",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "19세기 영국의 예금·준비금·금융시장 연결·위기의 자금 요구",
+            "위기 때 높은 금리와 좋은 담보를 통한 충분한 대출이라는 저자의 원칙"
+          ],
+          "status": 200,
+          "sha256": "33b10f32a6551d0e50d97538651fc7980327b61f9df4f0d8fdc467228426e9da"
+        }
+      ],
+      "review_method": "실제로 받은 원문·개발 문서·공식 기관 모델을 읽고 사용한 사실의 범위와 대조. 사건을 꾸미지 않고 비유·감상·가상 계산을 별도로 표시.",
+      "editorial_limits": "19세기 배저트의 금융시장 구조와 제안을 현대 국가별 제도로 단정하지 않음. 현대 은행 예금 창출을 현금 단순 재대출로 환원하지 않음. 유동성·지급 능력의 개념적 구별. 현재 은행의 안전성과 인출 여부를 판정하지 않음.",
+      "body_characters": 2499,
+      "body_sha256": "cbe9f55390fc2ce3d2fd2f27a66e519a1c867d9a7403903ddad47a2f8e103a4c",
+      "image": {
+        "file": "content/images/bank-run-lombard-street.png",
+        "alt": "19세기 런던의 은행 문 앞에 사람들이 차례로 서 있는 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 특정 은행·실제 금융 위기·인출 사건을 재현한 사료가 아닌 분위기 삽화입니다.",
+        "width": 1672,
+        "height": 941,
+        "sha256": "59963afec8c550b7f18097491e9c57e5396c87206455b9ebec880f50af6693d1",
+        "visual_check": "파일을 직접 보고 본문의 장면·대상과 대조. 실제 자료와 창작 분위기 이미지 구별. 원본 파일 그대로 사용.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "특정 은행·실제 금융 위기·인출 사건을 재현한 사료가 아닌 분위기 삽화",
+          "original_generated_file": "exec-9c166d49-9307-4fe8-8120-1517695e26c1.png"
+        }
+      }
+    },
+    {
+      "id": "compound-interest-time",
+      "sources": [
+        {
+          "title": "OpenStax Principles of Finance — 화폐의 시간 가치 기초",
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00048/index.cnxml",
+          "final_url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00048/index.cnxml",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "이자가 이전 이자에도 붙는 복리·기간과 이자율의 효과",
+            "가정한 미래 금액과 실제 투자 위험의 차이; 원고의 원화 사례는 별도 계산"
+          ],
+          "status": 200,
+          "sha256": "ad0abc5d786fbe7b638a9a4e03739f9372d9c533b068b8cea5b08f763c696a57"
+        },
+        {
+          "title": "OpenStax Principles of Finance — 현재와 미래의 금액",
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00047/index.cnxml",
+          "final_url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00047/index.cnxml",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "현재가치·미래가치·시간과 이자라는 계산 요소"
+          ],
+          "status": 200,
+          "sha256": "457d646326e0022ea53b625efebc634aec768db5d4a1464a29b532c6f2a26a6f"
+        }
+      ],
+      "review_method": "실제로 받은 원문·개발 문서·공식 기관 모델을 읽고 사용한 사실의 범위와 대조. 사건을 꾸미지 않고 비유·감상·가상 계산을 별도로 표시.",
+      "editorial_limits": "원화 가상 사례는 연 5%·연말 복리·세금과 비용 없음·입출금 없음 가정. 투자 권유나 보장된 수익이 아님. 지급 주기·물가·비용·위험과 계산값을 구분.",
+      "body_characters": 2460,
+      "body_sha256": "5c5b65ef31ca1027879401965ce746aaa052b01ae0374d83c1ef751af0c50a42",
+      "image": {
+        "file": "content/images/compound-interest-time.png",
+        "alt": "동전이 조금 든 유리병과 저축 수첩, 달력과 화분이 놓인 햇볕 드는 책상.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 수익률·잔액 증가를 증명하는 자료가 아닌 시간과 저축의 분위기 삽화입니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "5dbbdb9c9b593083918e2d38eed47dc5f8ce246fcf39ea907e38e75074fdfac1",
+        "visual_check": "파일을 직접 보고 본문의 장면·대상과 대조. 실제 자료와 창작 분위기 이미지 구별. 원본 파일 그대로 사용.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "실제 수익률·잔액 증가를 증명하는 자료가 아닌 시간과 저축의 분위기 삽화",
+          "original_generated_file": "exec-276b97e1-d8a7-41e7-98f1-1047bc99e82f.png"
+        }
+      }
+    },
+    {
+      "id": "loan-payment-principal-interest",
+      "sources": [
+        {
+          "title": "미국 소비자금융보호국 CFPB — 대출 상환 설명과 계산 모델",
+          "url": "https://raw.githubusercontent.com/cfpb/amortize/master/README.md",
+          "final_url": "https://raw.githubusercontent.com/cfpb/amortize/master/README.md",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "정기 납입액의 원금·이자 구분·초반 이자 비중",
+            "원리금균등 및 원금균등 상환 모델; 원고는 별도의 원화 가상 사례"
+          ],
+          "status": 200,
+          "sha256": "9ac14be5f0b6c3bd6e2e0f7414a16a02f27c739e825ceeedb026bd0a8073d339"
+        },
+        {
+          "title": "미국 소비자금융보호국 CFPB — 고정금리 대출 계산 안내",
+          "url": "https://raw.githubusercontent.com/cfpb/loan-calc/master/README.md",
+          "final_url": "https://raw.githubusercontent.com/cfpb/loan-calc/master/README.md",
+          "checked_at": "2026-10-30",
+          "supports": [
+            "대출 금액·이자율·기간에 따른 월 납입액과 총이자 계산"
+          ],
+          "status": 200,
+          "sha256": "57f1b4db2a818bb26544f893f968ff4c04ccc858c3a7b3d4e2bcbecdf5c425fa"
+        }
+      ],
+      "review_method": "실제로 받은 원문·개발 문서·공식 기관 모델을 읽고 사용한 사실의 범위와 대조. 사건을 꾸미지 않고 비유·감상·가상 계산을 별도로 표시.",
+      "editorial_limits": "원화 가상 사례는 고정 월 1%·120만 원·수수료 없음·기말 납입 가정. 연 이자율로 오인하지 않도록 명시. 원금균등과 원리금균등 구분. 원 단위 근사·최종 납입 조정·실제 한국 계약과의 차이 명시.",
+      "body_characters": 2384,
+      "body_sha256": "23431196682348cdc65a7b5db183e7b7e147e91ecdc982118d8e3d5b84780935",
+      "image": {
+        "file": "content/images/loan-payment-principal-interest.png",
+        "alt": "집 안 식탁에서 계산기와 가계부를 보며 납입 내역을 살펴보는 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 계약서·대출 상품·상환표가 아닌 일상 속 계산의 분위기 삽화입니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "4f0f7d616f11fd7d7da9b62ecebff123d5d0b63b3fe47167b232075ab9f25e01",
+        "visual_check": "파일을 직접 보고 본문의 장면·대상과 대조. 실제 자료와 창작 분위기 이미지 구별. 원본 파일 그대로 사용.",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "purpose": "실제 계약서·대출 상품·상환표가 아닌 일상 속 계산의 분위기 삽화",
+          "original_generated_file": "exec-41510bde-01bc-4c03-bf1e-9075bd588fb0.png"
+        }
+      }
+    }
+  ],
+  "calculation_checks": {
+    "compound": {
+      "principal": 1000000,
+      "annual_rate": 0.05,
+      "year_1": 1050000,
+      "year_2": 1102500,
+      "year_10_unrounded": "1628894.62677744140625",
+      "simple_year_10": 1500000,
+      "assumptions": "연말 복리·세금/수수료/추가입출금 없음"
+    },
+    "loan": {
+      "principal": 1200000,
+      "monthly_rate": 0.01,
+      "equal_principal_first_payment": 112000,
+      "equal_principal_second_payment": 111000,
+      "equal_payment_12_unrounded": "106618.5464140100488",
+      "total_interest_12_rounded": 79423,
+      "equal_payment_24_unrounded": "56488.1666679176509",
+      "total_interest_24_rounded": 155716,
+      "assumptions": "월말 납입·고정 월 이자율·수수료 없음·원고는 원 단위 근사 및 최종 조정 안내"
+    }
+  }
+}
