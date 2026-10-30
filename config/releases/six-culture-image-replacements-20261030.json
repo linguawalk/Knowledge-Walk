@@ -11,6 +11,9 @@
     "vivaldi-four-seasons-spring"
   ],
   "scope": "지정한 기존 공개 글 6편의 이미지 교체와 필요한 이미지 안내 문장 정정. 새 글 제작 없음.",
-  "deployment_status": "prepared",
-  "expected_live_story_count": 128
+  "deployment_status": "live_verified",
+  "expected_live_story_count": 128,
+  "live_story_count": 128,
+  "verified_replaced_story_count": 6,
+  "verification": "홈페이지·검색·지정한 글 6개·새 버전 이미지 6개 총 14개 HTTPS 응답을 공개 빌드와 바이트 대조. PC·모바일 이미지 표시 확인."
 }
