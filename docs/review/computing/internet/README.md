@@ -10,4 +10,4 @@
 | [404와 410은 같은 빈 페이지가 아니다](http-404-410.md) | 자료 대조·공개 게시 승인 완료 |
 | [HTTPS — 웹 주소의 작은 s가 하는 일](https-small-s-and-connection.md) | 자료 대조·공개 게시 승인 완료 |
 | [웹의 시작 — 논문에서 다른 논문으로 건너가고 싶었다](web-links-shared-knowledge.md) | 자료 대조·공개 게시 승인 완료 |
-| [와이파이 — 연결됐는데 인터넷이 안 되는 까닭](wifi-connected-without-internet.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [와이파이 — 연결됐는데 인터넷이 안 되는 까닭](wifi-connected-without-internet.md) | 자료 대조·공개 게시 승인 완료 |

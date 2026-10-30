@@ -1,0 +1,20 @@
+{
+  "id": "ten-cities-workshops-and-screens-publication-20261031",
+  "approved_at": "2026-10-31",
+  "user_request": "홈페이지 게시 및 새 글 작성 10개",
+  "story_ids": [
+    "pompeii-isis-small-temple",
+    "athens-parthenon-and-tribute",
+    "isfahan-square-and-everyday-life",
+    "alexandria-museion-and-books",
+    "dell-order-before-computer",
+    "postit-weak-glue-new-use",
+    "bmw-car-made-across-borders",
+    "wifi-connected-without-internet",
+    "computer-time-repeated-hour",
+    "svg-shapes-not-fixed-pixels"
+  ],
+  "deployment_status": "prepared",
+  "expected_live_story_count": 178,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261031-ten-cities-workshops-and-screens/index.html"
+}

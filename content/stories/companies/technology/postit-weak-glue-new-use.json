@@ -70,11 +70,11 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-31",
   "sources": [
     {
       "title": "OpenStax Principles of Management — 포스트잇의 탄생",
