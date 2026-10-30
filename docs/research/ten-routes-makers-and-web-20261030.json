@@ -1,0 +1,385 @@
+{
+  "checked_at": "2026-10-30",
+  "status": "source_review_complete_editorial_approval_pending",
+  "scope": "도시 4편·기업 3편·컴퓨터 3편의 새 검토 원고. 공개 글 158편 유지.",
+  "source_method": "OpenStax 공식 원문과 픽사·MDN·Python 공식 공개 문서를 실제 읽고 사실 대조. 교재의 설명을 번역·복제하지 않고 독립적인 한국어 원고를 작성. 개별 실제 이미지의 PD/CC0 캡션을 확인.",
+  "fact_check_notes": [
+    "소팔라 도판의 배가 보인다는 표현을 실제 관찰에 맞게 물길·성채·주변 건물로 교정. 킬와의 운송 통제 사례와 소팔라 자체의 사례를 구분.",
+    "코르도바 개별 정원과 나무의 계보를 주장하지 않고 작물 이동과 교역을 설명. 공존을 완전한 평등이나 무갈등으로 이상화하지 않음.",
+    "장안의 674년 이주를 7세기 후반으로 표현. 출처에 있는 당 멸망 연대·모스크 기원·지형의 단순화를 사용하지 않음.",
+    "쿠스코의 기원 전승과 역사적 근거를 구분. 인카 트레일 사진을 시가지 사진으로 제시하지 않음.",
+    "아마존은 2010년대 교재 사례로 한정. 당시 시가총액·회원비·현재 물류 성과 등의 수치를 사용하지 않음.",
+    "픽사 USD의 합성·레이어·우선순위·반복 작업을 공식 설명에서 확인. 영화 제작 자동화나 작품 저작권 공개로 확대하지 않음.",
+    "봄바스는 2013~2017년 사례로 한정. 기부 규모는 회사 발표를 재인용한 교재 수치이며 효과 평가가 아님을 명시.",
+    "쿠키 수명·세션 복원·서버 기록과의 구분을 설명. 모든 추적과 브라우저 저장을 쿠키로 설명하지 않음.",
+    "HTTPS의 전송 구간 보호와 사이트 내용의 신뢰성을 구분. SQLite는 실제 앱 분석이 아닌 가상의 요리 기록 비유로 설명."
+  ],
+  "stories": [
+    {
+      "id": "sofala-port-and-hinterland",
+      "body_characters": 2386,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00042/index.cnxml",
+          "title": "OpenStax World History — 스와힐리 해안과 소팔라",
+          "sha256": "4843c41f0935efff7e5965cc3fffa6a49c1f497b979b640693fcdb184d7cb9be",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "아프리카 내륙·해안 및 인도양 교역의 연결·킬와와 소팔라 관계",
+            "도시 간 경쟁과 포르투갈과의 협약·킬와에서의 선박 운송 제한 사례",
+            "스와힐리어의 반투계 기반과 어휘 교류·1683년 소팔라 역사 도판"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00154/index.cnxml",
+          "title": "OpenStax World History — 인도양 교역과 해안 도시",
+          "sha256": "02ab819045d032da19e60141d0e0b28b9d130220025797b6c245722063ec5a6f",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "킬와·소팔라를 통한 내륙 금의 이동·스와힐리 해안 교역과 계절풍",
+            "직접적인 금 확보를 위한 중간상과 항구 통제의 관계"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/sofala-port-and-hinterland.png",
+        "alt": "1683년 소팔라를 표현한 말레 도판의 전체와 확대 구성. 물길과 성채, 주변 건물.",
+        "type": "photo",
+        "label": "1683년 실제 역사 도판",
+        "credit": "Mallet, “View of Sofala, Mozambique, in 1683” · Wikimedia Commons · OpenStax가 구성한 도판 · Public Domain. 당시 생활 전체나 현대 지도를 보여 주는 사진은 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B03_03_Sofala2.png",
+        "license": "Public Domain",
+        "width": 1200,
+        "height": 810,
+        "source_caption": "This French cartographer’s copperplate engraving of a view of Sofala, also from the seventeenth century, shows a close-up look at the city. (credit: modification of work “View of Sofala, Mozambique, in 1683” by “Mallet”/Wikimedia Commons, Public Domain)",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00042/index.cnxml",
+        "modifications": "확보한 도판 그대로 복사. 자르기·색 변경·확대 재편집 없음.",
+        "sha256": "3fb5693047ac699deae95b93e31785db9920e3d65a1e5a318511b0d06e0608ab"
+      },
+      "editorial_method": "확보한 원문을 읽고 확인한 사실로 독립적인 한국어 해설 작성. 관찰·비유·추정과 실제 사건을 구분. 공개 승인은 별도."
+    },
+    {
+      "id": "cordoba-oranges-and-connections",
+      "body_characters": 2332,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00118/index.cnxml",
+          "title": "OpenStax World History — 알안달루스와 코르도바",
+          "sha256": "d5d90cecd4ccc94363ea2add1039934dcda65ebeaec7f540e55bc0b0315bb46c",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "압드 알라흐만 1세의 수도·지중해 교역·장인과 학자의 이동",
+            "감귤류·사탕수수·면화의 전래와 코르도바의 오렌지·라임·레몬 재배",
+            "다종교 문화와 갈등의 병존·칼리프국의 분열; 현존하는 개별 나무나 정원의 계보를 주장하지 않음"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/cordoba-oranges-and-connections.png",
+        "alt": "감귤나무와 그늘, 책과 그릇이 놓인 지중해풍 뜰의 AI 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 코르도바의 특정 정원·현존 나무·중세 주택을 고증해 복원한 자료가 아닌 분위기 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 사료·제품·사람·프로그램으로 제시하지 않음.",
+        "sha256": "3e09b087093ee7d2c933205849775ee9a1784e30decf8f5cb999ca1e66ea3d33"
+      },
+      "editorial_method": "확보한 원문을 읽고 확인한 사실로 독립적인 한국어 해설 작성. 관찰·비유·추정과 실제 사건을 구분. 공개 승인은 별도."
+    },
+    {
+      "id": "changan-travelers-and-music",
+      "body_characters": 2297,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00153/index.cnxml",
+          "title": "OpenStax World History — 당나라의 수도와 국제 교류",
+          "sha256": "ff0f1051bc429c1a3e3319edc9c30f326b327673592fb3c40df1fa215edc7a2e",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "장안의 교역 거점 성격·사산 왕실 인물의 이동과 페르시아 상인 공동체",
+            "은제 물품 및 아랍·페르시아·중앙아시아 음악과 춤·755년 안사의 난",
+            "당의 세부 시작/종료 연대와 이슬람 건축 기원에 대한 원문의 단순화는 채택하지 않음"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00155/index.cnxml",
+          "title": "OpenStax World History — 소그드 상인과 도시 공동체",
+          "sha256": "cdcc7cb500991301d503768c1b05e367430b449c523d6cbbb111177c4d0bf314",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "중앙아시아 소그드인의 동서 교역·중국 장안 등의 교역 공동체",
+            "물건과 언어·종교의 이동; 도시 전체 주민의 평등으로 확대하지 않음"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/changan-travelers-and-music.png",
+        "alt": "여러 상인이 직물과 금속 물건을 살펴보는 옛 동아시아 도시 시장의 AI 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 장안의 실제 시장 배치·복식·민족별 외모·거래 사건을 복원한 사료가 아닌 교류의 분위기 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 사료·제품·사람·프로그램으로 제시하지 않음.",
+        "sha256": "193a8e4cafc4b801e52331846f38cd761df5741616dc1a3ba654fa43cbc097ea"
+      },
+      "editorial_method": "확보한 원문을 읽고 확인한 사실로 독립적인 한국어 해설 작성. 관찰·비유·추정과 실제 사건을 구분. 공개 승인은 별도."
+    },
+    {
+      "id": "cusco-roads-and-empire",
+      "body_characters": 2215,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00116/index.cnxml",
+          "title": "OpenStax World History — 쿠스코와 인카의 도로망",
+          "sha256": "25a5a6109ce4b436131f6433a964bbd5833f2dcb382816b0c65c508468c2d200",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "쿠스코의 농경 기원·기원 전승과 역사적 근거 구분·안데스의 고도",
+            "인카 이전의 길을 확장·계곡과 산악의 도로 및 여러 재료의 다리",
+            "군대와 물자의 이동·공납과 노동·수도와 주변 지역의 연결·인카 트레일 사진의 캡션"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/cusco-roads-and-empire.jpg",
+        "alt": "산 사이로 돌계단과 길이 이어지는 인카 트레일의 실제 사진.",
+        "type": "photo",
+        "label": "실제 인카 트레일 사진",
+        "credit": "“Stone steps and mountains on the Inca Trail” · Mx._Granger / Wikimedia Commons · OpenStax 수록 · CC0 1.0. 쿠스코 시가지나 전체 도로망을 보여 주는 사진은 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A08_03_IncaRoad.jpg",
+        "license": "CC0 1.0",
+        "width": 501,
+        "height": 668,
+        "source_caption": "The mountainous terrain of the Inca Empire necessitated roads like this one to connect the many important cities and regions.(credit: “Stone steps and mountains on the Inca Trail” by “Mx._Granger”/Wikimedia Commons, CC0 1.0)",
+        "license_evidence_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00116/index.cnxml",
+        "modifications": "확보한 도판 그대로 복사. 자르기·색 변경·확대 재편집 없음.",
+        "sha256": "8b0b136e8f4df62135374828656da00c733be60463efbd7e307db2af338ab01c"
+      },
+      "editorial_method": "확보한 원문을 읽고 확인한 사실로 독립적인 한국어 해설 작성. 관찰·비유·추정과 실제 사건을 구분. 공개 승인은 별도."
+    },
+    {
+      "id": "amazon-order-and-warehouse",
+      "body_characters": 2367,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-of-management-bundle/main/modules/m70725/index.cnxml",
+          "title": "OpenStax Principles of Management — 2010년대 아마존의 온라인 판매와 물류",
+          "sha256": "6c9b6adae6a3947171f27fd1765591ff27ba1e84012182ed823368cbcaf2e286",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "온라인 판매와 육지 물류센터·프라임 회원제·원하는 상품과 필요한 때의 배송",
+            "사람과 로봇의 협력·높은 배송 비용·당시 노동 조건과 계약자 부담 비판",
+            "독립 판매자와 경쟁의 변화; 당시 수치·회원비를 현재 안내로 재사용하지 않음"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/amazon-order-and-warehouse.png",
+        "alt": "상자를 확인하는 사람과 선반을 정리하는 사람이 있는 배송 작업장의 AI 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 아마존의 실제 직원·창고·현재 표준 작업을 재현한 자료가 아닌 물류의 분위기 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 사료·제품·사람·프로그램으로 제시하지 않음.",
+        "sha256": "79894d40209df6c56d3f2a9e6345af0f81b111dc5745f026107b6a964c6ac8ab"
+      },
+      "editorial_method": "확보한 원문을 읽고 확인한 사실로 독립적인 한국어 해설 작성. 관찰·비유·추정과 실제 사건을 구분. 공개 승인은 별도."
+    },
+    {
+      "id": "pixar-openusd-many-artists",
+      "body_characters": 2372,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PixarAnimationStudios/OpenUSD/release/README.md",
+          "title": "픽사 OpenUSD 공식 저장소 — 장면 구성 기술의 공개",
+          "sha256": "6b7a8031b9891e9816662e9f0e979d87fbf741d49bdba27428799a73917a6d52",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 HTTPS 응답 확보",
+          "supports": [
+            "OpenUSD의 공식 공개 프로젝트·3차원 장면 데이터와 도구의 역할"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/PixarAnimationStudios/OpenUSD/release/docs/intro.rst",
+          "title": "픽사 공식 Introduction to USD — 여러 작업자의 협업과 합성",
+          "sha256": "2c21f700fc164708ac6628553824b084f2d849c6b7ab1c3c9b18a12ef8090171",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 HTTPS 응답 확보",
+          "supports": [
+            "모델링·재질·움직임·조명 등 서로 다른 도구의 정보 교환",
+            "픽사의 제작 기반·레이어를 통한 독립 작업과 우선순위·비파괴적인 합성",
+            "모양 변경과 표면 표현의 불일치가 자동 해결되지 않는다는 한계·빠른 피드백과 반복"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/pixar-openusd-many-artists.png",
+        "alt": "그림과 작은 나무 모형, 화면을 놓고 함께 작업하는 창작자들의 AI 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 픽사의 실제 직원·작품·캐릭터·사무실을 복원한 자료가 아닌 창작 협력의 분위기 삽화.",
+        "width": 1672,
+        "height": 940,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 사료·제품·사람·프로그램으로 제시하지 않음.",
+        "sha256": "c82363f00c428ed3ee6780c195638e4f712833ab451f5d1a8d30f08a05337cfd"
+      },
+      "editorial_method": "확보한 원문을 읽고 확인한 사실로 독립적인 한국어 해설 작성. 관찰·비유·추정과 실제 사건을 구분. 공개 승인은 별도."
+    },
+    {
+      "id": "bombas-socks-and-giving",
+      "body_characters": 2331,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-of-management-bundle/main/modules/m70687/index.cnxml",
+          "title": "OpenStax Principles of Management — 봄바스의 초기 사회적 책임 사례",
+          "sha256": "a2133ef80c04b2a2b17cfe85fff4e10d92d68b5681d6f1da976e5d1e3bbdba24",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "2013년 랜디 골드버그·데이비드 히스의 창업·양말 필요에 대한 관찰",
+            "당시 한 켤레 구매당 한 켤레 제공 방식·회사 발표에 근거한 2017년10월 400만 켤레 이상 집계",
+            "현재 정책이나 독립적인 지원 효과 평가로 제시하지 않음"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-business-ethics/main/modules/m66941/index.cnxml",
+          "title": "OpenStax Business Ethics — 기업의 이해관계자",
+          "sha256": "4daac880af4bc8d2600b519c0808f22f2c68ece6fe87ecef6b9db246c4680175",
+          "checked_at": "2026-10-30",
+          "retrieval": "2026-10-30 앞선 조사에서 확보한 공식 원문을 다시 읽음",
+          "supports": [
+            "고객·주주·직원·공급자·지역사회 등 기업 결정의 영향을 받는 대상"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/bombas-socks-and-giving.png",
+        "alt": "상자에 깨끗한 양말을 정리하는 두 사람의 AI 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 봄바스의 실제 봉사자·지원 시설·행사를 재현하거나 기부 사실을 증명하는 자료가 아닌 분위기 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 사료·제품·사람·프로그램으로 제시하지 않음.",
+        "sha256": "fc331d5ae0a74cd56efbac9744d5f73d200f04ed3065d9425ef63a7cce6402a3"
+      },
+      "editorial_method": "확보한 원문을 읽고 확인한 사실로 독립적인 한국어 해설 작성. 관찰·비유·추정과 실제 사건을 구분. 공개 승인은 별도."
+    },
+    {
+      "id": "cookies-browser-memory",
+      "body_characters": 2292,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/web/http/guides/cookies/index.md",
+          "title": "MDN Web Docs — HTTP 쿠키의 사용과 범위",
+          "sha256": "261c38888c427abda7c226b74f31199a17595de4e07cd049d58ac7d9f2918a0a",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 HTTPS 응답 확보",
+          "supports": [
+            "HTTP의 무상태성과 로그인·개인화·추적·세션 식별자",
+            "쿠키 범위·수명·세션 복원·브라우저별 교차 사이트 제한",
+            "쿠키 삭제와 서버 기록 삭제의 구분·별도 브라우저 저장 방법; 모든 추적을 쿠키로 설명하지 않음"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/cookies-browser-memory.png",
+        "alt": "노트와 노트북이 있는 익숙한 책상으로 돌아오는 사람의 AI 분위기 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 쿠키 파일·프로그램 화면·추적 구조를 재현하지 않은 기억의 비유 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 사료·제품·사람·프로그램으로 제시하지 않음.",
+        "sha256": "662b28021b6fad949815cf2cfdd2b9b49826e7270a8e62a95234c13fcce90ea3"
+      },
+      "editorial_method": "확보한 원문을 읽고 확인한 사실로 독립적인 한국어 해설 작성. 관찰·비유·추정과 실제 사건을 구분. 공개 승인은 별도."
+    },
+    {
+      "id": "https-small-s-and-connection",
+      "body_characters": 2353,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/web/security/defenses/transport_layer_security/index.md",
+          "title": "MDN Web Docs — TLS의 보호 기능과 서버 인증",
+          "sha256": "0e9786932ab7f83ab5d1a6b5467271d9fe5cf92650cce578b9e74b19977d551b",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 HTTPS 응답 확보",
+          "supports": [
+            "전송 구간의 암호화·무결성·일반적인 서버 인증·핸드셰이크",
+            "인증서와 도메인/키의 연결·혼합 콘텐츠 문제",
+            "연결 보호를 콘텐츠 진실성이나 서버 보관·기기 전체의 안전 보증으로 확대하지 않음"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/glossary/https/index.md",
+          "title": "MDN Web Docs — HTTPS의 뜻",
+          "sha256": "f29ac68eb4675023519c48af89768a05aa8ca3bd05b62e6d775ba3e0dfc174d1",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 HTTPS 응답 확보",
+          "supports": [
+            "TLS로 보호하는 HTTP 통신과 암호화된 연결"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/https-small-s-and-connection.png",
+        "alt": "공유 독서 공간에서 봉투를 들고 말과 정보를 나누는 두 사람의 AI 비유 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 실제 암호화 구조·브라우저 표시·인증 과정을 재현하지 않은 비유 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 사료·제품·사람·프로그램으로 제시하지 않음.",
+        "sha256": "6c870ebc203e2130afd088c580fffcc72bce495ff4320790ae8a588be17da379"
+      },
+      "editorial_method": "확보한 원문을 읽고 확인한 사실로 독립적인 한국어 해설 작성. 관찰·비유·추정과 실제 사건을 구분. 공개 승인은 별도."
+    },
+    {
+      "id": "sqlite-small-database",
+      "body_characters": 2391,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/python/cpython/main/Doc/library/sqlite3.rst",
+          "title": "Python 공식 문서 — SQLite와 데이터 저장·질의·트랜잭션",
+          "sha256": "11aee8b31479ed09660784e6e354d091c2cf79cd299a5e42d83762f62e0f06e7",
+          "checked_at": "2026-10-30",
+          "retrieval": "이번 요청에서 HTTPS 응답 확보",
+          "supports": [
+            "별도 서버 프로세스가 필요 없는 가벼운 디스크 기반 DB·앱 내부 저장",
+            "표·열·행·질의·조건 검색 및 변경의 commit/rollback·백업 기능",
+            "가상의 요리 앱 예시를 실제 제품 분석으로 제시하지 않음. 동기화·백업의 자동 보장을 주장하지 않음"
+          ]
+        }
+      ],
+      "image": {
+        "file": "content/images/sqlite-small-database.png",
+        "alt": "식재료와 요리 노트, 기기 곁에서 기록을 정리하는 사람의 AI 비유 장면.",
+        "type": "ai_illustration",
+        "label": "AI 관련 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 AI 삽화 · 특정 요리 앱이나 SQLite의 실제 화면을 재현하지 않은 기록 관리의 분위기 삽화.",
+        "width": 1672,
+        "height": 941,
+        "method": "image_gen 생성 후 눈으로 검토. 실제 사료·제품·사람·프로그램으로 제시하지 않음.",
+        "sha256": "5d9c127c40d5eb2d582bdca79b97b6e5d094e1e81ad4422b53cfd2f33d8134ab"
+      },
+      "editorial_method": "확보한 원문을 읽고 확인한 사실로 독립적인 한국어 해설 작성. 관찰·비유·추정과 실제 사건을 구분. 공개 승인은 별도."
+    }
+  ],
+  "validation": {
+    "unit_tests": "34 passed",
+    "browser": "새 10편의 PC 1440px·모바일 390px에서 제목·이미지 디코딩·출처 링크·가로 넘침·자바스크립트 오류 점검.",
+    "editorial": "본문 약 2200~2400자. 중복 문단·언어 혼입 검사와 수동 표현 검토.",
+    "publication": "총 원고171편, 공개158편, 새 검토10편, 출처 확인 중3편. 새 원고가 공개 페이지·모음·검색에 포함되지 않음. 자동 제작 비활성 유지."
+  }
+}

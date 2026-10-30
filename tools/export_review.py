@@ -47,7 +47,7 @@ def main():
     index = ['# KnowledgeWalk — 이야기 서가', '',
              f'분야를 고른 다음 소주제로 들어가면 전체 {len(stories)}편의 글과 이미지를 함께 읽을 수 있습니다.', '',
              f'**공개 승인 {sum(publishable(s) for s in stories)}편 / 자료 대조 완료·편집 검토 {sum(s["source_review"] == "verified" and not publishable(s) for s in stories)}편 / 출처 추가 확인 {sum(s["source_review"] != "verified" for s in stories)}편.** 실제 웹 게시는 별도의 배포 상태를 따릅니다.', '',
-             '[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261030-ten-places-products-and-digital-life.md)', '',
+             '[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261030-ten-routes-makers-and-web.md)', '',
              '| 분야 | 이야기 | 소주제 수 |', '|---|---:|---:|']
     for category in categories:
         cid = category['id']
