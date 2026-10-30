@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Literature",
   "summary": "줄거리와 결말을 따라 말과 규칙이 흔들리는 모험의 재미를 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "루이스 캐럴 — Alice’s Adventures in Wonderland 원문",

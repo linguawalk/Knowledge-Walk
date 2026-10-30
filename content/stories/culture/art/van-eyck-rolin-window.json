@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Art",
   "summary": "얀 반 에이크의 그림에서 가까운 인물과 먼 세계가 만나는 방식을 살펴봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 반 에이크와 Plate XVI",

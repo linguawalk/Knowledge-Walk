@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Art",
   "summary": "음악을 가르치는 장면과 인물 사이의 친밀함이 겹치는 그림을 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 프라고나르와 Plate XLII",

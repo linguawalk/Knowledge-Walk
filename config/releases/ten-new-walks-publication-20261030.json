@@ -1,0 +1,21 @@
+{
+  "id": "ten-new-walks-publication-20261030",
+  "approved_at": "2026-10-30",
+  "user_request": "홈페이지 게시하고 새글 10개를 만들어 주세요. 이번에는 기업, 컴퓨터, 금융 방면의 글을 만들어 주세요",
+  "story_ids": [
+    "alice-language-and-rules",
+    "treasure-island-trust-and-map",
+    "beethoven-pastoral-five-scenes",
+    "schumann-traumerei-memory",
+    "holbein-erasmus-writing",
+    "van-eyck-rolin-window",
+    "fragonard-music-lesson",
+    "beethoven-life-and-work",
+    "rembrandt-life-self-portraits",
+    "descartes-method-and-doubt"
+  ],
+  "scope": "직전 검토 원고 10편만 공개 승인. 기업·컴퓨터·금융 새 원고 10편은 검토용.",
+  "deployment_status": "prepared",
+  "expected_live_story_count": 118,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261030-ten-new-walks/index.html"
+}

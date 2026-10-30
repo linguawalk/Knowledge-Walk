@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Art",
   "summary": "대표작과 생활의 변화를 함께 따라가며 비극의 천재라는 단순한 그림을 넓힙니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "Mortimer Menpes·C. Lewis Hind — Rembrandt, 역사적 전기·작품 해설",

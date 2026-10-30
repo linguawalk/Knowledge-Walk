@@ -4,7 +4,7 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
-| [이상한 나라의 앨리스 — 말이 통하지 않는 세계에서 나를 찾기](alice-language-and-rules.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [이상한 나라의 앨리스 — 말이 통하지 않는 세계에서 나를 찾기](alice-language-and-rules.md) | 자료 대조·공개 게시 승인 완료 |
 | [책에도 주인의 이름표를 찍어 두었다](book-owner-seal.md) | 자료 대조·공개 게시 승인 완료 |
 | [크리스마스 캐럴 — 스크루지가 다시 배우는 사람의 온기](christmas-carol-scrooge-change.md) | 자료 대조·공개 게시 승인 완료 |
 | [80일간의 세계 일주 — 시계보다 늦게 알게 된 여행의 의미](eighty-days-time-and-travel.md) | 자료 대조·공개 게시 승인 완료 |
@@ -14,4 +14,4 @@
 | [오즈의 마법사 — 필요한 것은 이미 길 위에 있었을까](oz-wizard-road-and-home.md) | 자료 대조·공개 게시 승인 완료 |
 | [이 현판의 글자는 따로 만들어 붙였다](poem-plaque-raised-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [오만과 편견 — 처음 본 인상을 믿어도 될까](pride-prejudice-first-impressions.md) | 자료 대조·공개 게시 승인 완료 |
-| [보물섬 — 지도보다 어려운 것은 사람을 읽는 일](treasure-island-trust-and-map.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [보물섬 — 지도보다 어려운 것은 사람을 읽는 일](treasure-island-trust-and-map.md) | 자료 대조·공개 게시 승인 완료 |

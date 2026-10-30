@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Philosophy",
   "summary": "네 가지 규칙과 유명한 문장이 나온 맥락을 쉬운 예와 함께 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "르네 데카르트 — Discourse on the Method, John Veitch 번역",

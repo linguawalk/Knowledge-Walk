@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "제목의 뜻과 선율의 호흡, 모음곡 안의 자리를 함께 살펴봅니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "Mutopia — Schumann Op.15 No.7, 피아노 악보",

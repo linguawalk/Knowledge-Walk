@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Music",
   "summary": "위대한 음악가라는 말 뒤의 배움과 생활, 원고와 사람들의 관계를 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "로맹 롤랑 — Beethoven, 역사적 전기와 문서",

@@ -5,11 +5,11 @@
   "category": "culture",
   "subcategory": "Art",
   "summary": "모피 옷과 펜, 낮춘 눈길을 따라 한 사람의 일이 초상에 담기는 방식을 읽습니다.",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-30",
   "sources": [
     {
       "title": "Konody·Brockwell — The Louvre: Fifty Plates in Colour, 홀바인과 Plate XXIV",
