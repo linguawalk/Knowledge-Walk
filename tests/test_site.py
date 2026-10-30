@@ -56,6 +56,23 @@ class SiteTests(unittest.TestCase):
         self.assertIn("America", self.categories[0]["children"])
         self.assertIn("Americas", self.categories[1]["children"])
 
+    def test_image_replacement_changes_image_url_but_keeps_article_url(self):
+        story = self.approved_fixture()
+        before = builder.Site(self.categories, [story], False)
+        article = before.story_path(story)
+        old = Links()
+        old.feed(before.render()[article])
+        story["image"]["revision"] = "scene-20261030"
+        builder.validate(self.categories, [story])
+        after = builder.Site(self.categories, [story], False)
+        new = Links()
+        new.feed(after.render()[article])
+        self.assertEqual(after.story_path(story), article)
+        self.assertNotEqual(old.images[0]["src"], new.images[0]["src"])
+        story["image"]["revision"] = "../../outside"
+        with self.assertRaises(ValueError):
+            builder.validate(self.categories, [story])
+
     def test_production_has_no_draft_text_media_or_editorial_files(self):
         output = ROOT / "_site"
         stories = builder.load_stories()

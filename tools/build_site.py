@@ -127,6 +127,9 @@ def validate(categories, stories, root=ROOT):
         for key in ("file", "alt", "credit"):
             text(image.get(key), f"image {key}")
         require(image.get("type") in ("ai_illustration", "photo", "artwork"), "Invalid image type")
+        if "revision" in image:
+            require(isinstance(image["revision"], str) and ID.fullmatch(image["revision"]),
+                    "Invalid image revision")
         for dimension in ("width", "height"):
             if dimension in image:
                 require(type(image[dimension]) is int and image[dimension] > 0, "Image dimensions must be positive integers")
@@ -174,7 +177,8 @@ class Site:
         return f"stories/{story['id']}/index.html"
 
     def image_path(self, story):
-        return f"media/{story['id']}{Path(story['image']['file']).suffix.lower()}"
+        revision = "-" + story["image"]["revision"] if story["image"].get("revision") else ""
+        return f"media/{story['id']}{revision}{Path(story['image']['file']).suffix.lower()}"
 
     def minutes(self, story):
         return max(1, math.ceil(sum(len(p) for b in story["body"] for p in b["paragraphs"]) / 500))
