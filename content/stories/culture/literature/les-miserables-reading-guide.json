@@ -29,15 +29,13 @@
     }
   ],
   "image": {
-    "file": "content/images/les-miserables-reading-guide.jpg",
-    "alt": "작품 초반의 인물 관계 설명도. 미리엘 주교는 장발장에게 자비를 베풀고, 자베르는 장발장을 추적합니다. 팡틴과 코제트는 모녀이며 장발장은 코제트를 보호합니다.",
-    "type": "artwork",
-    "label": "직접 제작 설명도",
-    "credit": "KnowledgeWalk 제작 · 작품 원문·악보에 근거한 읽기·감상 길잡이. 원본 표지·역사적 자료·완전한 연주용 악보를 복제한 이미지가 아닙니다.",
-    "source_url": "https://raw.githubusercontent.com/GITenberg/Les-Mis-rables_135/master/135-0.txt",
-    "license": "KnowledgeWalk 직접 제작 설명도",
+    "file": "content/images/les-miserables-reading-guide-scene-20261030.png",
+    "alt": "소박한 방에서 미리엘 주교가 지친 장발장에게 은촛대 두 개를 건네는 원작 기반 상상 장면.",
+    "type": "ai_illustration",
+    "label": "AI 장면·분위기 삽화",
+    "credit": "KnowledgeWalk 제작 · 원작 초반의 은촛대 장면을 새로 상상한 AI 삽화 · 실제 역사 사진이나 영화·뮤지컬 장면이 아닙니다.",
     "width": 1536,
-    "height": 960
+    "height": 1024
   },
   "body": [
     {

@@ -1,0 +1,202 @@
+{
+  "checked_at": "2026-10-30",
+  "user_request": "문화에서 공자의 생애·프랑켄슈타인·엘리제를 위하여·레 미제라블·터키 행진곡·비발디 사계의 이미지를 바꾸었으면 합니다.",
+  "scope": "지정한 기존 공개 글 6편의 이미지 교체와 필요한 이미지 안내 문장 정정. 새 글 제작 없음.",
+  "items": [
+    {
+      "id": "confucius-life-and-learning",
+      "old_image": {
+        "file": "content/images/confucius-life-and-learning.png",
+        "alt": "논어 위정편에 나오는 열다섯, 서른, 마흔, 쉰, 예순, 일흔의 회고를 정리한 안내도. 모든 사람의 나이별 목표를 뜻하지 않습니다.",
+        "type": "artwork",
+        "label": "직접 제작 설명도",
+        "credit": "KnowledgeWalk 제작 · 원문·악보와 해설에 근거한 읽기 안내도. 실제 인물 사진·원작 장면·완전한 연주용 악보를 재현한 자료가 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Analects-of-Confucius-from-the-Chinese-Classics_3330/master/3330.txt",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "width": 1536,
+        "height": 960
+      },
+      "new_image": {
+        "file": "content/images/confucius-life-and-learning-cover-20261030.jpg",
+        "alt": "1910년 영문판 The Sayings of Confucius의 실제 표지. 공자를 표현한 후대의 인물 그림과 책 제목이 보입니다.",
+        "type": "artwork",
+        "label": "1910년 실제 출판물 표지",
+        "credit": "Lionel Giles 번역 · The Sayings of Confucius · E. P. Dutton, 1910 · Project Gutenberg 수록 표지 · 공자의 동시대 초상이 아닌 후대 출판물의 표현",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/The-Sayings-of-ConfuciusA-New-Translation-of-the-Greater-Part-of-the-Confucian-Analects_46389/master/46389-h/images/confiala_0001.jpg",
+        "license": "1910년 출판물의 퍼블릭 도메인 표지 도판 · Project Gutenberg 수록본",
+        "width": 622,
+        "height": 897,
+        "sha256": "bf3cdf03a5707403d97135e7d0aed3d1d048717eb255fe32ea67ff37456953e5"
+      },
+      "scope": "본문은 기존 이미지 설명이 있던 문장만 새 이미지와 맞춤. 본래 해설·공개 승인 상태와 주소는 유지.",
+      "visual_check": "실제 이미지를 보고 본문의 대상·분위기와 대조. 후대 표현·창작 삽화와 사실 기록을 구별.",
+      "source_check": {
+        "url": "https://raw.githubusercontent.com/GITenberg/The-Sayings-of-ConfuciusA-New-Translation-of-the-Greater-Part-of-the-Confucian-Analects_46389/master/46389-h/46389-h.htm",
+        "status": 200,
+        "checked_at": "2026-10-30",
+        "sha256": "0c5efcf6ba248b6887c847e5bc79517829918a29b8a5a2feee9e711bfbb322f3",
+        "evidence": "표지 이미지 confiala_0001.jpg · 표제면 E. P. Dutton and Company, New York, 1910"
+      }
+    },
+    {
+      "id": "frankenstein-creator-and-creature",
+      "old_image": {
+        "file": "content/images/frankenstein-creator-and-creature.png",
+        "alt": "프랑켄슈타인의 화자 구조 설명도. 월턴의 편지 안에 빅터의 고백, 그 안에 피조물의 회상이 담깁니다.",
+        "type": "artwork",
+        "label": "직접 제작 설명도",
+        "credit": "KnowledgeWalk 제작 · 원문·악보와 해설에 근거한 읽기 안내도. 실제 인물 사진·원작 장면·완전한 연주용 악보를 재현한 자료가 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Frankenstein_84/master/84-0.txt",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "width": 1536,
+        "height": 960
+      },
+      "new_image": {
+        "file": "content/images/frankenstein-creator-and-creature-scene-20261030.png",
+        "alt": "숲속 은신처에서 책 곁에 홀로 앉아 멀리 불빛이 있는 오두막을 바라보는 피조물의 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 · 원작의 배움과 고립이라는 정서를 표현한 AI 삽화 · 특정 장면의 정확한 복원이나 영화 속 외형을 재현한 그림이 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "071987d32609f1b247172e7c71615226518970c091c70e2f6b1af78d3850c5fb",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-b9486fe5-9a37-40d5-acdb-e749936b0587.png",
+          "purpose": "원작의 배움과 고립이라는 정서를 표현한 AI 삽화 · 특정 장면의 정확한 복원이나 영화 속 외형을 재현한 그림이 아닙니다."
+        }
+      },
+      "scope": "본문은 기존 이미지 설명이 있던 문장만 새 이미지와 맞춤. 본래 해설·공개 승인 상태와 주소는 유지.",
+      "visual_check": "실제 이미지를 보고 본문의 대상·분위기와 대조. 후대 표현·창작 삽화와 사실 기록을 구별."
+    },
+    {
+      "id": "fur-elise-title-and-theme",
+      "old_image": {
+        "file": "content/images/fur-elise-title-and-theme.jpg",
+        "alt": "엘리제를 위하여의 처음 아홉 음인 미·레#·미·레#·미·시·레·도·라의 음높이를 비교한 자체 설명도. 박자·리듬·반주는 생략했습니다.",
+        "type": "artwork",
+        "label": "직접 제작 설명도",
+        "credit": "KnowledgeWalk 제작 · 작품 원문·악보에 근거한 읽기·감상 길잡이. 원본 표지·역사적 자료·완전한 연주용 악보를 복제한 이미지가 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/BeethovenLv/WoO59/fur_Elise_WoO59/fur_Elise_WoO59.ly",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "width": 1536,
+        "height": 960
+      },
+      "new_image": {
+        "file": "content/images/fur-elise-title-and-theme-scene-20261030.png",
+        "alt": "부드러운 창가 빛이 드는 방에 옛 피아노와 의자가 놓인 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 · 곡의 조용한 분위기를 표현한 AI 삽화 · 베토벤의 실제 방·악기나 엘리제의 정체를 재현한 자료가 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "bfb9ee1ac6858fea2e33fb9b14d867104a6aeacc23c62e44ce4ee0f27fc49a0a",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-a1a26421-431c-4412-b598-9ef0c5870bd7.png",
+          "purpose": "곡의 조용한 분위기를 표현한 AI 삽화 · 베토벤의 실제 방·악기나 엘리제의 정체를 재현한 자료가 아닙니다."
+        }
+      },
+      "scope": "본문은 기존 이미지 설명이 있던 문장만 새 이미지와 맞춤. 본래 해설·공개 승인 상태와 주소는 유지.",
+      "visual_check": "실제 이미지를 보고 본문의 대상·분위기와 대조. 후대 표현·창작 삽화와 사실 기록을 구별."
+    },
+    {
+      "id": "les-miserables-reading-guide",
+      "old_image": {
+        "file": "content/images/les-miserables-reading-guide.jpg",
+        "alt": "작품 초반의 인물 관계 설명도. 미리엘 주교는 장발장에게 자비를 베풀고, 자베르는 장발장을 추적합니다. 팡틴과 코제트는 모녀이며 장발장은 코제트를 보호합니다.",
+        "type": "artwork",
+        "label": "직접 제작 설명도",
+        "credit": "KnowledgeWalk 제작 · 작품 원문·악보에 근거한 읽기·감상 길잡이. 원본 표지·역사적 자료·완전한 연주용 악보를 복제한 이미지가 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/GITenberg/Les-Mis-rables_135/master/135-0.txt",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "width": 1536,
+        "height": 960
+      },
+      "new_image": {
+        "file": "content/images/les-miserables-reading-guide-scene-20261030.png",
+        "alt": "소박한 방에서 미리엘 주교가 지친 장발장에게 은촛대 두 개를 건네는 원작 기반 상상 장면.",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 · 원작 초반의 은촛대 장면을 새로 상상한 AI 삽화 · 실제 역사 사진이나 영화·뮤지컬 장면이 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "9bb71bb9780bfc549dcfbbb50f4569114a8f05522afa1e6b9d020cd0e6a816d1",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-d85a2028-80d6-41ce-ad4b-00434c53d923.png",
+          "purpose": "원작 초반의 은촛대 장면을 새로 상상한 AI 삽화 · 실제 역사 사진이나 영화·뮤지컬 장면이 아닙니다."
+        }
+      },
+      "scope": "본문은 기존 이미지 설명이 있던 문장만 새 이미지와 맞춤. 본래 해설·공개 승인 상태와 주소는 유지.",
+      "visual_check": "실제 이미지를 보고 본문의 대상·분위기와 대조. 후대 표현·창작 삽화와 사실 기록을 구별."
+    },
+    {
+      "id": "mozart-turkish-rondo",
+      "old_image": {
+        "file": "content/images/mozart-turkish-rondo.png",
+        "alt": "모차르트 피아노 소나타 K.331의 세 악장 안내도. 첫째는 주제와 변주, 둘째는 미뉴에트, 셋째는 론도 알라 투르카입니다.",
+        "type": "artwork",
+        "label": "직접 제작 설명도",
+        "credit": "KnowledgeWalk 제작 · 원문·악보와 해설에 근거한 읽기 안내도. 실제 인물 사진·원작 장면·완전한 연주용 악보를 재현한 자료가 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/MozartWA/KV331/KV331_3_RondoAllaTurca/KV331_3_RondoAllaTurca-lys/KV331_3_RondoAllaTurca.ly",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "width": 1536,
+        "height": 960
+      },
+      "new_image": {
+        "file": "content/images/mozart-turkish-rondo-scene-20261030.png",
+        "alt": "햇살이 들어오는 방에서 옛 건반악기를 연주하는 손의 움직임을 표현한 상상 삽화.",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 · 곡의 경쾌한 움직임을 표현한 AI 삽화 · 모차르트의 실제 연주나 오스만 군악대를 복원한 자료가 아닙니다.",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "438709f571c7a10c28aee871600df5bd97e91c8a87d7e0f5e5e74bcc00843133",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-b64888ec-80fe-475f-ad4f-325e776af6b7.png",
+          "purpose": "곡의 경쾌한 움직임을 표현한 AI 삽화 · 모차르트의 실제 연주나 오스만 군악대를 복원한 자료가 아닙니다."
+        }
+      },
+      "scope": "본문은 기존 이미지 설명이 있던 문장만 새 이미지와 맞춤. 본래 해설·공개 승인 상태와 주소는 유지.",
+      "visual_check": "실제 이미지를 보고 본문의 대상·분위기와 대조. 후대 표현·창작 삽화와 사실 기록을 구별."
+    },
+    {
+      "id": "vivaldi-four-seasons-spring",
+      "old_image": {
+        "file": "content/images/vivaldi-four-seasons-spring.jpg",
+        "alt": "사계의 네 협주곡과 봄의 세 장면 설명도. 봄 1악장은 새와 물, 천둥과 새의 복귀, 2악장은 잠든 목동과 개, 3악장은 목동들과 님프들의 춤입니다.",
+        "type": "artwork",
+        "label": "직접 제작 설명도",
+        "credit": "KnowledgeWalk 제작 · 작품 원문·악보에 근거한 읽기·감상 길잡이. 원본 표지·역사적 자료·완전한 연주용 악보를 복제한 이미지가 아닙니다.",
+        "source_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/VivaldiA/O8/spring/spring-lys/spring-header.ly",
+        "license": "KnowledgeWalk 직접 제작 설명도",
+        "width": 1536,
+        "height": 960
+      },
+      "new_image": {
+        "file": "content/images/vivaldi-four-seasons-spring-scene-20261030.png",
+        "alt": "창가의 바이올린과 활 너머로 봄꽃·여름의 비·가을 단풍·겨울 눈이 이어지는 시적인 상상 풍경.",
+        "type": "ai_illustration",
+        "label": "AI 장면·분위기 삽화",
+        "credit": "KnowledgeWalk 제작 · 바이올린과 사계절의 분위기를 연결한 AI 삽화 · 실제 한 장소나 특정 연주·악보를 재현한 자료가 아닙니다.",
+        "width": 1774,
+        "height": 887,
+        "sha256": "7b6a9ff44ecda01206f2dbae0301b84a13a8767ccfbaca3329266a263da42c81",
+        "generation": {
+          "tool": "image_gen",
+          "date": "2026-10-30",
+          "original_generated_file": "exec-a233ecec-393a-453a-9600-d7c321565a3b.png",
+          "purpose": "바이올린과 사계절의 분위기를 연결한 AI 삽화 · 실제 한 장소나 특정 연주·악보를 재현한 자료가 아닙니다."
+        }
+      },
+      "scope": "본문은 기존 이미지 설명이 있던 문장만 새 이미지와 맞춤. 본래 해설·공개 승인 상태와 주소는 유지.",
+      "visual_check": "실제 이미지를 보고 본문의 대상·분위기와 대조. 후대 표현·창작 삽화와 사실 기록을 구별."
+    }
+  ]
+}

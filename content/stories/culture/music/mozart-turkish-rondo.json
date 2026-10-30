@@ -41,15 +41,13 @@
     }
   ],
   "image": {
-    "file": "content/images/mozart-turkish-rondo.png",
-    "alt": "모차르트 피아노 소나타 K.331의 세 악장 안내도. 첫째는 주제와 변주, 둘째는 미뉴에트, 셋째는 론도 알라 투르카입니다.",
-    "type": "artwork",
-    "label": "직접 제작 설명도",
-    "credit": "KnowledgeWalk 제작 · 원문·악보와 해설에 근거한 읽기 안내도. 실제 인물 사진·원작 장면·완전한 연주용 악보를 재현한 자료가 아닙니다.",
-    "source_url": "https://raw.githubusercontent.com/MutopiaProject/MutopiaProject/master/ftp/MozartWA/KV331/KV331_3_RondoAllaTurca/KV331_3_RondoAllaTurca-lys/KV331_3_RondoAllaTurca.ly",
-    "license": "KnowledgeWalk 직접 제작 설명도",
+    "file": "content/images/mozart-turkish-rondo-scene-20261030.png",
+    "alt": "햇살이 들어오는 방에서 옛 건반악기를 연주하는 손의 움직임을 표현한 상상 삽화.",
+    "type": "ai_illustration",
+    "label": "AI 장면·분위기 삽화",
+    "credit": "KnowledgeWalk 제작 · 곡의 경쾌한 움직임을 표현한 AI 삽화 · 모차르트의 실제 연주나 오스만 군악대를 복원한 자료가 아닙니다.",
     "width": 1536,
-    "height": 960
+    "height": 1024
   },
   "body": [
     {
@@ -105,7 +103,7 @@
       "heading": "7. 전체 소나타 안에서는 어떤 자리에 있을까",
       "paragraphs": [
         "처음의 주제와 변주에서는 하나의 노래가 여러 모습으로 바뀌고, 미뉴에트에서는 춤의 걸음이 드러난다. 마지막 론도는 또 다른 방식의 활기를 만든다. 한 소나타 안에 변형, 춤, 반복과 대비라는 서로 다른 재미가 있는 셈이다.",
-        "함께 실은 그림은 세 악장의 위치를 정리한 자체 안내도다. 완전한 연주용 악보나 당시 군악대의 모습을 재현한 자료가 아니다. 유명한 행진곡을 전체 작품의 지도에 한 번 올려 보면, 이 곡 앞뒤의 음악을 찾는 일도 쉬워진다."
+        "함께 실은 그림은 건반을 연주하는 손의 움직임으로 곡의 경쾌함을 표현한 AI 삽화다. 모차르트의 실제 연주나 당시 군악대의 모습을 복원한 자료는 아니다. 유명한 행진곡을 전체 작품의 지도에 한 번 올려 보면, 이 곡 앞뒤의 음악을 찾는 일도 쉬워진다."
       ]
     },
     {

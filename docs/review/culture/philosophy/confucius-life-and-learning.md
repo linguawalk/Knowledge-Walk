@@ -6,11 +6,11 @@ Culture · Philosophy
 
 > 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
-![논어 위정편에 나오는 열다섯, 서른, 마흔, 쉰, 예순, 일흔의 회고를 정리한 안내도. 모든 사람의 나이별 목표를 뜻하지 않습니다.](../../../../content/images/confucius-life-and-learning.png)
+![1910년 영문판 The Sayings of Confucius의 실제 표지. 공자를 표현한 후대의 인물 그림과 책 제목이 보입니다.](../../../../content/images/confucius-life-and-learning-cover-20261030.jpg)
 
-*KnowledgeWalk 제작 · 원문·악보와 해설에 근거한 읽기 안내도. 실제 인물 사진·원작 장면·완전한 연주용 악보를 재현한 자료가 아닙니다.*
+*Lionel Giles 번역 · The Sayings of Confucius · E. P. Dutton, 1910 · Project Gutenberg 수록 표지 · 공자의 동시대 초상이 아닌 후대 출판물의 표현*
 
-[이미지 출처·제작 근거](https://raw.githubusercontent.com/GITenberg/The-Analects-of-Confucius-from-the-Chinese-Classics_3330/master/3330.txt) · KnowledgeWalk 직접 제작 설명도
+[이미지 출처·제작 근거](https://raw.githubusercontent.com/GITenberg/The-Sayings-of-ConfuciusA-New-Translation-of-the-Greater-Part-of-the-Confucian-Analects_46389/master/46389-h/images/confiala_0001.jpg) · 1910년 출판물의 퍼블릭 도메인 표지 도판 · Project Gutenberg 수록본
 
 서른이면 자리를 잡고 마흔이면 흔들리지 않아야 한다는 말을 들으면 오히려 마음이 급해질 수 있다. 그런데 그 나이의 표현이 오늘의 모든 사람에게 적용되는 인생 평가표였을까. 공자의 말을 읽는 출발점을 여기서 조금 바꾸어 볼 수 있다.
 
@@ -62,7 +62,7 @@ Culture · Philosophy
 
 말년에 노나라로 돌아온 공자는 가르침과 옛 자료를 다루는 일에 힘을 쏟은 인물로 전해진다. 오늘 남은 명성만 보고 생애 전체가 순탄했다고 생각하면 현실과 부딪치던 시간을 놓친다. 정치에서 뜻을 모두 펼치지 못한 삶과 오래 전해진 가르침이 한 사람 안에 있다.
 
-함께 실은 그림은 위정편의 생애 회고를 읽기 쉽게 정리한 자체 안내도다. 성공해야 할 나이를 정한 일정표가 아니다. 공자를 오래된 명령의 목소리로만 만나기보다, 배운 것을 삶에 익히려면 왜 긴 시간이 필요한지 묻는 사람으로 읽어 보자. 지금 배우는 것이 아직 있다면 그 질문을 시작할 자리도 남아 있다.
+함께 실은 이미지는 1910년에 출판된 『The Sayings of Confucius』의 실제 표지다. 인물 그림은 후대 출판물이 표현한 공자의 모습이며, 공자가 살던 시대에 그린 초상은 아니다. 공자를 오래된 명령의 목소리로만 만나기보다, 배운 것을 삶에 익히려면 왜 긴 시간이 필요한지 묻는 사람으로 읽어 보자. 지금 배우는 것이 아직 있다면 그 질문을 시작할 자리도 남아 있다.
 
 ## 이야기의 바탕이 된 자료
 
@@ -72,6 +72,8 @@ Culture · Philosophy
   - 확인 내용: 춘추시대 노나라의 정치·가르침과 관직·여러 나라의 유랑과 귀환 / 논어가 공자 자신의 완성 저술·녹취록이 아닌 후대 전승이라는 사료 성격
 - [공자 관련 서지·인물 식별 정보](https://raw.githubusercontent.com/GITenberg/The-Sayings-of-ConfuciusA-New-Translation-of-the-Greater-Part-of-the-Confucian-Analects_46389/master/metadata.yaml) · 확인일 2026-10-29
   - 확인 내용: 공자 551~479 BCE 생몰년·제자들의 후대 전승이라는 자료 성격
+- [The Sayings of Confucius — 1910년 판본의 표지·표제면](https://raw.githubusercontent.com/GITenberg/The-Sayings-of-ConfuciusA-New-Translation-of-the-Greater-Part-of-the-Confucian-Analects_46389/master/46389-h/46389-h.htm) · 확인일 2026-10-30
+  - 확인 내용: 표지의 인물 그림·책 제목과 표제면의 출판사·1910년 표기를 대조; 공자의 동시대 초상으로 제시하지 않음
 
 ---
 

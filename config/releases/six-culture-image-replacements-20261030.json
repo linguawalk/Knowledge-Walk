@@ -1,0 +1,16 @@
+{
+  "id": "six-culture-image-replacements-20261030",
+  "approved_at": "2026-10-30",
+  "user_request": "문화에서 공자의 생애·프랑켄슈타인·엘리제를 위하여·레 미제라블·터키 행진곡·비발디 사계의 이미지를 바꾸었으면 합니다.",
+  "story_ids": [
+    "confucius-life-and-learning",
+    "frankenstein-creator-and-creature",
+    "fur-elise-title-and-theme",
+    "les-miserables-reading-guide",
+    "mozart-turkish-rondo",
+    "vivaldi-four-seasons-spring"
+  ],
+  "scope": "지정한 기존 공개 글 6편의 이미지 교체와 필요한 이미지 안내 문장 정정. 새 글 제작 없음.",
+  "deployment_status": "prepared",
+  "expected_live_story_count": 128
+}

@@ -4,11 +4,11 @@
 
 | 분야 · 세부 분류 | 이야기 | 이미지 |
 |---|---|---|
-| Culture · Literature | [레 미제라블 — 빵 한 조각에서 시작된 긴 질문](culture/literature/les-miserables-reading-guide.md) | 직접 제작 설명도 |
+| Culture · Literature | [레 미제라블 — 빵 한 조각에서 시작된 긴 질문](culture/literature/les-miserables-reading-guide.md) | AI 장면·분위기 삽화 |
 | Culture · Literature | [오만과 편견 — 처음 본 인상을 믿어도 될까](culture/literature/pride-prejudice-first-impressions.md) | 실제 작품 재현 도판 |
-| Culture · Music | [엘리제를 위하여 — 익숙한 선율 앞에 남은 이름](culture/music/fur-elise-title-and-theme.md) | 직접 제작 설명도 |
+| Culture · Music | [엘리제를 위하여 — 익숙한 선율 앞에 남은 이름](culture/music/fur-elise-title-and-theme.md) | AI 장면·분위기 삽화 |
 | Culture · Music | [월광 — 베토벤이 붙인 제목은 아니었다](culture/music/moonlight-sonata-name.md) | 실제 작품 재현 도판 |
-| Culture · Music | [비발디 사계 — 새소리에서 폭풍과 겨울의 불가까지](culture/music/vivaldi-four-seasons-spring.md) | 직접 제작 설명도 |
+| Culture · Music | [비발디 사계 — 새소리에서 폭풍과 겨울의 불가까지](culture/music/vivaldi-four-seasons-spring.md) | AI 장면·분위기 삽화 |
 | Culture · Art | [모나리자 — 미소와 손, 그리고 그림이 사라진 해](culture/art/mona-lisa-looking-guide.md) | 실제 작품 재현 도판 |
 | Culture · Art | [레이스 뜨는 여인 — 작은 일에 시선이 모일 때](culture/art/vermeer-lacemaker-looking-guide.md) | 실제 작품 재현 도판 |
 | Culture · Art | [아름다운 정원사 — 그림 속 여인은 누구일까](culture/art/raphael-belle-jardiniere.md) | 실제 작품 재현 도판 |
