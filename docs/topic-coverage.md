@@ -1,6 +1,6 @@
 # 세부 주제 제작 현황
 
-전체 43개 세부 주제 중 원고가 있는 곳은 35개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
+전체 43개 세부 주제 중 원고가 있는 곳은 37개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
 
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
@@ -36,27 +36,25 @@
 | Computing | Internet | 8 | 8 | 8 |
 | Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 2 | 1 | 1 |
-| Finance | Banking | 2 | 2 | 2 |
-| Finance | Insurance | 0 | 0 | 0 |
-| Finance | Investment | 2 | 2 | 2 |
+| Finance | Money | 3 | 2 | 1 |
+| Finance | Banking | 3 | 3 | 2 |
+| Finance | Insurance | 1 | 1 | 0 |
+| Finance | Investment | 4 | 4 | 2 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 2 | 2 | 2 |
-| Science | Physics | 3 | 3 | 3 |
-| Science | Chemistry | 0 | 0 | 0 |
-| Science | Biology | 4 | 4 | 4 |
-| Science | Earth-Science | 1 | 1 | 1 |
+| Science | Physics | 5 | 5 | 3 |
+| Science | Chemistry | 1 | 1 | 0 |
+| Science | Biology | 5 | 5 | 4 |
+| Science | Earth-Science | 2 | 2 | 1 |
 | Science | Engineering | 3 | 3 | 3 |
 
 ## 먼저 살펴볼 빈 주제
 
 아래는 원고가 적은 분야의 빈 주제를 먼저 보여주는 조사 대기 목록입니다. 자료의 신뢰성과 이야기의 재미를 확인한 뒤 실제 소재를 정하며, 이 순서대로 무조건 집필하지 않습니다.
 
-- Finance → Insurance
 - Finance → Fintech
 - History → Asia
 - History → Middle East
-- Science → Chemistry
 - Companies → Finance
 - Culture → Film
 - Culture → Sports

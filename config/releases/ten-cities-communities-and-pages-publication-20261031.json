@@ -14,7 +14,10 @@
     "csv-comma-inside-a-cell",
     "alt-text-image-in-words"
   ],
-  "deployment_status": "prepared",
+  "deployment_status": "live_verified",
   "expected_live_story_count": 188,
-  "public_collection_url": "https://knowledgewalk.net/collections/20261031-ten-cities-communities-and-pages/index.html"
+  "public_collection_url": "https://knowledgewalk.net/collections/20261031-ten-cities-communities-and-pages/index.html",
+  "live_story_count": 188,
+  "verified_new_story_count": 10,
+  "verification": "홈페이지·검색·모음·새 원고 10개·이미지 10개 총 23개 HTTPS 응답을 공개 빌드와 바이트 대조."
 }

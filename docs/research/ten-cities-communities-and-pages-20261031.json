@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "batch_id": "20261031-ten-cities-communities-and-pages",
-  "status": "source_checked_user_publication_approval_pending",
+  "status": "user_approved_live_verified",
   "method": "읽은 원문과 사실을 대조한 뒤 독립적으로 한국어 원고를 집필. 교재 문장을 번역·재배열하지 않음. 실제 자료·가상 예·삽화의 역할을 구분.",
   "sources": [
     {
@@ -197,9 +197,9 @@
     "unit_tests": "34 passed",
     "browser": "All 10 new stories at 1440px desktop and 390px mobile; images decoded, source links present, no horizontal overflow or JavaScript errors",
     "manuscripts": 191,
-    "approved_live_articles": 178,
+    "approved_live_articles": 188,
     "new_drafts": 10,
-    "new_drafts_published": false,
+    "new_drafts_published": true,
     "schedules_enabled": false,
     "csv_example": {
       "input": "\"바다, 그리고 집\",서울",
@@ -210,5 +210,6 @@
         ]
       ]
     }
-  }
+  },
+  "publication_approved_at": "2026-10-31"
 }

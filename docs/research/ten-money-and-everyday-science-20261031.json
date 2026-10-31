@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-31",
+  "batch_id": "20261031-ten-money-and-everyday-science",
+  "status": "source_checked_user_publication_approval_pending",
+  "method": "OpenStax 원문을 실제 읽고 사실과 조건을 대조한 뒤 독립적인 한국어 원고를 집필. 교재의 문장을 번역·복제하지 않음. 계산은 가상의 금액으로 새로 만들고 Decimal로 검산.",
+  "sources": [
+    {
+      "key": "inflation",
+      "title": "OpenStax Principles of Finance — 물가와 구매력",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00019/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "9d4aac671f7695f3fb231c9fe2d5f9907385f5aca27ea03537b768d27b3c230d",
+      "supports": [
+        "물가와 장바구니·소비자물가지수",
+        "화폐의 구매력과 한 품목의 가격 구분"
+      ]
+    },
+    {
+      "key": "inflationhistory",
+      "title": "OpenStax Principles of Finance — 물가의 변화와 생활비",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00074/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "c399f973dd8d2e28456977141886d82ff4324f7816225d22ff63be1819fd7103",
+      "supports": [
+        "가격 수준과 상승률·기간을 연결하는 비교",
+        "지출 구성과 지역·연령에 따른 체감 차이"
+      ]
+    },
+    {
+      "key": "inflationinterest",
+      "title": "OpenStax Principles of Finance — 금리와 예상 물가",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00021/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "e1bbe6885f7170d8e7c188c900c479863cc5435ca9327fd885c22bc455e3d671",
+      "supports": [
+        "예상 물가와 실제 물가가 대출 관계에 미치는 영향"
+      ]
+    },
+    {
+      "key": "insurance",
+      "title": "OpenStax Principles of Microeconomics — 보험과 불완전한 정보",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-economics-bundle/main/modules/m63685/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "5f6f6ccaa68184f17a1324b1fc7a4efe184af4f72ec7a6e633e282c5d7110c7e",
+      "supports": [
+        "보험료와 집단의 손실 분담·위험 집단",
+        "자기부담금·비용 분담·유인과 필요한 이용 감소의 문제",
+        "보험금과 운영비·준비금 운용의 구분"
+      ]
+    },
+    {
+      "key": "diversification",
+      "title": "OpenStax Principles of Finance — 여러 자산의 위험과 수익",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00094/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "8358db57957517cb208c9f67664298302df1ffbf50a0a9d44e64e82ff1d21553",
+      "supports": [
+        "비중과 수익·공통 요인·상관관계",
+        "개별 회사 위험과 업종 위험·분산의 범위"
+      ]
+    },
+    {
+      "key": "bonds",
+      "title": "OpenStax Principles of Finance — 채권 가치평가",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00062/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "9a1acfa7f6eeab5d5923e31652d8fd3a98a4790129f223fbb51ae4956ba5a2f6",
+      "supports": [
+        "미래 지급액과 현재 가치·표면이자와 구매 가격",
+        "수익률 변화와 고정 지급 채권의 가격"
+      ]
+    },
+    {
+      "key": "bondrisk",
+      "title": "OpenStax Principles of Finance — 금리 위험과 채무 불이행",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00064/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "ab52579c1cfe2b248ded2984d42face7281e69d705d0df15f5252c00c8d0940d",
+      "supports": [
+        "금리와 채권 가격의 일반적인 역관계",
+        "만기와 지급 불이행·금리 위험의 구분"
+      ]
+    },
+    {
+      "key": "deposit",
+      "title": "OpenStax Introduction to Business — 예금자보호의 미국 역사 사례",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-introduction-business/main/modules/m67771/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "31b09b135bf756296435eada3ae2de91d176759f480a13dbe4f6b0ba65d35283",
+      "supports": [
+        "대공황기의 은행 불안·1933년 법과 FDIC 설립",
+        "가입 은행의 보험료·과거 위험 기반 보험료 전환",
+        "안전망과 위험 선택·은행 검사와 감독. 현재 한도 안내로 사용하지 않음"
+      ]
+    },
+    {
+      "key": "thermal",
+      "title": "OpenStax University Physics — 물의 밀도와 열팽창",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-university-physics-bundle/main/modules/m58386/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "397c1f3204643ed977f513d6e3cdf3239487a176cbc1405c11e6eb4e67255cd1",
+      "supports": [
+        "약 4도에서 물의 밀도 최대·표면의 결빙",
+        "얼음 결정의 빈 공간·얼음층의 단열과 액체 환경"
+      ]
+    },
+    {
+      "key": "buoyancy",
+      "title": "OpenStax University Physics — 아르키메데스 원리와 부력",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-university-physics-bundle/main/modules/m58356/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "a5d8b49f83f92ede2e78c67c17e4e1f94e73001ad589e42d8af86724c01a3702",
+      "supports": [
+        "밀어낸 유체의 무게와 부력",
+        "밀도 비교·뜨는 물체의 평형"
+      ]
+    },
+    {
+      "key": "forces",
+      "title": "OpenStax Chemistry — 분자 사이의 힘과 도마뱀붙이",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-chemistry-bundle/main/modules/m68761/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "7d2e3bcf65d19389ae5f1a3bb426b3a1896b2422076002f9388ecccfe37c566d",
+      "supports": [
+        "수소 결합·분자 간 인력",
+        "발의 미세 털과 분산력·서로 다른 표면을 비교한 연구",
+        "각도와 접촉 변화·젖은 소수성 표면의 후속 연구"
+      ]
+    },
+    {
+      "key": "phase",
+      "title": "OpenStax Chemistry — 상태 변화와 끓는점",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-chemistry-bundle/main/modules/m68768/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "8b1de869fbb9fe9adf315536599ef87de0f00f22d5398c2a688ad70e883bd61d",
+      "supports": [
+        "증발과 응축·증기압·주변 압력과 끓는점",
+        "높은 고도에서의 낮은 압력·증발에 필요한 에너지"
+      ]
+    },
+    {
+      "key": "heatphase",
+      "title": "OpenStax University Physics — 상태 변화와 압력",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-university-physics-bundle/main/modules/m58388/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "5f2d8189aae6c22b43b5acb0686860b10582b7fcaa9ff41f66c2c595d7e21fbd",
+      "supports": [
+        "표준 대기압의 100도·압력과 끓는점",
+        "온도 변화와 상태 변화의 열·압력솥의 원리"
+      ]
+    },
+    {
+      "key": "colloids",
+      "title": "OpenStax Chemistry — 콜로이드와 비누·세제",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-chemistry-bundle/main/modules/m68784/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "19d689687848bf62db397a121f34ea907d29b4c15ad8856916383416251b63e1",
+      "supports": [
+        "비누 분자의 비극성 부분과 이온성 부분·기름방울 분산",
+        "유화와 용해의 구분·경수의 칼슘과 마그네슘·합성 세제",
+        "액체 속 기체인 거품과 다른 콜로이드 구분"
+      ]
+    },
+    {
+      "key": "solubility",
+      "title": "OpenStax Chemistry — 용해도와 섞이지 않는 액체",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-chemistry-bundle/main/modules/m68782/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "d8ff8a59cfc122f8d07281a586d0f53176b335f8465a683b54db890dba15a531",
+      "supports": [
+        "물과 기름의 층·분자 사이 상호작용과 혼합"
+      ]
+    },
+    {
+      "key": "tides",
+      "title": "OpenStax Astronomy — 바다의 조석과 달",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-astronomy/main/modules/m59789/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "78a48df6cb00228ec11338e1784c8c8edda47a83024f060f79de76e451e4357f",
+      "supports": [
+        "위치에 따른 달의 중력 차이·물의 이동과 양쪽의 조석 모형",
+        "자전·태양과 달의 방향·사리와 조금",
+        "해안과 수심·마찰·바람 등 실제 지역별 조건"
+      ]
+    }
+  ],
+  "ai_images": [
+    {
+      "story_id": "inflation-price-tag-and-purchasing-power",
+      "credit": "AI 관련 삽화 · 장을 보는 가상의 생활 장면입니다. 실제 물가 조사·가격표나 특정 가정의 소비 사진이 아닙니다.",
+      "sha256": "45ae0dffbd87344c4634d8d6fbd85f836adf48b350f8fe59954ea2a394337cf1"
+    },
+    {
+      "story_id": "insurance-pool-uncertain-loss",
+      "credit": "AI 개념 삽화 · 위험에 함께 대비한다는 구상을 표현했습니다. 실제 보험회사의 운영·보험금 지급 절차를 그린 자료는 아닙니다.",
+      "sha256": "a3e6f98ad9e3d7802340af720600295a2851120ce019e46cad1b6bac1b18a336"
+    },
+    {
+      "story_id": "diversification-baskets-and-common-weather",
+      "credit": "AI 비유 삽화 · 서로 다른 작물이 같은 날씨를 겪는 모습을 표현했습니다. 투자 성과나 자산 간 관계를 측정한 도표는 아닙니다.",
+      "sha256": "621ecedc9da8c34677a57da4cd91a68fdbbd306e0879f98a54cd99d71367f109"
+    },
+    {
+      "story_id": "bond-price-when-interest-rates-rise",
+      "credit": "AI 관련 삽화 · 계약과 시간을 살피는 상상 속 장면입니다. 실제 채권 증서·시세나 수익을 보여 주는 자료는 아닙니다.",
+      "sha256": "2b5932629aa6596caa3aea6a3bba350a8c1ffc57b1d37589b85a7f9f55d17eb9"
+    },
+    {
+      "story_id": "deposit-insurance-bank-and-safety-net",
+      "credit": "AI 관련 삽화 · 일반적인 은행 상담의 분위기입니다. 실제 기관·예금자보호 절차나 현재 보호 한도를 재현하지 않았습니다.",
+      "sha256": "c7020bc162d4152d831857f6248f9ddfa450847eacafa986e9e54181511e855c"
+    },
+    {
+      "story_id": "ice-floats-lake-freezes-from-top",
+      "credit": "AI 관련 삽화 · 겨울 호수의 분위기를 표현했습니다. 실제 수온·얼음 두께를 측정한 관측 사진은 아닙니다.",
+      "sha256": "6890b58c231e5311fdfd0deeb4cc74a97ba2d3af71dfe1aa1847885bc655dba0"
+    },
+    {
+      "story_id": "boiling-water-mountain-pressure",
+      "credit": "AI 관련 삽화 · 산에서 음료를 준비하는 분위기 그림입니다. 실제 고도의 끓는점 측정이나 조리 기구의 성능 자료는 아닙니다.",
+      "sha256": "e90cc73d4b62357740bff4ae900b71859bda71669924e51e8c8e8e93ee2d0996"
+    },
+    {
+      "story_id": "soap-water-and-oily-plate",
+      "credit": "AI 관련 삽화 · 일반적인 설거지 장면입니다. 분자의 실제 모습·현미경 관찰이나 특정 세제의 시험 결과가 아닙니다.",
+      "sha256": "08b0f1e1e3a01c51dcbbca3ab2013d459ac726d0a40f1e8bdbc15094f9ce2f01"
+    },
+    {
+      "story_id": "tides-moon-and-changing-shore",
+      "credit": "AI 관련 삽화 · 썰물의 항구를 떠올리는 상상 속 풍경입니다. 실제 물때·시각·조차를 보여 주는 관측 사진이나 예보가 아닙니다.",
+      "sha256": "671fb96d468cc22c104fd59c5005cde660d239e1853c1312cf12545a827cae88"
+    },
+    {
+      "story_id": "gecko-feet-small-forces",
+      "credit": "AI 관련 삽화 · 벽에 붙은 도마뱀붙이의 분위기를 표현했습니다. 실제 개체 사진·미세 구조·부착력 측정 자료는 아닙니다.",
+      "sha256": "39ab0169b6aadace91a8c944214e47159136803b50a2e1679c5cf80a68918d60"
+    }
+  ],
+  "calculations": {
+    "new_budget_fraction": "0.9545454545454545454545454545",
+    "two_period_price_index": "113.3000",
+    "insurance_pool": 10000000,
+    "deductible_remainder": 1800000,
+    "equal_portfolio_return": "0.00",
+    "bond_price_at_5_percent": "980952.3809523809523809523810",
+    "bond_price_at_2_percent": "1009803.921568627450980392157"
+  },
+  "notes": [
+    "전체 10장은 새로 생성한 AI 장면·비유 삽화. 실제 관측·실험·수익 자료로 제시하지 않음. 각 그림을 눈으로 확인하고 본문 및 크레디트에서 역할을 구별.",
+    "물가의 가상 장바구니와 예산 비교·보험 공동 부담과 자기부담 예·포트폴리오 가상 수익·단일 지급 채권 현재가치를 Decimal로 별도 검산. 세금과 수수료 등 생략 조건 명시.",
+    "예금자보호 자료는 미국의 1933년 기관 설립과 운영 취지 등으로 한정. 교재의 per account 한도 단순화와 현재 감독 기관 수·보호 금액은 사용하지 않음. 한국 현재 보호 제도 안내나 투자상품의 구체적 적용 판단으로 제시하지 않음.",
+    "FDIC 공식 두 페이지와 한국 예금보험공사 직접 접속은 네트워크 403으로 읽지 못했으며 해당 페이지를 출처로 인용하지 않음. 공식 자료를 읽었다고 주장하지 않음.",
+    "보험료를 모두 환급하는 저축과 위험 보장의 차이를 설명하되 상품 기능이 결합될 수 있음을 명시. 가상 공동 부담은 손실 건수·비용 등을 단순화한 예이며 실제 보험료 산정이 아님.",
+    "분산은 원금 보장으로 설명하지 않음. 과거 상관관계의 영속성·실제 상품의 적합성이나 수익을 단정하지 않음.",
+    "얼음은 보통 압력의 물·민물의 약 4도 밀도 최대를 설명. 바닷물이나 모든 호수의 동일한 온도·완전한 생존 보장을 주장하지 않음.",
+    "끓는점은 압력과 성분의 조건을 붙여 설명. 교재의 단순한 covered pot 표현은 그대로 옮기지 않고 전용 압력솥만 설명. 불 세기와 끓는점 상승을 구분.",
+    "조석 자료의 oblate spheroid와 football 표현의 혼동은 사용하지 않음. 기본 양쪽 조석 모형과 실제 지역별 복잡성을 구분. 그림에서 물때를 계산하거나 모든 지역 하루 두 번으로 단정하지 않음.",
+    "비누는 유화·분산을 설명하며 기름이 물로 변한다고 쓰지 않음. 거품량을 세척력의 직접 측정으로 간주하지 않음.",
+    "도마뱀붙이는 연구에 소개된 부착 구조와 분산력·각도에 따른 접촉 변화 설명으로 한정. 모든 젖은 표면·모든 종의 동일한 부착력이나 완제품 접착제 성능을 보장하지 않음."
+  ],
+  "validation": {
+    "unit_tests": "34 passed",
+    "browser": "All 10 drafts at 1440px desktop and 390px mobile; images decoded, sources present, no horizontal overflow or JavaScript errors",
+    "manuscripts": 201,
+    "approved_live_articles": 188,
+    "new_drafts": 10,
+    "new_drafts_published": false,
+    "schedules_enabled": false
+  }
+}
