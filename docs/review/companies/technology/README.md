@@ -13,4 +13,5 @@
 | [레고라는 이름은 원래 무슨 뜻일까](lego-play-well.md) | 자료 대조·공개 게시 승인 완료 |
 | [마이크로소프트가 옛 프로그램을 공개한 까닭](microsoft-dos-open-archive.md) | 자료 대조·공개 게시 승인 완료 |
 | [3M — 잘 붙지 않는 접착제의 쓸모](postit-weak-glue-new-use.md) | 자료 대조·공개 게시 승인 완료 |
+| [풀먼 — 회사가 집까지 마련해 주면 행복할까](pullman-town-wages-and-rent.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [소니 — 편리한 음악 시대에 레코드를 다시 만들겠다고 한 이유](sony-vinyl-records-return.md) | 자료 대조·공개 게시 승인 완료 |

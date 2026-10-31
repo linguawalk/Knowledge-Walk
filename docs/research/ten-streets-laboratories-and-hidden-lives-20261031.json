@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-31",
+  "batch_id": "20261031-ten-streets-laboratories-and-hidden-lives",
+  "status": "source_checked_user_publication_approval_pending",
+  "editorial_direction": "도시사 2·기업사 2·역사 1·경제사 1·과학사 3·문학 1. 모든 글은 한 대분류/소분류만 사용.",
+  "sources": [
+    {
+      "key": "city",
+      "title": "OpenStax World History — Life in the Industrial City",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00003/index.cnxml",
+      "supports": [
+        "1858년 런던 대악취·석회 소독 커튼·바잘제트 하수도와 후속 처리",
+        "풀먼 마을의 주거·시설과 검사·1894년 임금 삭감과 집세 갈등",
+        "도시의 백화점·진열과 휴게 공간·소비와 일자리·봉마르셰/워너메이커 역사 도판"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "23082c4890f8707cecf170a4f6b6483c7d9436a5a170b776380e3884790caa1f"
+    },
+    {
+      "key": "hooks",
+      "title": "OpenStax Microbiology — Peering Into the Invisible World",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-microbiology/main/modules/m58786/index.cnxml",
+      "supports": [
+        "훅의 복합현미경과 코르크·1665년 출판·죽은 조직의 세포벽",
+        "레이우엔훅의 단일 렌즈와 관찰 편지",
+        "현미경 단독 발명자의 확정이 어려운 역사"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "a1c1ac0560b901c109f8998ea551b20a0acbd15df62bdc8a36afa9b3f6aaee70"
+    },
+    {
+      "key": "jekyll",
+      "title": "Robert Louis Stevenson, Strange Case of Dr Jekyll and Mr Hyde — 소설 원문",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Strange-Case-of-Dr.-Jekyll-and-Mr.-Hyde_43/master/43-0.txt",
+      "supports": [
+        "문·아이 폭행·수표·유언장·커루 살해와 어터슨의 추적",
+        "래니언의 기록·풀과 어터슨의 진입·하이드 시신",
+        "지킬의 마지막 고백·통제 상실·불순물 추측. 줄거리와 편집적 해석을 구별"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "31df0a9af1bce24ccbb5ab3ccb659603353accde5b7e40f7c5b887fb88173d48"
+    },
+    {
+      "key": "mali",
+      "title": "OpenStax World History — Medieval Sub-Saharan Africa, 이븐 바투타의 타가자 기록 인용",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00150/index.cnxml",
+      "supports": [
+        "사하라의 금·소금 교역망과 가나·말리의 중개",
+        "여행기에 묘사된 소금 판·건물·낙타·노예화된 채굴 노동자",
+        "여행자의 안전 평가와 노동자의 자유를 구별"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "cc1e248c2d3efb5484fd612081e30d847baf6b047c9641062108557109617c01"
+    },
+    {
+      "key": "micrographia",
+      "title": "Robert Hooke, Micrographia (1665) — 관찰 XVIII·도판 XI",
+      "url": "https://raw.githubusercontent.com/GITenberg/MicrographiaSome-Physiological-Descriptions-of-Minute-Bodies-Made-by-Magnifying-Glasses-with-__15491/master/15491-h/15491-h.htm",
+      "supports": [
+        "얇게 자른 코르크·검은 받침과 조명·벌집/작은 상자 비유",
+        "코르크의 가벼움·부력·탄성에 대한 훅의 역사적 해석",
+        "도판 XI 그림 1의 코르크와 그림 2의 별도 식물 그림을 구별"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "74e687ea69dd806f6ad1301888e0e3cf7b02c22d3ac0920267d01da1056a44a3"
+    },
+    {
+      "key": "periodic",
+      "title": "OpenStax Chemistry — The Periodic Table",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-chemistry-bundle/main/modules/m68695/index.cnxml",
+      "supports": [
+        "원소의 성질과 원자량에 따른 배열·멘델레예프와 마이어의 독립 작업",
+        "미발견 원소 예측·갈륨 1875년과 게르마늄 1886년",
+        "현대의 원자번호 기준과 역사적 표의 차이"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "1132a48537488713fb2e39489f6b04414624b7e9ef2b68995f8601e166b94535"
+    },
+    {
+      "key": "plague",
+      "title": "OpenStax World History — The Long-Term Effects of Global Transformation",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00160/index.cnxml",
+      "supports": [
+        "서유럽 노동력 부족·농민의 이동과 임금 요구",
+        "1349년 법·1351년 영국 노동자법·길드의 진입 및 승급 제한",
+        "1358년 자크리·1381년 영국 농민 반란·지속된 불평등"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "f1692b261045b4b4405295d39e31826aa2bdfc74f7e662470a54178ddc4bbf93"
+    },
+    {
+      "key": "sogdia",
+      "title": "OpenStax World History — Border States: Sogdiana, Korea, and Japan",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00155/index.cnxml",
+      "supports": [
+        "소그디아 도시와 다양한 언어·상인 공동체·서쪽/초원/중국의 교류",
+        "소그드인의 종교 전파·8세기 정치 변화",
+        "판지켄트의 6~7세기 전사 벽화와 이란계 전사 문화"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "cdcc7cb500991301d503768c1b05e367430b449c523d6cbbb111177c4d0bf314"
+    },
+    {
+      "key": "spontaneous",
+      "title": "OpenStax Microbiology — Spontaneous Generation",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-microbiology/main/modules/m58790/index.cnxml",
+      "supports": [
+        "레디 1668년·니덤·스팔란차니 실험과 반론",
+        "파스퇴르의 공기와 미생물 유입 구분·백조목 플라스크·목을 부러뜨린 비교",
+        "1862년 수상·당시 실험의 범위와 생명 기원 일반론의 구별"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "4db95ef03ee741e1b2b3ba274a3202fc3b7782943a2a44838525f8adf8781b30"
+    }
+  ],
+  "actual_images": {
+    "london": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B10_02_Sanitation.jpg",
+      "caption": "(a) This engraving shows the Prince of Wales, the heir to the British throne, attending the 1865 opening of Crossness, one of the major pumping stations of Joseph Bazalgette’s new sewer system. (b) A photograph of an elaborately designed nineteenth-century chalet de necessité, a public toilet, in a Parisian park. Such conveniences helped to keep that city clean. (credit a: modification of work “The Prince of Wales Opening the Metropolitan Main” by The Illustrated London News/Wikimedia Commons, Public Domain; credit b: modification of work “Cabinets water closets Dorion, Champs-Elysées” by State Library of Victoria/Wikimedia Commons, Public Domain)",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "1ad762a4f82f7396e047f8c5e5e2449b3c08a2f13196232579eadff231a5ccf0"
+    },
+    "store": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B10_02_BonMarche.jpg",
+      "caption": "The Bon Marché department store (a) was a favorite place for Parisians to shop. Management went to great lengths to make customers happy, even maintaining a fleet of horse-drawn conveyances to drive them home. Opening to crowds during the Centennial Exhibition in 1876, Wanamaker’s (b) in Philadelphia was modeled on the European open-air market, like Les Halles in Paris. In 1878, Wanamaker’s become the first department store with electric lighting. (credit a: modification of work “Le Bon Marché” by L’illustration/Wikimedia Commons, Public Domain; credit b: modification of work “John Wanamaker’s Clothing House” by The Illustrated History of the Centennial Exposition/The Cooper Collections of US History”Wikimedia Commons, Public Domain)",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "18683e8fff55b0914c89d200579b3b84b8f8843c0f674ea9aeb8b5f213104cf3"
+    },
+    "sogdian": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A12_03_PanjWar.jpg",
+      "caption": "This Sogdian fresco (wall painting) of the sixth or seventh century CE depicts a warrior on horseback. It was discovered on a wall of the palace complex at Panjikent in what is today Tajikistan. (credit: “Panjikent mural (6th-7th century CE)” by “Pendjikent”/Wikimedia Commons, Public Domain)",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "bc079ee61d0344b1895ebe7fe8e7f860e761a78e275728aea49d467da1886e17"
+    },
+    "hooke": {
+      "url": "https://raw.githubusercontent.com/GITenberg/MicrographiaSome-Physiological-Descriptions-of-Minute-Bodies-Made-by-Magnifying-Glasses-with-__15491/master/15491-h/images/scheme-11.png",
+      "caption": "Robert Hooke, Micrographia (1665), Scheme XI. Figure 1 shows cork cells; Figure 2 below depicts the sensitive plant. Project Gutenberg digitization of historical engraving, not a modern textbook composite.",
+      "license": "Public Domain",
+      "extension": ".png",
+      "sha256": "f83f6edd9ee29b5e476f67e6134598a5856cf242dfb59f3017a2c400e540a217"
+    }
+  },
+  "images": [
+    {
+      "story_id": "london-great-stink-and-sewers",
+      "file": "content/images/london-great-stink-and-sewers.jpg",
+      "alt": "왼쪽은 1865년 런던 크로스네스 펌프장 개장식 도판, 오른쪽은 파리 공중화장실 사진",
+      "type": "artwork",
+      "label": "실제 역사 자료",
+      "credit": "The Illustrated London News의 1865년 크로스네스 개장식 도판 및 State Library of Victoria의 파리 공중화장실 역사 사진 / Wikimedia Commons · OpenStax 수록 · 개별 자료 Public Domain. 서로 다른 도시의 시설입니다. 원본 합성 파일 그대로 사용했습니다.",
+      "width": 1300,
+      "height": 560,
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B10_02_Sanitation.jpg",
+      "license": "Public Domain",
+      "sha256": "1ad762a4f82f7396e047f8c5e5e2449b3c08a2f13196232579eadff231a5ccf0"
+    },
+    {
+      "story_id": "pullman-town-wages-and-rent",
+      "file": "content/images/pullman-town-wages-and-rent.png",
+      "alt": "붉은 벽돌 주택가와 철도차량 공장, 주민들을 그린 19세기 회사 마을의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 실제 풀먼 마을의 특정 거리나 주민을 고증한 복원은 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d64ad245749a6e2b30bfee59099be4ac36458867a720b448862abdb4ad5b4f9e"
+    },
+    {
+      "story_id": "department-stores-window-shopping",
+      "file": "content/images/department-stores-window-shopping.jpg",
+      "alt": "왼쪽은 파리 봉마르셰의 내부 도판, 오른쪽은 필라델피아 워너메이커 상점의 외관 도판",
+      "type": "artwork",
+      "label": "실제 역사 자료",
+      "credit": "L’illustration의 Le Bon Marché 도판 및 The Illustrated History of the Centennial Exposition / The Cooper Collections of US History의 John Wanamaker’s Clothing House 도판 · Wikimedia Commons / OpenStax · 개별 자료 Public Domain. 왼쪽 파리 내부·오른쪽 필라델피아 외관이며 한 건물의 두 장면이 아닙니다. 원본 파일 그대로 사용했습니다.",
+      "width": 1300,
+      "height": 448,
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B10_02_BonMarche.jpg",
+      "license": "Public Domain",
+      "sha256": "18683e8fff55b0914c89d200579b3b84b8f8843c0f674ea9aeb8b5f213104cf3"
+    },
+    {
+      "story_id": "taghaza-salt-caravan-and-labor",
+      "file": "content/images/taghaza-salt-caravan-and-labor.png",
+      "alt": "소금 짐을 실은 낙타와 사막의 여행자들을 그린 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 사하라 교역의 분위기이며 실제 타가자의 건물·식생·채굴 현장이나 이븐 바투타의 초상을 복원하지 않았습니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "febc1002fbb1d8df388265deff9d5eaa672691639945af3757c83d51fc5c5b0e"
+    },
+    {
+      "story_id": "panjikent-sogdian-merchants-and-mural",
+      "file": "content/images/panjikent-sogdian-merchants-and-mural.jpg",
+      "alt": "판지켄트에서 발견된 6~7세기 벽화. 말을 탄 무장한 전사가 보인다.",
+      "type": "artwork",
+      "label": "실제 역사 자료",
+      "credit": "“Panjikent mural (6th–7th century CE)” / “Pendjikent”, Wikimedia Commons · OpenStax 수록 · Public Domain. 실제 역사 벽화이며 특정 상인의 초상이나 실제 전투의 현장 기록으로 단정하지 않았습니다. 원본 파일 그대로 사용했습니다.",
+      "width": 1200,
+      "height": 868,
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A12_03_PanjWar.jpg",
+      "license": "Public Domain",
+      "sha256": "bc079ee61d0344b1895ebe7fe8e7f860e761a78e275728aea49d467da1886e17"
+    },
+    {
+      "story_id": "black-death-labor-and-wages",
+      "file": "content/images/black-death-labor-and-wages.png",
+      "alt": "들판에서 작업 도구를 든 노동자들과 장부를 든 관리가 이야기하는 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 특정 연도에 기록된 협상이나 실제 인물의 초상을 재현하지 않았습니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c65bb3494d5293e069eae420190db48291b2ba78601040017d66715cfe2b58ee"
+    },
+    {
+      "story_id": "mendeleev-empty-spaces-and-elements",
+      "file": "content/images/mendeleev-empty-spaces-and-elements.png",
+      "alt": "빈자리가 있는 카드 배열과 여러 물질 표본을 놓고 살피는 연구자의 손을 그린 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 멘델레예프의 실제 작업대·실험·원소표를 복원하지 않았습니다. 임의의 광물 같은 표본은 순수 원소의 실제 모습이나 모든 원소의 상태를 뜻하지 않습니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "645aa3da06e7a1a6a244471d0bb580ca990844d33eb77760fcec785d796850b0"
+    },
+    {
+      "story_id": "pasteur-swan-neck-air-and-dust",
+      "file": "content/images/pasteur-swan-neck-air-and-dust.png",
+      "alt": "구부러진 목의 플라스크를 놓은 19세기 실험실 분위기의 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 실제 소장 유물의 정밀 복원이나 실험 결과의 증거가 아닙니다. 병목의 작용은 본문의 설명과 근거자료를 함께 읽어 주세요.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "30c85327a6b5213c8d0ba5b02c853c2a4b205bfdd564361e6c8ee26ef256ae94"
+    },
+    {
+      "story_id": "hooke-cork-small-rooms",
+      "file": "content/images/hooke-cork-small-rooms.png",
+      "alt": "1665년 마이크로그라피아 도판 XI. 위쪽은 코르크의 칸 구조, 아래쪽은 별도의 식물 그림",
+      "type": "artwork",
+      "label": "실제 역사 자료",
+      "credit": "Robert Hooke, Micrographia (1665), Scheme XI / Project Gutenberg · Public Domain. 위 그림 1은 코르크의 관찰, 아래 그림 2는 별도의 식물 관찰입니다. 현미경 사진이나 현대 세포 모식도가 아닙니다. 원본 도판 파일 그대로 사용했습니다.",
+      "width": 811,
+      "height": 1170,
+      "source_url": "https://raw.githubusercontent.com/GITenberg/MicrographiaSome-Physiological-Descriptions-of-Minute-Bodies-Made-by-Magnifying-Glasses-with-__15491/master/15491-h/images/scheme-11.png",
+      "license": "Public Domain",
+      "sha256": "f83f6edd9ee29b5e476f67e6134598a5856cf242dfb59f3017a2c400e540a217"
+    },
+    {
+      "story_id": "jekyll-hyde-door-and-responsibility",
+      "file": "content/images/jekyll-hyde-door-and-responsibility.png",
+      "alt": "밝은 주택 출입문과 어두운 옆 골목의 실험실 입구를 떠올리는 소설 관련 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 특정 영화의 장면이나 실제 런던 주소를 복제하지 않은 독립적인 소설 분위기 삽화입니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4163f42523622e2271e2fb5898609545f88484fd45f2c8602cf7d896ba47c7fd"
+    }
+  ],
+  "notes": [
+    "9편 본문 약 2,250~2,450자, 지킬 박사와 하이드 약 2,700자. 기존 승인 분량과 깊이를 유지. 역사적 대화·심리·현장을 새로 창작하지 않고 해석은 사실과 구분했다.",
+    "원문 교재와 역사 원문을 읽어 사실을 대조한 후 독립적인 한국어 이야기로 썼다. 교재의 지면이나 문단을 번역·복제하지 않았다. 문학은 원작 줄거리와 편집적 해석이며 결말 포함을 본문에 표시했다.",
+    "대악취의 악취 이론과 물을 통한 질병 전파를 구별했다. 바잘제트 공사를 즉시 완전한 정수·하수 처리 체계로 설명하지 않았다. 합성 이미지의 왼쪽 런던 1865년과 오른쪽 파리를 명시했다.",
+    "풀먼 주거지의 정확한 설립 연도는 교재의 1884년을 그대로 반복하지 않았다. 좋은 시설의 존재와 통제·임금 및 집세 갈등을 함께 다루며 1894년을 명시했다. 파업 전체의 진압 과정과 희생자 숫자는 추가하지 않았다.",
+    "백화점의 최초 발명자·정가표 도입자·최초 전기 조명이라는 단정과 불확실한 연도는 사용하지 않았다. 소비의 매력과 노동의 구분, 이미지의 파리 내부/필라델피아 외관을 명시했다.",
+    "타가자는 OpenStax에 인용된 이븐 바투타 여행기 발췌를 읽었다. 아랍어 자필 원고를 읽었다고 주장하지 않았다. 금·소금의 일정한 무게 교환 비율과 낙타 수 등으로 일반화하지 않았다. 노예화된 채굴 노동을 생략하지 않았다.",
+    "소그디아의 전사 벽화를 특정 상인의 초상·실제 전투·모든 주민의 풍속으로 확대하지 않았다. 교재의 복잡한 안녹산 혈통·탈라스와 종이 전파 인과 등은 사용하지 않았다.",
+    "흑사병의 기회비용을 경제적 선물처럼 묘사하지 않았다. 주로 서유럽/영국이라는 범위를 밝히고 다른 지역의 농노제·실질 임금에 일반화하지 않았다. 노동법의 존재와 실제 집행 효과를 구분하며 1349/1351년과 1358/1381년을 확인했다.",
+    "멘델레예프의 표와 현대 원자번호 배열을 구분했다. 꿈·카드 놀이 발명 일화와 발견자의 단독 우선권을 단정하지 않았다. 교재의 레늄이 안정 원소라는 오류와 다른 후대 발견 논쟁은 원고에서 사용하지 않았다.",
+    "파스퇴르 실험은 국물의 미생물 유입과 증식에 관한 해당 조건의 논증이며 지구 최초 생명의 기원 전체를 해결했다는 주장이 아니다. 실험 재현 지침이나 식품 안전 보장으로 제시하지 않았다. AI 이미지와 논증의 증거를 구별했다.",
+    "훅은 원문 Micrographia 관찰 XVIII를 추가 대조했다. 날카로운 칼로 얇게 자른 코르크·검은 받침·조명·벌집/작은 방·부력 및 탄성 해석을 확인했다. 훅의 해석과 현대 재료 과학/세포학을 구별했다. 도판 XI 그림 1 코르크·그림 2 식물임을 직접 확인했다.",
+    "훅의 이미지 후보인 OpenStax의 후대 복합 편집 도판 대신 1665년 원 도판의 Gutenberg 전사 이미지 파일을 사용했다. 다른 사진·도판 3개는 개별 Public Domain 크레디트를 확인했다. 실제 자료 파일은 변경하지 않았다.",
+    "지킬의 선택과 하이드의 폭력, 래니언의 목격과 마지막 고백을 구별했다. 선한 지킬/악한 하이드라는 단순한 분리 대신 지킬의 책임을 읽는 해석을 표시했다. 현대의 정신질환을 진단하거나 관련 집단의 폭력성을 일반화하지 않았다.",
+    "AI 삽화 6장은 분위기를 돕는 상상으로 표시했다. 타가자 실제 식생·멘델레예프 실제 원소 표본·파스퇴르 실제 장치·풀먼 실제 특정 거리의 고증 자료가 아니며 근거사진으로 쓰지 않았다.",
+    "정기 자동 제작은 비활성 상태를 유지. 새 10편은 사용자의 게시 승인을 받기 전 공개 홈페이지와 검색에 포함하지 않는다."
+  ],
+  "validation": {
+    "unit_tests_passed": 34,
+    "desktop_width": 1440,
+    "mobile_width": 390,
+    "images_decoded": 10,
+    "source_links_present": true,
+    "no_horizontal_overflow": true,
+    "no_javascript_errors": true,
+    "canonical_manuscripts": 231,
+    "approved_live_articles": 218,
+    "new_drafts_published": false,
+    "automatic_generation_enabled": false
+  }
+}

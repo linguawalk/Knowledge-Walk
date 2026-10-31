@@ -10,5 +10,6 @@
 | [하라파 — 작은 인장은 왜 먼 도시에서 나왔을까](harappa-seal-and-distant-trade.md) | 자료 대조·공개 게시 승인 완료 |
 | [교토 — 궁정의 하루는 소설 속에 남았다](kyoto-genji-court-and-snow.md) | 자료 대조·공개 게시 승인 완료 |
 | [궁궐 지붕 위에는 낯선 동물이 앉아 있었다](palace-roof-pangolin.md) | 자료 대조·공개 게시 승인 완료 |
+| [판지켄트 — 벽화 속 기사는 왜 실크로드를 떠올리게 할까](panjikent-sogdian-merchants-and-mural.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [사마르칸트 — 푸른 광장에 장인과 학자가 모이다](samarkand-registan-and-learning.md) | 자료 대조·공개 게시 승인 완료 |
 | [쑤저우 — 배 한 척이 도시의 길이 되던 풍경](suzhou-grand-canal-and-city.md) | 자료 대조·공개 게시 승인 완료 |

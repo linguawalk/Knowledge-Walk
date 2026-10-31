@@ -7,7 +7,7 @@
 | 소주제 | 이야기 |
 |---|---:|
 | [Architecture](architecture/README.md) | 3편 |
-| [Literature](literature/README.md) | 13편 |
+| [Literature](literature/README.md) | 14편 |
 | [Philosophy](philosophy/README.md) | 5편 |
 | [Music](music/README.md) | 20편 |
 | [Art](art/README.md) | 26편 |
