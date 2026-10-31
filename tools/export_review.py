@@ -24,17 +24,11 @@ def numbered_sections(story):
 def numbered_review_body(story):
     sections = numbered_sections(story)
     lines = []
-    if sections:
-        lines += ['## 소제목 바로가기', '']
-        for index, number, label in sections:
-            label = label.replace('[', r'\[').replace(']', r'\]')
-            lines.append(f'- [{number:02d}. {label}](#user-content-part-{index})')
-        lines += ['']
     by_index = {index: (number, label) for index, number, label in sections}
     for index, block in enumerate(story['body']):
         if index in by_index:
             number, label = by_index[index]
-            lines += [f'<a name="part-{index}"></a>', '', f'## {number:02d}. {label}', '']
+            lines += [f'## {number:02d}. {label}', '']
         for paragraph in block['paragraphs']:
             lines += [paragraph, '']
     return lines
