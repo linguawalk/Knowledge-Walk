@@ -7,8 +7,8 @@
 | 소주제 | 이야기 |
 |---|---:|
 | [Korea](korea/README.md) | 4편 |
-| [Asia](asia/README.md) | 0편 |
-| [Europe](europe/README.md) | 4편 |
-| [America](america/README.md) | 5편 |
-| [Middle East](middle-east/README.md) | 1편 |
+| [Asia](asia/README.md) | 1편 |
+| [Europe](europe/README.md) | 6편 |
+| [America](america/README.md) | 6편 |
+| [Middle East](middle-east/README.md) | 2편 |
 | [Africa](africa/README.md) | 1편 |

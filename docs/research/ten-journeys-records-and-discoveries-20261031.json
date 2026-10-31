@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-31",
+  "batch_id": "20261031-ten-journeys-records-and-discoveries",
+  "status": "source_checked_user_publication_approval_pending",
+  "editorial_direction": "역사 5편·금융사 1편·과학사 3편·컴퓨터사 1편",
+  "sources": [
+    {
+      "key": "babbage",
+      "title": "Charles Babbage, Passages from the Life of a Philosopher (1864)",
+      "url": "https://raw.githubusercontent.com/GITenberg/Passages-from-the-Life-of-a-Philosopher_57532/master/57532-0.txt",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "자카르 베틀과 카드·해석기관의 저장소와 연산·차분기관과의 구별·회고록의 도판"
+      ],
+      "sha256": "a516da08c65ddbd295165eee021afe94832e1d7bbbb2200ba564fbff4681224b"
+    },
+    {
+      "key": "boston19",
+      "title": "OpenStax World History — 아메리카와 프랑스, 아이티의 혁명",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00019/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "과세와 대표권·독립혁명의 배경·권리의 범위"
+      ],
+      "sha256": "55834a8c2e2b51e6c4b400d7f4e195b5a8d27f007dc1f6867ddf7cf20f1056e7"
+    },
+    {
+      "key": "charter",
+      "title": "OpenStax World History — 중세 유럽의 정치와 마그나 카르타",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00147/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "존 왕과 귀족·1215년 문서·자유민의 권리와 당시의 한계"
+      ],
+      "sha256": "82329284cb23f5407d12cb55d6b77c6c2d1f60daed23aeaa8bcfc9c2a0317317"
+    },
+    {
+      "key": "epi72",
+      "title": "OpenStax Microbiology — 감염병의 추적",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-microbiology/main/modules/m58872/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "스노의 주소와 급수 조사·관찰과 비교의 의미"
+      ],
+      "sha256": "78f9e87611110ed35e74d596289bff4b7b95f95ae38a1bb62507a218a04d8d55"
+    },
+    {
+      "key": "malacca",
+      "title": "OpenStax World History — 말라카와 동남아시아",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00009/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "이미 존재한 교역망·명과 말라카의 관계·정화의 방문"
+      ],
+      "sha256": "2dd2bb8488da66b1a76447defdf94134ecf6619a401811b7b2679e9483211dfe"
+    },
+    {
+      "key": "mendel",
+      "title": "OpenStax Biology — 멘델의 실험과 확률",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-biology-bundle/main/modules/m66486/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "완두의 자가수분·교배·세대 관찰·꽃색 비율·1865년 발표와 1866년 논문"
+      ],
+      "sha256": "40fc1e4250b2b967b35890942b28b98ff3e0f008cd8d278a4e0f0282b1c7a4eb"
+    },
+    {
+      "key": "mendeltraits",
+      "title": "OpenStax Biology — 특징과 형질",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-biology-bundle/main/modules/m66487/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "우성·열성의 뜻과 현대적 유전 해석·단일 형질 설명의 한계"
+      ],
+      "sha256": "2a7d53143d414a16c88ade54b362c80ae8eb2c5bb6f82e770867a5733e676ed6"
+    },
+    {
+      "key": "musa",
+      "title": "OpenStax World History — 중세 사하라 이남 아프리카",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00150/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "만사 무사의 순례·카이로의 금·말리와 사하라 무역·카탈루냐 지도"
+      ],
+      "sha256": "cc1e248c2d3efb5484fd612081e30d847baf6b047c9641062108557109617c01"
+    },
+    {
+      "key": "musaintro",
+      "title": "OpenStax World History — 카탈루냐 지도 속 만사 무사",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00148/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "14세기 지도와 확대 상세를 합성한 그림·권력의 상징"
+      ],
+      "sha256": "8fefa2954bd652d33f6bdd9da5248c851534566ff0362fd43399a6b662de0598"
+    },
+    {
+      "key": "pepys",
+      "title": "Samuel Pepys, The Diary — 1666년 9월 2~4일",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Diary-of-Samuel-Pepys---Complete_4200/master/4200-0.txt",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "대화재 당시 일기·서류와 와인을 묻은 구덩이·이후 펜과 치즈를 묻은 별도 구덩이"
+      ],
+      "sha256": "d05c0a16d92ddf91a0503b3679eb1a1a1dce2f9c4536b2ded8e83e94619649e5"
+    },
+    {
+      "key": "persia",
+      "title": "OpenStax World History — 페르시아 제국",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00111/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "왕의 도로·역참·말과 전령·헤로도토스의 기술"
+      ],
+      "sha256": "c6aa8cfef5f638b0b5d0cad1706934414723c6ed37c6893e0a4930f3ea4225fb"
+    },
+    {
+      "key": "revolt",
+      "title": "OpenStax World History — 자본주의와 제1차 산업혁명",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00078/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "광산 배수·세이버리·와트와 증기 동력·공장 노동과 변화"
+      ],
+      "sha256": "9d2d95b40219d73d4b25403ef55713f03519a64db630f5704492a6fb82270801"
+    },
+    {
+      "key": "snow",
+      "title": "John Snow, On the Mode of Communication of Cholera, 1855년 제2판",
+      "url": "https://raw.githubusercontent.com/GITenberg/On-the-mode-of-communication-of-cholera_72894/master/72894-0.txt",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "브로드 스트리트 조사·실제 음수 경로·사망 지도·9월 8일 이전 환자 감소·수도회사 비교"
+      ],
+      "sha256": "3f3e71972f603e5fa50a0e71045afffa994ae38a86a8912dda3e90c8babb37af"
+    },
+    {
+      "key": "tea",
+      "title": "Tea Leaves (1884), Francis S. Drake의 서론·자료 편집",
+      "url": "https://raw.githubusercontent.com/GITenberg/Tea-Leavesnotes-and-biographical-notices-of-the-Boston-Tea-Party-_24321/master/24321-8.txt",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "1773년 차법의 세금·동인도회사·12월 16일 차 상자 파괴·후대 편집의 시각"
+      ],
+      "sha256": "51e4950f550a6a47fa5184b5a21b4a27e2b1bd581264290c536ae0eec04043bc"
+    },
+    {
+      "key": "zheng",
+      "title": "OpenStax World History — 명 왕조와 정화의 항해",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00124/index.cnxml",
+      "checked_at": "2026-10-31",
+      "supports": [
+        "1405~1433년 항해·외교와 선물·인도양의 교역"
+      ],
+      "sha256": "afdf780d6f1cae6f992c08234cc314ea1d47492f6d33c50ad6b825e425b9e52c"
+    }
+  ],
+  "actual_images": {
+    "musa": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A15_00_M-Catalan.jpg",
+      "caption": "This composite of images from the fourteenth-century  Catalan Atlas  depicts several pages of maps in the background, with a detail from the left-most page superimposed on top that shows the Malian king Mansa Musa enthroned, holding a golden scepter and orb and wearing a gold crown as symbols of his wealth and power. (credit background: modification of work “Catalan Atlas” by Bibliothèque Nationale de France/Wikimedia Commons, Public Domain; credit center: modification of work “Detail from the Catalan Atlas Sheet 6 showing Mansa Musa” by Gallica Digital Library/Wikimedia Commons, Public Domain)",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "a40434dba0cb1f9f17a512a9aec6c1233d2bd4e12893a79f4872a049c73a711c"
+    },
+    "snow": {
+      "url": "https://raw.githubusercontent.com/GITenberg/On-the-mode-of-communication-of-cholera_72894/master/72894-h/images/i_map1_large.jpg",
+      "caption": "John Snow, On the Mode of Communication of Cholera, second edition, 1855, Map 1. Historical map of deaths around Broad Street and pump locations, not a live disease map.",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "9481ce5c1b5c261f6140ccf0313c1913e50bea314b759e0960cce2b06584d870"
+    },
+    "babbage": {
+      "url": "https://raw.githubusercontent.com/GITenberg/Passages-from-the-Life-of-a-Philosopher_57532/master/57532-h/images/i-ii.jpg",
+      "caption": "B. H. Babbage, del. Woodcut of a small portion of Difference Engine No. 1. Frontispiece in Charles Babbage, Passages from the Life of a Philosopher (1864). The printed caption dates this assembled portion to 1833 and the plate printing to June 1853. Not the Analytical Engine, a Jacquard loom, or a portrait.",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "2feac3f487f337e0e75df2ac76681f7bba9aa889b6579f0a6f4d4a208c9e8699"
+    }
+  },
+  "images": [
+    {
+      "story_id": "mansa-musa-gold-and-cairo",
+      "file": "content/images/mansa-musa-gold-and-cairo.jpg",
+      "alt": "14세기 카탈루냐 지도 여러 면과 금을 든 만사 무사의 상세를 합성한 역사 자료",
+      "type": "artwork",
+      "label": "실제 역사 자료",
+      "credit": "Catalan Atlas / Bibliothèque Nationale de France 및 Gallica Digital Library, Wikimedia Commons · OpenStax 수록 합성 이미지 · Public Domain. 여러 지도 면과 왕의 확대 상세를 합친 구성으로, 실제 생전 초상이 아닙니다.",
+      "width": 1750,
+      "height": 800,
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A15_00_M-Catalan.jpg",
+      "license": "Public Domain",
+      "sha256": "a40434dba0cb1f9f17a512a9aec6c1233d2bd4e12893a79f4872a049c73a711c"
+    },
+    {
+      "story_id": "persian-couriers-and-relay-stations",
+      "file": "content/images/persian-couriers-and-relay-stations.png",
+      "alt": "페르시아 역참에서 말을 준비하는 전령들의 상상 장면",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 페르시아 역참에서 말을 준비하는 전령들의 상상 장면. 실제 인물의 초상·현장·문서·장치의 정확한 복원 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "64a1eb11c89bc23478cc64b260651da49abf37376d2e53ea9a6076b755de8395"
+    },
+    {
+      "story_id": "magna-carta-king-and-written-promise",
+      "file": "content/images/magna-carta-king-and-written-promise.png",
+      "alt": "중세 귀족과 성직자가 인장이 달린 문서를 살피는 상상 장면",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 중세 귀족과 성직자가 인장이 달린 문서를 살피는 상상 장면. 실제 인물의 초상·현장·문서·장치의 정확한 복원 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fe799917ca27a7aff35ccb42e684dbe61f189cf48ac9ea8f3f36daa17965e2fa"
+    },
+    {
+      "story_id": "zheng-he-gifts-and-indian-ocean",
+      "file": "content/images/zheng-he-gifts-and-indian-ocean.png",
+      "alt": "정화의 항해 시대를 떠올리는 인도양 항구와 교역의 상상 장면",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 정화의 항해 시대를 떠올리는 인도양 항구와 교역의 상상 장면. 실제 인물의 초상·현장·문서·장치의 정확한 복원 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c7745aef3046e60504aa98292dc3eea07440d848b147042145a17992b69d5e18"
+    },
+    {
+      "story_id": "pepys-fire-and-buried-cheese",
+      "file": "content/images/pepys-fire-and-buried-cheese.png",
+      "alt": "런던 대화재 때 정원에 물건을 묻는 상황을 떠올린 상상 장면",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 런던 대화재 때 정원에 물건을 묻는 상황을 떠올린 상상 장면. 실제 인물의 초상·현장·문서·장치의 정확한 복원 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "35d40d398d8c8878e59b664c852fae9cee95b645aefa7a1c67b7312a93649199"
+    },
+    {
+      "story_id": "boston-tea-tax-and-harbor",
+      "file": "content/images/boston-tea-tax-and-harbor.png",
+      "alt": "보스턴 차 사건을 떠올리는 밤의 부두와 차 상자의 상상 장면",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 보스턴 차 사건을 떠올리는 밤의 부두와 차 상자의 상상 장면. 실제 인물의 초상·현장·문서·장치의 정확한 복원 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ca5fe11f1ce1b350eb42fdbed2d47b741f2a4b8d610422aaac2e44ceafb0665a"
+    },
+    {
+      "story_id": "john-snow-pump-and-evidence",
+      "file": "content/images/john-snow-pump-and-evidence.jpg",
+      "alt": "존 스노의 1855년 저서 지도 1. 브로드 스트리트 주변 사망과 펌프 위치",
+      "type": "artwork",
+      "label": "실제 역사 자료",
+      "credit": "John Snow, On the Mode of Communication of Cholera, 제2판(1855), Map 1 · Project Gutenberg · Public Domain. 사망 위치와 펌프를 표시한 당시 지도이며 모든 감염자의 위치를 뜻하지 않습니다.",
+      "width": 5000,
+      "height": 4689,
+      "source_url": "https://raw.githubusercontent.com/GITenberg/On-the-mode-of-communication-of-cholera_72894/master/72894-h/images/i_map1_large.jpg",
+      "license": "Public Domain",
+      "sha256": "9481ce5c1b5c261f6140ccf0313c1913e50bea314b759e0960cce2b06584d870"
+    },
+    {
+      "story_id": "mendel-peas-and-returning-traits",
+      "file": "content/images/mendel-peas-and-returning-traits.png",
+      "alt": "완두의 꽃을 관찰하는 수도원 연구자의 상상 장면",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 완두의 꽃을 관찰하는 수도원 연구자의 상상 장면. 실제 인물의 초상·현장·문서·장치의 정확한 복원 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "683ff0bf61652ac46e353333f69791649bf6a9f995307a1edea2693684e46868"
+    },
+    {
+      "story_id": "steam-engine-mine-and-factory",
+      "file": "content/images/steam-engine-mine-and-factory.png",
+      "alt": "초기 산업화 시대 증기기관 작업장을 떠올리는 상상 장면",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 초기 산업화 시대 증기기관 작업장을 떠올리는 상상 장면. 실제 인물의 초상·현장·문서·장치의 정확한 복원 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "df5ec39ce4a5793f5e5aa944a6e2228044bce8fb8957426521901bacfd4584d3"
+    },
+    {
+      "story_id": "babbage-jacquard-cards-and-calculation",
+      "file": "content/images/babbage-jacquard-cards-and-calculation.jpg",
+      "alt": "배비지의 1864년 회고록 권두에 실린 차분기관 1호 일부의 목판 도판",
+      "type": "artwork",
+      "label": "실제 역사 자료",
+      "credit": "B. H. Babbage 도안 · Charles Babbage, Passages from the Life of a Philosopher (1864) 권두 도판 · Project Gutenberg · Public Domain. 1833년 조립된 차분기관 1호 일부의 목판화(도판 인쇄 1853년). 해석기관이나 자카르 베틀을 그린 그림이 아닙니다.",
+      "width": 800,
+      "height": 1058,
+      "source_url": "https://raw.githubusercontent.com/GITenberg/Passages-from-the-Life-of-a-Philosopher_57532/master/57532-h/images/i-ii.jpg",
+      "license": "Public Domain",
+      "sha256": "2feac3f487f337e0e75df2ac76681f7bba9aa889b6579f0a6f4d4a208c9e8699"
+    }
+  ],
+  "notes": [
+    "역사적 사실은 원자료 또는 교재의 해당 절과 대조했다. 원문을 복제·번역하지 않고 한국어 이야기로 독립 집필했다. 검증은 사용자의 게시 승인을 대신하지 않는다.",
+    "만사 무사의 부를 현대 달러로 환산하거나 금 가격 변화의 정확한 수치·지속 기간을 단정하지 않았다. 지도는 생전 초상이 아니라 상징적 표현이다.",
+    "헤로도토스의 전령 찬사는 당시 서술로 소개하고 현대 측정 속도로 사용하지 않았다. 마그나 카르타를 모든 사람의 보통권이나 최초 배심제의 완성으로 설명하지 않았다.",
+    "정화 교재의 수천 척이라는 수치를 사용하지 않았다. 영락제 때 시작한 항해와 이후의 항해를 구별하며 기존 교역망을 명의 발견으로 표현하지 않았다.",
+    "페피스의 1666년 일기에서 두 차례의 구덩이를 구별했다. 당시 기분과 물건 회수 결과를 창작하지 않았다. 현대 전사본을 읽었으며 자필 원고를 열람한 것은 아니다.",
+    "Tea Leaves는 1773년 자료와 1884년의 후대 편집을 포함한다. 애국파 중심의 관점에 유의했다. 차법을 단순한 새 가격 인상으로 표현하거나 모든 식민지인의 일치된 행동으로 서술하지 않았다.",
+    "스노의 1855년 제2판 원문에 따라 손잡이 제거 전 이미 발병이 줄었다고 명시했다. 교재의 손잡이 제거가 유행을 끝냈다는 단순화를 반복하지 않았다. 지도는 사망자 위치이며 모든 감염 사례가 아니다.",
+    "멘델의 약 3:1은 확률적 경향이다. 우성을 더 좋은 형질로 설명하거나 모든 인간 형질과 유전자가 독립적으로 유전된다고 일반화하지 않았다.",
+    "모든 초기 증기기관의 구조를 같다고 쓰지 않았고 와트가 주전자에서 증기기관을 처음 발명했다는 일화를 사용하지 않았다. 세이버리의 배수 장치에 피스톤 구조를 소급하지 않았다.",
+    "배비지 도판을 직접 확인하고 차분기관 1호 일부로 식별했다. 자카르 베틀·해석기관·인물 초상과 구별했다. 1864년 회고록의 대화는 당시 녹취처럼 인용하지 않았다.",
+    "역사 자료 3장과 AI 삽화 7장을 모두 육안 확인했다. 실제 이미지 파일은 원본 바이트를 유지했다. AI 이미지는 고증된 복원이나 증거 자료로 제시하지 않는다."
+  ],
+  "validation": {
+    "unit_tests_passed": 34,
+    "desktop_width": 1440,
+    "mobile_width": 390,
+    "images_decoded": 10,
+    "source_links_present": true,
+    "no_horizontal_overflow": true,
+    "no_javascript_errors": true,
+    "canonical_manuscripts": 221,
+    "approved_live_articles": 208,
+    "new_drafts_published": false,
+    "automatic_generation_enabled": false
+  }
+}
