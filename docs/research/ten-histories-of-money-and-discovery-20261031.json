@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "batch_id": "20261031-ten-histories-of-money-and-discovery",
-  "status": "user_approved_publication_prepared",
+  "status": "user_approved_live_verified",
   "editorial_direction": "역사를 중심으로 읽는 이야기. 금융 5편·역사 3편·과학사 2편. 기초 개념은 사건을 이해할 만큼만 보완.",
   "method": "원자료와 역사 교재를 실제 읽고 사실과 시대를 대조한 뒤 독립적인 한국어 원고로 집필. 원문을 번역·복제하지 않음. 여행기·후대 회고·풍자·현대 교재의 성격을 구별.",
   "sources": [
@@ -229,7 +229,8 @@
     "approved_live_articles": 208,
     "new_drafts": 10,
     "new_drafts_published": true,
-    "schedules_enabled": false
+    "schedules_enabled": false,
+    "live_verification": "Homepage, search, collection, ten stories and ten image HTTPS responses match the approved production build."
   },
   "publication_approved_at": "2026-10-31"
 }
