@@ -1,0 +1,20 @@
+{
+  "id": "ten-journeys-records-and-discoveries-publication-20261031",
+  "approved_at": "2026-10-31",
+  "user_request": "홈페이지 게시 및 새 글 10개",
+  "story_ids": [
+    "mansa-musa-gold-and-cairo",
+    "persian-couriers-and-relay-stations",
+    "magna-carta-king-and-written-promise",
+    "zheng-he-gifts-and-indian-ocean",
+    "pepys-fire-and-buried-cheese",
+    "boston-tea-tax-and-harbor",
+    "john-snow-pump-and-evidence",
+    "mendel-peas-and-returning-traits",
+    "steam-engine-mine-and-factory",
+    "babbage-jacquard-cards-and-calculation"
+  ],
+  "deployment_status": "prepared",
+  "expected_live_story_count": 218,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261031-ten-journeys-records-and-discoveries/index.html"
+}

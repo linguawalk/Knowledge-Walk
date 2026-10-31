@@ -5,10 +5,10 @@
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
-| History | Asia | 1 | 1 | 0 |
-| History | Europe | 6 | 6 | 4 |
-| History | America | 6 | 6 | 5 |
-| History | Middle East | 2 | 2 | 1 |
+| History | Asia | 1 | 1 | 1 |
+| History | Europe | 6 | 6 | 6 |
+| History | America | 6 | 6 | 6 |
+| History | Middle East | 2 | 2 | 2 |
 | History | Africa | 1 | 1 | 1 |
 | Cities | Asia | 8 | 8 | 8 |
 | Cities | Europe | 6 | 6 | 6 |
@@ -31,12 +31,12 @@
 | Companies | Finance | 0 | 0 | 0 |
 | Companies | Media | 4 | 4 | 4 |
 | Companies | Fashion | 4 | 4 | 4 |
-| Computing | Computers | 4 | 4 | 3 |
+| Computing | Computers | 4 | 4 | 4 |
 | Computing | Software | 11 | 11 | 11 |
 | Computing | Internet | 8 | 8 | 8 |
 | Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 6 | 5 | 4 |
+| Finance | Money | 6 | 5 | 5 |
 | Finance | Banking | 3 | 3 | 3 |
 | Finance | Insurance | 2 | 2 | 2 |
 | Finance | Investment | 6 | 6 | 6 |
@@ -44,9 +44,9 @@
 | Science | Mathematics | 2 | 2 | 2 |
 | Science | Physics | 6 | 6 | 6 |
 | Science | Chemistry | 1 | 1 | 1 |
-| Science | Biology | 8 | 8 | 6 |
+| Science | Biology | 8 | 8 | 8 |
 | Science | Earth-Science | 2 | 2 | 2 |
-| Science | Engineering | 4 | 4 | 3 |
+| Science | Engineering | 4 | 4 | 4 |
 
 ## 먼저 살펴볼 빈 주제
 

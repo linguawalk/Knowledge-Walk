@@ -9,4 +9,4 @@
 | [동전 가장자리에는 왜 작은 톱니가 있을까](coin-ridged-edge.md) | 출처 추가 확인 중 |
 | [물가 — 지갑 속 돈은 같은데 왜 덜 살 수 있을까](inflation-price-tag-and-purchasing-power.md) | 자료 대조·공개 게시 승인 완료 |
 | [쿠빌라이의 지폐 — 나무껍질이 돈이 되던 제국](kublai-paper-money-and-seal.md) | 자료 대조·공개 게시 승인 완료 |
-| [만사 무사 — 순례길의 금은 왜 카이로에 흔적을 남겼을까](mansa-musa-gold-and-cairo.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [만사 무사 — 순례길의 금은 왜 카이로에 흔적을 남겼을까](mansa-musa-gold-and-cairo.md) | 자료 대조·공개 게시 승인 완료 |

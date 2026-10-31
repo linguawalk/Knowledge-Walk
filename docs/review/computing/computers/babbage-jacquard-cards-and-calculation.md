@@ -4,7 +4,7 @@
 
 Computing · Computers
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![배비지의 1864년 회고록 권두에 실린 차분기관 1호 일부의 목판 도판](../../../../content/images/babbage-jacquard-cards-and-calculation.jpg)
 

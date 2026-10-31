@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "batch_id": "20261031-ten-journeys-records-and-discoveries",
-  "status": "source_checked_user_publication_approval_pending",
+  "status": "user_approved_publication_prepared",
   "editorial_direction": "역사 5편·금융사 1편·과학사 3편·컴퓨터사 1편",
   "sources": [
     {
@@ -318,8 +318,9 @@
     "no_horizontal_overflow": true,
     "no_javascript_errors": true,
     "canonical_manuscripts": 221,
-    "approved_live_articles": 208,
-    "new_drafts_published": false,
+    "approved_live_articles": 218,
+    "new_drafts_published": true,
     "automatic_generation_enabled": false
-  }
+  },
+  "publication_approved_at": "2026-10-31"
 }
