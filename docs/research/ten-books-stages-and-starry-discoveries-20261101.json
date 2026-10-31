@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "batch_id": "20261101-ten-books-stages-and-starry-discoveries",
-  "status": "user_approved_publication_prepared",
+  "status": "user_approved_live_verified",
   "sources": [
     {
       "key": "women",
@@ -263,6 +263,10 @@
     "approved_by": "user",
     "approved_at": "2026-11-01",
     "public_articles": 268,
-    "github_review_outline": "numbered headings and explicit part anchors"
+    "github_review_outline": "numbered headings and explicit part anchors",
+    "live_files_verified": 23,
+    "outline_browser_views": 48,
+    "github_rendered_anchor_links_verified": 8,
+    "unit_tests_passed": 36
   }
 }

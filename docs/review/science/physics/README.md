@@ -11,4 +11,5 @@
 | [케플러 — 하늘의 원을 조금 찌그러뜨린 사람](kepler-mars-observations-and-ellipse.md) | 자료 대조·공개 게시 승인 완료 |
 | [닮은 동전인데 왜 하나만 자석에 붙을까](magnetic-penny.md) | 자료 대조·공개 게시 승인 완료 |
 | [마리 퀴리의 생애 — 반짝이는 발견 뒤의 오래된 실험실](marie-curie-life-and-discovery.md) | 자료 대조·공개 게시 승인 완료 |
+| [뉴턴의 프리즘 — 유리가 색을 만든 것일까](newton-prism-white-light-colours.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [별지도를 다른 돌에 다시 새긴 이유](star-map-carved-again.md) | 자료 대조·공개 게시 승인 완료 |

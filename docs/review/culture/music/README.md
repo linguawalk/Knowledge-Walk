@@ -12,9 +12,11 @@
 | [카르멘 — 익숙한 노래 뒤에는 어떤 이야기가 있을까](carmen-love-freedom-and-stage.md) | 자료 대조·공개 게시 승인 완료 |
 | [쇼팽의 생애 — 떠나온 나라가 피아노에 남을 때](chopin-life-piano-and-home.md) | 자료 대조·공개 게시 승인 완료 |
 | [클라리넷은 한 가지 크기가 아니다](clarinet-many-sizes.md) | 자료 대조·공개 게시 승인 완료 |
+| [『돈 조반니』 — 저녁 식사에 석상을 초대한 남자](don-giovanni-statue-dinner-and-refusal.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [엘리제를 위하여 — 익숙한 선율 앞에 남은 이름](fur-elise-title-and-theme.md) | 자료 대조·공개 게시 승인 완료 |
 | [골드베르크 변주곡 — 같은 음악이 돌아와도 다르게 들리는 이유](goldberg-variations-return.md) | 자료 대조·공개 게시 승인 완료 |
 | [하프 줄에는 왜 빨간색이 섞여 있을까](harp-colored-strings.md) | 자료 대조·공개 게시 승인 완료 |
+| [『피가로의 결혼』 — 결혼식 날 가장 바쁜 것은 누구일까](marriage-figaro-countess-susanna-garden.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [대금에도 반짝이는 꽃무늬가 있었다](metal-flute-inlaid-flowers.md) | 자료 대조·공개 게시 승인 완료 |
 | [금속으로 만든 플루트는 왜 목관악기일까](metal-flute-woodwind-family.md) | 자료 대조·공개 게시 승인 완료 |
 | [월광 — 베토벤이 붙인 제목은 아니었다](moonlight-sonata-name.md) | 자료 대조·공개 게시 승인 완료 |

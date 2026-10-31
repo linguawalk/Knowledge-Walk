@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-01",
+  "batch_id": "20261101-ten-choices-wings-and-distant-worlds",
+  "status": "source_checked_user_publication_approval_pending",
+  "sources": [
+    {
+      "key": "jane",
+      "title": "Charlotte Brontë, Jane Eyre",
+      "url": "https://raw.githubusercontent.com/GITenberg/Jane-Eyre_1260/master/1260.txt",
+      "supports": [
+        "리드의 집과 로우드·헬렌/템플·가정교사와 손필드의 만남",
+        "결혼식의 버사 메이슨 공개·떠남·리버스/세인트 존의 제안·재산과 관계",
+        "36~38장 화재의 전언·귀환·결혼·시력의 부분 회복. 인물의 시선과 현대 독해를 구분"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "bc74b04ec70c9283323f5043f3305c4b08e70650a96ca5a9e1c5e5c5b4c0aa9a"
+    },
+    {
+      "key": "expectations",
+      "title": "Charles Dickens, Great Expectations",
+      "url": "https://raw.githubusercontent.com/GITenberg/Great-Expectations_1400/master/1400-0.txt",
+      "supports": [
+        "습지의 죄수·조/누나의 대장간·해비셤/에스텔라·재거스의 익명 후원",
+        "런던 생활과 조에 대한 부끄러움·매그위치의 정체·탈출 시도와 죽음",
+        "조의 돌봄과 비디의 삶·노동·참고 판본 마지막의 피프/에스텔라 재회. 혼인 확정으로 바꾸지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "b58ce42c630e06314f2442d5937fa8a8556b6e3c5c16f4713c7332a4bb50b420"
+    },
+    {
+      "key": "cities",
+      "title": "Charles Dickens, A Tale of Two Cities",
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Tale-of-Two-Cities_98/master/98-0.txt",
+      "supports": [
+        "마네트의 석방/루시/로리·런던 법정의 카턴/다네이 닮음",
+        "에브레몽드 가문의 과거·드파르주의 뜨개질·구출 목적의 귀국·수감 중 편지의 고발",
+        "카턴의 자리 바꾸기·마지막 동행·최종 문장은 서술자가 조건법으로 상상한 전망. 실제 긴 연설로 제시하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "2fcfa071498b30724bd1bd714ba89e38477d632b86d74e87559f6259d3917e36"
+    },
+    {
+      "key": "opera",
+      "title": "George P. Upton, The Standard Operas, 12th edition — Marriage of Figaro / Don Giovanni",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Standard-Operas--12th-edition---13-Their-Plots-Their-Music-and-Their-Composers_14968/master/14968-8.txt",
+      "supports": [
+        "1786 빈/1787 프라하·다 폰테·피가로와 백작의 관계·대표 아리아/편지 이중창",
+        "돈 조반니의 기사장 살해·엘비라·레포렐로의 목록·체를리나의 이중창·석상 초대와 거부. 부정확한 초연 배역과 일화/세부 줄거리를 채택하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "200a122c81f42ffe2a6e90b35606cf5ad4917d372c83191485ff4084009735bf"
+    },
+    {
+      "key": "operaglass",
+      "title": "Charles Annesley, The Standard Operaglass — Le nozze di Figaro / Don Juan",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Standard-OperaglassDetailed-Plots-of-One-Hundred-and-Fifty-one-Celebrated-Operas_24647/master/24647-8.txt",
+      "supports": [
+        "수잔나/백작부인/피가로·케루비노의 변장과 창·문서·마르첼리나/바르톨로·정원과 용서",
+        "돈나 안나/기사장·엘비라/레포렐로·체를리나/마제토·기념 석상과 결말. 원저자의 여성 평가·피해자 비난을 반복하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "5153fa906245e932d222132393188bfec6832c7512869dcfb650f3ce536071c5"
+    },
+    {
+      "key": "ovid",
+      "title": "Ovid, Metamorphoses — Books VIII & X, Henry T. Riley 번역",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Metamorphoses-of-Ovid-Books-VIII-XV_26073/master/26073-0.txt",
+      "supports": [
+        "VIII의 다이달로스/이카로스: 실·밀랍·너무 낮음/높음의 위험·추락·조카 Perdix의 재능/질투/새 변신",
+        "X의 피그말리온: 여성 불신·상아·선물·축제의 간접 청원·감촉과 온기·혼인/후대. 해당 여인에게 Galatea 이름을 주지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "7771b9d3c58454d001ba934f72f8767fa2ddd86a7ae951ab4eaeb58ebbc26716"
+    },
+    {
+      "key": "opticks",
+      "title": "Isaac Newton, Opticks — Book I, Part I, Propositions I–II 및 관련 실험",
+      "url": "https://raw.githubusercontent.com/GITenberg/Opticks--13-Or-A-Treatise-of-the-Reflections-Refractions-Inflections-and-Colours-of-Light_33504/master/33504-8.txt",
+      "supports": [
+        "어두운 방/창의 구멍·프리즘·종이에 맺힌 길쭉한 상·길이와 폭의 관찰",
+        "다른 성분의 굴절 차이·두 번째/추가 프리즘의 비교·굴절성과 색의 관계. 광자/현대 파동 이론을 뉴턴이 완성한 것으로 쓰지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "55abea83610866a22ef5d56045c388a6f1b3b2621e46cb274badcd600224d964"
+    },
+    {
+      "key": "m59792",
+      "title": "OpenStax, Astronomy 2e — The Behavior of Light",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-astronomy/main/modules/m59792/index.cnxml",
+      "supports": [
+        "빛과 다른 전자기 복사의 관계·고전 전자기학의 후대 발전·파동/전하/자기장과 맥스웰의 설명. 뉴턴의 관찰과 현대 이론을 구별"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "42617955c29a2919e4adc9b8892394c86c6d204188ecf70d5f53bc2a42337d8d"
+    },
+    {
+      "key": "m59853",
+      "title": "OpenStax, Astronomy 2e — Exploring the Outer Planets",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-astronomy/main/modules/m59853/index.cnxml",
+      "supports": [
+        "보이저 1/2의 경로 차이·2호의 목성1979/토성1981/천왕성1986/해왕성1989·중력 도움",
+        "노후화된 가동/통신/메모리·해왕성의 약한 빛/긴 노출과 움직임 보완 명령·약한 전파 수신",
+        "근접 통과와 궤도 탐사 구별. Cassini가 2012 목성을 촬영했다는 모듈의 잘못된 도판 연대는 사용하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "439ff4289cd9affd17eebcc44e145c4b868088658db977a23f3f3e3a11584d97"
+    },
+    {
+      "key": "republic",
+      "title": "Plato, The Republic — Book VII, Benjamin Jowett 번역",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Republic_1497/master/1497.txt",
+      "supports": [
+        "동굴의 결박/불/벽/그림자·해방 뒤 눈부심과 적응·그림자/반영/사물/태양의 순서",
+        "좋음에 대한 앎·귀환 뒤 어둠과 조롱·배움의 방향 전환·교육과 도시의 의무. 실제 실험/고고학 자료가 아닌 철학적 비유"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "961047d3396d2779a0cb1504c59d5039f0877ace9129b2c5baecb95c9b420c80"
+    }
+  ],
+  "images": [
+    {
+      "story_id": "jane-eyre-love-and-own-voice",
+      "file": "content/images/jane-eyre-love-and-own-voice.png",
+      "alt": "책을 든 가정교사가 저택의 문가에서 황야 쪽을 바라보는 제인 에어의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 소설의 가정교사와 저택을 떠올린 독립 삽화이며 실제 인물·건물 사진이나 특정 영화 배우의 모습이 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7262bdc618352a4b20727e9f0f94ddd36ce515c5c337b33638a7911301c86cdc"
+    },
+    {
+      "story_id": "great-expectations-pip-secret-benefactor",
+      "file": "content/images/great-expectations-pip-secret-benefactor.png",
+      "alt": "강과 습지, 뒤쪽 대장간의 불빛을 바라보는 피프의 소설 장면 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 습지·대장간과 피프의 삶을 함께 표현한 상징 장면이며 특정 영화·삽화·실제 사건의 재현이 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "dddc3eb595f5ece58dc89fc2b12106716d8623afb97a2f24d105934adf26b8d4"
+    },
+    {
+      "story_id": "tale-two-cities-carton-and-recalled-life",
+      "file": "content/images/tale-two-cities-carton-and-recalled-life.png",
+      "alt": "런던과 파리를 떠올린 두 창과 닮은 두 남자, 편지와 가방을 그린 소설 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 두 도시와 닮은 인물, 편지를 함께 배치한 상징 장면입니다. 실제 장소·정확한 날짜의 사건·영화 배우를 재현한 사진이 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "5b68fc78bf362d9291966705a27b1fbab73cf5a1f61cb5e1bc238b9c767fcd0f"
+    },
+    {
+      "story_id": "marriage-figaro-countess-susanna-garden",
+      "file": "content/images/marriage-figaro-countess-susanna-garden.png",
+      "alt": "달빛 정원에서 편지를 주고받는 수잔나와 백작부인, 곁의 피가로를 그린 상상 무대",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 오페라의 편지와 변장을 떠올린 독립 삽화이며 실제 초연의 무대·배우·의상을 고증한 자료가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7bcc1d6ca91441a80a79c9bc10872a96fe0b7eeb069e0a4732b8b042a394645a"
+    },
+    {
+      "story_id": "don-giovanni-statue-dinner-and-refusal",
+      "file": "content/images/don-giovanni-statue-dinner-and-refusal.png",
+      "alt": "식탁의 돈 조반니와 문가에 나타난 기사장의 석상, 레포렐로를 그린 상상 무대",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 오페라의 석상 방문을 떠올린 독립 삽화이며 기존 공연의 사진이나 실제 유령 현상의 기록이 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7bf7f4dbce374bec7ad7176556defcdaafcbecad3f95887dbedf54201f0f5444"
+    },
+    {
+      "story_id": "daedalus-icarus-wings-and-middle-path",
+      "file": "content/images/daedalus-icarus-wings-and-middle-path.png",
+      "alt": "깃털과 도구가 있는 작업실에서 아들에게 날개를 달아 주는 다이달로스의 신화 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 신화의 날개 제작을 상상한 그림이며 실제 고대 유물·비행 사건이나 제작 가능한 항공 장치의 도해가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "cc9ffdc34e1aa55d548d7b9a9a49f7dbdbf3bd5650656c122caa23b0192a5fab"
+    },
+    {
+      "story_id": "pygmalion-ivory-statue-and-living-person",
+      "file": "content/images/pygmalion-ivory-statue-and-living-person.png",
+      "alt": "상아 여인의 손을 조심스럽게 만지는 조각가 피그말리온의 신화 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 상아와 생명의 경계를 떠올린 독립 삽화이며 특정 명화·조각의 복제나 실제 조각의 변화를 촬영한 자료가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "874c4d79f9274c0e07c57c065831a96481c705f9e81a8aa252cdeb6d8eed62df"
+    },
+    {
+      "story_id": "newton-prism-white-light-colours",
+      "file": "content/images/newton-prism-white-light-colours.png",
+      "alt": "어두운 방에서 프리즘을 거친 햇빛이 벽에 색띠를 만드는 모습을 살피는 학자의 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 프리즘 실험의 생각을 보여 주는 상상 장면입니다. 뉴턴의 정확한 외모·방·실험 수치를 복원한 사진이나 광학 배치를 측정할 수 있는 정밀 도해가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "128e70a07640ee30d3d34518c9aedae4ad13f8f4f332c1ceb131344117a432d4"
+    },
+    {
+      "story_id": "voyager-grand-tour-old-spacecraft-new-tricks",
+      "file": "content/images/voyager-grand-tour-old-spacecraft-new-tricks.png",
+      "alt": "해왕성 부근을 지나는 보이저형 탐사선의 안테나와 기기 팔을 상상한 우주 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 탐사선 밖에서 바라본 가상 시점의 그림입니다. 보이저가 실제 촬영한 사진이나 실제 비행 위치·장비의 정밀 도해가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "6a47ae2e02476c2e9a595f1c0429a7f1d797862b4ecc574d91ea20073668b40a"
+    },
+    {
+      "story_id": "plato-cave-shadows-return-and-learning",
+      "file": "content/images/plato-cave-shadows-return-and-learning.png",
+      "alt": "벽의 그림자를 바라보는 사람들과 동굴 밖 빛으로 이어지는 길을 그린 철학적 비유 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 『국가』의 비유를 떠올린 독립 삽화이며 실제 수감 장소·고대 동굴 유적을 복원한 자료가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0ffbd14233684ec564bea105473ce83a900b54e3833deb4098d7cdb5b2e1dfb6"
+    }
+  ],
+  "notes": [
+    "이전 10편은 사용자 게시 승인에 따라 공개했고 현재 홈페이지는268편이다. 이번 신규10편의 status=review, publication_ready=false, approved_by/at=null을 유지한다. 자동 제작과 예약은 켜지 않았다.",
+    "Literature3/Music2/Folks2/Philosophy1/Physics1/Engineering1. 보이저는 멀리 간 거리 기록보다 노후 장비/명령/광량/통신의 공학적 선택을 중심으로 Engineering에 한 번만 배치했다. 기존 원고의 제목/소재를 검색해 중복을 피했다. 원고가 있는 세부 주제는42/43개이며 공개 편수와 구별한다. Fintech는 조사 대기 상태다.",
+    "각 본문 약2550–2710자로 주요 사건과 장면을 충분히 들려준다. 고전 소설과 오페라, 신화는 결말을 포함함을 알렸다. 해당 대목을 확인하고 독립적으로 쓴 한국어 해설이며 문학적 해석과 원문의 사건을 구별했다.",
+    "제인 에어는 버사/로체스터의 비밀·떠남·세인트 존의 제안·재산·귀환/결혼을 대조했다. 버사를 단지 사랑을 가로막는 괴물로 처리하지 않았고 시력의 부분 회복을 사랑의 의학적 치료로 제시하지 않았다.",
+    "위대한 유산은 익명 후원자와 피프의 짐작을 구별했다. 매그위치·조·해비셤/에스텔라·탈출 시도·조의 돌봄·참고 판본의 마지막 재회를 읽었다. 에스텔라와의 혼인을 확정하지 않았고 원전의 대체 결말을 섞지 않았다.",
+    "두 도시 이야기는 기록이 드러내는 가문의 폭력과 개인의 판단을 나누었다. 마지막 전망은 실제 카턴의 낭독이 아니라 서술자의 조건법(utterance/prophetic)임을 확인했다. 소설을 프랑스혁명 전체의 역사 교과서로 제시하지 않았다.",
+    "피가로는 모차르트1786작이 로시니1816작보다 먼저임을 밝혔다. 보마르셰 연극의 사연이 이어지는 것이지 모차르트가 로시니를 잇는 작곡을 한 것이 아니다. 음악/대표 아리아는 Upton, 주요 사건은 두 해설서를 대조했다. Upton의 잘못된 초연 배역표·한달 완성·Salieri 음모 같은 미확인 일화와 잘못된 Bartolo/Susanna 관계를 쓰지 않았다.",
+    "돈 조반니는 피해를 당한 이들의 목소리를 유지하며 목록/유혹/변장/석상/거부를 읽었다. Annesley의 정당방위/여성비난을 정설로 따르지 않았고 잘못된2막대상여성에 관한 Upton의 설명을 구체적으로 재현하지 않았다. 마지막 이후 인물들의 삶과 공연 차이를 인정했다.",
+    "이카로스는 Ovid VIII의 실과 밀랍·낮음/높음 위험·아버지의 눈물·추락·조카 Perdix를 새로 바꾼 후속 대목을 포함했다. 아들이 조카의 일을 대신 벌받았다는 판단이나 실제 비행의 증거로 단정하지 않았다.",
+    "피그말리온은 Ovid X의 상아·축제의 간접 청원·온기/밀랍 비유·혼인과 후대를 따랐다. 이름 없는 여인에게 Galatea를 원전의 이름으로 붙이지 않았으며 별도의 바다 요정과 합치지 않았다. 원전의 여성 일반화는 오늘의 규범으로 따르지 않았다. 현대 기대효과 연구의 증거로 신화를 사용하지 않았다.",
+    "뉴턴은 Opticks I.I의 길쭉한 상·실험 조건·여러 프리즘의 비교를 읽었다. 현대 설명과 뉴턴의 개념을 구분하고 정확히 일곱개의 불연속 색만 있다는 주장을 피했다. 새 그림은 수치나 각도가 정확한 실험 도해가 아니다.",
+    "보이저는 OpenStax의 V1/V2 경로·V2의1979/1981/1986/1989·그랜드 투어·기기 노후/노출/움직임/통신을 대조했다. Voyager/Cassini/Galileo를 합치지 않았고 모듈의2012Cassini목성도판오류를 반복하지 않았다. 현재 실시간 장비 상태를 확인했다고 주장하지 않고 역사적 해왕성 만남에 집중했다.",
+    "플라톤은 Republic VII의 소크라테스/글라우콘 대화, 결박과 그림자/눈부심/적응/태양/귀환/교육과 도시의 관계를 읽었다. 실제 동굴 발견이나 현대의 교육 실험으로 제시하지 않았고 동굴 밖을 보았다는 주장을 타인을 비하하는 무오류 권위로 쓰지 않았다.",
+    "이미지10장을 육안 확인했다. 모두 독립 AI 장면 삽화이며 실제 초상/공연/유적/과학 사진과 구분했다. 두 도시의 최초 그림에 빅벤/후기 의사당이 보인 것을 확인해 작품 시대의 런던을 떠올린 풍경으로 수정했다. NASA 이미지 원본 접속 실패를 실제 사진 열람/사용으로 기록하지 않았다.",
+    "GitHub 검토용 생성기에 소제목01/02와 명시적 이름 앵커를 더했다. GitHub Markdown API의 실제 출력은 name에 user-content-를 붙이므로 바로가기 링크도 그 실제 이름을 향하게 했다. 렌더링된 참조8개가 실제 앵커8개로 직접 연결됨을 검사했다. 홈페이지는 기존 part-index 주소와 번호/오른쪽 목차를 유지한다."
+  ],
+  "validation": {
+    "unit_tests_passed": 36,
+    "new_stories": 10,
+    "manuscripts": 281,
+    "approved_public_articles": 268,
+    "subcategories_with_manuscripts": 42,
+    "draft_desktop_mobile_views_checked": 20,
+    "images_visually_inspected": 10,
+    "image_decode_and_source_links": "passed",
+    "numbered_headings_and_outline": "passed on website and all ten GitHub Markdown files",
+    "github_rendered_outline_click": "passed, explicit named anchor reached without application JavaScript",
+    "body_characters": {
+      "minimum": 2551,
+      "maximum": 2708
+    },
+    "new_drafts_published": 0,
+    "scheduled_generation_enabled": false
+  }
+}

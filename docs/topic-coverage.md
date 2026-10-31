@@ -16,13 +16,13 @@
 | Cities | Middle East | 2 | 2 | 2 |
 | Cities | Africa | 5 | 5 | 5 |
 | Culture | Architecture | 3 | 3 | 3 |
-| Culture | Literature | 20 | 20 | 20 |
-| Culture | Philosophy | 5 | 5 | 5 |
-| Culture | Music | 24 | 23 | 23 |
+| Culture | Literature | 23 | 23 | 20 |
+| Culture | Philosophy | 6 | 6 | 5 |
+| Culture | Music | 26 | 25 | 23 |
 | Culture | Art | 28 | 28 | 28 |
 | Culture | Film | 1 | 1 | 1 |
 | Culture | Sports | 1 | 1 | 1 |
-| Life | Folks | 17 | 17 | 17 |
+| Life | Folks | 19 | 19 | 17 |
 | Life | Clothing | 4 | 4 | 4 |
 | Life | Food | 8 | 8 | 8 |
 | Life | Housing | 6 | 6 | 6 |
@@ -42,11 +42,11 @@
 | Finance | Investment | 6 | 6 | 6 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 3 | 3 | 3 |
-| Science | Physics | 8 | 8 | 8 |
+| Science | Physics | 9 | 9 | 8 |
 | Science | Chemistry | 3 | 3 | 3 |
 | Science | Biology | 10 | 10 | 10 |
 | Science | Earth-Science | 2 | 2 | 2 |
-| Science | Engineering | 4 | 4 | 4 |
+| Science | Engineering | 5 | 5 | 4 |
 
 ## 먼저 살펴볼 빈 주제
 

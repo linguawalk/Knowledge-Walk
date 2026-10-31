@@ -7,6 +7,7 @@
 | [아마테라스 — 동굴 밖에서는 왜 웃음이 터졌을까](amaterasu-cave-laughter-and-mirror.md) | 자료 대조·공개 게시 승인 완료 |
 | [아난시 — 지혜를 항아리에 숨기려던 날](anansi-wisdom-pot-and-son.md) | 자료 대조·공개 게시 승인 완료 |
 | [크리스마스 푸딩에는 왜 동전 이야기가 따라올까](christmas-pudding-sixpence.md) | 자료 대조·공개 게시 승인 완료 |
+| [이카로스 — 날개가 생겼을 때 가장 어려웠던 일](daedalus-icarus-wings-and-middle-path.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [데메테르 — 석류 한 알이 딸의 귀환을 바꾼 이유](demeter-persephone-seed-and-return.md) | 자료 대조·공개 게시 승인 완료 |
 | [피온 — 지혜의 연어는 누구의 몫이었을까](fionn-salmon-wisdom-and-teacher.md) | 자료 대조·공개 게시 승인 완료 |
 | [하멜른의 피리 부는 사나이 — 쥐를 없앤 뒤 벌어진 일](hamelin-pied-piper-unpaid-promise.md) | 자료 대조·공개 게시 승인 완료 |
@@ -15,6 +16,7 @@
 | [오디세우스 — 아무도 아닌 사람이 이름을 외친 순간](odysseus-cyclops-nobody-real-name.md) | 자료 대조·공개 게시 승인 완료 |
 | [오르페우스는 왜 뒤를 돌아보았을까](orpheus-eurydice-last-look.md) | 자료 대조·공개 게시 승인 완료 |
 | [판도라 — 상자가 아니라 항아리였다는 이야기](pandora-jar-hope-under-lid.md) | 자료 대조·공개 게시 승인 완료 |
+| [피그말리온 — 조각이 따뜻해진 순간](pygmalion-ivory-statue-and-living-person.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [까마귀 소년 — 빛을 조각내어 낮과 밤을 만들다](raven-boy-light-fragments-and-night.md) | 자료 대조·공개 게시 승인 완료 |
 | [삼포 — 밀가루와 소금, 돈을 내던 보물은 왜 깨졌을까](sampo-forging-plenty-and-fragments.md) | 자료 대조·공개 게시 승인 완료 |
 | [사비트리 — 죽음의 신을 따라 걸으며 나눈 말](savitri-words-along-yamas-road.md) | 자료 대조·공개 게시 승인 완료 |
