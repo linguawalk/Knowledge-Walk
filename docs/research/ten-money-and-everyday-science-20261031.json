@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "batch_id": "20261031-ten-money-and-everyday-science",
-  "status": "source_checked_user_publication_approval_pending",
+  "status": "user_approved_live_verified",
   "method": "OpenStax 원문을 실제 읽고 사실과 조건을 대조한 뒤 독립적인 한국어 원고를 집필. 교재의 문장을 번역·복제하지 않음. 계산은 가상의 금액으로 새로 만들고 Decimal로 검산.",
   "sources": [
     {
@@ -262,9 +262,10 @@
     "unit_tests": "34 passed",
     "browser": "All 10 drafts at 1440px desktop and 390px mobile; images decoded, sources present, no horizontal overflow or JavaScript errors",
     "manuscripts": 201,
-    "approved_live_articles": 188,
+    "approved_live_articles": 198,
     "new_drafts": 10,
-    "new_drafts_published": false,
+    "new_drafts_published": true,
     "schedules_enabled": false
-  }
+  },
+  "publication_approved_at": "2026-10-31"
 }

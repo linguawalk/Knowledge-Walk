@@ -1,14 +1,14 @@
 # 세부 주제 제작 현황
 
-전체 43개 세부 주제 중 원고가 있는 곳은 37개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
+전체 43개 세부 주제 중 원고가 있는 곳은 38개입니다. 원고 수는 미게시 초안과 검토 중 원고를 포함하며, 실제 공개된 글 수를 뜻하지 않습니다.
 
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
 | History | Asia | 0 | 0 | 0 |
-| History | Europe | 3 | 3 | 3 |
-| History | America | 4 | 4 | 4 |
-| History | Middle East | 0 | 0 | 0 |
+| History | Europe | 4 | 4 | 3 |
+| History | America | 5 | 5 | 4 |
+| History | Middle East | 1 | 1 | 0 |
 | History | Africa | 1 | 1 | 1 |
 | Cities | Asia | 8 | 8 | 8 |
 | Cities | Europe | 6 | 6 | 6 |
@@ -36,15 +36,15 @@
 | Computing | Internet | 8 | 8 | 8 |
 | Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 3 | 2 | 2 |
+| Finance | Money | 5 | 4 | 2 |
 | Finance | Banking | 3 | 3 | 3 |
-| Finance | Insurance | 1 | 1 | 1 |
-| Finance | Investment | 4 | 4 | 4 |
+| Finance | Insurance | 2 | 2 | 1 |
+| Finance | Investment | 6 | 6 | 4 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 2 | 2 | 2 |
-| Science | Physics | 5 | 5 | 5 |
+| Science | Physics | 6 | 6 | 5 |
 | Science | Chemistry | 1 | 1 | 1 |
-| Science | Biology | 5 | 5 | 5 |
+| Science | Biology | 6 | 6 | 5 |
 | Science | Earth-Science | 2 | 2 | 2 |
 | Science | Engineering | 3 | 3 | 3 |
 
@@ -52,9 +52,8 @@
 
 아래는 원고가 적은 분야의 빈 주제를 먼저 보여주는 조사 대기 목록입니다. 자료의 신뢰성과 이야기의 재미를 확인한 뒤 실제 소재를 정하며, 이 순서대로 무조건 집필하지 않습니다.
 
-- Finance → Fintech
 - History → Asia
-- History → Middle East
+- Finance → Fintech
 - Companies → Finance
 - Culture → Film
 - Culture → Sports

@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-31",
+  "batch_id": "20261031-ten-histories-of-money-and-discovery",
+  "status": "source_checked_user_publication_approval_pending",
+  "editorial_direction": "역사를 중심으로 읽는 이야기. 금융 5편·역사 3편·과학사 2편. 기초 개념은 사건을 이해할 만큼만 보완.",
+  "method": "원자료와 역사 교재를 실제 읽고 사실과 시대를 대조한 뒤 독립적인 한국어 원고로 집필. 원문을 번역·복제하지 않음. 여행기·후대 회고·풍자·현대 교재의 성격을 구별.",
+  "sources": [
+    {
+      "key": "owl",
+      "title": "OpenStax World History — 그리스의 도시와 아테네 주화",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00133/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "a8a6cebb6935ecebc371057bf21d59d1be8cda4fd038ee48994fd0929c68baae",
+      "supports": [
+        "리디아 주조 관행의 수용·아고라와 시장",
+        "기원전 5세기 은화의 아테나와 부엉이·당시 정치 참여의 경계"
+      ]
+    },
+    {
+      "key": "polo",
+      "title": "마르코 폴로 여행기 제1권 — 율·코르디에 1903년 주석 번역판, 제2부 24장",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Travels-of-Marco-Polo---Volume-1_10636/master/10636-8.txt",
+      "checked_at": "2026-10-31",
+      "sha256": "46747a7241c9e082e976d41e25616fa0d6c25da2faa48fed914851ad8267fec2",
+      "supports": [
+        "캄발루크의 뽕나무 재료·이름과 붉은 인장·통용 명령",
+        "가벼운 지폐·금은 등의 거래·낡은 화폐 교환. 여행기의 관찰·전승·번역이라는 범위"
+      ]
+    },
+    {
+      "key": "paper",
+      "title": "OpenStax World History — 쿠빌라이와 원 왕조의 경제",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00146/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "6384fc72ed6e21d3369733f25827fff282a034986093a2cdfd2aa292d4298711",
+      "supports": [
+        "국가 거래에서 지폐 사용·세금과 전쟁 비용",
+        "발행 확대·재정과 물가·후계기의 정치적 불안"
+      ]
+    },
+    {
+      "key": "virginia",
+      "title": "OpenStax World History — 버지니아 회사와 제임스타운",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00076/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "d51084c1a82780962fe47d246f658dcf9a46e94cfb4a2a65c55dbcd3d156866d",
+      "supports": [
+        "공동 출자·1606년 왕실 허가·1607년 정착",
+        "귀금속의 기대·1609~1610년 기근·1614년 무렵 담배 수출",
+        "포우하탄과의 충돌·계약 하인·아프리카인과 노예제의 변화"
+      ]
+    },
+    {
+      "key": "coffee",
+      "title": "William H. Ukers, All About Coffee (1922) — 런던 커피하우스의 로이즈 절",
+      "url": "https://raw.githubusercontent.com/GITenberg/All-About-Coffee_28500/master/28500-8.txt",
+      "checked_at": "2026-10-31",
+      "sha256": "8b235a1b828bab28dd9778780302904f5ac4f1a8441fc536e5319affd8a1ea7c",
+      "supports": [
+        "1688년 무렵 Edward Lloyd의 가게·선원과 상인·수기 선박 목록",
+        "후대 Royal Exchange 구독자실과 1848년 The City 인용",
+        "선박 도착과 사고 장부·후대 방의 풍향·강우 관측 기구. 현재 기관 규모 자료로 사용하지 않음"
+      ]
+    },
+    {
+      "key": "bubble",
+      "title": "Charles Mackay, Memoirs of Extraordinary Popular Delusions, 제1권 1852년판 — 남해회사 장",
+      "url": "https://raw.githubusercontent.com/GITenberg/Memoirs-of-Extraordinary-Popular-Delusions-and-the-Madness-of-Crowds_24518/master/24518-8.txt",
+      "checked_at": "2026-10-31",
+      "sha256": "d7e056eefc41b23af8f518990011654f6ebf3d381cadff2a64820fe53392768a",
+      "supports": [
+        "1711년 설립·공공 부채와 정부 지급·남미 무역 기대",
+        "아시엔토의 노예화된 사람 거래·제한된 무역 권리",
+        "1720년 부채 전환 계획·주가 상승과 하락·의회의 책임 추궁·호가스 풍자 도판"
+      ]
+    },
+    {
+      "key": "luther",
+      "title": "OpenStax World History — 루터와 종교개혁",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00063/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "be51f7ec95b35450cb6a26ceb3b1ce4630bcc72b8385dd342335d997156873c3",
+      "supports": [
+        "1517년 대사 증서 논쟁과 95개 논제·논제 일부의 원문 인용",
+        "1518년 문답·1521년 파문·신앙과 권위의 논쟁",
+        "유럽에서 유통된 수천 부의 인쇄물·통치자들의 종교 선택"
+      ]
+    },
+    {
+      "key": "suez",
+      "title": "OpenStax World History — 이집트와 수에즈 운하",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00070/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "1f27b41dc6028f504a4f1ad3245d38be3fd4aacf5c4e81f78b9bbc61f296af01",
+      "supports": [
+        "1854년 허가 요청·1859년 공사·1869년 개통",
+        "처음의 영국 반대·이집트 정부의 부채·1875년 지분 매각",
+        "우라비의 반발과 1882년 영국 개입·1881년 도판"
+      ]
+    },
+    {
+      "key": "suezworkers",
+      "title": "OpenStax World History — 제국주의와 식민지의 노동",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00071/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "3a82ff840febf7a2d68c4ee685891f19998567f07b2a1ea95218d5310acce58d",
+      "supports": [
+        "수에즈 운하 일부 건설의 이집트 강제 동원 노동"
+      ]
+    },
+    {
+      "key": "quipu",
+      "title": "OpenStax World History — 잉카의 키푸와 기록",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00116/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "25a5a6109ce4b436131f6433a964bbd5833f2dcb382816b0c65c508468c2d200",
+      "supports": [
+        "1400~1600년 실제 키푸 조각·인구와 세금·물자와 배분의 기록",
+        "시에사 데 레온의 장부 설명 요청 증언",
+        "가르실라소의 시 관련 증언·소실과 해독 지식의 한계"
+      ]
+    },
+    {
+      "key": "galileo",
+      "title": "OpenStax Astronomy — 근대 천문학과 갈릴레오",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-astronomy/main/modules/m59765/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "30014570fe6831300dd8da692b44fa4ceffeef56701ba7e6d44b03664f2657e7",
+      "supports": [
+        "네덜란드 망원 도구·1609년 8월 25일 베네치아 시연·성능 개선",
+        "도구의 상을 확인한 반복 관찰·달 표면·목성의 네 위성·금성 위상",
+        "1616년 금지 결정·교회 권위와의 갈등·가택연금"
+      ]
+    },
+    {
+      "key": "jenner",
+      "title": "OpenStax Microbiology — 예방 접종의 역사",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-microbiology/main/modules/m58888/index.cnxml",
+      "checked_at": "2026-10-31",
+      "sha256": "013b9a6fb08389bd50db9582d747b3de966fb1013ecd68041c4d74516b5f2359",
+      "supports": [
+        "제너 이전 인두법의 전파와 위험",
+        "우두를 겪은 사람의 관찰·1796년 어린이 접종과 이후 노출",
+        "vacca 어원·현대의 면역 기억 해석·후속 백신 개발. 당시 행동의 윤리 평가는 편집적 관점으로 구별"
+      ]
+    }
+  ],
+  "actual_images": {
+    "owl": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A06_02_AthenaOwl.jpg",
+      "caption": "This Athenian silver coin from the fifth century BCE depicts Athena on one side and an owl, Athena’s symbol, on the other. (credit: “Athens owl coin” by “yuichi”/Wikimedia Commons, CC0 1.0)",
+      "license": "CC0 1.0",
+      "extension": ".jpg",
+      "sha256": "aef1e8e0b90f056b486903846cf3c4bb334c86628083656e1c6323898620bbf8"
+    },
+    "quipu": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A08_03_Quipu.png",
+      "caption": "The quipu of knotted string was a complex but portable Inca recording device. This fragment was made between 1400 and 1600. (credit: “Quipu fragment” by Yale University Art Gallery/Wikimedia Commons, Public Domain)",
+      "license": "Public Domain",
+      "extension": ".png",
+      "sha256": "7d1ff024cf22aa88e06d77385fcc87d39d2d6fff74e7d42066bea4e3ddb0d778"
+    },
+    "suez": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B09_03_SuezCanal.jpg",
+      "caption": "This 1881 illustration from the  Young Persons’ Cyclopedia of Persons and Places  shows the route of the Suez Canal from Port Said on the Mediterranean Sea to the Red Sea. (credit: modification of work “Suez Canal in the year 1881” by Young Persons' Cyclopedia of Persons and Places/Wikimedia Commons, Public Domain)",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "60ad1575ae435cbfbd99005089a08b7b5e136d3875607a6642584d3e5ff91dbf"
+    },
+    "coffee": {
+      "url": "https://raw.githubusercontent.com/GITenberg/All-About-Coffee_28500/master/28500-h/images/image51.jpg",
+      "caption": "Lloyd's Coffee House in the Royal Exchange, Showing the Subscription Room. Reproduced in All About Coffee (1922). A later Royal Exchange subscription room, not the original 1688 coffeehouse interior.",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "d20ab7968b6196555b330d7961cd1139449c88bcf8da481661a7b5862bfc96d8"
+    },
+    "bubble": {
+      "url": "https://raw.githubusercontent.com/GITenberg/Memoirs-of-Extraordinary-Popular-Delusions-and-the-Madness-of-Crowds_24518/master/24518-h/images/image31.png",
+      "caption": "The South-Sea Bubble — Caricature by Hogarth. Reproduced in Charles Mackay, Memoirs of Extraordinary Popular Delusions, volume I, 1852 edition.",
+      "license": "Public Domain",
+      "extension": ".png",
+      "sha256": "872e6f6347137bd43612f728f39249a53a7a8d7f16f4a64bdb96206aa1e373eb"
+    }
+  },
+  "ai_images": [
+    {
+      "story_id": "kublai-paper-money-and-seal",
+      "credit": "AI 관련 장면 삽화 · 종이와 인장을 다루는 상상 속 관청 장면입니다. 실제 원 지폐의 도안·제작소·쿠빌라이 초상을 고증해 복원한 자료는 아닙니다.",
+      "sha256": "32e5c21388b58285221fe06704d5635c89042c882030c6403524bda0d9d9eca4"
+    },
+    {
+      "story_id": "virginia-company-shares-and-colony",
+      "credit": "AI 관련 장면 삽화 · 17세기 초 공동 투자를 떠올리는 상상 속 장면입니다. 실제 버지니아 회사의 주권·회의·투자자 초상을 재현하지 않았습니다.",
+      "sha256": "a545803db3b1f044f4068651bf3d6d2e5eecee751eff930d71357a92ec761b53"
+    },
+    {
+      "story_id": "luther-pamphlets-and-reformation",
+      "credit": "AI 관련 장면 삽화 · 16세기 초 인쇄 작업을 떠올리는 상상 속 장면입니다. 루터의 실제 초상·특정 인쇄소·실제 책의 지면을 재현한 자료는 아닙니다.",
+      "sha256": "b09b2d4cb8807c8a38b656e1345842ecd98b843ce75b3dbac11a4e1f0ee8c5ea"
+    },
+    {
+      "story_id": "galileo-telescope-changed-sky",
+      "credit": "AI 관련 장면 삽화 · 17세기 초 천문 관측의 분위기입니다. 갈릴레오의 실제 초상·특정 망원경·관측 당시 하늘의 별 배치를 복원한 자료는 아닙니다.",
+      "sha256": "a32811236e5d04e1377e90d525809d21a0cb6cc2a0e100375b0fb79bba923655"
+    },
+    {
+      "story_id": "jenner-cowpox-and-vaccination-history",
+      "credit": "AI 관련 장면 삽화 · 일상의 관찰과 의학의 질문을 떠올리는 상상 속 장면입니다. 제너의 실제 초상·기록된 만남·어린이 대상 실험을 재현하지 않았습니다.",
+      "sha256": "2a91e0476a0ac960db371c75a992616e0bdff4151e3584e6b47eb97dd00ecdaa"
+    }
+  ],
+  "notes": [
+    "실제 은화 사진 1장·키푸 사진 1장·역사 도판 3장과 AI 삽화 5장을 구분. 은화 사진 개별 CC0 1.0·키푸와 수에즈의 개별 Public Domain 표기를 확인. 옛 책은 실제 1922년/1852년 판의 도판과 원문 맥락을 대조. 원본 이미지 파일은 변경하지 않음.",
+    "로이즈 도판은 1922년 책에 실린 후대 로열 익스체인지 구독자실로, 1688년 최초 가게의 현장 그림이 아님. 1848년 장부·관측 기구 설명과 원래 가게를 시대별로 분리. Ukers의 Edward Lloyd 사망 연도와 당시 기관 규모 숫자는 원고에서 사용하지 않음.",
+    "남해회사 근거는 사건 당시 기록 그 자체가 아니라 1852년판 Mackay의 후대 서술. 군중 전체를 단일한 광기로 묘사하지 않고, 익명 황당 투자·뉴턴 손실 등 유명 일화와 세부 주가 숫자를 생략. 정부 부채·무역과 노예화된 사람의 거래를 구별.",
+    "마르코 폴로 여행기는 1903년 율·코르디에 주석 번역판을 읽음. 칸이 무한 부를 얻는다는 수사와 현대 화폐 일반의 법칙을 구별. 원 왕조 교재의 화폐 발행·전쟁·세금 설명과 대조하되 금속 담보가 모든 화폐의 필수 조건이라고 일반화하지 않음.",
+    "아테네 주화의 최초 채택 연도와 리디아의 연대는 교재 표현을 따라 단정하지 않음. 사진의 기원전 5세기 표기를 중심으로 설명하며 주화 이전의 모든 교환을 물물교환 하나로 환원하지 않음.",
+    "버지니아 회사의 17세기 출자와 현대 주식회사의 제한 책임 법률을 동일시하지 않음. 식민지의 원주민과 계약 하인·노예제의 변화를 구별하고 현장 인물의 말과 하루를 창작하지 않음.",
+    "루터의 교회 문 못박기 세부는 확인된 현장 사건처럼 서술하지 않음. 대사 증서와 죄의 무조건 면제라는 통속적 설명을 구별. 인쇄기 하나로 종교개혁 전체를 설명하거나 글의 확산을 모두의 자유로운 선택으로 일반화하지 않음.",
+    "수에즈 운하 지도는 1881년 도판이며 1869년 개통과 1882년 영국 개입을 구별. 1875년 지분 매입을 즉시 영토 소유로 표현하지 않으며 운하 하나가 이집트의 모든 부채 원인이라고 쓰지 않음. 교재의 수단 통제 관련 복잡한 연대는 사용하지 않음.",
+    "키푸는 숫자·장부 증언과 시가 들어 있었다는 전승을 구별. 완전히 해독된 문자 체계라고 주장하지 않고 기록을 종이에 잉크로 쓴 문자만으로 제한하지 않음.",
+    "갈릴레오의 망원경 최초 발명설·목성 위성 관찰 하나로 지동설 완전 입증·확인되지 않은 그래도 지구는 돈다 발언을 사용하지 않음. 금성 관측의 반박 대상은 기존 프톨레마이오스 모형으로 한정.",
+    "제너 이전의 인두법과 비서구적 예방 경험을 포함. 1796년 실험을 현대 면역 이론을 이미 안 행동처럼 묘사하지 않음. 참여 어린이의 보호와 동의에 관한 문장은 현대의 편집적 윤리 평가로 구별하며 접종 재현 절차를 제시하지 않음."
+  ],
+  "validation": {
+    "unit_tests": "34 passed",
+    "browser": "All 10 drafts at 1440px desktop and 390px mobile; images decoded, source links present, no horizontal overflow or JavaScript errors",
+    "manuscripts": 211,
+    "approved_live_articles": 198,
+    "new_drafts": 10,
+    "new_drafts_published": false,
+    "schedules_enabled": false
+  }
+}
