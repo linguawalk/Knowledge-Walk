@@ -9,14 +9,14 @@
 | History | Europe | 6 | 6 | 6 |
 | History | America | 6 | 6 | 6 |
 | History | Middle East | 2 | 2 | 2 |
-| History | Africa | 2 | 2 | 1 |
-| Cities | Asia | 9 | 9 | 8 |
-| Cities | Europe | 7 | 7 | 6 |
+| History | Africa | 2 | 2 | 2 |
+| Cities | Asia | 9 | 9 | 9 |
+| Cities | Europe | 7 | 7 | 7 |
 | Cities | Americas | 5 | 5 | 5 |
 | Cities | Middle East | 2 | 2 | 2 |
 | Cities | Africa | 5 | 5 | 5 |
 | Culture | Architecture | 3 | 3 | 3 |
-| Culture | Literature | 14 | 14 | 13 |
+| Culture | Literature | 14 | 14 | 14 |
 | Culture | Philosophy | 5 | 5 | 5 |
 | Culture | Music | 20 | 19 | 19 |
 | Culture | Art | 26 | 26 | 26 |
@@ -26,25 +26,25 @@
 | Life | Clothing | 4 | 4 | 4 |
 | Life | Food | 8 | 8 | 8 |
 | Life | Housing | 6 | 6 | 6 |
-| Companies | Technology | 11 | 11 | 10 |
+| Companies | Technology | 11 | 11 | 11 |
 | Companies | Automotive | 4 | 4 | 4 |
 | Companies | Finance | 0 | 0 | 0 |
 | Companies | Media | 4 | 4 | 4 |
-| Companies | Fashion | 5 | 5 | 4 |
+| Companies | Fashion | 5 | 5 | 5 |
 | Computing | Computers | 4 | 4 | 4 |
 | Computing | Software | 11 | 11 | 11 |
 | Computing | Internet | 8 | 8 | 8 |
 | Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 7 | 6 | 5 |
+| Finance | Money | 7 | 6 | 6 |
 | Finance | Banking | 3 | 3 | 3 |
 | Finance | Insurance | 2 | 2 | 2 |
 | Finance | Investment | 6 | 6 | 6 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 2 | 2 | 2 |
 | Science | Physics | 6 | 6 | 6 |
-| Science | Chemistry | 2 | 2 | 1 |
-| Science | Biology | 10 | 10 | 8 |
+| Science | Chemistry | 2 | 2 | 2 |
+| Science | Biology | 10 | 10 | 10 |
 | Science | Earth-Science | 2 | 2 | 2 |
 | Science | Engineering | 4 | 4 | 4 |
 

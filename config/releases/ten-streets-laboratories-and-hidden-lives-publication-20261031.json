@@ -1,0 +1,20 @@
+{
+  "id": "ten-streets-laboratories-and-hidden-lives-publication-20261031",
+  "approved_at": "2026-10-31",
+  "user_request": "홈페이지 게시 및 새 글 10개",
+  "story_ids": [
+    "london-great-stink-and-sewers",
+    "pullman-town-wages-and-rent",
+    "department-stores-window-shopping",
+    "taghaza-salt-caravan-and-labor",
+    "panjikent-sogdian-merchants-and-mural",
+    "black-death-labor-and-wages",
+    "mendeleev-empty-spaces-and-elements",
+    "pasteur-swan-neck-air-and-dust",
+    "hooke-cork-small-rooms",
+    "jekyll-hyde-door-and-responsibility"
+  ],
+  "deployment_status": "prepared",
+  "expected_live_story_count": 228,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261031-ten-streets-laboratories-and-hidden-lives/index.html"
+}

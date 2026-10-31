@@ -11,7 +11,7 @@
 | [80일간의 세계 일주 — 시계보다 늦게 알게 된 여행의 의미](eighty-days-time-and-travel.md) | 자료 대조·공개 게시 승인 완료 |
 | [프랑켄슈타인 — 만들어 낸 생명에게는 누가 책임질까](frankenstein-creator-and-creature.md) | 자료 대조·공개 게시 승인 완료 |
 | [제인 오스틴의 생애 — 작은 거실에서 넓은 세계를 쓰다](jane-austen-life-and-writing.md) | 자료 대조·공개 게시 승인 완료 |
-| [지킬 박사와 하이드 — 다른 이름이면 책임도 사라질까](jekyll-hyde-door-and-responsibility.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [지킬 박사와 하이드 — 다른 이름이면 책임도 사라질까](jekyll-hyde-door-and-responsibility.md) | 자료 대조·공개 게시 승인 완료 |
 | [레 미제라블 — 빵 한 조각에서 시작된 긴 질문](les-miserables-reading-guide.md) | 자료 대조·공개 게시 승인 완료 |
 | [오즈의 마법사 — 필요한 것은 이미 길 위에 있었을까](oz-wizard-road-and-home.md) | 자료 대조·공개 게시 승인 완료 |
 | [이 현판의 글자는 따로 만들어 붙였다](poem-plaque-raised-letters.md) | 자료 대조·공개 게시 승인 완료 |
