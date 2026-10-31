@@ -12,9 +12,9 @@
 | [하멜른의 피리 부는 사나이 — 쥐를 없앤 뒤 벌어진 일](hamelin-pied-piper-unpaid-promise.md) | 자료 대조·공개 게시 승인 완료 |
 | [이시스 — 사라진 오시리스를 찾아 나선 길](isis-osiris-chest-and-search.md) | 자료 대조·공개 게시 승인 완료 |
 | [마우이는 왜 태양에 밧줄을 걸었을까](maui-snaring-sun-kapa-days.md) | 자료 대조·공개 게시 승인 완료 |
-| [오디세우스 — 아무도 아닌 사람이 이름을 외친 순간](odysseus-cyclops-nobody-real-name.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [오디세우스 — 아무도 아닌 사람이 이름을 외친 순간](odysseus-cyclops-nobody-real-name.md) | 자료 대조·공개 게시 승인 완료 |
 | [오르페우스는 왜 뒤를 돌아보았을까](orpheus-eurydice-last-look.md) | 자료 대조·공개 게시 승인 완료 |
-| [판도라 — 상자가 아니라 항아리였다는 이야기](pandora-jar-hope-under-lid.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [판도라 — 상자가 아니라 항아리였다는 이야기](pandora-jar-hope-under-lid.md) | 자료 대조·공개 게시 승인 완료 |
 | [까마귀 소년 — 빛을 조각내어 낮과 밤을 만들다](raven-boy-light-fragments-and-night.md) | 자료 대조·공개 게시 승인 완료 |
 | [삼포 — 밀가루와 소금, 돈을 내던 보물은 왜 깨졌을까](sampo-forging-plenty-and-fragments.md) | 자료 대조·공개 게시 승인 완료 |
 | [사비트리 — 죽음의 신을 따라 걸으며 나눈 말](savitri-words-along-yamas-road.md) | 자료 대조·공개 게시 승인 완료 |

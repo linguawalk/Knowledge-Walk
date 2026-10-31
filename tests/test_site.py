@@ -67,6 +67,28 @@ class SiteTests(unittest.TestCase):
         self.assertIn('aria-label="소제목 바로가기"', html)
         self.assertNotIn('class="section-number">03.', html)
 
+    def test_github_review_has_numbered_headings_and_stable_jump_links(self):
+        import sys
+        with patch.dict(sys.modules, {"build_site": builder}):
+            review_spec = importlib.util.spec_from_file_location("export_review_test", ROOT / "tools/export_review.py")
+            review = importlib.util.module_from_spec(review_spec)
+            review_spec.loader.exec_module(review)
+        story = self.approved_fixture()
+        story['body'] = [
+            {"heading": None, "paragraphs": ["도입부"]},
+            {"heading": "1. 첫 장면", "paragraphs": ["첫 문단"]},
+            {"heading": None, "paragraphs": ["추가 문단"]},
+            {"heading": "둘째 장면", "paragraphs": ["끝 문단"]},
+        ]
+        text = '\n'.join(review.numbered_review_body(story))
+        self.assertIn('[01. 첫 장면](#user-content-part-1)', text)
+        self.assertIn('[02. 둘째 장면](#user-content-part-3)', text)
+        self.assertIn('<a name="part-1"></a>\n\n## 01. 첫 장면', text)
+        self.assertIn('<a name="part-3"></a>\n\n## 02. 둘째 장면', text)
+        self.assertNotIn('01. 1.', text)
+        self.assertEqual([line for line in text.splitlines() if line in ['도입부', '첫 문단', '추가 문단', '끝 문단']],
+                         ['도입부', '첫 문단', '추가 문단', '끝 문단'])
+
     def test_category_transcription(self):
         self.assertEqual(len(self.categories), 8)
         self.assertEqual(sum(len(c["children"]) for c in self.categories), 43)

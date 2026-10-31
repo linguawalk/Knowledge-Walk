@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Export manuscripts to a category/subcategory GitHub reading library."""
 import os
+import re
 from pathlib import Path
 from urllib.parse import quote, urlsplit
 
@@ -9,6 +10,34 @@ from build_site import ROOT, read_json, validate, source_ok, review_notice, load
 
 def review_path(story):
     return Path(story['category']) / slug(story['subcategory']) / f"{story['id']}.md"
+
+
+def numbered_sections(story):
+    sections = []
+    for index, block in enumerate(story['body']):
+        if block.get('heading'):
+            label = re.sub(r"^\d+[.)]\s+", "", block['heading'])
+            sections.append((index, len(sections) + 1, label))
+    return sections
+
+
+def numbered_review_body(story):
+    sections = numbered_sections(story)
+    lines = []
+    if sections:
+        lines += ['## 소제목 바로가기', '']
+        for index, number, label in sections:
+            label = label.replace('[', r'\[').replace(']', r'\]')
+            lines.append(f'- [{number:02d}. {label}](#user-content-part-{index})')
+        lines += ['']
+    by_index = {index: (number, label) for index, number, label in sections}
+    for index, block in enumerate(story['body']):
+        if index in by_index:
+            number, label = by_index[index]
+            lines += [f'<a name="part-{index}"></a>', '', f'## {number:02d}. {label}', '']
+        for paragraph in block['paragraphs']:
+            lines += [paragraph, '']
+    return lines
 
 
 def state(story):
@@ -82,11 +111,7 @@ def main():
                  f"![{story['image']['alt']}]({image})", '', f"*{story['image']['credit']}*", '']
         if story['image']['type'] != 'ai_illustration':
             draft += [f"[이미지 출처·제작 근거]({story['image']['source_url']}) · {story['image']['license']}", '']
-        for block in story['body']:
-            if block.get('heading'):
-                draft += [f"## {block['heading']}", '']
-            for paragraph in block['paragraphs']:
-                draft += [paragraph, '']
+        draft += numbered_review_body(story)
         checked = [s for s in story['sources'] if source_ok(s)]
         if checked:
             draft += ['## 이야기의 바탕이 된 자료', '']
