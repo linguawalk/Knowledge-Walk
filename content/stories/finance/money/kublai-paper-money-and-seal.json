@@ -70,11 +70,11 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-31",
   "sources": [
     {
       "title": "마르코 폴로 여행기 제1권 — 율·코르디에 1903년 주석 번역판, 제2부 24장",

@@ -1,0 +1,20 @@
+{
+  "id": "ten-histories-of-money-and-discovery-publication-20261031",
+  "approved_at": "2026-10-31",
+  "user_request": "홈페이지 게시",
+  "story_ids": [
+    "athens-owl-silver-coin",
+    "kublai-paper-money-and-seal",
+    "virginia-company-shares-and-colony",
+    "lloyds-coffeehouse-shipping-news",
+    "south-sea-bubble-promise-and-shares",
+    "luther-pamphlets-and-reformation",
+    "suez-canal-shortcut-and-power",
+    "inca-quipu-knots-and-records",
+    "galileo-telescope-changed-sky",
+    "jenner-cowpox-and-vaccination-history"
+  ],
+  "deployment_status": "prepared",
+  "expected_live_story_count": 208,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261031-ten-histories-of-money-and-discovery/index.html"
+}

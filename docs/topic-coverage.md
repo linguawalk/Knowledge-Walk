@@ -6,9 +6,9 @@
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
 | History | Asia | 0 | 0 | 0 |
-| History | Europe | 4 | 4 | 3 |
-| History | America | 5 | 5 | 4 |
-| History | Middle East | 1 | 1 | 0 |
+| History | Europe | 4 | 4 | 4 |
+| History | America | 5 | 5 | 5 |
+| History | Middle East | 1 | 1 | 1 |
 | History | Africa | 1 | 1 | 1 |
 | Cities | Asia | 8 | 8 | 8 |
 | Cities | Europe | 6 | 6 | 6 |
@@ -36,15 +36,15 @@
 | Computing | Internet | 8 | 8 | 8 |
 | Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 5 | 4 | 2 |
+| Finance | Money | 5 | 4 | 4 |
 | Finance | Banking | 3 | 3 | 3 |
-| Finance | Insurance | 2 | 2 | 1 |
-| Finance | Investment | 6 | 6 | 4 |
+| Finance | Insurance | 2 | 2 | 2 |
+| Finance | Investment | 6 | 6 | 6 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 2 | 2 | 2 |
-| Science | Physics | 6 | 6 | 5 |
+| Science | Physics | 6 | 6 | 6 |
 | Science | Chemistry | 1 | 1 | 1 |
-| Science | Biology | 6 | 6 | 5 |
+| Science | Biology | 6 | 6 | 6 |
 | Science | Earth-Science | 2 | 2 | 2 |
 | Science | Engineering | 3 | 3 | 3 |
 
