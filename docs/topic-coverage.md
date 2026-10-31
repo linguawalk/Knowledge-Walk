@@ -10,9 +10,9 @@
 | History | America | 4 | 4 | 4 |
 | History | Middle East | 0 | 0 | 0 |
 | History | Africa | 1 | 1 | 1 |
-| Cities | Asia | 8 | 8 | 5 |
+| Cities | Asia | 8 | 8 | 8 |
 | Cities | Europe | 6 | 6 | 6 |
-| Cities | Americas | 5 | 5 | 4 |
+| Cities | Americas | 5 | 5 | 5 |
 | Cities | Middle East | 2 | 2 | 2 |
 | Cities | Africa | 5 | 5 | 5 |
 | Culture | Architecture | 3 | 3 | 3 |
@@ -26,15 +26,15 @@
 | Life | Clothing | 4 | 4 | 4 |
 | Life | Food | 8 | 8 | 8 |
 | Life | Housing | 6 | 6 | 6 |
-| Companies | Technology | 10 | 10 | 8 |
-| Companies | Automotive | 4 | 4 | 3 |
+| Companies | Technology | 10 | 10 | 10 |
+| Companies | Automotive | 4 | 4 | 4 |
 | Companies | Finance | 0 | 0 | 0 |
 | Companies | Media | 4 | 4 | 4 |
 | Companies | Fashion | 4 | 4 | 4 |
 | Computing | Computers | 3 | 3 | 3 |
-| Computing | Software | 11 | 11 | 10 |
-| Computing | Internet | 8 | 8 | 7 |
-| Computing | Programming | 2 | 2 | 1 |
+| Computing | Software | 11 | 11 | 11 |
+| Computing | Internet | 8 | 8 | 8 |
+| Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
 | Finance | Money | 2 | 1 | 1 |
 | Finance | Banking | 2 | 2 | 2 |

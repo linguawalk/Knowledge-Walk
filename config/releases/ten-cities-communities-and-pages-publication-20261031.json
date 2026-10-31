@@ -1,0 +1,20 @@
+{
+  "id": "ten-cities-communities-and-pages-publication-20261031",
+  "approved_at": "2026-10-31",
+  "user_request": "홈페이지 게시 및 새 글 작성 10개",
+  "story_ids": [
+    "borobudur-stone-stories-and-steps",
+    "new-york-before-new-amsterdam",
+    "kyoto-genji-court-and-snow",
+    "harappa-seal-and-distant-trade",
+    "harley-davidson-riders-and-community",
+    "airbnb-room-and-neighborhood",
+    "boxed-bulk-shopping-without-car",
+    "css-same-words-different-page",
+    "csv-comma-inside-a-cell",
+    "alt-text-image-in-words"
+  ],
+  "deployment_status": "prepared",
+  "expected_live_story_count": 188,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261031-ten-cities-communities-and-pages/index.html"
+}

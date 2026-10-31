@@ -4,7 +4,7 @@
 
 Companies · Automotive
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![길가에 세운 일반적인 오토바이 옆에서 사람들이 지도를 보며 경험을 나누는 삽화.](../../../../content/images/harley-davidson-riders-and-community.png)
 
