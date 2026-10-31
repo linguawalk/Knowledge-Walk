@@ -22,7 +22,7 @@
 | Culture | Art | 27 | 27 | 27 |
 | Culture | Film | 0 | 0 | 0 |
 | Culture | Sports | 0 | 0 | 0 |
-| Life | Folks | 2 | 2 | 2 |
+| Life | Folks | 12 | 12 | 2 |
 | Life | Clothing | 4 | 4 | 4 |
 | Life | Food | 8 | 8 | 8 |
 | Life | Housing | 6 | 6 | 6 |

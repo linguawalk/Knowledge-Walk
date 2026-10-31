@@ -290,8 +290,9 @@ class Site:
         if child:
             crumb += f'<span aria-hidden="true">/</span><span>{esc(child)}</span>'
         title = child or category["title"]
-        body = f'<section class="container category-page"><nav class="breadcrumbs" aria-label="현재 위치">{crumb}</nav><header class="page-heading"><p class="eyebrow">{esc(category["title"])} · {esc(category["label"])}</p><h1>{esc(title)}</h1><p>{esc(category["intro"])}</p></header><nav class="chips" aria-label="세부 분야">{chips}</nav><p class="result-label">{len(subset)}개의 이야기</p>{listing}</section>'
-        self.layout(page, title, category["intro"], body, cid)
+        intro = category.get("topic_intros", {}).get(child, category["intro"])
+        body = f'<section class="container category-page"><nav class="breadcrumbs" aria-label="현재 위치">{crumb}</nav><header class="page-heading"><p class="eyebrow">{esc(category["title"])} · {esc(category["label"])}</p><h1>{esc(title)}</h1><p>{esc(intro)}</p></header><nav class="chips" aria-label="세부 분야">{chips}</nav><p class="result-label">{len(subset)}개의 이야기</p>{listing}</section>'
+        self.layout(page, title, intro, body, cid)
 
     def story(self, story):
         page = self.story_path(story)

@@ -1,0 +1,284 @@
+{
+  "date": "2026-10-31",
+  "batch_id": "20261031-ten-folklore-myths-and-marvels",
+  "status": "source_checked_user_publication_approval_pending",
+  "editorial_direction": "Life → Folks: 민속·신화·전설. 독립적인 읽을거리와 출처/판본 구별.",
+  "sources": [
+    {
+      "key": "greek",
+      "title": "The Homeric Hymns — Hymn II: To Demeter, H. G. Evelyn-White 번역",
+      "url": "https://raw.githubusercontent.com/GITenberg/Hesiod-the-Homeric-Hymns-and-Homerica_348/master/348.txt",
+      "supports": [
+        "페르세포네의 비자발적 납치·제우스의 허락·헤카테/헬리오스의 증언",
+        "엘레우시스·곡식 중단·헤르메스의 중재·석류 씨앗",
+        "연 1/3 지하 체류·나머지 귀환·제의의 전승. 계절을 현대 기상 법칙으로 일반화하지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "8f14e02495004b402ce2fc7f7dd53966b0e89b23c39bee440b3fe04aec4d101f"
+    },
+    {
+      "key": "norse",
+      "title": "The Poetic Edda — Thrymskvitha / The Lay of Thrym, Henry Adams Bellows 번역",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-poetic-Edda-b-Translated-from-the-Icelandic-with-an-Introduction-and-notes_73533/master/73533-0.txt",
+      "supports": [
+        "로키가 프레이야의 깃털 옷을 빌림·트륌의 요구·프레이야의 거절",
+        "헤임달의 변장 제안·토르/로키의 혼례 잔치·식사와 눈빛에 대한 거짓 설명",
+        "혼례 축복을 위해 무릎에 놓인 묠니르·폭력적인 회수 결말. 실제 혼례 전체의 복원으로 사용하지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "553940d1bf47928c8b333daa08bf874c9a8362f6bba279f8057a0b9e4f1f8496"
+    },
+    {
+      "key": "egypt",
+      "title": "Lewis Spence, Myths and Legends of Ancient Egypt (1915) — Osiris/Isis 재화",
+      "url": "https://raw.githubusercontent.com/GITenberg/Myths-and-Legends-of-Ancient-Egypt_43662/master/43662-0.txt",
+      "supports": [
+        "세트의 상자·이시스의 수색·비블로스의 나무와 궁전 기둥",
+        "상자의 귀환·세트가 유해를 흩음·파피루스 배와 지역별 매장/성소 설명",
+        "오시리스의 사후 왕권·호루스와 세트의 다툼·아니의 파피루스 복제 도판. 여러 시대의 전승을 편집한 후대 자료"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "1f2e5f85b23f97e69797503dd9cd7b6dda03fecccd99b282a9882a9267ab9ac0"
+    },
+    {
+      "key": "japan",
+      "title": "F. Hadland Davis, Myths & Legends of Japan (1912) — Ama-terasu and Susa-no-o",
+      "url": "https://raw.githubusercontent.com/GITenberg/Myths--amp--Legends-of-Japan_45723/master/45723-0.txt",
+      "supports": [
+        "스사노오의 논과 직조 공간 침해·이 재화에서 여신이 다친 사건",
+        "동굴 은둔·신들의 협력·새와 거울·장신구의 준비",
+        "우즈메의 뒤집힌 통 위 춤·웃음과 호기심·내다본 여신의 빛. 다른 판본의 밧줄/끌어내는 동작을 추가하지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "5a7a37d8a7746f81e51aa9b4018f018dec6a08e3e1ee40fb3812e4706840d571"
+    },
+    {
+      "key": "india",
+      "title": "Toru Dutt, Ancient Ballads and Legends of Hindustan — Savitri (1885년 수록판)",
+      "url": "https://raw.githubusercontent.com/GITenberg/Ancient-Ballads-and-Legends-of-Hindustan_23245/master/23245-8.txt",
+      "supports": [
+        "사비트리의 선택·사티아반의 1년 뒤 죽음 예언·숲 생활과 마지막 날",
+        "야마를 따라 걷는 대화·시아버지의 시력과 왕국·자기 아버지의 자손",
+        "마지막에 제외 조건 없이 주어진 소원·생환과 귀가. 다른 판본의 소원 순서/논리 함정을 혼합하지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "8ada2ca2be2c110776e7a0d7bc89217c549c736cf3f72531d666104ac0249c8a"
+    },
+    {
+      "key": "anansi",
+      "title": "W. H. Barker / Cecilia Sinclair, West African Folk-Tales — How Wisdom Became the Property of the Human Race",
+      "url": "https://raw.githubusercontent.com/GITenberg/West-African-Folk-Tales_66923/master/66923-0.txt",
+      "supports": [
+        "판티 지역을 배경으로 한 아버지 아난시와 아들 Kweku Tsin",
+        "분노한 아난시가 지혜를 회수해 봉한 항아리·앞으로 매달아 나무를 못 오름",
+        "아들의 뒤로 매라는 조언·화가 나 던져 깨진 항아리·지혜의 확산. 자발적 나눔으로 결말을 바꾸지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "81a8eafa4babb100c331780e870f4dd98e45186adec5507e65f49a87dcc64e4b"
+    },
+    {
+      "key": "raven",
+      "title": "Katharine Berry Judson, Myths and Legends of Alaska (1911) — The Bringing of the Light by Raven",
+      "url": "https://raw.githubusercontent.com/GITenberg/Myths-and-Legends-of-Alaska_47146/master/47146-8.txt",
+      "supports": [
+        "수집본에서 Lower Yukon으로 표기된 이야기·별빛만 남은 마을·까마귀 옷의 변신",
+        "아주머니의 안내·눈신을 신고 남쪽으로 여행·눈삽과 보였다 사라지는 빛",
+        "공과 삽을 가져와 비행·빛을 조각내 낮/밤·귀환과 얼음 위 후속 이동. Tlingit의 상자 이야기와 혼합하지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "bfe8a043785389d7209a6a3e73668823dc0aa3bc836203d9c4d8cb62c3d69bb4"
+    },
+    {
+      "key": "ireland",
+      "title": "James Stephens, Irish Fairy Tales — The Boyhood of Fionn, IX~XI장",
+      "url": "https://raw.githubusercontent.com/GITenberg/Irish-Fairy-Tales_2892/master/2892-0.txt",
+      "supports": [
+        "피네가스의 교육과 질문·개암나무와 연어 설명",
+        "연어 바구니·피온의 우연한 엄지 화상과 맛봄·정직한 설명",
+        "스승이 감춘 예언의 나머지·피온이 연어를 먹게 함·스승의 자기 절제. 고대 구전의 속기록이 아니라 문학적 재화"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "a5efe61b03708607058fb52e83ff9370761c95002a789552e5a818979fb5e03c"
+    },
+    {
+      "key": "finland",
+      "title": "Kalevala, John Martin Crawford 영문 번역 (1888) — Runes X, XLII, XLIII",
+      "url": "https://raw.githubusercontent.com/GITenberg/Kalevala---the-Epic-Poem-of-Finland---Complete_5186/master/5186-8.txt",
+      "supports": [
+        "삼포 제작·대장간 마련·활/배/소/쟁기의 실패·밀가루/소금/돈",
+        "삼포 보관과 공유 요구·거절 뒤 수면과 탈취·루히의 추격",
+        "바다 위 파손·바다와 해안의 조각·곡식과 풍요의 기대. 바닷물 짠맛의 다른 민담을 합치지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "af3147b780c7e0efb55366f3bea64638b38213ccfbf697d5cf85ac3f0065e450"
+    },
+    {
+      "key": "persia",
+      "title": "Persian Literature, revised edition Vol. 1 (1909) — Shah Nameh: Zal / The Dream of Sam",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Persian-Literature-Comprising-The-Shah-Nameh-The-Rubaiyat-The-Divan-and-The-Gulistan-Volu__10315/master/10315-8.txt",
+      "supports": [
+        "흰 머리 아이에 대한 아버지와 주변의 두려움·알보르즈산 유기",
+        "시무르그와 새끼들의 돌봄·말과 이해력의 교육·아버지를 꾸짖는 꿈",
+        "아버지의 직접 수색·이별의 슬픔과 깃털의 약속·인간 사회로 돌아감. 원 페르시아어 운문과 영어 발췌/재화를 구별"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "13f6fc33914fbe706e22ff11a52de1b358140c5804602155a8dcd19aa1639ca9"
+    }
+  ],
+  "actual_images": {
+    "egypt": {
+      "url": "https://raw.githubusercontent.com/GITenberg/Myths-and-Legends-of-Ancient-Egypt_43662/master/43662-h/images/myths001.jpg",
+      "caption": "The Presentation of Ani to Osiris, from the Papyrus of Ani; historical facsimile reproduced in Lewis Spence, Myths and Legends of Ancient Egypt (1915), by permission of the Director of the British Museum. Ancient funerary scene, not a picture of Isis searching.",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "9516aba12d9dfd4456bf49f18294ac4744fc5b4080ff7eb92179d63ab003ba63"
+    }
+  },
+  "images": [
+    {
+      "story_id": "demeter-persephone-seed-and-return",
+      "file": "content/images/demeter-persephone-seed-and-return.png",
+      "alt": "밀밭 곁에서 다시 만나는 데메테르와 페르세포네, 석류를 곁들인 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 전승 장면 삽화",
+      "credit": "AI 전승 장면 삽화 · 찬가의 귀환과 곡식 이미지를 떠올린 그림이며 고대 유물이나 의상의 정확한 복원이 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d7f9997d58238368d6bce52df898718e6a9b52186137e3e0569442f2ddcc7460"
+    },
+    {
+      "story_id": "thor-thrym-bridal-veil-and-hammer",
+      "file": "content/images/thor-thrym-bridal-veil-and-hammer.png",
+      "alt": "신부 옷과 면사포를 쓴 토르, 곁의 로키와 잔치 손님을 그린 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 전승 장면 삽화",
+      "credit": "AI 전승 장면 삽화 · 시 속 잔치를 떠올린 그림입니다. 특정 영화 캐릭터나 실제 북유럽 혼례의 복원 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "102c9ebc6b2eb3931daf0777985176c450f111475804a4e61f1fe1a590848965"
+    },
+    {
+      "story_id": "anansi-wisdom-pot-and-son",
+      "file": "content/images/anansi-wisdom-pot-and-son.png",
+      "alt": "가슴 앞으로 항아리를 맨 아난시가 나무를 오르고 아들이 등을 가리키는 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 전승 장면 삽화",
+      "credit": "AI 전승 장면 삽화 · 이 판본의 사람 모습 아버지와 아들을 그렸습니다. 판티 지역의 실제 의상·생활을 고증한 민속 사진이 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "61d1c3da82dc744a2bf3d8348cfebccc6278b4cb2e02f3cab879c07e732a26d4"
+    },
+    {
+      "story_id": "isis-osiris-chest-and-search",
+      "file": "content/images/isis-osiris-chest-and-search.jpg",
+      "alt": "『아니의 파피루스』의 오시리스 앞 장면을 재현한 1915년 책의 복제 도판",
+      "type": "artwork",
+      "label": "옛 파피루스 복제 도판",
+      "credit": "『아니의 파피루스』의 오시리스 앞 장면 · Lewis Spence, Myths and Legends of Ancient Egypt (1915) 수록 복제 도판 / British Museum 원자료 · Project Gutenberg · Public Domain. 이시스의 수색 순간이나 신화 사건을 촬영한 자료가 아닙니다. 원본 파일 그대로 사용했습니다.",
+      "width": 781,
+      "height": 456,
+      "source_url": "https://raw.githubusercontent.com/GITenberg/Myths-and-Legends-of-Ancient-Egypt_43662/master/43662-h/images/myths001.jpg",
+      "license": "Public Domain",
+      "sha256": "9516aba12d9dfd4456bf49f18294ac4744fc5b4080ff7eb92179d63ab003ba63"
+    },
+    {
+      "story_id": "amaterasu-cave-laughter-and-mirror",
+      "file": "content/images/amaterasu-cave-laughter-and-mirror.png",
+      "alt": "동굴에서 바깥의 거울과 우즈메의 춤을 내다보는 아마테라스의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 전승 장면 삽화",
+      "credit": "AI 전승 장면 삽화 · 이야기의 동굴과 춤을 떠올린 독립 삽화이며 실제 신사·의상·의례나 옛 성화의 복원 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "deda3b9cf36a31420377e54c8b4b61fc7425d6813be7f9de1208ba294ae55d2f"
+    },
+    {
+      "story_id": "raven-boy-light-fragments-and-night",
+      "file": "content/images/raven-boy-light-fragments-and-night.png",
+      "alt": "눈 덮인 북쪽 해안 위로 빛의 공과 작은 조각을 가지고 날아가는 까마귀의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 전승 장면 삽화",
+      "credit": "AI 전승 장면 삽화 · 유콘강 하류 수집본의 빛의 공을 그린 그림입니다. 특정 공동체의 성물·문양·의례를 복원한 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9fd2f0eb3e6eee48bafbfd4760bc1d76f91077075b3aaad4d98b3e1bf0e3e807"
+    },
+    {
+      "story_id": "savitri-words-along-yamas-road",
+      "file": "content/images/savitri-words-along-yamas-road.png",
+      "alt": "어두워지는 숲에서 사비트리가 야마와 함께 걸으며 대화하는 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 전승 장면 삽화",
+      "credit": "AI 전승 장면 삽화 · 토루 더트의 시를 떠올린 독립 삽화이며 특정 종교 성화·실제 의상·인물의 초상을 복제한 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a104b45a22218689d6ff94427b00a15ae20e1989718603ae2fbad0331dfccfb6"
+    },
+    {
+      "story_id": "fionn-salmon-wisdom-and-teacher",
+      "file": "content/images/fionn-salmon-wisdom-and-teacher.png",
+      "alt": "강변 집 앞에서 연어 바구니를 두고 대화하는 피온과 피네가스의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 전승 장면 삽화",
+      "credit": "AI 전승 장면 삽화 · 스티븐스의 재화 속 대화를 떠올린 삽화이며 아서 래컴의 기존 삽화·실제 인물·고대 의상을 재현한 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6c82ca9332ad33fd2c38db69bae7fdcedc31829cd815edd0acad7dd1ef629802"
+    },
+    {
+      "story_id": "sampo-forging-plenty-and-fragments",
+      "file": "content/images/sampo-forging-plenty-and-fragments.png",
+      "alt": "신비한 삼포와 밀가루·소금 등의 물품을 대장간에서 살피는 대장장이의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 전승 장면 삽화",
+      "credit": "AI 전승 장면 삽화 · 선택한 번역의 보물을 상상한 그림이며 삼포의 확정된 모양이나 발굴된 기계의 복원 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6f4c4ca89239e81f0418b28051fc1ea776b20ea2dc17458bfed32a01f39bf5e3"
+    },
+    {
+      "story_id": "zal-simurgh-white-hair-and-feather",
+      "file": "content/images/zal-simurgh-white-hair-and-feather.png",
+      "alt": "산의 둥지에서 흰 머리 아이를 날개로 감싼 시무르그의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 전승 장면 삽화",
+      "credit": "AI 전승 장면 삽화 · 서사 속 시무르그와 아이를 그린 독립 삽화이며 실제 새·특정 유물·고대 의상을 고증한 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "aaaf83036224f474c7a101c913760a3e833962055e8acb560f5655b5ee603632"
+    }
+  ],
+  "notes": [
+    "사용자가 Life → Folks를 민속/신화 이야기용으로 정의했다. 새 10편은 모두 life/Folks에 한 번씩 배치했다. 기존 Folks 원고를 일괄 이동하거나 다른 범주에 중복 배치하지 않았다.",
+    "선택한 문헌의 해당 이야기·시·노래를 읽고 사건과 결말을 대조한 독립적인 한국어 재화와 해설이다. verified는 문헌상의 전승 내용 대조 완료이며 신화 사건의 역사적 실재 입증이나 공개 게시 승인이 아니다.",
+    "신화·전설·문학적 재화·편집적 해석을 구별했다. 결말을 포함해 줄거리를 안내하며 고대의 대화를 새로 만들어 직접 인용하지 않았다. 고대 언어의 자필 원전이나 모든 지역의 구전 현장을 확인했다고 주장하지 않는다.",
+    "데메테르는 Hymn II의 비자발적 납치·제우스의 동의·페르세포네의 강제로 맛보았다는 설명과 1/3년 체류를 유지했다. 널리 알려진 반년 체류·다른 씨앗 수를 합치지 않았다. 현대 기상학 설명으로 제시하지 않았다.",
+    "트륌의 노래에서 변장 제안자는 헤임달, 시녀는 로키다. 프레이야의 거절·연어 여덟/소 한 마리·굶음/불면의 거짓말·무릎의 망치·공격 결말을 확인했다. 편집자의 시 제작 연도 추정이나 한 장면으로 모든 북유럽 혼례를 복원하는 주장은 사용하지 않았다.",
+    "이시스는 Spence가 Plutarch 등 여러 전승을 정리한 후대 자료의 상자/비블로스 기둥/재수색/지역별 매장 흐름을 따랐다. 다른 재화의 완전한 신체 재조립과 지상 왕좌 복귀를 합치지 않았다. 프레이저의 단일 식생신 이론과 식인/문명화 같은 낡은 서술을 반복하지 않았다.",
+    "아마테라스는 Davis 재화에서 여신 자신이 직조 공간 사건으로 다치는 서술을 따른다. 다른 판본의 직조 여성 사망·밧줄·당겨 꺼내는 동작을 넣지 않았다. 원 저자의 성별/민족 평가를 반복하지 않았으며 지금도 이어지는 종교·문화 맥락을 밝혔다.",
+    "사비트리는 Toru Dutt의 영문 시(다운로드한 1885년 수록판)를 따른다. 시아버지의 시력과 왕국을 한 청원에 두고 마지막에는 제외 조건 없는 소원에 남편의 생환과 자녀를 청한다. 다른 Mahabharata 재화의 별도 소원 횟수·백 명의 아들을 이용한 논리 함정을 섞지 않았다. 실제 상실과 여성에게 동일한 희생을 요구하는 규범으로 쓰지 않았다.",
+    "아난시는 이 판본에서 사람인 Father Anansi와 Kweku Tsin이다. 이미 준 지혜를 회수·항아리를 앞에 매단 실패·아들의 조언·분노한 투척을 따른다. 다른 아들의 이름이나 거미의 몸을 덧붙이지 않았고 자발적 나눔으로 결말을 바꾸지 않았다.",
+    "까마귀는 Judson의 The Bringing of the Light by Raven, 책의 지역 표기 Lower Yukon을 따른다. 고아 소년/까마귀 옷/눈신/남쪽 여행/공과 삽/빛 조각/낮밤을 유지했다. 별도 Tlingit의 Daylight on the Nass River에 나오는 상자나 다른 변신을 합치지 않았다. 수집본의 낡은 Eskimo 분류를 현대의 자칭/단일 민족명으로 반복하지 않았다.",
+    "피온은 Stephens의 The Boyhood of Fionn IX~XI의 Finegas와 스승이 알고도 숨긴 예언, 엄지의 우연한 맛봄 뒤 실제로 연어를 먹게 한 흐름을 유지했다. 스승이 예언을 전혀 몰랐다는 다른 판본과 섞지 않았다. 대화와 심리는 20세기 문학적 재화이지 고대 현장 기록이 아니다.",
+    "삼포는 Crawford 1888 번역 Runes X/XLII/XLIII를 읽었다. 제조 실패·밀가루/소금/돈·나눔 요구와 탈취·파손·조각의 풍요를 따른다. 바닷물 짠맛을 설명하는 별개 마법 맷돌 이야기를 합치지 않았고 실제 사미인이나 북방 주민을 악인으로 일반화하지 않았다.",
+    "잘은 1909 Persian Literature의 Shah Nameh 영문 발췌/재화의 흰 머리·유기·보호·꿈/노년의 흰 머리 꾸짖음·깃털/귀환을 따른다. 원 페르시아어 운문과 같은 문장이라고 하지 않았다. 외모를 의학적으로 진단하거나 미래의 영웅성만이 돌봄의 이유라고 해석하지 않았다.",
+    "옛 전승집은 수집가의 선택과 시대의 편견을 포함한다. 신앙을 사라진 미개한 사고로 취급하지 않고 특정 판본을 한 민족 전체의 믿음으로 일반화하지 않았다. 신화 속 행위는 자연과학·의학·생활 실험의 지침이 아니다.",
+    "이미지 10장을 육안 확인했다. 1장은 고대 파피루스의 1915년 복제 도판이며 9장은 AI 전승 장면 삽화다. 실제 파일은 변형하지 않았다. Evelyn Paul의 20세기 책 삽화와 Rackham의 기존 삽화를 새 그림으로 복제하지 않았다. AI는 고증된 의례/의상/성물/유물의 복원 자료가 아니다.",
+    "Folks 소개 문구를 설정 파일과 사이트 생성기에 반영했다. 다른 분야의 기존 기본 소개는 유지하고 문구가 없는 세부 분야는 기존 소개로 표시한다. 원고 게시 여부와 분류 설명의 변경을 구별했다. 정기 자동 제작은 계속 비활성화다."
+  ],
+  "validation": {
+    "unit_tests_passed": 34,
+    "desktop_width": 1440,
+    "mobile_width": 390,
+    "images_decoded": 10,
+    "source_links_present": true,
+    "no_horizontal_overflow": true,
+    "no_javascript_errors": true,
+    "canonical_manuscripts": 251,
+    "approved_live_articles": 238,
+    "new_drafts_published": false,
+    "automatic_generation_enabled": false,
+    "folks_intro_rendered": true,
+    "other_topic_intro_unchanged": true
+  }
+}
