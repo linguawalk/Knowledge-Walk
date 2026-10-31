@@ -36,16 +36,16 @@
 | Computing | Internet | 8 | 8 | 8 |
 | Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 3 | 2 | 1 |
-| Finance | Banking | 3 | 3 | 2 |
-| Finance | Insurance | 1 | 1 | 0 |
-| Finance | Investment | 4 | 4 | 2 |
+| Finance | Money | 3 | 2 | 2 |
+| Finance | Banking | 3 | 3 | 3 |
+| Finance | Insurance | 1 | 1 | 1 |
+| Finance | Investment | 4 | 4 | 4 |
 | Finance | Fintech | 0 | 0 | 0 |
 | Science | Mathematics | 2 | 2 | 2 |
-| Science | Physics | 5 | 5 | 3 |
-| Science | Chemistry | 1 | 1 | 0 |
-| Science | Biology | 5 | 5 | 4 |
-| Science | Earth-Science | 2 | 2 | 1 |
+| Science | Physics | 5 | 5 | 5 |
+| Science | Chemistry | 1 | 1 | 1 |
+| Science | Biology | 5 | 5 | 5 |
+| Science | Earth-Science | 2 | 2 | 2 |
 | Science | Engineering | 3 | 3 | 3 |
 
 ## 먼저 살펴볼 빈 주제

@@ -4,7 +4,7 @@
 
 Finance · Investment
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![같은 흐린 하늘 아래 여러 구획에서 서로 다른 작물을 가꾸는 정원사의 삽화.](../../../../content/images/diversification-baskets-and-common-weather.png)
 

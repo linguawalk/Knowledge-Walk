@@ -1,0 +1,20 @@
+{
+  "id": "ten-money-and-everyday-science-publication-20261031",
+  "approved_at": "2026-10-31",
+  "user_request": "홈페이지 게시 및 새 글 작성 10개",
+  "story_ids": [
+    "inflation-price-tag-and-purchasing-power",
+    "insurance-pool-uncertain-loss",
+    "diversification-baskets-and-common-weather",
+    "bond-price-when-interest-rates-rise",
+    "deposit-insurance-bank-and-safety-net",
+    "ice-floats-lake-freezes-from-top",
+    "boiling-water-mountain-pressure",
+    "soap-water-and-oily-plate",
+    "tides-moon-and-changing-shore",
+    "gecko-feet-small-forces"
+  ],
+  "deployment_status": "prepared",
+  "expected_live_story_count": 198,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261031-ten-money-and-everyday-science/index.html"
+}

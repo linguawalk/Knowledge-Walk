@@ -6,4 +6,4 @@
 |---|---|
 | [돈을 만들던 나무판에는 무엇이 남았을까](banknote-plate-fifty-yang.md) | 자료 대조·공개 게시 승인 완료 |
 | [동전 가장자리에는 왜 작은 톱니가 있을까](coin-ridged-edge.md) | 출처 추가 확인 중 |
-| [물가 — 지갑 속 돈은 같은데 왜 덜 살 수 있을까](inflation-price-tag-and-purchasing-power.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [물가 — 지갑 속 돈은 같은데 왜 덜 살 수 있을까](inflation-price-tag-and-purchasing-power.md) | 자료 대조·공개 게시 승인 완료 |
