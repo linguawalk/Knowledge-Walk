@@ -6,7 +6,7 @@
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
 | History | Asia | 1 | 1 | 1 |
-| History | Europe | 7 | 7 | 6 |
+| History | Europe | 7 | 7 | 7 |
 | History | America | 7 | 7 | 7 |
 | History | Middle East | 2 | 2 | 2 |
 | History | Africa | 2 | 2 | 2 |
@@ -16,13 +16,13 @@
 | Cities | Middle East | 2 | 2 | 2 |
 | Cities | Africa | 5 | 5 | 5 |
 | Culture | Architecture | 3 | 3 | 3 |
-| Culture | Literature | 16 | 16 | 15 |
+| Culture | Literature | 16 | 16 | 16 |
 | Culture | Philosophy | 5 | 5 | 5 |
-| Culture | Music | 22 | 21 | 20 |
-| Culture | Art | 28 | 28 | 27 |
-| Culture | Film | 1 | 1 | 0 |
-| Culture | Sports | 1 | 1 | 0 |
-| Life | Folks | 15 | 15 | 12 |
+| Culture | Music | 22 | 21 | 21 |
+| Culture | Art | 28 | 28 | 28 |
+| Culture | Film | 1 | 1 | 1 |
+| Culture | Sports | 1 | 1 | 1 |
+| Life | Folks | 15 | 15 | 15 |
 | Life | Clothing | 4 | 4 | 4 |
 | Life | Food | 8 | 8 | 8 |
 | Life | Housing | 6 | 6 | 6 |
@@ -41,7 +41,7 @@
 | Finance | Insurance | 2 | 2 | 2 |
 | Finance | Investment | 6 | 6 | 6 |
 | Finance | Fintech | 0 | 0 | 0 |
-| Science | Mathematics | 3 | 3 | 2 |
+| Science | Mathematics | 3 | 3 | 3 |
 | Science | Physics | 6 | 6 | 6 |
 | Science | Chemistry | 3 | 3 | 3 |
 | Science | Biology | 10 | 10 | 10 |

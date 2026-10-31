@@ -302,10 +302,13 @@ class Site:
                  f'<a href="{self.link(page, self.category_path(category["id"], story["subcategory"]))}">{esc(story["subcategory"])}</a>')
         contents = ""
         prose = ""
+        section_number = 0
         for index, block in enumerate(story["body"]):
             if block.get("heading"):
-                contents += f'<li><a href="#part-{index}">{esc(block["heading"])}</a></li>'
-                prose += f'<h2 id="part-{index}">{esc(block["heading"])}</h2>'
+                section_number += 1
+                heading = re.sub(r"^\d+[.)]\s+", "", block["heading"])
+                contents += f'<li><a href="#part-{index}"><span class="toc-number">{section_number:02d}</span><span>{esc(heading)}</span></a></li>'
+                prose += f'<h2 id="part-{index}"><span class="section-number">{section_number:02d}.</span> {esc(heading)}</h2>'
             prose += "".join(f'<p>{esc(p)}</p>' for p in block["paragraphs"])
         notice = f'<p class="draft-notice">{esc(review_notice(story))}</p>' if not publishable(story) else ""
         sources = "".join(f'<li><a href="{esc(s["url"])}" target="_blank" rel="noopener noreferrer">{esc(s["title"])} ↗</a><span class="source-date">확인일 {esc(s["checked_at"])}</span><p>{esc(" · ".join(s.get("supports", [])))}</p></li>' for s in story["sources"] if source_ok(s))
@@ -318,7 +321,7 @@ class Site:
         body = f'''<article class="reading-page"><div class="container"><nav class="breadcrumbs" aria-label="현재 위치">{crumb}</nav></div>
 <header class="article-heading"><p class="eyebrow">{esc(category['title'])} · {esc(story['subcategory'])}</p><h1>{esc(story['title'])}</h1><p class="article-subtitle">{esc(story['subtitle'])}</p><p class="reading-meta">약 {self.minutes(story)}분의 작은 발견</p>{notice}<div class="reading-actions"><button class="read-toggle" data-read-toggle="{esc(story['id'])}" aria-pressed="false" hidden>읽음으로 표시</button><a href="{self.link(page, 'reading.html')}">내 읽기 목록 ↗</a><p class="storage-note" hidden></p></div></header>
 <figure class="article-image container{figure_class}">{self.image(page, story, True)}<figcaption>{esc(img['credit'])}{image_source}</figcaption></figure>
-<div class="reading-layout"><aside class="article-toc"><details open><summary>이야기 속으로</summary><ol>{contents}</ol></details></aside>
+<div class="reading-layout"><aside class="article-toc" aria-label="소제목 바로가기"><details open><summary>이야기 속으로</summary><ol>{contents}</ol></details></aside>
 <div class="prose">{prose}<div class="story-end" aria-hidden="true">✳</div>{sources}<a class="back-link" href="{self.link(page, self.category_path(category['id'], story['subcategory']))}">← {esc(story['subcategory'])}의 다른 이야기</a></div></div></article>'''
         self.layout(page, story["title"], story["summary"], body, category["id"], article=True)
 

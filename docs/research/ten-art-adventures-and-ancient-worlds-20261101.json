@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "batch_id": "20261101-ten-art-adventures-and-ancient-worlds",
-  "status": "source_checked_user_publication_approval_pending",
+  "status": "user_approved_publication_prepared",
   "sources": [
     {
       "key": "ovid",
@@ -281,5 +281,11 @@
     "github_review_files_verified": 21,
     "live_homepage_articles_verified": 248,
     "github_content_commit": "d990f67d9605edce8e242b36961998b9309ddc3c"
+  },
+  "publication": {
+    "approved_by": "user",
+    "approved_at": "2026-11-01",
+    "approved_public_articles": 258,
+    "numbered_outline": "right sticky desktop; above prose mobile; existing anchors preserved"
   }
 }

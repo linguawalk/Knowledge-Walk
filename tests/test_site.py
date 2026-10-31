@@ -50,6 +50,23 @@ class SiteTests(unittest.TestCase):
                                "checked_at": "2026-10-27", "verified": True}])
         return story
 
+    def test_numbered_sections_skip_unheaded_intro_and_keep_existing_anchors(self):
+        story = self.approved_fixture()
+        story["body"] = [
+            {"heading": None, "paragraphs": ["도입부"]},
+            {"heading": "첫 번째 이야기", "paragraphs": ["내용"]},
+            {"heading": None, "paragraphs": ["중간 문단"]},
+            {"heading": "2. 두 번째 이야기", "paragraphs": ["내용"]},
+        ]
+        site = builder.Site(self.categories, [story], False)
+        html = site.render()[site.story_path(story)]
+        self.assertIn('<span class="section-number">01.</span> 첫 번째 이야기', html)
+        self.assertIn('<span class="section-number">02.</span> 두 번째 이야기', html)
+        self.assertIn('href="#part-1"><span class="toc-number">01</span>', html)
+        self.assertIn('href="#part-3"><span class="toc-number">02</span>', html)
+        self.assertIn('aria-label="소제목 바로가기"', html)
+        self.assertNotIn('class="section-number">03.', html)
+
     def test_category_transcription(self):
         self.assertEqual(len(self.categories), 8)
         self.assertEqual(sum(len(c["children"]) for c in self.categories), 43)

@@ -201,3 +201,23 @@ async function initializeSearch() {
     filter.disabled = true;
   }
 }
+
+// Keep the numbered outline in step with the section being read.
+const sectionLinks = [...document.querySelectorAll('.article-toc a[href^="#part-"]')];
+if (sectionLinks.length) {
+  const sections = sectionLinks.map(link => document.getElementById(link.hash.slice(1)));
+  const updateSection = () => {
+    let current = -1;
+    sections.forEach((section, index) => {
+      if (section && section.getBoundingClientRect().top <= window.innerHeight * 0.3) current = index;
+    });
+    sectionLinks.forEach((link, index) => {
+      if (index === current) link.setAttribute('aria-current', 'location');
+      else link.removeAttribute('aria-current');
+    });
+  };
+  window.addEventListener('scroll', updateSection, {passive:true});
+  window.addEventListener('resize', updateSection);
+  window.addEventListener('load', updateSection);
+  updateSection();
+}

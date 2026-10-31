@@ -63,11 +63,11 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-11-01",
   "sources": [
     {
       "title": "Frederick A. Talbot, Moving Pictures: How They Are Made and Worked — Chapter XVIII, Trick Pictures",
