@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-01",
+  "batch_id": "20261101-ten-books-stages-and-starry-discoveries",
+  "status": "source_checked_user_publication_approval_pending",
+  "sources": [
+    {
+      "key": "women",
+      "title": "Louisa May Alcott, Little Women — Parts 1 & 2",
+      "url": "https://raw.githubusercontent.com/GITenberg/Little-Women_514/master/514-8.txt",
+      "supports": [
+        "1–2장 네 자매/아버지의 부재/크리스마스·8장 원고와 얼음·15–16장 머리카락",
+        "35장 로리에게 한 답·40장 베스의 죽음·47장 플럼필드의 학교. 두 부분의 주요 줄거리와 해석을 구분"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "3399cd9ad757cb7891e8e9b48f97f6bec96ef9bb9beeb0304da9776d1d5fc9a1"
+    },
+    {
+      "key": "quixote",
+      "title": "Miguel de Cervantes, Don Quixote, John Ormsby 번역 — Parts I & II",
+      "url": "https://raw.githubusercontent.com/GITenberg/Don-Quixote_996/master/996.txt",
+      "supports": [
+        "Part I 1–8:독서·기사의이름·로시난테·산초의보상기대·풍차의실패와마법사설명",
+        "Part I의도움/결과; Part II의장난·Sancho의관계·최종74장병상과기사도환상철회"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "69ef241e632ef4fba882bde06ad31ecb395d865b11028cc046c4d253f4cf118e"
+    },
+    {
+      "key": "gulliver",
+      "title": "Jonathan Swift, Gulliver’s Travels — Four Parts",
+      "url": "https://raw.githubusercontent.com/GITenberg/Gulliver-s-Travels_829/master/829-0.txt",
+      "supports": [
+        "릴리펏의작은몸/대접·높고낮은굽·달걀논쟁·함대/정복거절과위기",
+        "브롭딩낵의구경거리/고향의평가·라퓨타와아카데미의실험·후이늠과야후·귀환뒤가족의거부감. 서술자와작가를구분"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "37e0bf90ce1c9d254bae3ea75be1b0233771b2e2c0a832dd1f85b8d6bfb86935"
+    },
+    {
+      "key": "garden",
+      "title": "Frances Hodgson Burnett, The Secret Garden",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Secret-Garden_113/master/113-0.txt",
+      "supports": [
+        "콜레라와이주·식민지의양육·Martha·Ben·울새/열쇠/문·Dickon과정원",
+        "Colin의고립·휠체어/정원/걷기·Magic장·Craven과마지막재회. 소설속회복과현대의학을구별"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "8a7aebc835ae37baef0f7b9362ed9fc6372a360e8001f9481c13acf9194cb483"
+    },
+    {
+      "key": "opera",
+      "title": "George P. Upton, The Standard Operas, 12th edition — Aida / The Barber of Seville",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Standard-Operas--12th-edition---13-Their-Plots-Their-Music-and-Their-Composers_14968/master/14968-8.txt",
+      "supports": [
+        "Aida의1871카이로·인물과갈등·CelesteAida/Ritornavincitor/개선행진/Ocieliazzurri/마지막상하무대",
+        "Barber의1816로마·Sterbini/Beaumarchais·변장과편지·Largoalfactotum/Unavocepocofa/Lacalunnia. 잘못된초연일/시대에뒤진최후작주장과근거부족한작곡일화를제외"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "200a122c81f42ffe2a6e90b35606cf5ad4917d372c83191485ff4084009735bf"
+    },
+    {
+      "key": "operaglass",
+      "title": "Charles Annesley, The Standard Operaglass — Aïda / The Barber of Seville",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Standard-OperaglassDetailed-Plots-of-One-Hundred-and-Fifty-one-Celebrated-Operas_24647/master/24647-8.txt",
+      "supports": [
+        "Aida의아모나스로신분은폐·군사정보·Ramphis·암네리스의시도·지하결말",
+        "Barber의알마비바/린도로·로지나/바르톨로·음악교사/바질리오·공증인/혼인. 옛저자의인종및성별평가는반복하지않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "5153fa906245e932d222132393188bfec6832c7512869dcfb650f3ce536071c5"
+    },
+    {
+      "key": "homer",
+      "title": "Homer, The Odyssey — Book IX, Alexander Pope 이름으로 수록된 영어 운문 번역",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Odyssey_3160/master/3160.txt",
+      "supports": [
+        "동굴에머무는결정·환대의거절·바위때문에거인을바로죽이지못함",
+        "포도주/Noman·눈멀게함·다른거인들의반응·양의배아래탈출",
+        "도발/바위·본명과고향/부계공개·포세이돈기도/귀향의어려움. BookIX는귀향여정을직접들려주는틀안의이야기"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "cc989932df3f6522705dba5f43f6d8ea1793c4c809974bd21158236d9f3e12ce"
+    },
+    {
+      "key": "hesiod",
+      "title": "Hesiod, Works and Days, ll.42–105 — H. G. Evelyn-White 번역",
+      "url": "https://raw.githubusercontent.com/GITenberg/Hesiod-the-Homeric-Hymns-and-Homerica_348/master/348.txt",
+      "supports": [
+        "프로메테우스의불·제우스의계획·여러신의선물·에피메테우스의경고무시",
+        "상자가아닌큰항아리/뚜껑·Hope가안에남음·질병과고통. 희망의의미는열린해석으로두며후대상자기원은확정하지않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "8f14e02495004b402ce2fc7f7dd53966b0e89b23c39bee440b3fe04aec4d101f"
+    },
+    {
+      "key": "m59775",
+      "title": "OpenStax, Astronomy 2e — The Laws of Planetary Motion",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-astronomy/main/modules/m59775/index.cnxml",
+      "supports": [
+        "Tycho의망원경이전관측·Kepler의자료분석과화성/타원·태양은한초점",
+        "동일시간동일면적·1609첫두법칙·1619공전주기제곱/긴반지름세제곱·뉴턴의설명과구별. 교재의정치/사망연대오류는반복하지않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "3c815df380d5b815fc5453d0fa3ba3e6d09afce97f04aae62334b43e2ac2bd7a"
+    },
+    {
+      "key": "m59906",
+      "title": "OpenStax, Astronomy 2e — Variable Stars: One Key to Cosmic Distances",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-astronomy/main/modules/m59906/index.cnxml",
+      "supports": [
+        "변광/맥동과다른변광원인·세페이드의주기/광도·겉보기밝기의구별",
+        "Leavitt의하버드사진연구·마젤란운을대략같은거리로비교·주기가길수록광도큼",
+        "관계의발견과거리눈금보정구별·후대은하거리연구·낮은임금여성연구자들의노동. 모든별의반짝임을세페이드로일반화하지않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "16526171fb1fae0e88a26062c136c97fa91580be62020ba37537e6b47ac1a198"
+    }
+  ],
+  "images": [
+    {
+      "story_id": "little-women-four-sisters-different-futures",
+      "file": "content/images/little-women-four-sisters-different-futures.png",
+      "alt": "책과 원고·바느질·피아노가 있는 방에서 함께 시간을 보내는 네 자매의 소설 장면 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 소설의 집과 네 자매를 떠올린 독립 삽화이며 기존 영화 배우나 특정 장면을 복제한 그림이 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "22d7a0d414fb12ca1b0588be187b5efb2c24a002b916419f8606a52608f72ea2"
+    },
+    {
+      "story_id": "don-quixote-windmills-and-sancho",
+      "file": "content/images/don-quixote-windmills-and-sancho.png",
+      "alt": "풍차가 있는 들판을 말 탄 기사와 당나귀 탄 동행자가 지나가는 돈키호테의 소설 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 소설의 기사와 동행자, 풍차를 떠올린 독립 삽화이며 실제 인물·유적 사진이나 기존 영화의 복제 장면이 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "005c67098cb6e22e429fd028740a840ece59aaf6d20f691f9f8df82ec8b5414a"
+    },
+    {
+      "story_id": "gulliver-travels-size-and-satire",
+      "file": "content/images/gulliver-travels-size-and-satire.png",
+      "alt": "작은 도시의 사람들과 사다리 곁에 앉은 거대한 여행자 걸리버를 그린 소설 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 릴리펏의 크기 차이를 상상한 독립 삽화이며 실제 도시 사진이나 옛 삽화의 복제가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a7ae2f8703573aede817507275cb61374e50e2b8465ce4c3f727a241e086d0c7"
+    },
+    {
+      "story_id": "secret-garden-key-and-shared-work",
+      "file": "content/images/secret-garden-key-and-shared-work.png",
+      "alt": "담장 정원에서 아이들과 정원사가 화단을 가꾸고 휠체어를 곁에 둔 소설 장면 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 소설의 공동 정원 일을 떠올린 독립 삽화이며 실제 저택·인물·의료적 회복 과정의 사진이 아닙니다. 특정 순간을 정확히 재현한 그림은 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e3907812dc91c6ff7c3493a1f5ef71c150e1d0a3c5f3a61cf74626fa45061d98"
+    },
+    {
+      "story_id": "aida-triumphal-march-private-grief",
+      "file": "content/images/aida-triumphal-march-private-grief.png",
+      "alt": "그늘의 아이다와 장수 뒤로 이집트의 개선 행렬이 이어지는 상상 오페라 장면",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 오페라의 개선 행렬과 사적인 슬픔을 대비한 독립 삽화입니다. 실제 고대 이집트의 의상·행사나 특정 공연을 고증한 자료가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e60fc3de5141316f97044c3b7cfb8218da02837331db4a8362b55c2cbd96b727"
+    },
+    {
+      "story_id": "barber-seville-figaro-letters-disguises",
+      "file": "content/images/barber-seville-figaro-letters-disguises.png",
+      "alt": "발코니의 편지를 든 로지나와 아래의 이발사·변장한 구혼자를 그린 상상 오페라 장면",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 오페라의 편지와 변장을 떠올린 독립 삽화이며 실제 초연의 무대·배우·의상을 재현한 자료가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f2194aca8774eca7ed05aed64e2218de32bc700e80c1dd43d0a9f20b341f458f"
+    },
+    {
+      "story_id": "odysseus-cyclops-nobody-real-name",
+      "file": "content/images/odysseus-cyclops-nobody-real-name.png",
+      "alt": "양의 몸 아래에 숨은 사람들이 거인의 동굴 입구를 빠져나오는 신화 장면 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 서사시의 양 아래 탈출을 상상한 독립 삽화이며 실제 사건 사진이나 고대 유물의 복제가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "bfa4790ee77a68cfbae4ff65a03d1332ff23f49b8941ff45df9ab10eb933dfc1"
+    },
+    {
+      "story_id": "pandora-jar-hope-under-lid",
+      "file": "content/images/pandora-jar-hope-under-lid.png",
+      "alt": "큰 항아리의 뚜껑을 연 판도라와 흘러나오는 어두운 기운을 그린 신화 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 『일과 날』의 큰 항아리를 바탕으로 만든 독립 삽화입니다. 검은 기운과 작은 빛은 시의 개념을 표현한 것이며 유물·의상·초자연 현상의 증거가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3cda307720fba02e1b34698b05c4f3f65b0b4218ffae40cc36b4e9717b59a8ee"
+    },
+    {
+      "story_id": "kepler-mars-observations-and-ellipse",
+      "file": "content/images/kepler-mars-observations-and-ellipse.png",
+      "alt": "관측 자료와 측정 도구가 놓인 책상에서 생각하는 초기 근대 천문학자의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 자료를 검토하는 장면을 떠올린 그림이며 케플러의 실제 초상·관측실·측정값을 재현한 역사 사진이나 도해가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c1e6a2d8782b2b12f7b26c81d96d4b8c2291bd5c006cf35ea281ee1d3c8d80e1"
+    },
+    {
+      "story_id": "henrietta-leavitt-star-rhythm-distance",
+      "file": "content/images/henrietta-leavitt-star-rhythm-distance.png",
+      "alt": "별의 유리 사진판과 확대경을 살피는 여성 천문학자의 연구 장면 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 사진판 비교 작업을 떠올린 그림이며 리빗의 정확한 외모·방·연구일을 복원한 역사 사진이 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3a8698034cae087bcf1fd12d21aa6bcdf481902b003e5acb04b7c6b56725f535"
+    }
+  ],
+  "notes": [
+    "사용자 요청의 두 작업을 분리했다. 이전10편은공개승인/실제258편게시검증, 신규10편은전부검토대기/승인필드null이다. 정기자동제작을켜지않았다.",
+    "소주제:Literature4/Music2/Folks2/Physics2. 기존원고제목과소재를검색해중복을피했다. 한원고는한소주제에만저장한다. 본문2558–2887자로주요줄거리와장면을충분히설명한다.",
+    "소설은원문해당장과주요결말을,음악은Annesley의줄거리와Upton의음악설명을대조했다. 문학적해석과판본의사건을구별하며결말을미리안내했다. AI/옛저자의직접대화를새로만들지않았다.",
+    "작은아씨들은두부분모두를대상으로했다. 원고소각/빙판·머리카락판매·로리거절·베스의상실·베어교수/플럼필드를확인했다. 특정영화결말이나작가실제생애와소설인물을합치지않았다.",
+    "돈키호테는I.8풍차의경고/창파손/마법사해명과II.74귀환/병상/기사도철회를읽었다. 산초의보상동기를없애거나소설을꿈만추구하라는자기계발정답으로바꾸지않았다.",
+    "걸리버는네여행을구분했다. 소인국이전체줄거리인것처럼쓰지않았고높고낮은굽·달걀·함대·거인의나라·학술원·후이늠/야후·귀환뒤가족거부를대조했다. 걸리버의판단과스위프트의최종판단을같다고단정하지않았다.",
+    "비밀의화원은마사/벤/울새/열쇠/디콘/콜린/크레이븐을대조했다. 소설속걷기를실제장애/질병의일반치료로제시하지않고당대긍정적생각의관념과현대의학을구분했다. 식민지서술을그대로보편적평가로반복하지않았다.",
+    "Aida의1871Cairo와Barber의1816Rome만썼다. Upton의잘못된정확초연일(Dec27/Feb5)과Aida가Verdi최후작이라는시대적진술을반복하지않았다. 운하개통용위촉이라는통념·몇주만의완성·초연실패우연담도확정하지않았다. 세비야의로지나를가만히기다리는인물로축소하지않았다.",
+    "오디세이아IX는AlexanderPope이름으로수록된영어운문번역이며원그리스어의직접번역이라고주장하지않았다. Noman과이름공개/저주·양의배아래탈출·오디세우스의귀향여정회고라는틀을대조했다. 폴리페모스사건을실재사건이나폭력의생활지침으로쓰지않았다.",
+    "판도라는HesiodWorksandDays42–105,Evelyn-White번역이다. jar와Hope가안에남은것을대조하고원시의성별편견을현대규범으로옹호하지않았다. 호기심/금지를해당구절에없는직접대사로추가하지않고항아리→상자의기원을검증없이Erasmus한사람의오류로단정하지않았다. 희망의역할은해석의여지를밝혔다.",
+    "케플러는관측의티코/계산의케플러를구별하고화성타원·한초점·동일시간동일면적·1609/1619·Newton과의관계를확인했다. OpenStax모듈의FrederickII사망1597이라는오류를사용하지않았고실제궤도를극단적인타원으로그리지않았다.",
+    "리빗은세페이드의주기와광도관계발견/실제거리보정을구별했다. 마젤란운의대략같은거리조건을썼으며단독으로모든우주거리를확정했다고하지않았다. 개별연구의LMC/SMC연대혼동을피해특정구름과정확연도를단정하지않았다. 대기의일반적별반짝임과변광성의맥동은다르다고정리했다.",
+    "OpenStax자료는사실과원리를확인하는참고문헌이다. 교재의문장/도판을번역복제하지않고독립적으로서술했다. 실제신규이미지10장은AI생성원본이며역사사진이나실제초상/기록/실험도해로제시하지않았다. 모든이미지를육안대조했다."
+  ],
+  "validation": {
+    "unit_tests_passed": 35,
+    "new_stories": 10,
+    "manuscripts": 271,
+    "approved_public_articles": 258,
+    "draft_desktop_mobile_views_checked": 20,
+    "images_visually_inspected": 10,
+    "images_decode_and_source_links": "passed",
+    "numbered_outline_and_active_section": "passed",
+    "body_characters": {
+      "minimum": 2558,
+      "maximum": 2887
+    },
+    "new_drafts_published": 0,
+    "scheduled_generation_enabled": false
+  }
+}

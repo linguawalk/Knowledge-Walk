@@ -4,6 +4,8 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
+| [『아이다』 — 개선행진곡이 울릴 때 슬퍼하는 사람들](aida-triumphal-march-private-grief.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [『세비야의 이발사』 — 피가로는 왜 이렇게 바쁠까](barber-seville-figaro-letters-disguises.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [베토벤 교향곡 제5번 — 네 음은 어떻게 긴 이야기가 될까](beethoven-fifth-four-notes.md) | 자료 대조·공개 게시 승인 완료 |
 | [베토벤의 생애 — 들리는 세계가 달라져도 작업은 이어졌다](beethoven-life-and-work.md) | 자료 대조·공개 게시 승인 완료 |
 | [베토벤 전원 교향곡 — 시골의 하루를 다섯 악장으로 걷기](beethoven-pastoral-five-scenes.md) | 자료 대조·공개 게시 승인 완료 |

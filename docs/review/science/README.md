@@ -7,7 +7,7 @@
 | 소주제 | 이야기 |
 |---|---:|
 | [Mathematics](mathematics/README.md) | 3편 |
-| [Physics](physics/README.md) | 6편 |
+| [Physics](physics/README.md) | 8편 |
 | [Chemistry](chemistry/README.md) | 3편 |
 | [Biology](biology/README.md) | 10편 |
 | [Earth-Science](earth-science/README.md) | 2편 |
