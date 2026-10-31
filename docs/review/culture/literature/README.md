@@ -17,5 +17,6 @@
 | [오즈의 마법사 — 필요한 것은 이미 길 위에 있었을까](oz-wizard-road-and-home.md) | 자료 대조·공개 게시 승인 완료 |
 | [이 현판의 글자는 따로 만들어 붙였다](poem-plaque-raised-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [오만과 편견 — 처음 본 인상을 믿어도 될까](pride-prejudice-first-impressions.md) | 자료 대조·공개 게시 승인 완료 |
+| [『로빈슨 크루소』 — 무인도에는 정말 혼자였을까](robinson-crusoe-tools-footprint-friday.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [붉은 머리 연맹 — 너무 좋은 아르바이트의 비밀](sherlock-red-headed-league.md) | 자료 대조·공개 게시 승인 완료 |
 | [보물섬 — 지도보다 어려운 것은 사람을 읽는 일](treasure-island-trust-and-map.md) | 자료 대조·공개 게시 승인 완료 |

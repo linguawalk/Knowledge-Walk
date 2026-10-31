@@ -10,3 +10,4 @@
 | [뉴턴의 또 다른 일터는 조폐국이었다](newton-mint-work.md) | 자료 대조·공개 게시 승인 완료 |
 | [나이팅게일 — 등불보다 먼저 병실의 공기를 보다](nightingale-air-and-observation.md) | 자료 대조·공개 게시 승인 완료 |
 | [페피스 — 런던이 불탈 때 치즈를 땅에 묻은 이유](pepys-fire-and-buried-cheese.md) | 자료 대조·공개 게시 승인 완료 |
+| [베수비오가 어두워진 날 — 플리니우스의 두 편지](pliny-vesuvius-pine-cloud-two-letters.md) | 자료 대조 완료 · 게시 승인 대기 |

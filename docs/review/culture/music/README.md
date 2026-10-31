@@ -17,6 +17,7 @@
 | [금속으로 만든 플루트는 왜 목관악기일까](metal-flute-woodwind-family.md) | 자료 대조·공개 게시 승인 완료 |
 | [월광 — 베토벤이 붙인 제목은 아니었다](moonlight-sonata-name.md) | 자료 대조·공개 게시 승인 완료 |
 | [옛 녹음 사진에서 그는 노래를 듣고 있었다](mountain-chief-recorded-song.md) | 자료 대조·공개 게시 승인 완료 |
+| [『마술피리』 — 높은 여왕의 목소리와 소박한 새잡이](mozart-magic-flute-two-kinds-courage.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [터키 행진곡 — 피아노에서 군악대가 들리는 이유](mozart-turkish-rondo.md) | 자료 대조·공개 게시 승인 완료 |
 | [공연 시작 전, 오케스트라는 왜 한 음을 길게 낼까](orchestra-oboe-a.md) | 출처 추가 확인 중 |
 | [슈베르트 마왕 — 한 가수가 네 사람을 노래할 때](schubert-erlking-four-voices.md) | 자료 대조·공개 게시 승인 완료 |

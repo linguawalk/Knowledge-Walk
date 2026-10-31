@@ -9,7 +9,10 @@
 | [크리스마스 푸딩에는 왜 동전 이야기가 따라올까](christmas-pudding-sixpence.md) | 자료 대조·공개 게시 승인 완료 |
 | [데메테르 — 석류 한 알이 딸의 귀환을 바꾼 이유](demeter-persephone-seed-and-return.md) | 자료 대조·공개 게시 승인 완료 |
 | [피온 — 지혜의 연어는 누구의 몫이었을까](fionn-salmon-wisdom-and-teacher.md) | 자료 대조·공개 게시 승인 완료 |
+| [하멜른의 피리 부는 사나이 — 쥐를 없앤 뒤 벌어진 일](hamelin-pied-piper-unpaid-promise.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [이시스 — 사라진 오시리스를 찾아 나선 길](isis-osiris-chest-and-search.md) | 자료 대조·공개 게시 승인 완료 |
+| [마우이는 왜 태양에 밧줄을 걸었을까](maui-snaring-sun-kapa-days.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [오르페우스는 왜 뒤를 돌아보았을까](orpheus-eurydice-last-look.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [까마귀 소년 — 빛을 조각내어 낮과 밤을 만들다](raven-boy-light-fragments-and-night.md) | 자료 대조·공개 게시 승인 완료 |
 | [삼포 — 밀가루와 소금, 돈을 내던 보물은 왜 깨졌을까](sampo-forging-plenty-and-fragments.md) | 자료 대조·공개 게시 승인 완료 |
 | [사비트리 — 죽음의 신을 따라 걸으며 나눈 말](savitri-words-along-yamas-road.md) | 자료 대조·공개 게시 승인 완료 |

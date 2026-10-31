@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-01",
+  "batch_id": "20261101-ten-art-adventures-and-ancient-worlds",
+  "status": "source_checked_user_publication_approval_pending",
+  "sources": [
+    {
+      "key": "ovid",
+      "title": "Ovid, Metamorphoses, Henry T. Riley 번역 — Book X, Fable I (1–85행)",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Metamorphoses-of-Ovid-Books-VIII-XV_26073/master/26073-0.txt",
+      "supports": [
+        "혼례의 불길함·뱀에 물린 에우리디케·저승에서의 청원과 노래",
+        "돌아보지 말라는 조건·지쳤을까 두려워하고 보고 싶어 돌아봄·두 번째 이별·재입장 거부"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "7771b9d3c58454d001ba934f72f8767fa2ddd86a7ae951ab4eaeb58ebbc26716"
+    },
+    {
+      "key": "piper",
+      "title": "Robert Browning, The Pied Piper of Hamelin — Kate Greenaway 삽화 수록판",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Pied-Piper-of-Hamelin_18343/master/18343-8.txt",
+      "supports": [
+        "쥐의 재앙·천 길더 요구와 오만 길더 외침·베저강·오십 길더 제안",
+        "아이들의 행렬과 산의 입구·다리가 불편해 남은 소년·시 속 날짜는 실증된 사건 연대로 쓰지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "de5665a5d7d7e0a2d8c6a52e90483391147378a3846ba89549414ea8cbbb63e0"
+    },
+    {
+      "key": "hawaii",
+      "title": "Thomas G. Thrum 편, Hawaiian Folk-Tales — A. O. Forbes, Exploits of Maui, I: Snaring the Sun",
+      "url": "https://raw.githubusercontent.com/GITenberg/Hawaiian-Folk-TalesA-Collection-of-Native-Legends_18450/master/18450-8.txt",
+      "supports": [
+        "히나의 카파 말리기·코코넛 섬유 줄·할레아칼라의 태양 광선",
+        "태양의 속도에 관한 약속·모에모에의 조롱과 뒤이은 죽음/바위 전승. 다른 지역의 무기나 가족을 혼합하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "da79a8656781eed39ae59135286a77c3bf52ba4342b8b23bfd86931e99df3f73"
+    },
+    {
+      "key": "crusoe",
+      "title": "Daniel Defoe, The Life and Adventures of Robinson Crusoe",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Life-and-Adventures-of-Robinson-Crusoe_521/master/521-0.txt",
+      "supports": [
+        "가족과 항해·브라질 농장과 노예 구매 항해·난파·배의 물자와 도구 회수",
+        "거처·경작·염소·일기와 신앙·발자국의 공포·프라이데이의 이름과 Master 호칭",
+        "선상 반란·선장 도움과 귀환. 허구의 1인칭 소설과 실제 자서전을 구별"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "036d58d71359033cae59322292692c82469923cb37dadd9bc2f0464de4567c2a"
+    },
+    {
+      "key": "operaglass",
+      "title": "Charles Annesley, The Standard Operaglass — The Magic Flute",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Standard-OperaglassDetailed-Plots-of-One-Hundred-and-Fifty-one-Celebrated-Operas_24647/master/24647-8.txt",
+      "supports": [
+        "타미노·파미나·파파게노·밤의 여왕·모노스타토스와 자라스트로의 관계",
+        "침묵과 오해·파미나가 동참하는 불과 물의 시련·방울과 파파게나·결말"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "5153fa906245e932d222132393188bfec6832c7512869dcfb650f3ce536071c5"
+    },
+    {
+      "key": "opera",
+      "title": "George P. Upton, The Standard Operas, 12th edition — The Magic Flute",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Standard-Operas--12th-edition---13-Their-Plots-Their-Music-and-Their-Composers_14968/master/14968-8.txt",
+      "supports": [
+        "1791년 빈 초연·시카네더 대본·대표 아리아와 인물별 성부의 대비",
+        "Der Vogelfänger·Dies Bildnis·Der Hölle Rache·Ach ich fühls·Sarastro의 아리아·Pa-pa-Papageno. 부정확한 초연 배역표·대본 변경 기원 일화는 사용하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "200a122c81f42ffe2a6e90b35606cf5ad4917d372c83191485ff4084009735bf"
+    },
+    {
+      "key": "botticelli2",
+      "title": "Henry Bryan Binns, Botticelli — The Birth of Venus 해설 및 Plate I",
+      "url": "https://raw.githubusercontent.com/GITenberg/Botticelli_39942/master/39942-8.txt",
+      "supports": [
+        "중앙의 조개와 비너스·왼쪽 바람·오른쪽 망토를 든 봄의 인물",
+        "화면의 곡선과 비례·바다와 직물 색의 대비·고전 신화와 종교화. 저자의 뮤즈 해석을 확정된 도상으로 채택하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "a3bfb0eef573da4d7d4f62b0536466c6b002b5b2eca62c133481dfe569f68cb3"
+    },
+    {
+      "key": "film",
+      "title": "Frederick A. Talbot, Moving Pictures: How They Are Made and Worked — Chapter XVIII, Trick Pictures",
+      "url": "https://raw.githubusercontent.com/GITenberg/Moving-Pictures-How-They-Are-Made-and-Worked_67972/master/67972-0.txt",
+      "supports": [
+        "멜리에스와 로버트 W. 폴·촬영 중단/교체·겹침 인쇄·별도 촬영",
+        "The Magic Sword의 거인과 마법·실제 제작 도판의 A/B/C·The Haunted Curiosity Shop의 장 속 해골. 단독 최초 발명이나 우연한 카메라 고장 기원은 단정하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "98b52ecaff325b8e90ded8e798e54be694a057ad020d9e0f9c40e1f2a0f0354b"
+    },
+    {
+      "key": "olympia_source",
+      "title": "OpenStax, World History — Ancient Greece: Panhellenic Games / Athletics",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00133/index.cnxml",
+      "supports": [
+        "도시국가의 분립과 공통 언어/종교·제우스의 성역·전통적인 776 BCE 연대·스타디온",
+        "여러 경기 종목·전문 훈련과 보상·동상과 핀다로스의 승리 송가·1896 근대 경기와의 구별"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "a8a6cebb6935ecebc371057bf21d59d1be8cda4fd038ee48994fd0929c68baae"
+    },
+    {
+      "key": "ancient",
+      "title": "OpenStax, Astronomy — Ancient Astronomy: Eratosthenes and the size of Earth",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-astronomy/main/modules/m59763/index.cnxml",
+      "supports": [
+        "구형 지구를 이미 전제·시에네의 한낮과 알렉산드리아 그림자·태양광 평행 근사",
+        "원의 약 1/50·거리 5000 stadia × 50 = 250000 stadia·stadion 환산에 따른 오차의 불확실성"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "7e4b1131fcc5fee09c1bd9ec445f16e1461f2415671e14138722323e65b0ed12"
+    },
+    {
+      "key": "pliny",
+      "title": "Pliny the Younger, Letters of Pliny, William Melmoth 번역 — 이 수록판 LXV / LXVI, To Tacitus",
+      "url": "https://raw.githubusercontent.com/GITenberg/Letters-of-Pliny_2811/master/2811-8.txt",
+      "supports": [
+        "미세눔의 구름·삼촌의 관찰/구조 항해·렉티나·스타비아이·머리의 베개와 죽음",
+        "조카의 공부·어머니와 피난·한낮의 어둠·목소리와 거짓 소문·재에 덮인 풍경",
+        "직접 본 것과 삼촌 일행에게 들은 것의 구별·추모 목적·사인은 편지의 추측이며 현대 확진이 아님"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "94a58fa4ed6698f2d35e74bb24fd7f8d9d8b59c28339445e08b75dda50ad9427"
+    }
+  ],
+  "images": [
+    {
+      "story_id": "orpheus-eurydice-last-look",
+      "file": "content/images/orpheus-eurydice-last-look.png",
+      "alt": "리라를 든 오르페우스와 뒤에서 지상의 빛을 향해 올라오는 에우리디케의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 『변신 이야기』의 귀환 장면을 떠올린 독립 삽화이며 실제 고대 미술이나 기존 명화의 복제가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "72cb4892f7739aebc18e3e1dccf495c79319dffa84629db0dd3e2c6b7fc2fd60"
+    },
+    {
+      "story_id": "hamelin-pied-piper-unpaid-promise",
+      "file": "content/images/hamelin-pied-piper-unpaid-promise.jpg",
+      "alt": "계단을 내려와 피리 소리를 따라 모이는 아이들을 그린 케이트 그리너웨이의 삽화",
+      "type": "artwork",
+      "label": "케이트 그리너웨이의 옛 삽화",
+      "credit": "Kate Greenaway (1846–1901), Robert Browning의 The Pied Piper of Hamelin 수록 삽화, 30쪽 · Project Gutenberg · Public Domain. 전승을 그린 그림이며 실제 실종 현장의 기록이 아닙니다.",
+      "source_url": "https://raw.githubusercontent.com/GITenberg/The-Pied-Piper-of-Hamelin_18343/master/18343-h/images/img30.jpg",
+      "license": "Public Domain",
+      "width": 1200,
+      "height": 1110,
+      "sha256": "cfec2bf62929213c210ce6c0ab436fd776d06053dd7910073412be93753caff4"
+    },
+    {
+      "story_id": "maui-snaring-sun-kapa-days",
+      "file": "content/images/maui-snaring-sun-kapa-days.png",
+      "alt": "산 위에서 밧줄로 태양을 붙잡는 마우이를 그린 하와이 전승의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 선택한 하와이 판본의 태양과 밧줄을 그린 독립 삽화입니다. 실제 의상·의례·지형의 정확한 복원이나 애니메이션 캐릭터의 재현이 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0b89ec4c7ea2e013ab43254c12baf9993c550734b55d945a64f8ca1d92653077"
+    },
+    {
+      "story_id": "robinson-crusoe-tools-footprint-friday",
+      "file": "content/images/robinson-crusoe-tools-footprint-friday.png",
+      "alt": "섬의 거처 옆에서 도구를 정리하는 표류자와 염소·작은 밭의 소설 장면 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 소설 속 생존 생활을 떠올린 독립 삽화이며 실제 인물·섬의 사진이나 영화 배우의 모습이 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "67e9b2825ad43e0597e3ebf93ac7c74753e209c2d9b5552e10e5233510fca4b2"
+    },
+    {
+      "story_id": "mozart-magic-flute-two-kinds-courage",
+      "file": "content/images/mozart-magic-flute-two-kinds-courage.png",
+      "alt": "피리를 든 왕자와 공주, 방울을 든 새잡이가 함께 있는 마술피리의 상상 무대 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 작품의 인물과 악기를 떠올린 상상 무대이며 1791년 초연의 의상·무대·배역을 고증한 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ae356e540fa87a6879fe336bf883d22b20a42d77a8cc6251dcf027a51ff5578c"
+    },
+    {
+      "story_id": "botticelli-venus-shell-wind-shore",
+      "file": "content/images/botticelli-venus-shell-wind-shore.jpg",
+      "alt": "조개 위 비너스와 왼쪽의 바람, 오른쪽에서 망토를 든 인물이 있는 보티첼리의 비너스의 탄생",
+      "type": "artwork",
+      "label": "실제 작품의 옛 복제 도판",
+      "credit": "Sandro Botticelli (1445–1510), The Birth of Venus · Henry Bryan Binns, Botticelli, Plate I 수록 복제 도판 · Project Gutenberg · Public Domain. 원본 파일 그대로 사용했으며 옛 인쇄물의 색은 원화와 다를 수 있습니다.",
+      "source_url": "https://raw.githubusercontent.com/GITenberg/Botticelli_39942/master/39942-h/images/img-pl1.jpg",
+      "license": "Public Domain",
+      "width": 3808,
+      "height": 2495,
+      "sha256": "b0a53e268d8131f67b3a5bf137e56a349ea02ffd3a71c9fb7cf4991afe6ed342"
+    },
+    {
+      "story_id": "early-cinema-magic-sword-camera-tricks",
+      "file": "content/images/early-cinema-magic-sword-camera-tricks.jpg",
+      "alt": "마술 검의 성 장면 A와 별도로 찍은 배우 B, 거인으로 합성된 C를 나란히 보여 주는 옛 도판",
+      "type": "artwork",
+      "label": "초기 영화의 실제 제작 도판",
+      "credit": "Frederick A. Talbot, Moving Pictures 수록 The Magic Sword: A Mediæval Mystery Explained 도판 · Robert W. Paul의 영화 제작 예시 · Project Gutenberg · Public Domain. 당시 영화의 분리 촬영과 겹침 인쇄를 보여 주는 원본 도판이며 AI 이미지가 아닙니다.",
+      "source_url": "https://raw.githubusercontent.com/GITenberg/Moving-Pictures-How-They-Are-Made-and-Worked_67972/master/67972-h/images/i_p200a.jpg",
+      "license": "Public Domain",
+      "width": 2644,
+      "height": 1329,
+      "sha256": "2ecfb201c8a835fd71bb933150a4a214b7113856aad724f19c6feab1e4cf8f33"
+    },
+    {
+      "story_id": "olympia-stadion-games-and-honor",
+      "file": "content/images/olympia-stadion-games-and-honor.png",
+      "alt": "나무와 낮은 둔덕 사이에 남은 올림피아의 고대 달리기 트랙",
+      "type": "photo",
+      "label": "실제 경기장 유적 사진",
+      "credit": "Dwaipayanc / Wikimedia Commons, Olympic Race Track in modern Olympia, Greece · OpenStax, Ancient Greece 재수록 · Public Domain. 현대에 촬영한 유적이며 고대 경기 당일의 모습은 아닙니다.",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A06_02_Olympia.png",
+      "license": "Public Domain",
+      "width": 1650,
+      "height": 1239,
+      "sha256": "9c05709f59595e055d72a834d7221fc9f4104adebbb7e4fbeddecf2ddd71fe1b"
+    },
+    {
+      "story_id": "eratosthenes-shadow-earth-circumference",
+      "file": "content/images/eratosthenes-shadow-earth-circumference.png",
+      "alt": "고대 알렉산드리아를 떠올린 공간에서 기둥의 짧은 그림자를 살피는 학자의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 측정 원리를 떠올리기 위한 장면이며 실제 인물의 초상·측정 당일의 고증이나 정확한 각도/길이를 제공하는 실험 도해가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3d3d9ee5c44a31ca7381e1566280dc322cf8938d66e6e86ae288803492914872"
+    },
+    {
+      "story_id": "pliny-vesuvius-pine-cloud-two-letters",
+      "file": "content/images/pliny-vesuvius-pine-cloud-two-letters.png",
+      "alt": "나폴리만 너머 베수비오의 소나무 모양 분화 구름을 바라보는 두 관찰자의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 편지에 묘사된 분화 구름을 떠올린 장면이며 사건 당시의 사진이나 특정 두 인물의 실제 위치·외모를 복원한 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8cce1701300d6765a81f137a3bcde0249105bb3e4a91a802282ef9eb50149a19"
+    }
+  ],
+  "notes": [
+    "신규 10편은 전부 검토용이다. 공개 게시 승인을 채우지 않았고 게시일도 만들지 않았다. 승인 홈페이지 248편을 유지한다. 자동 제작은 계속 비활성화다.",
+    "Life/Folks 3, Culture/Literature 1, Culture/Music 1, Culture/Art 1, Culture/Film 1, Culture/Sports 1, Science/Mathematics 1, History/Europe 1. 한 원고는 한 소주제에만 배치. 기존 원고의 소재와 중복을 검색했으며 Film/Sports는 첫 원고를 준비했다.",
+    "자료의 해당 본문을 직접 읽고 한국어로 독립 집필했다. verified는 해당 판본/본문과의 대조를 뜻하며 신화의 역사적 실재나 독자 게시 승인을 의미하지 않는다. 문학과 신화, 오페라는 주요 결말을 미리 알린다.",
+    "오르페우스는 Ovid X.1–85, Riley 번역이다. 뱀에 물리는 사건에 Virgil의 Aristaeus 추격을 합치지 않았다. 돌아봄은 지쳤을까 하는 두려움/사랑과 연결하며 호기심만으로 단정하지 않았다. 에우리디케의 목소리 부족은 편집적 독해로 분리했다.",
+    "하멜른은 Browning의 시와 Greenaway의 삽화다. 요구 보수1000·흥분한50000외침·지급제안50을 구별했다. 시의1376년7월22일을 역사적1284년 사건으로 바꾸거나 실제 사건 입증에 쓰지 않았다. 남은 아이는 다리가 불편한 소년 하나이며 다른 판본의 두 아이를 더하지 않았다. 아이들의 피해를 정당한 형벌로 옹호하지 않았다.",
+    "마우이는 Thrum 편집/Forbes 재화 I만 따른다. Hina의kapa·코코넛섬유줄·광선/다리·태양과의약속·Moemoe살해와바위결말을 읽었다. 달콤한영웅결말로바꾸지않고 Māori지역의형제들/턱뼈/Disney낚싯바늘을혼합하지않았다. 옛이름풀이를현대어원정설로사용하지않았다.",
+    "크루소는 원문 소설의 난파 전 브라질 농장·Guinea노예구매항해·배물자회수·기도/성경·발자국·프라이데이명명/Master교육·반란과귀환을대조했다. Selkirk실화그대로라는주장과맨손자립신화를피했다. 주인공에대한비판은현대독자의해석과구분했다.",
+    "마술피리는 Annesley에서줄거리/파미나의불과물동참을, Upton에서초연/아리아를대조했다. Upton의부정확한초연배역표와경쟁작때문에대본중간변경했다는미확인기원담을쓰지않았다. 원저자의인종차별표현·여성평가를반복하지않았다. 마지막오페라라는단정대신생애마지막해라고썼다.",
+    "비너스는 실제작품의옛복제도판이다. Binns의화면묘사와주관적인Muse해석을구별했다. 정확한위촉일·모델동일인/연애설을확정하지않았다. 원도판의색이원화와다를수있음을밝혔다.",
+    "영화는 Talbot ChapterXVIII와TheMagicSword도판A/B/C를직접읽었다. 카메라중단/교체와겹침인쇄를구별하고Méliès단독최초발명/우연한고장설을단정하지않았다. 도판은실제촬영예시이지AI도식이아니다. 낡은민족묘사와생리학적잔상만으로운동지각설명은사용하지않았다.",
+    "올림피아는 OpenStax AncientGreece의공통축제·전통연대·경기·보상과승리송가를대조했다. 모든여성절대금지/393년단일폐지/전쟁전면중단/순수아마추어라는통념을반복하지않았다. 현대사진은교재의공공영역크레디트를확인했다.",
+    "에라토스테네스는구형지구를이미전제한크기계산이다. 교재의약1/50(각도표기는약7도)을360/50=7.2도로설명했다. 고대stadion의환산불확실성과거리/위치의근사를밝히고현대수치와거의완벽히일치했다고단정하지않았다.",
+    "플리니우스는 Melmoth판LXV/LXVI(통상VI.16/VI.20)전체를읽었다. 삼촌의항해는주변증언이며조카의피난은직접경험임을구별했다. 편지의추모목적·후대회상을밝혔다. 번역본의8월24일을확정일로쓰지않고사망원인을의학적으로확진하지않았다. 일반적화산용암장면으로바꾸지않았다.",
+    "이미지10장을육안대조했다. 실제자료4장(명화복제·Greenaway삽화·초기영화도판·올림피아사진)은파일무변형복사와원본URL/크레디트/PD를기록했다. AI6장은실제초상/공연/의상/실험고증이아님을설명했다."
+  ],
+  "validation": {
+    "unit_tests_passed": 34,
+    "new_stories": 10,
+    "manuscripts": 261,
+    "approved_public_articles": 248,
+    "subcategories_with_manuscripts": 42,
+    "images_visually_inspected": 10,
+    "desktop_mobile_articles_checked": 20,
+    "image_decode_and_source_links": "passed after test build completed",
+    "new_publications": 0,
+    "scheduled_generation_enabled": false,
+    "body_characters": {
+      "minimum": 2228,
+      "maximum": 2619
+    }
+  }
+}
