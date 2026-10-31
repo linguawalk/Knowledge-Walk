@@ -77,11 +77,11 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-31",
   "sources": [
     {
       "title": "Hilaire Belloc, The Book of the Bayeux Tapestry (1914) — 도판과 해설",

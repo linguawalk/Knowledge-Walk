@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "batch_id": "20261031-ten-stages-signals-and-promises",
-  "status": "source_checked_user_publication_approval_pending",
+  "status": "user_approved_publication_prepared",
   "editorial_direction": "문학·음악·미술 3편, 인물사·도시사·기업사 각 1편, 금융사 2편, 과학사·통신사 각 1편",
   "sources": [
     {
@@ -339,8 +339,9 @@
     "no_horizontal_overflow": true,
     "no_javascript_errors": true,
     "canonical_manuscripts": 241,
-    "approved_live_articles": 228,
-    "new_drafts_published": false,
+    "approved_live_articles": 238,
+    "new_drafts_published": true,
     "automatic_generation_enabled": false
-  }
+  },
+  "publication_approved_at": "2026-10-31"
 }

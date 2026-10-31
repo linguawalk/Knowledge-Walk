@@ -1,0 +1,20 @@
+{
+  "id": "ten-stages-signals-and-promises-publication-20261031",
+  "approved_at": "2026-10-31",
+  "user_request": "홈페이지 게시 및 새 글 10개. life - folks는 민속이나 신화 이야기 등을 생각하고 만든 카테고리입니다.",
+  "story_ids": [
+    "monte-cristo-revenge-and-hope",
+    "carmen-love-freedom-and-stage",
+    "bayeux-embroidery-comet-and-story",
+    "franklin-printer-club-and-library",
+    "mohenjo-daro-bronze-and-city-life",
+    "east-india-company-trade-and-taxes",
+    "john-law-paper-money-and-mississippi",
+    "roosevelt-bank-holiday-and-radio",
+    "faraday-candle-lecture-and-matter",
+    "morse-wire-signals-and-distance"
+  ],
+  "deployment_status": "prepared",
+  "expected_live_story_count": 238,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261031-ten-stages-signals-and-promises/index.html"
+}

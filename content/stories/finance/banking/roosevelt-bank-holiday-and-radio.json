@@ -77,11 +77,11 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null,
+  "approved_by": "user",
+  "approved_at": "2026-10-31",
   "sources": [
     {
       "title": "OpenStax US History — The First New Deal, 1933년 3월 12일 연설 발췌 포함",
