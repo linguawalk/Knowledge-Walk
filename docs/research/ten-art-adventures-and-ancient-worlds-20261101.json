@@ -275,8 +275,11 @@
     "new_publications": 0,
     "scheduled_generation_enabled": false,
     "body_characters": {
-      "minimum": 2228,
+      "minimum": 2230,
       "maximum": 2619
-    }
+    },
+    "github_review_files_verified": 21,
+    "live_homepage_articles_verified": 248,
+    "github_content_commit": "d990f67d9605edce8e242b36961998b9309ddc3c"
   }
 }
