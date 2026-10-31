@@ -7,6 +7,7 @@
 | [베토벤 교향곡 제5번 — 네 음은 어떻게 긴 이야기가 될까](beethoven-fifth-four-notes.md) | 자료 대조·공개 게시 승인 완료 |
 | [베토벤의 생애 — 들리는 세계가 달라져도 작업은 이어졌다](beethoven-life-and-work.md) | 자료 대조·공개 게시 승인 완료 |
 | [베토벤 전원 교향곡 — 시골의 하루를 다섯 악장으로 걷기](beethoven-pastoral-five-scenes.md) | 자료 대조·공개 게시 승인 완료 |
+| [카르멘 — 익숙한 노래 뒤에는 어떤 이야기가 있을까](carmen-love-freedom-and-stage.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [쇼팽의 생애 — 떠나온 나라가 피아노에 남을 때](chopin-life-piano-and-home.md) | 자료 대조·공개 게시 승인 완료 |
 | [클라리넷은 한 가지 크기가 아니다](clarinet-many-sizes.md) | 자료 대조·공개 게시 승인 완료 |
 | [엘리제를 위하여 — 익숙한 선율 앞에 남은 이름](fur-elise-title-and-theme.md) | 자료 대조·공개 게시 승인 완료 |

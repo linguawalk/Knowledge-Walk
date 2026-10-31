@@ -1,0 +1,346 @@
+{
+  "date": "2026-10-31",
+  "batch_id": "20261031-ten-stages-signals-and-promises",
+  "status": "source_checked_user_publication_approval_pending",
+  "editorial_direction": "문학·음악·미술 3편, 인물사·도시사·기업사 각 1편, 금융사 2편, 과학사·통신사 각 1편",
+  "sources": [
+    {
+      "key": "bayeux",
+      "title": "Hilaire Belloc, The Book of the Bayeux Tapestry (1914) — 도판과 해설",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Book-of-the-Bayeux-Tapestry-Presenting-the-Complete-Work-in-a-Series-of-Colour-Facsimiles_60727/master/60727-0.txt",
+      "supports": [
+        "1066년을 다루는 연속 그림과 자수·왕위와 정복의 서사",
+        "패널 35의 혜성·해럴드·손짓과 배·전투 준비와 식사 장면",
+        "후대 복제 도판과 원작의 구별. 저자의 제작 연대 가설·천문학 판단은 채택하지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "fa86a7553be2547f1f906eea46c9aca8e6c0c2441cf0da102299421946de57a3"
+    },
+    {
+      "key": "company",
+      "title": "OpenStax World History — The Rise of a Global Economy",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00077/index.cnxml",
+      "supports": [
+        "1600년 동인도회사·향신료에서 직물 및 아편 무역으로 변화",
+        "1757년 벵골·1765년 징세권·간접 통치와 현지 병사",
+        "약 1810년 마드라스 보병대 병사와 아내의 수채화"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "f47a0b5046bb4a4fb9b97f23def43e23b29e4b407503218cad6d342e210b2afa"
+    },
+    {
+      "key": "depression",
+      "title": "OpenStax World History — The Great Depression",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00024/index.cnxml",
+      "supports": [
+        "1929년 이후 금융과 예금 인출 위기·은행의 현금과 운용 구조",
+        "은행 신뢰와 실업·생산 위축의 관계·뉴딜의 여러 대응"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "73ca24b355a0fd00dd8d3e76c49df9e55c4ab720cacfd9d825d6f4e6e607eea9"
+    },
+    {
+      "key": "faraday",
+      "title": "Michael Faraday, The Chemical History of a Candle — 촛불 강연 I~VI",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Chemical-History-of-a-Candle_14474/master/14474-8.txt",
+      "supports": [
+        "익숙한 촛불에서 시작한 청소년 강연·고체/액체/증기의 변화",
+        "심지와 모세관 작용·공기와 산소·밝은 탄소 입자",
+        "물과 당시 carbonic acid라고 부르던 이산화탄소·호흡과 자연의 연결. 현대 용어로 구별"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "17cab46de9cf71387eb732c34068fecc9c60917bb083b788c5348bd44d9a9290"
+    },
+    {
+      "key": "franklin",
+      "title": "Benjamin Franklin, Autobiography — 준토·도서관·덕목 기록 절 (1916년 편집판, 1922년 인쇄)",
+      "url": "https://raw.githubusercontent.com/GITenberg/Autobiography-of-Benjamin-Franklin_20203/master/20203-8.txt",
+      "supports": [
+        "인쇄업 수련·필라델피아 도착과 경력",
+        "준토의 질문과 토론 규칙·도서관의 책 모으기와 구독 방식",
+        "사업을 친구들의 제안으로 표현한 회고·열세 덕목과 질서 실천의 어려움"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "b925e598db20dd68d2e5ded5d2961dc67bbd484042eefd953579897fe0795423"
+    },
+    {
+      "key": "indus",
+      "title": "OpenStax World History — The Indus Valley Civilization",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00107/index.cnxml",
+      "supports": [
+        "모헨조다로와 다른 도시의 관계·주거와 물·배수 시설",
+        "큰 수조와 건물 기능 해석의 한계·해독되지 않은 기호",
+        "실제 청동상과 장신구·수공업·쇠퇴의 여러 가능성. 확인되지 않은 침략·인물 동일시는 사용하지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "ca73deafebacd3104e55773953b04accc91f940aab6aaa01f5ac34cf7bb44eac"
+    },
+    {
+      "key": "law",
+      "title": "Charles Mackay, Memoirs of Extraordinary Popular Delusions, 제1권 1852년판 — The Mississippi Scheme",
+      "url": "https://raw.githubusercontent.com/GITenberg/Memoirs-of-Extraordinary-Popular-Delusions-and-the-Madness-of-Crowds_24518/master/24518-8.txt",
+      "supports": [
+        "1716년 은행과 은행권의 조세 납부 수용·1717년 무역회사",
+        "국가 부채·회사 주식·왕립은행과 특권 확대·1720년 위기",
+        "존 로 판화의 1720년 Leon Schenk 출처. 군중 심리와 극적 일화는 증거와 구별"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "d7e056eefc41b23af8f518990011654f6ebf3d381cadff2a64820fe53392768a"
+    },
+    {
+      "key": "monte",
+      "title": "Alexandre Dumas, The Count of Monte Cristo — 소설 원문",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Count-of-Monte-Cristo_1184/master/1184-0.txt",
+      "supports": [
+        "단테스의 누명·투옥·파리아와 교육·탈출과 보물",
+        "당글라르·페르낭·빌포르를 향한 복수와 가족의 피해",
+        "에두아르의 죽음·당글라르의 생존·막시밀리앙과 발랑틴·기다림과 희망의 결말"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "4b62dd229cff980172792873a5066a411f820f0a43dc6671e784db01a8edacfb"
+    },
+    {
+      "key": "morse",
+      "title": "OpenStax US History — A Vibrant Capitalist Republic",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-us-history/main/modules/m50045/index.cnxml",
+      "supports": [
+        "1791년 출생·화가 경력·1830년대 전신 개발과 1838년 시연",
+        "1843년 의회 3만 달러·B&O 철도 노선의 워싱턴/볼티모어 전신선",
+        "1844년 구간 메시지·상업과 정치의 빠른 소통. 세계 최초 전기 통신으로 일반화하지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "d5b5f4166b39fb87b4f3a4e9b2ea54e2a5b0d5c827ffc40dadeb1b5ab2035b7e"
+    },
+    {
+      "key": "newdeal",
+      "title": "OpenStax US History — The First New Deal, 1933년 3월 12일 연설 발췌 포함",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-us-history/main/modules/m50168/index.cnxml",
+      "supports": [
+        "은행 휴일·3월 9일 긴급은행법·검사와 재개",
+        "3월 12일 노변담화의 쉬운 설명과 협조 요청",
+        "1933년 예금보험공사 설립·별도의 제도 개편·대공황 전체 회복과의 구별"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "89e1682d4091b4f037ec98d3f91c9c031dbe6bab8544f913d4bf7b442bb0acaf"
+    },
+    {
+      "key": "opera",
+      "title": "George P. Upton, The Standard Operas, 12th edition — Bizet/Carmen 절",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Standard-Operas--12th-edition---13-Their-Plots-Their-Music-and-Their-Composers_14968/master/14968-8.txt",
+      "supports": [
+        "1875년 3월 3일 파리 초연·소설의 오페라 각색·네 막의 줄거리",
+        "하바네라·투우사의 노래·꽃노래·카드 장면과 마지막 대면. 당대 해설의 가치판단과 오류는 구별"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "200a122c81f42ffe2a6e90b35606cf5ad4917d372c83191485ff4084009735bf"
+    },
+    {
+      "key": "raj",
+      "title": "OpenStax World History — Colonial Empires",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00070/index.cnxml",
+      "supports": [
+        "1857년 봉기·1858년 회사 통치권의 왕실 이관. 회사 법인 해산 연도와 동일시하지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "1f27b41dc6028f504a4f1ad3245d38be3fd4aacf5c4e81f78b9bbc61f296af01"
+    },
+    {
+      "key": "smith",
+      "title": "Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations — 제2편의 존 로 논평",
+      "url": "https://raw.githubusercontent.com/GITenberg/An-Inquiry-into-the-Nature-and-Causes-of-the-Wealth-of-Nations_3300/master/3300-8.txt",
+      "supports": [
+        "존 로의 통화 확대 구상·섭정 아래 도입·미시시피 계획에 대한 후대 비판",
+        "스미스의 평가를 사건 당시 직접 목격이나 현대 통화 일반의 법칙으로 사용하지 않음"
+      ],
+      "checked_at": "2026-10-31",
+      "sha256": "a4c14c88e2ecbc107907712a42502b3815d3f6d93b3ff0dcf0eb2fc7a59e304a"
+    }
+  ],
+  "actual_images": {
+    "franklin": {
+      "url": "https://raw.githubusercontent.com/GITenberg/Autobiography-of-Benjamin-Franklin_20203/master/20203-h/images/illus-005-red.jpg",
+      "caption": "J. Thomson engraving after J. A. Duplessis portrait of Benjamin Franklin, reproduced in illustrated Autobiography (1916 edition, 1922 printing). A later-life portrait, not young Franklin at the press.",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "75084d7dad91714aa645d8b90cd1a2a920774f5e11b0b824fe4e9a6004d0dce3"
+    },
+    "bayeux": {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Book-of-the-Bayeux-Tapestry-Presenting-the-Complete-Work-in-a-Series-of-Colour-Facsimiles_60727/master/60727-h/images/i35.jpg",
+      "caption": "Panel 35, comet scene, colour facsimile in Hilaire Belloc, The Book of the Bayeux Tapestry (1914). A historical printed reproduction of embroidery, not a modern photo of the original.",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "483bacf494c66c66abe1961777ee76e62df148065fff1c00cf7a57f01c413959"
+    },
+    "law": {
+      "url": "https://raw.githubusercontent.com/GITenberg/Memoirs-of-Extraordinary-Popular-Delusions-and-the-Madness-of-Crowds_24518/master/24518-h/images/image03.png",
+      "caption": "John Law, print attributed to Leon Schenk (1720), reproduced in Charles Mackay, Memoirs of Extraordinary Popular Delusions, volume 1 (1852 edition).",
+      "license": "Public Domain",
+      "extension": ".png",
+      "sha256": "93ba5058661564bd351c029e05f55e4dd55080094bf70150adb49087e486665e"
+    },
+    "mohenjo": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A03_04_DanceStat.jpg",
+      "caption": "Bronze traditionally called Dancing Girl from Mohenjo-daro, c. 2300–1750 BCE in textbook caption. Photo by Gary Todd / Flickr, OpenStax, Public Domain. Identification as dancer is interpretive.",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "178daa40cfc7c6125503053d83c00556a02a2e2a247bd951c722fb2518921aeb"
+    },
+    "company": {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B06_03_SepoyWife.jpg",
+      "caption": "Sepoy of Madras Native Infantry and his wife, c. 1810 watercolour by an unknown army artist. National Army Museum / Wikimedia Commons, OpenStax, Public Domain.",
+      "license": "Public Domain",
+      "extension": ".jpg",
+      "sha256": "a21b66947fafcdb774cb10a094f45ee44134ad7febd4861a9a0ad665643446d2"
+    }
+  },
+  "images": [
+    {
+      "story_id": "monte-cristo-revenge-and-hope",
+      "file": "content/images/monte-cristo-revenge-and-hope.png",
+      "alt": "젊은 선원과 바다 건너 섬의 성채를 그린 몬테크리스토 백작 관련 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 소설의 바다와 섬 감옥을 떠올리는 독립적인 삽화입니다. 이프성의 정확한 복원이나 소설 속 특정 순간을 재현한 자료는 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5599af8fd3f01f0b1f08caf31a7abcfae2ca68557d0e750c3e0d12e8f4501364"
+    },
+    {
+      "story_id": "carmen-love-freedom-and-stage",
+      "file": "content/images/carmen-love-freedom-and-stage.png",
+      "alt": "세비야를 떠올리는 무대에서 떨어져 마주 선 카르멘과 장교의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 상상한 오페라 분위기입니다. 1875년 초연의 무대·가수·의상이나 특정 현대 공연의 장면을 복제한 자료가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8cd00cdcdef2b8ece1ad0fc32ff6273c45f6967a7b50d8936af74dec99834002"
+    },
+    {
+      "story_id": "bayeux-embroidery-comet-and-story",
+      "file": "content/images/bayeux-embroidery-comet-and-story.jpg",
+      "alt": "혜성을 가리키는 사람들과 해럴드의 모습이 있는 바이외 자수 패널의 옛 색채 복제",
+      "type": "artwork",
+      "label": "실제 유물·역사 도판",
+      "credit": "Hilaire Belloc, The Book of the Bayeux Tapestry (1914), 패널 35의 색채 복제 도판 · Project Gutenberg · Public Domain. 원 자수를 오늘 촬영한 사진이 아니며 저자의 후대 해석과 도판의 내용은 구분했습니다.",
+      "width": 596,
+      "height": 316,
+      "source_url": "https://raw.githubusercontent.com/GITenberg/The-Book-of-the-Bayeux-Tapestry-Presenting-the-Complete-Work-in-a-Series-of-Colour-Facsimiles_60727/master/60727-h/images/i35.jpg",
+      "license": "Public Domain",
+      "sha256": "483bacf494c66c66abe1961777ee76e62df148065fff1c00cf7a57f01c413959"
+    },
+    {
+      "story_id": "franklin-printer-club-and-library",
+      "file": "content/images/franklin-printer-club-and-library.jpg",
+      "alt": "뒤플레시의 초상을 바탕으로 한 프랭클린의 노년 판화",
+      "type": "artwork",
+      "label": "실제 유물·역사 도판",
+      "credit": "J. A. Duplessis의 초상을 바탕으로 J. Thomson이 제작한 판화 · Autobiography of Benjamin Franklin, 1916년 편집판(1922년 인쇄) 수록 · Project Gutenberg · Public Domain. 노년의 초상이며 도서관을 만들던 청년 시절의 현장 자료가 아닙니다.",
+      "width": 976,
+      "height": 1200,
+      "source_url": "https://raw.githubusercontent.com/GITenberg/Autobiography-of-Benjamin-Franklin_20203/master/20203-h/images/illus-005-red.jpg",
+      "license": "Public Domain",
+      "sha256": "75084d7dad91714aa645d8b90cd1a2a920774f5e11b0b824fe4e9a6004d0dce3"
+    },
+    {
+      "story_id": "mohenjo-daro-bronze-and-city-life",
+      "file": "content/images/mohenjo-daro-bronze-and-city-life.jpg",
+      "alt": "모헨조다로에서 나온 작은 청동상. 허리에 댄 팔과 여러 장신구가 보인다.",
+      "type": "artwork",
+      "label": "실제 유물·역사 도판",
+      "credit": "Gary Todd / Flickr, “Bronze ‘Dancing Girl,’ Mohenjo-daro” · OpenStax 수록 · Public Domain. 실제 청동상의 사진이며 춤·신분·개인의 이름은 해석의 영역으로 구분했습니다.",
+      "width": 500,
+      "height": 779,
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A03_04_DanceStat.jpg",
+      "license": "Public Domain",
+      "sha256": "178daa40cfc7c6125503053d83c00556a02a2e2a247bd951c722fb2518921aeb"
+    },
+    {
+      "story_id": "east-india-company-trade-and-taxes",
+      "file": "content/images/east-india-company-trade-and-taxes.jpg",
+      "alt": "약 1810년 마드라스 보병대 세포이 병사와 아내를 그린 수채화",
+      "type": "artwork",
+      "label": "실제 유물·역사 도판",
+      "credit": "작가 미상의 군 관련 수채화, “Sepoy of Madras Native Infantry and his wife”, 약 1810년 · National Army Museum / Wikimedia Commons · OpenStax · Public Domain. 1757년 전투의 특정 인물이나 모든 세포이를 대표하는 초상으로 단정하지 않았습니다.",
+      "width": 901,
+      "height": 1122,
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B06_03_SepoyWife.jpg",
+      "license": "Public Domain",
+      "sha256": "a21b66947fafcdb774cb10a094f45ee44134ad7febd4861a9a0ad665643446d2"
+    },
+    {
+      "story_id": "john-law-paper-money-and-mississippi",
+      "file": "content/images/john-law-paper-money-and-mississippi.png",
+      "alt": "1720년 레온 솅크 작품으로 소개되는 존 로의 전신 판화",
+      "type": "artwork",
+      "label": "실제 유물·역사 도판",
+      "credit": "Leon Schenk의 1720년 판화로 소개된 John Law 도판 · Charles Mackay, Memoirs of Extraordinary Popular Delusions, 제1권 1852년판 수록 · Project Gutenberg · Public Domain. 실제 사진이 아닌 역사 판화입니다.",
+      "width": 564,
+      "height": 810,
+      "source_url": "https://raw.githubusercontent.com/GITenberg/Memoirs-of-Extraordinary-Popular-Delusions-and-the-Madness-of-Crowds_24518/master/24518-h/images/image03.png",
+      "license": "Public Domain",
+      "sha256": "93ba5058661564bd351c029e05f55e4dd55080094bf70150adb49087e486665e"
+    },
+    {
+      "story_id": "roosevelt-bank-holiday-and-radio",
+      "file": "content/images/roosevelt-bank-holiday-and-radio.png",
+      "alt": "1930년대 가정에서 라디오에 귀를 기울이는 두 사람의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 당시의 라디오 청취를 떠올리는 분위기이며 기록된 특정 가정의 사진이나 실제 대통령의 초상이 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8168699c007f4ccb6f3ea24d3f6d1f43c1ac886d51e5225902e546b049e1f804"
+    },
+    {
+      "story_id": "faraday-candle-lecture-and-matter",
+      "file": "content/images/faraday-candle-lecture-and-matter.png",
+      "alt": "청중을 배경으로 촛불과 유리 기구가 놓인 19세기 강연 분위기의 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 촛불 강연을 떠올리는 분위기이며 패러데이의 실제 얼굴·실험 장치·청중·특정 강연 현장을 복원하지 않았습니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2b8837b43bedc9748efad174e4578d06051855f0cbd1b52d2bafe1a65e5ffff1"
+    },
+    {
+      "story_id": "morse-wire-signals-and-distance",
+      "file": "content/images/morse-wire-signals-and-distance.png",
+      "alt": "전신 장치를 다루는 사람과 창밖의 철길·전선을 그린 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 관련 장면 삽화",
+      "credit": "AI 관련 장면 삽화 · 초기 전신 운용을 떠올리는 분위기이며 모스의 초상·1844년 장치와 사무실의 정확한 복원 또는 부호표가 아닙니다.",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3c2ceef2d87c04244d62d04d7763d9224734912a207aa88e363870a6fc779463"
+    }
+  ],
+  "notes": [
+    "작품의 관련 장·장면과 교재의 해당 절을 실제 읽고 대조해 독립적인 한국어 원고로 집필했다. 소설은 영어 전사본을 사용했으며 프랑스어 자필 원고를 열람했다고 주장하지 않는다. 줄거리와 편집적 해석을 구별하고 결말 포함을 고지했다.",
+    "몬테크리스토는 누명·파리아·탈출·보물·주요 복수·에두아르의 죽음과 마지막 기다림/희망을 대조했다. 복수의 완벽한 영웅화 대신 뜻밖의 피해와 판단의 한계를 포함했다. 판본의 라틴어 표기 등 부차적인 번역 차이는 사용하지 않았다.",
+    "카르멘 근거 Upton은 오래된 오페라 해설서다. 첫 공연이 대성공이라는 평가·하바네라가 왈츠라는 잘못된 설명·Iradier 곡명의 오기·이탈리아어 가사명은 반복하지 않았다. 초연 날짜와 주요 줄거리·음악의 위치를 사용하며 실제 민족·여성 전체의 성격으로 일반화하지 않았다. 카르멘 살해를 사랑으로 정당화하지 않았다.",
+    "바이외 자료는 1914년 Belloc의 색채 복제 도판이다. 원 자수와 후대 복제, 해설을 구분했다. Belloc의 십자군 뒤 제작설과 혜성의 동일성에 관한 낡은 견해는 채택하지 않았다. 마틸다가 직접 제작했다는 전승·해럴드 눈의 화살·현대 천문학의 특정 날짜를 단정하지 않았다.",
+    "프랭클린 자서전은 후대의 자기 구성이라는 한계를 설명했다. 준토·구독 도서관과 오늘날의 무료 공공도서관을 구분했다. 초상은 청년 시절의 사진이 아니라 Duplessis 이후의 Thomson 판화임을 확인했다. 뇌우 속 연 실험 재현과 확인되지 않은 명언은 넣지 않았다.",
+    "인더스 교재의 모헨조다로 불교 스투파 기원전 2500년설·확정적인 아리아인 파괴설·곡물 창고 기능의 확정·인장 인물과 시바 동일시는 사용하지 않았다. 큰 목욕 수조·주거·배수·실제 청동상을 중심으로 쓰고 기능과 신분, 쇠퇴 원인의 불확실성을 밝혔다.",
+    "동인도회사는 1600년의 공동 투자/무역·1757년 벵골과 1765년 징세권·현지 병사/통치자 관계를 구별했다. 1858년 통치권 이관을 회사 법인의 즉시 해산으로 쓰지 않았다. 1810년 인물 수채화를 1757년 전투 인물로 제시하지 않았다.",
+    "존 로 사건은 Mackay의 1852년 후대 서술과 Smith의 제2편 후대 비판을 대조했다. 수치화된 군중 광기·정확한 주가·익명 일화와 대화를 사용하지 않았다. 지폐 자체를 허구라고 단정하거나 금속 담보가 모든 화폐의 필수 조건이라고 일반화하지 않았다.",
+    "1933년 은행 위기는 3월 9일 긴급은행법·3월 12일 방송·검사/재개·예금보험 제도 마련을 구분했다. 교재의 긴급은행법 하나로 금본위제 전환 전체가 완료되었다는 표현과 6월 법이 3월 법을 대체했다는 단순화는 쓰지 않았다. 당시 보호 한도를 현재에 적용하거나 은행의 무조건적 안전을 보장하지 않았다.",
+    "패러데이 강연의 연료 상태 변화·모세관·산소·탄소 입자·물과 이산화탄소를 확인했다. 모든 불꽃의 빛을 같은 원인으로 일반화하지 않았다. 호흡과 촛불의 기전을 동일시하지 않으며 역사 강연을 현장 재현 지침으로 제시하지 않았다.",
+    "모스는 1838년 시연·1843년 의회 자금·1844년 구간을 구별했다. 세계 최초 전기 통신이나 단독 발명자가 모든 전신 기술을 만들었다고 하지 않았다. 표준 부호의 특정 완성 연도·아내의 사망 관련 유명 일화는 사용하지 않았다. 인터넷과 같은 시스템이라고 설명하지 않았다.",
+    "실제 유물·역사 도판 5장과 AI 장면 삽화 5장을 육안 확인했다. 실제 파일은 변형하지 않았다. AI는 관련 분위기이며 정확한 재현이나 근거자료로 제시하지 않는다.",
+    "새 10편은 검토 상태이며 자동 제작은 비활성화 상태를 유지한다. 이번 사용자의 게시 승인은 직전 10편에 적용하고 새 검토용 글의 공개 승인으로 확대하지 않았다."
+  ],
+  "validation": {
+    "unit_tests_passed": 34,
+    "desktop_width": 1440,
+    "mobile_width": 390,
+    "images_decoded": 10,
+    "source_links_present": true,
+    "no_horizontal_overflow": true,
+    "no_javascript_errors": true,
+    "canonical_manuscripts": 241,
+    "approved_live_articles": 228,
+    "new_drafts_published": false,
+    "automatic_generation_enabled": false
+  }
+}

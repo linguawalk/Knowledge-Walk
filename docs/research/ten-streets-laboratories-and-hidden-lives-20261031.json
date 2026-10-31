@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "batch_id": "20261031-ten-streets-laboratories-and-hidden-lives",
-  "status": "user_approved_publication_prepared",
+  "status": "user_approved_live_verified",
   "editorial_direction": "도시사 2·기업사 2·역사 1·경제사 1·과학사 3·문학 1. 모든 글은 한 대분류/소분류만 사용.",
   "sources": [
     {
@@ -291,7 +291,8 @@
     "canonical_manuscripts": 231,
     "approved_live_articles": 228,
     "new_drafts_published": true,
-    "automatic_generation_enabled": false
+    "automatic_generation_enabled": false,
+    "live_files_verified": 23
   },
   "publication_approved_at": "2026-10-31"
 }

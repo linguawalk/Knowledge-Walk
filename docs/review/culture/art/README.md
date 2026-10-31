@@ -4,6 +4,7 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
+| [바이외 자수 — 하늘의 긴 꼬리를 사람들이 가리킨 이유](bayeux-embroidery-comet-and-story.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [동굴 벽에는 동물만 그려진 것이 아니다](bulgaria-magura-human-figures.md) | 자료 대조·공개 게시 승인 완료 |
 | [식사 전의 기도 — 수프가 식기 전, 잠깐 멈춘 시간](chardin-grace-before-meal.md) | 자료 대조·공개 게시 승인 완료 |
 | [레카미에 부인의 초상 — 빈 공간이 사람을 돋보이게 할 때](david-recamier-empty-space.md) | 자료 대조·공개 게시 승인 완료 |

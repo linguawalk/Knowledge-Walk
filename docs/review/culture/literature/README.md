@@ -13,6 +13,7 @@
 | [제인 오스틴의 생애 — 작은 거실에서 넓은 세계를 쓰다](jane-austen-life-and-writing.md) | 자료 대조·공개 게시 승인 완료 |
 | [지킬 박사와 하이드 — 다른 이름이면 책임도 사라질까](jekyll-hyde-door-and-responsibility.md) | 자료 대조·공개 게시 승인 완료 |
 | [레 미제라블 — 빵 한 조각에서 시작된 긴 질문](les-miserables-reading-guide.md) | 자료 대조·공개 게시 승인 완료 |
+| [몬테크리스토 백작 — 복수가 끝나면 삶은 돌아올까](monte-cristo-revenge-and-hope.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [오즈의 마법사 — 필요한 것은 이미 길 위에 있었을까](oz-wizard-road-and-home.md) | 자료 대조·공개 게시 승인 완료 |
 | [이 현판의 글자는 따로 만들어 붙였다](poem-plaque-raised-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [오만과 편견 — 처음 본 인상을 믿어도 될까](pride-prejudice-first-impressions.md) | 자료 대조·공개 게시 승인 완료 |

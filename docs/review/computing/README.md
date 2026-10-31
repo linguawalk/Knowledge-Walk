@@ -8,6 +8,6 @@
 |---|---:|
 | [Computers](computers/README.md) | 4편 |
 | [Software](software/README.md) | 11편 |
-| [Internet](internet/README.md) | 8편 |
+| [Internet](internet/README.md) | 9편 |
 | [Programming](programming/README.md) | 2편 |
 | [Artificial-Intelligence](artificial-intelligence/README.md) | 1편 |
