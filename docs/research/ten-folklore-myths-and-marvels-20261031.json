@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "batch_id": "20261031-ten-folklore-myths-and-marvels",
-  "status": "user_approved_publication_prepared",
+  "status": "user_approved_live_verified",
   "editorial_direction": "Life → Folks: 민속·신화·전설. 독립적인 읽을거리와 출처/판본 구별.",
   "sources": [
     {
@@ -284,7 +284,9 @@
     "publication_images_decoded": 10,
     "public_collection_story_count": 10,
     "public_search_count": 248,
-    "folks_contains_all_ten": true
+    "folks_contains_all_ten": true,
+    "live_files_verified": 24,
+    "live_story_count": 248
   },
   "publication_approved_at": "2026-10-31"
 }
