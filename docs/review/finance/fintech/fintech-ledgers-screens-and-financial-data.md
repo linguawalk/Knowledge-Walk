@@ -4,7 +4,7 @@
 
 Finance · Fintech
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![옛 장부와 현대 휴대전화의 거래 항목을 함께 놓아 금융 기록의 전자화를 표현한 개념 삽화](../../../../content/images/fintech-ledgers-screens-and-financial-data.png)
 

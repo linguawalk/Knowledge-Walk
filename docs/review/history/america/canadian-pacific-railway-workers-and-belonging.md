@@ -4,7 +4,7 @@
 
 History · America
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![산악 지형에서 선로를 놓는 중국계와 다른 철도 노동자들의 상상 삽화](../../../../content/images/canadian-pacific-railway-workers-and-belonging.png)
 

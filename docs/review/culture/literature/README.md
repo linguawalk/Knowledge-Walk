@@ -11,7 +11,7 @@
 | [도리언 그레이의 초상 — 얼굴 대신 그림이 늙어 간다면](dorian-gray-portrait-and-conscience.md) | 자료 대조·공개 게시 승인 완료 |
 | [80일간의 세계 일주 — 시계보다 늦게 알게 된 여행의 의미](eighty-days-time-and-travel.md) | 자료 대조·공개 게시 승인 완료 |
 | [프랑켄슈타인 — 만들어 낸 생명에게는 누가 책임질까](frankenstein-creator-and-creature.md) | 자료 대조·공개 게시 승인 완료 |
-| [오 헨리의 「크리스마스 선물」 — 당장 쓸 수 없는 두 선물](gift-magi-watch-chain-and-combs.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [오 헨리의 「크리스마스 선물」 — 당장 쓸 수 없는 두 선물](gift-magi-watch-chain-and-combs.md) | 자료 대조·공개 게시 승인 완료 |
 | [『위대한 유산』 — 신사가 된 소년은 누구를 부끄러워했을까](great-expectations-pip-secret-benefactor.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [『걸리버 여행기』 — 소인국보다 더 이상한 것은 무엇일까](gulliver-travels-size-and-satire.md) | 자료 대조·공개 게시 승인 완료 |
 | [제인 오스틴의 생애 — 작은 거실에서 넓은 세계를 쓰다](jane-austen-life-and-writing.md) | 자료 대조·공개 게시 승인 완료 |

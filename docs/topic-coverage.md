@@ -6,8 +6,8 @@
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
 | History | Asia | 1 | 1 | 1 |
-| History | Europe | 8 | 8 | 7 |
-| History | America | 8 | 8 | 7 |
+| History | Europe | 8 | 8 | 8 |
+| History | America | 8 | 8 | 8 |
 | History | Middle East | 2 | 2 | 2 |
 | History | Africa | 2 | 2 | 2 |
 | Cities | Asia | 10 | 10 | 10 |
@@ -15,16 +15,16 @@
 | Cities | Americas | 5 | 5 | 5 |
 | Cities | Middle East | 2 | 2 | 2 |
 | Cities | Africa | 5 | 5 | 5 |
-| Culture | Architecture | 4 | 4 | 3 |
-| Culture | Literature | 24 | 24 | 20 |
+| Culture | Architecture | 4 | 4 | 4 |
+| Culture | Literature | 24 | 24 | 21 |
 | Culture | Philosophy | 6 | 6 | 5 |
-| Culture | Music | 27 | 26 | 23 |
-| Culture | Art | 29 | 29 | 28 |
+| Culture | Music | 27 | 26 | 24 |
+| Culture | Art | 29 | 29 | 29 |
 | Culture | Film | 1 | 1 | 1 |
 | Culture | Sports | 1 | 1 | 1 |
 | Life | Folks | 19 | 19 | 17 |
 | Life | Clothing | 4 | 4 | 4 |
-| Life | Food | 9 | 9 | 8 |
+| Life | Food | 9 | 9 | 9 |
 | Life | Housing | 6 | 6 | 6 |
 | Companies | Technology | 11 | 11 | 11 |
 | Companies | Automotive | 4 | 4 | 4 |
@@ -40,13 +40,13 @@
 | Finance | Banking | 4 | 4 | 4 |
 | Finance | Insurance | 2 | 2 | 2 |
 | Finance | Investment | 6 | 6 | 6 |
-| Finance | Fintech | 1 | 1 | 0 |
+| Finance | Fintech | 1 | 1 | 1 |
 | Science | Mathematics | 3 | 3 | 3 |
-| Science | Physics | 10 | 10 | 8 |
+| Science | Physics | 10 | 10 | 9 |
 | Science | Chemistry | 3 | 3 | 3 |
 | Science | Biology | 10 | 10 | 10 |
 | Science | Earth-Science | 2 | 2 | 2 |
-| Science | Engineering | 6 | 6 | 4 |
+| Science | Engineering | 6 | 6 | 5 |
 
 ## 먼저 살펴볼 빈 주제
 

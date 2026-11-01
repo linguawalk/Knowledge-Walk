@@ -4,7 +4,7 @@
 
 Culture · Architecture
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![길게 반복되는 철과 유리, 높은 가로 공간이 보이는 수정궁의 옛 외관 그림](../../../../content/images/crystal-palace-greenhouse-and-prefabrication.jpg)
 

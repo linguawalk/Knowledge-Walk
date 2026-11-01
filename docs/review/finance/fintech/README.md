@@ -4,4 +4,4 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
-| [금융 장부가 화면으로 옮겨 갔을 때](fintech-ledgers-screens-and-financial-data.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [금융 장부가 화면으로 옮겨 갔을 때](fintech-ledgers-screens-and-financial-data.md) | 자료 대조·공개 게시 승인 완료 |
