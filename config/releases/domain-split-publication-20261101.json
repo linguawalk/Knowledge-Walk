@@ -4,9 +4,16 @@
   "net_stories": 171,
   "kr_stories": 117,
   "pending_stories_excluded": 13,
-  "net_deployment_status": "pending",
+  "net_deployment_status": "live_verified",
   "kr_deployment_status": "awaiting_hostinger_upload",
   "temporary_kr_url": "https://knowledgewalk.net/knowledge/index.html",
   "wordpress_deleted": false,
-  "dns_changed": false
+  "dns_changed": false,
+  "net_verified_at": "2026-11-01T20:50:40.222506+09:00",
+  "verified_public_responses": 23,
+  "local_checks_passed": 47,
+  "browser_views_checked": 60,
+  "kr_artifact_url": "https://github.com/linguawalk/Knowledge-Walk/actions/runs/41303301260/artifacts/13081509047",
+  "kr_artifact_bytes": 212930433,
+  "kr_artifact_retention_days": 14
 }

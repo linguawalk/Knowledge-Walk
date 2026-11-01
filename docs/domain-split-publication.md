@@ -2,9 +2,13 @@
 
 2026-11-01 사용자 요청: “홈페이지를 net와 kr로 분리하여 게시”. 작업 저장소는 `linguawalk/Knowledge-Walk` 하나입니다.
 
+## 설치 파일
+
+[kr 설치 압축파일 내려받기](https://github.com/linguawalk/Knowledge-Walk/actions/runs/41303301260/artifacts/13081509047) — 약 203MiB, GitHub 로그인 필요. 이 결과물은 14일 보관됩니다. 파일 관리자에 올릴 때는 이 압축을 그대로 업로드하고 `public_html` 안에 풉니다.
+
 ## 구성과 현재 단계
 
-- net: 국가와 이야기, 승인 원고 171편, GitHub Pages의 기존 도메인을 유지합니다.
+- net: 국가와 이야기, 승인 원고 171편. 기존 GitHub Pages 도메인에서 실제 게시와 공개 응답 23개를 확인했습니다.
 - kr: 발견과 지식, 승인 원고 117편, 기존 Hostinger에 올릴 독립 정적 사이트입니다. WordPress나 별도 데이터베이스를 사용하지 않습니다.
 - kr의 Hostinger 업로드는 로그인 연결이 필요합니다. 이 채팅에는 Hostinger 접속 도구·인증정보가 없으며 GitHub 연결도 저장소 시크릿을 읽을 권한이 없습니다. 접속이 완료됐다고 표시하지 않습니다.
 - kr 업로드 전에는 `https://knowledgewalk.net/knowledge/index.html`에서 주제 사이트를 임시 제공합니다. net의 교차 링크와 기존 117개 글 주소도 이곳으로 이어져 읽기 접근을 유지합니다. 이 임시 주소를 kr 도메인 게시 완료로 해석하지 않습니다.
