@@ -59,7 +59,7 @@ class SplitSite(Site):
         super().__init__(categories, stories)
         self.domain = domain
         self.taxonomy = taxonomy
-        self.brand_label = '나라와 이야기' if domain == 'net' else '발견과 지식'
+        self.brand_label = '국가와 이야기' if domain == 'net' else '발견과 지식'
 
     def link(self, page, target):
         # Resolve against a fixed virtual root, independent of the shell cwd.
@@ -75,7 +75,7 @@ class SplitSite(Site):
         super().layout(page, title, description, body, active, article)
         markup = self.files[page]
         other = 'kr' if self.domain == 'net' else 'net'
-        other_name = '발견과 지식' if other == 'kr' else '나라와 이야기'
+        other_name = '발견과 지식' if other == 'kr' else '국가와 이야기'
         switch = self.link(page, '../' + other + '/index.html')
         hub = self.link(page, '../index.html')
         banner = (f'<div class="preview-banner split-banner"><span>개편 미리보기 · knowledgewalk.{self.domain}</span>'
@@ -114,8 +114,8 @@ class SplitSite(Site):
     def home(self):
         page = 'index.html'
         is_net = self.domain == 'net'
-        heading = '한 나라를 만나면,<br>이야기가 시작됩니다.' if is_net else '세상을 바꾼 발견,<br>그 시작을 읽습니다.'
-        description = ('도시의 광장, 오래된 작품, 일상에 남은 풍습.<br>나라를 따라 걷고, 이야기로 조금 더 가까워집니다.' if is_net else
+        heading = '한 국가를 만나면,<br>이야기가 시작됩니다.' if is_net else '세상을 바꾼 발견,<br>그 시작을 읽습니다.'
+        description = ('도시의 광장, 오래된 작품, 일상에 남은 풍습.<br>국가를 따라 걷고, 이야기로 조금 더 가까워집니다.' if is_net else
                        '기업과 컴퓨터, 돈과 과학, 매일 쓰는 물건까지.<br>오늘의 세상이 만들어진 과정을 이야기로 만납니다.')
         candidates = ['venice-winged-lion', 'mona-lisa-looking-guide'] if is_net else ['ford-moving-assembly', 'lloyds-coffeehouse-shipping-news']
         feature_story = next((s for sid in candidates for s in self.stories if s['id'] == sid), self.stories[0])
@@ -135,7 +135,7 @@ class SplitSite(Site):
                 if len(subset) > n:
                     shelves.append(subset[n])
         storycards = ''.join(self.card(page, s) for s in shelves[:9])
-        jump_name = '지역과 나라 둘러보기' if is_net else '궁금한 주제 둘러보기'
+        jump_name = '지역과 국가 둘러보기' if is_net else '궁금한 주제 둘러보기'
         body = f'''<section class="container hero"><div class="hero-copy"><p class="eyebrow">KNOWLEDGEWALK · {self.brand_label}</p><h1>{heading}</h1><p class="hero-description">{description}</p><a class="button" href="#fields">{jump_name} ↓</a><p class="hero-note">편안하게 읽고, 세상을 조금 더 깊이.</p></div>{self.feature(page, feature_story)}</section>
 <div class="intro-strip"><div class="container"><span>{len(self.stories)}편의 이야기</span><p>읽는 즐거움에, 믿을 만한 근거를 더합니다.</p><span aria-hidden="true">✳</span></div></div>
 <section id="fields" class="container fields-section"><div class="section-heading"><div><p class="eyebrow">FOLLOW YOUR CURIOSITY</p><h2>{jump_name}</h2></div></div><div class="field-grid split-fields">{fields}</div><div class="library-shortcuts"><a class="button" href="library.html">전체 이야기 서가 ↗</a><a class="text-link" href="reading.html">내 읽기 목록 ↗</a></div></section>
@@ -150,7 +150,7 @@ class SplitSite(Site):
         subset = [s for s in self.stories if s['category'] == cid and (child is None or s['subcategory'] == child)]
         title = child or category['title']
         crumb = f'<a href="{self.link(page, "index.html")}">처음</a> / <a href="{self.link(page, self.category_path(cid))}">{esc(category["title"])}</a>'
-        top = f'<nav class="breadcrumbs" aria-label="현재 위치">{crumb}</nav><header class="page-heading"><p class="eyebrow">나라와 이야기</p><h1>{esc(title)}</h1><p>{esc(category["intro"]) if child is None else "역사와 도시, 작품과 일상에서 이곳의 이야기를 만납니다."}</p></header>'
+        top = f'<nav class="breadcrumbs" aria-label="현재 위치">{crumb}</nav><header class="page-heading"><p class="eyebrow">국가와 이야기</p><h1>{esc(title)}</h1><p>{esc(category["intro"]) if child is None else "역사와 도시, 작품과 일상에서 이곳의 이야기를 만납니다."}</p></header>'
         if child is None:
             mains = self.taxonomy['net'][category['title']]
             extras = [ch for ch in category['children'] if ch not in mains and ch != '지역에 걸친 이야기']
@@ -160,14 +160,14 @@ class SplitSite(Site):
                     count = sum(s['subcategory'] == c for s in subset)
                     result += f'<a class="country-tile" href="{self.link(page, self.category_path(cid,c))}"><h3>{esc(c)}</h3><span>{str(count)+"편" if count else "이야기 준비 중"} ↗</span></a>'
                 return '<div class="country-grid">'+result+'</div>'
-            top += '<h2 class="shelf-title">나라를 골라 읽기</h2>'+country_cards(mains)
+            top += '<h2 class="shelf-title">국가를 골라 읽기</h2>'+country_cards(mains)
             top += '<section id="other-countries"><h2 class="shelf-title">기타 국가</h2>'+country_cards(extras)+'</section>'
             top += '<h2 class="shelf-title">지역에 걸친 이야기</h2>'+country_cards(['지역에 걸친 이야기'])
         else:
             if child == '지역에 걸친 이야기':
-                top += '<p class="context-note">여러 나라와 공동체가 공유하는 전승과 생활 이야기입니다. 오늘의 국경이 문화의 범위를 정하지는 않습니다.</p>'
+                top += '<p class="context-note">여러 국가와 공동체가 공유하는 전승과 생활 이야기입니다. 오늘의 국경이 문화의 범위를 정하지는 않습니다.</p>'
             else:
-                top += '<p class="context-note">나라 이름은 이야기를 찾기 위한 길잡이입니다. 과거의 문명과 공동체가 오늘의 국경과 꼭 일치하지는 않습니다.</p>'
+                top += '<p class="context-note">국가 이름은 이야기를 찾기 위한 길잡이입니다. 과거의 문명과 공동체가 오늘의 국경과 꼭 일치하지는 않습니다.</p>'
             labels = self.taxonomy['country_content_labels']
             top += '<nav class="chips country-filters" aria-label="이야기 종류">'+''.join(f'<a class="chip" href="#label-{n}">{esc(label)} <span>{sum(s["placement"]["topic"]==label for s in subset)}</span></a>' for n,label in enumerate(labels))+'</nav>'
             for n, label in enumerate(labels):
@@ -181,7 +181,7 @@ class SplitSite(Site):
     def library(self):
         super().library()
         old = f'8개 분야, 43개 소주제에서 한 편씩 골라 읽어 보세요. 현재 이 화면에는 {len(self.stories)}편이 있습니다.'
-        new = f'{"지역과 나라" if self.domain == "net" else "주제와 소주제"}별로 정리한 {len(self.stories)}편의 이야기입니다.'
+        new = f'{"지역과 국가" if self.domain == "net" else "주제와 소주제"}별로 정리한 {len(self.stories)}편의 이야기입니다.'
         self.files['library.html'] = self.files['library.html'].replace(old,new).replace('소주제별 서가','전체 이야기 서가')
 
     def render(self):
@@ -225,7 +225,7 @@ def build():
             require((destination/site.image_path(s)).is_file(),f'Missing published image: {s["id"]}')
         counts[domain] = {'stories':len(stories),'html_pages':sum(name.endswith('.html') for name in files)}
     DEST.mkdir(parents=True,exist_ok=True)
-    (DEST/'index.html').write_text('''<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>KnowledgeWalk 개편 미리보기</title><style>body{margin:0;background:#faf8f3;color:#203b30;font-family:system-ui,sans-serif;line-height:1.9}main{max-width:850px;margin:8vh auto;padding:24px}h1{font-size:clamp(30px,5vw,48px);line-height:1.4}section{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px;margin:35px 0}a.card{display:block;border:1px solid #c7cbbc;border-radius:12px;padding:28px;color:inherit;text-decoration:none;background:#fff}a.card:hover{border-color:#203b30}a{color:inherit}small{color:#59675d}h2{margin-top:0}</style></head><body><main><small>KNOWLEDGEWALK · 개편 미리보기</small><h1>나라를 따라 걷고,<br>발견의 이야기를 읽습니다.</h1><p>하나의 KnowledgeWalk, 두 가지 읽는 길을 준비했습니다.<br>현재 홈페이지와 도메인 연결은 그대로 유지됩니다.</p><section><a class="card" href="net/index.html"><h2>나라와 이야기 ↗</h2><p>knowledgewalk.net</p><p>아시아대양주 · 유럽 · 아메리카 · 중동아프리카<br>나라별 역사·도시·문화·생활 이야기</p></a><a class="card" href="kr/index.html"><h2>발견과 지식 ↗</h2><p>knowledgewalk.kr</p><p>기업 · 컴퓨터 · 금융 · 과학<br>생활을 바꾼 발명과 생각의 역사</p></a></section><p>이미 게시 승인을 받은 글만 담았습니다. 이미지, 출처, 번호 소제목과 옆 바로가기, 읽음 표시를 함께 확인하실 수 있습니다.</p><small>현재는 두 화면 모두 net 안의 미리보기 주소입니다. kr 도메인은 아직 전환하지 않았습니다. 미리보기의 읽음 표시와 현재 홈페이지의 읽음 표시는 같은 브라우저에서 공유됩니다.</small><p><a href="../../index.html">현재 홈페이지로 돌아가기 ↗</a></p></main></body></html>''')
+    (DEST/'index.html').write_text('''<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>KnowledgeWalk 개편 미리보기</title><style>body{margin:0;background:#faf8f3;color:#203b30;font-family:system-ui,sans-serif;line-height:1.9}main{max-width:850px;margin:8vh auto;padding:24px}h1{font-size:clamp(30px,5vw,48px);line-height:1.4}section{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px;margin:35px 0}a.card{display:block;border:1px solid #c7cbbc;border-radius:12px;padding:28px;color:inherit;text-decoration:none;background:#fff}a.card:hover{border-color:#203b30}a{color:inherit}small{color:#59675d}h2{margin-top:0}</style></head><body><main><small>KNOWLEDGEWALK · 개편 미리보기</small><h1>국가를 따라 걷고,<br>발견의 이야기를 읽습니다.</h1><p>하나의 KnowledgeWalk, 두 가지 읽는 길을 준비했습니다.<br>현재 홈페이지와 도메인 연결은 그대로 유지됩니다.</p><section><a class="card" href="net/index.html"><h2>국가와 이야기 ↗</h2><p>knowledgewalk.net</p><p>아시아대양주 · 유럽 · 아메리카 · 중동아프리카<br>국가별 역사·도시·문화·생활 이야기</p></a><a class="card" href="kr/index.html"><h2>발견과 지식 ↗</h2><p>knowledgewalk.kr</p><p>기업 · 컴퓨터 · 금융 · 과학<br>생활을 바꾼 발명과 생각의 역사</p></a></section><p>이미 게시 승인을 받은 글만 담았습니다. 이미지, 출처, 번호 소제목과 옆 바로가기, 읽음 표시를 함께 확인하실 수 있습니다.</p><small>현재는 두 화면 모두 net 안의 미리보기 주소입니다. kr 도메인은 아직 전환하지 않았습니다. 미리보기의 읽음 표시와 현재 홈페이지의 읽음 표시는 같은 브라우저에서 공유됩니다.</small><p><a href="../../index.html">현재 홈페이지로 돌아가기 ↗</a></p></main></body></html>''')
     print(json.dumps(counts,ensure_ascii=False,indent=2))
     return counts
 

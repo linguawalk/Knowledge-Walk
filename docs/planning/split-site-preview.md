@@ -3,7 +3,7 @@
 2026-11-01. 실제 도메인 전환 전 검토 화면입니다. 현재 첫 화면, 원고, 기존 글 주소, CNAME, DNS, WordPress를 변경하지 않았습니다. 다른 저장소도 수정하지 않았습니다.
 
 - [두 사이트 안내](https://knowledgewalk.net/collections/site-redesign/index.html)
-- [net — 나라와 이야기](https://knowledgewalk.net/collections/site-redesign/net/index.html)
+- [net — 국가와 이야기](https://knowledgewalk.net/collections/site-redesign/net/index.html)
 - [kr — 발견과 지식](https://knowledgewalk.net/collections/site-redesign/kr/index.html)
 
 두 미리보기 모두 현재 net의 별도 주소로 열립니다. kr 도메인을 연결했다는 뜻이 아닙니다. 모든 화면은 검색 수집 제외(noindex) 표시와 개편 미리보기 안내를 갖습니다. 미게시 원고는 공개하지 않습니다.
