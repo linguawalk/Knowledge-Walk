@@ -1,0 +1,28 @@
+{
+  "id": "20261101-ten-china-japan-objects-and-stories",
+  "title": "국가와 이야기 — 중국 5편·일본 5편",
+  "story_ids": [
+    "qin-terracotta-army-faces-and-afterlife",
+    "beijing-forbidden-city-gates-and-distance",
+    "oracle-bones-questions-and-written-traces",
+    "diamond-sutra-868-print-and-gift",
+    "jingdezhen-blue-white-porcelain-sea",
+    "hokusai-fuji-thirty-six-changing-views",
+    "edo-daimyo-road-and-residence",
+    "okakura-book-tea-room-and-attention",
+    "momotaro-dumplings-and-companions",
+    "urashima-taro-box-and-lost-time"
+  ],
+  "countries": {
+    "beijing-forbidden-city-gates-and-distance": "중국",
+    "edo-daimyo-road-and-residence": "일본",
+    "jingdezhen-blue-white-porcelain-sea": "중국",
+    "hokusai-fuji-thirty-six-changing-views": "일본",
+    "diamond-sutra-868-print-and-gift": "중국",
+    "okakura-book-tea-room-and-attention": "일본",
+    "qin-terracotta-army-faces-and-afterlife": "중국",
+    "oracle-bones-questions-and-written-traces": "중국",
+    "momotaro-dumplings-and-companions": "일본",
+    "urashima-taro-box-and-lost-time": "일본"
+  }
+}

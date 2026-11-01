@@ -13,6 +13,7 @@
 | [하멜른의 피리 부는 사나이 — 쥐를 없앤 뒤 벌어진 일](hamelin-pied-piper-unpaid-promise.md) | 자료 대조·공개 게시 승인 완료 |
 | [이시스 — 사라진 오시리스를 찾아 나선 길](isis-osiris-chest-and-search.md) | 자료 대조·공개 게시 승인 완료 |
 | [마우이는 왜 태양에 밧줄을 걸었을까](maui-snaring-sun-kapa-days.md) | 자료 대조·공개 게시 승인 완료 |
+| [모모타로 — 복숭아에서 나온 소년에게 동료가 필요했던 이유](momotaro-dumplings-and-companions.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [오디세우스 — 아무도 아닌 사람이 이름을 외친 순간](odysseus-cyclops-nobody-real-name.md) | 자료 대조·공개 게시 승인 완료 |
 | [오르페우스는 왜 뒤를 돌아보았을까](orpheus-eurydice-last-look.md) | 자료 대조·공개 게시 승인 완료 |
 | [판도라 — 상자가 아니라 항아리였다는 이야기](pandora-jar-hope-under-lid.md) | 자료 대조·공개 게시 승인 완료 |
@@ -21,5 +22,6 @@
 | [삼포 — 밀가루와 소금, 돈을 내던 보물은 왜 깨졌을까](sampo-forging-plenty-and-fragments.md) | 자료 대조·공개 게시 승인 완료 |
 | [사비트리 — 죽음의 신을 따라 걸으며 나눈 말](savitri-words-along-yamas-road.md) | 자료 대조·공개 게시 승인 완료 |
 | [토르 — 망치를 찾으러 신부가 된 날](thor-thrym-bridal-veil-and-hammer.md) | 자료 대조·공개 게시 승인 완료 |
+| [우라시마 타로 — 고향으로 돌아왔는데 시간이 달랐다](urashima-taro-box-and-lost-time.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [옛 연애편지에는 종이로 만든 레이스가 있었다](victorian-paper-lace-valentine.md) | 자료 대조·공개 게시 승인 완료 |
 | [잘과 시무르그 — 흰 머리의 아이를 품은 거대한 새](zal-simurgh-white-hair-and-feather.md) | 자료 대조·공개 게시 승인 완료 |

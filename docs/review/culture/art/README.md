@@ -14,10 +14,12 @@
 | [음악 수업 — 악보보다 서로의 얼굴이 가까운 시간](fragonard-music-lesson.md) | 자료 대조·공개 게시 승인 완료 |
 | [메두사호의 뗏목 — 멀리 보이는 작은 배를 향하여](gericault-medusa-distant-ship.md) | 자료 대조·공개 게시 승인 완료 |
 | [옛 베개 사진 옆에는 왜 자가 서 있을까](glass-photo-pillow-ruler.md) | 자료 대조·공개 게시 승인 완료 |
+| [호쿠사이 — 같은 후지산을 서른여섯 번 바라본다면](hokusai-fuji-thirty-six-changing-views.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [에라스무스의 초상 — 글을 쓰는 손이 얼굴을 설명할 때](holbein-erasmus-writing.md) | 자료 대조·공개 게시 승인 완료 |
 | [벼루함 속 해태의 입에는 작은 구멍이 있다](inkstone-water-dropper.md) | 자료 대조·공개 게시 승인 완료 |
 | [판화 한 장이 큰 그림의 제안서가 되었다](italy-print-painting-proposal.md) | 자료 대조·공개 게시 승인 완료 |
 | [절을 지키는 얼굴은 왜 그렇게 무서울까](japan-fierce-temple-guardian.md) | 자료 대조·공개 게시 승인 완료 |
+| [청화백자 — 하얀 그릇의 푸른빛은 바다를 건넜다](jingdezhen-blue-white-porcelain-sea.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [『시녀들』 — 그림 속 사람들은 누구를 보고 있을까](las-meninas-painter-mirror-and-viewer.md) | 자료 대조·공개 게시 승인 완료 |
 | [레오나르도 다빈치의 생애 — 그림 한 장에서 세상을 관찰하다](leonardo-life-of-observation.md) | 자료 대조·공개 게시 승인 완료 |
 | [체스 말을 어디에 둘지 오래된 사진에 물었다](man-ray-chess-photo-layout.md) | 자료 대조·공개 게시 승인 완료 |
