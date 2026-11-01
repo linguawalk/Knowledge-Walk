@@ -10,6 +10,9 @@ on:
       - 'config/**'
       - 'site/**'
       - 'tools/build_site.py'
+      - 'tools/build_domains.py'
+      - 'tools/build_split_preview.py'
+      - 'tools/templates/**'
       - 'tests/**'
       - 'tools/daily_generation.py'
       - 'tools/export_review.py'
@@ -40,6 +43,14 @@ jobs:
         run: python3 -m unittest discover -s tests -v
       - name: Build approved stories only
         run: python3 tools/build_site.py
+      - name: Save independent kr site for Hostinger
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: knowledgewalk-kr-site
+          path: _kr-site
+          include-hidden-files: true
+          compression-level: 0
+          retention-days: 14
       - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
         with:
           path: _site

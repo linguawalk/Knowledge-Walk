@@ -2,3 +2,6 @@
 /_preview/
 __pycache__/
 *.pyc
+
+/_kr-site/
+/downloads/knowledgewalk-kr-site.zip

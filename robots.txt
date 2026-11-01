@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://knowledgewalk.net/sitemap.xml

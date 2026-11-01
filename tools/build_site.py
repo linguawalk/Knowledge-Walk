@@ -380,6 +380,12 @@ class Site:
 
 
 def build(preview=False, sync_root=False, categories_path=None, stories_dir=None):
+    deployment = ROOT / "config/deployment.json"
+    if not preview and categories_path is None and stories_dir is None and deployment.exists() and read_json(deployment).get("mode") == "split":
+        if str(ROOT / "tools") not in sys.path:
+            sys.path.insert(0, str(ROOT / "tools"))
+        from build_domains import build as build_domains
+        return build_domains(sync_root=sync_root)
     categories = read_json(categories_path or ROOT / "config/categories.json")
     stories = ([read_json(path) for path in sorted(stories_dir.rglob("*.json"))]
                if stories_dir else load_stories())

@@ -1,0 +1,9 @@
+{
+  "mode": "split",
+  "net_domain": "knowledgewalk.net",
+  "kr_domain": "knowledgewalk.kr",
+  "kr_live": false,
+  "temporary_kr_path": "knowledge",
+  "kr_hosting": "existing_hostinger",
+  "note": "kr 업로드·실제 접속 확인 전에는 net의 knowledge 경로로 연결하여 기존 글의 접근을 유지합니다."
+}
