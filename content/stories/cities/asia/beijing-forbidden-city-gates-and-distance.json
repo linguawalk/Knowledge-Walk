@@ -88,9 +88,9 @@
   },
   "net_country": "중국",
   "net_content_kind": "도시",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 중국·일본 10편 홈페이지 게시 요청",
+  "approved_at": "2026-11-01"
 }

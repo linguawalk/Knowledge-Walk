@@ -34,33 +34,33 @@
 | [이 거북이는 물이 차면 떠올랐다](../../content/stories/science/engineering/water-clock-floating-turtle.json) | 게시 중 | 한국 / 문화 | 한국의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [별지도를 다른 돌에 다시 새긴 이유](../../content/stories/science/physics/star-map-carved-again.json) | 게시 중 | 한국 / 문화 | 한국의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
-### 일본 — 9편 (게시 중 4편)
+### 일본 — 9편 (게시 중 9편)
 
 | 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
 |---|---|---|---|
-| [에도 — 영주들은 왜 자꾸 길을 떠났을까](../../content/stories/cities/asia/edo-daimyo-road-and-residence.json) | 미게시 · verified | 일본 / 도시 | 일본의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [에도 — 영주들은 왜 자꾸 길을 떠났을까](../../content/stories/cities/asia/edo-daimyo-road-and-residence.json) | 게시 중 | 일본 / 도시 | 일본의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [교토 — 궁정의 하루는 소설 속에 남았다](../../content/stories/cities/asia/kyoto-genji-court-and-snow.json) | 게시 중 | 일본 / 도시 | 일본의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [일본의 나무 장식은 관람석 아래에서 발견됐다](../../content/stories/culture/architecture/japan-phoenix-wood-panels.json) | 게시 중 | 일본 / 문화 | 시카고 박람회에서 전시된 일본관의 장식과 일본 건축 표현이 중심. 미국 전시 이력 때문에 일본 제작 맥락을 바꾸지 않음. |
-| [호쿠사이 — 같은 후지산을 서른여섯 번 바라본다면](../../content/stories/culture/art/hokusai-fuji-thirty-six-changing-views.json) | 미게시 · verified | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [호쿠사이 — 같은 후지산을 서른여섯 번 바라본다면](../../content/stories/culture/art/hokusai-fuji-thirty-six-changing-views.json) | 게시 중 | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [절을 지키는 얼굴은 왜 그렇게 무서울까](../../content/stories/culture/art/japan-fierce-temple-guardian.json) | 게시 중 | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [『차의 책』 — 찻잔 하나를 위해 방을 비운다는 것](../../content/stories/culture/literature/okakura-book-tea-room-and-attention.json) | 미게시 · verified | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [『차의 책』 — 찻잔 하나를 위해 방을 비운다는 것](../../content/stories/culture/literature/okakura-book-tea-room-and-attention.json) | 게시 중 | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [아마테라스 — 동굴 밖에서는 왜 웃음이 터졌을까](../../content/stories/life/folks/amaterasu-cave-laughter-and-mirror.json) | 게시 중 | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [모모타로 — 복숭아에서 나온 소년에게 동료가 필요했던 이유](../../content/stories/life/folks/momotaro-dumplings-and-companions.json) | 미게시 · verified | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [우라시마 타로 — 고향으로 돌아왔는데 시간이 달랐다](../../content/stories/life/folks/urashima-taro-box-and-lost-time.json) | 미게시 · verified | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [모모타로 — 복숭아에서 나온 소년에게 동료가 필요했던 이유](../../content/stories/life/folks/momotaro-dumplings-and-companions.json) | 게시 중 | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [우라시마 타로 — 고향으로 돌아왔는데 시간이 달랐다](../../content/stories/life/folks/urashima-taro-box-and-lost-time.json) | 게시 중 | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
-### 중국 — 11편 (게시 중 6편)
+### 중국 — 11편 (게시 중 11편)
 
 | 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
 |---|---|---|---|
-| [자금성 — 문을 지나면 황제에게 가까워졌을까](../../content/stories/cities/asia/beijing-forbidden-city-gates-and-distance.json) | 미게시 · verified | 중국 / 도시 | 중국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [자금성 — 문을 지나면 황제에게 가까워졌을까](../../content/stories/cities/asia/beijing-forbidden-city-gates-and-distance.json) | 게시 중 | 중국 / 도시 | 중국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [장안 — 수도의 거리에는 어떤 말과 음악이 흘렀을까](../../content/stories/cities/asia/changan-travelers-and-music.json) | 게시 중 | 중국 / 도시 | 중국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [쑤저우 — 배 한 척이 도시의 길이 되던 풍경](../../content/stories/cities/asia/suzhou-grand-canal-and-city.json) | 게시 중 | 중국 / 도시 | 중국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [청화백자 — 하얀 그릇의 푸른빛은 바다를 건넜다](../../content/stories/culture/art/jingdezhen-blue-white-porcelain-sea.json) | 미게시 · verified | 중국 / 문화 | 중국의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [『금강경』 — 천 년 전의 책은 어떻게 여러 독자를 만났을까](../../content/stories/culture/literature/diamond-sutra-868-print-and-gift.json) | 미게시 · verified | 중국 / 문화 | 중국의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [청화백자 — 하얀 그릇의 푸른빛은 바다를 건넜다](../../content/stories/culture/art/jingdezhen-blue-white-porcelain-sea.json) | 게시 중 | 중국 / 문화 | 중국의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [『금강경』 — 천 년 전의 책은 어떻게 여러 독자를 만났을까](../../content/stories/culture/literature/diamond-sutra-868-print-and-gift.json) | 게시 중 | 중국 / 문화 | 중국의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [공자의 생애 — 배움은 언제 끝나는 걸까](../../content/stories/culture/philosophy/confucius-life-and-learning.json) | 게시 중 | 중국 / 문화 | 중국의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [쿠빌라이의 지폐 — 나무껍질이 돈이 되던 제국](../../content/stories/finance/money/kublai-paper-money-and-seal.json) | 게시 중 | 중국 / 역사 | 중국의 원대 화폐라는 역사 맥락으로 배치. 제국과 군주의 문화적 정체성을 현대 국적 하나로 환원하지 않음. |
-| [갑골문 — 왕이 내일을 물었더니 질문이 남았다](../../content/stories/history/asia/oracle-bones-questions-and-written-traces.json) | 미게시 · verified | 중국 / 역사 | 중국의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [병마용 — 황제의 군대는 왜 땅속에 서 있을까](../../content/stories/history/asia/qin-terracotta-army-faces-and-afterlife.json) | 미게시 · verified | 중국 / 역사 | 중국의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [갑골문 — 왕이 내일을 물었더니 질문이 남았다](../../content/stories/history/asia/oracle-bones-questions-and-written-traces.json) | 게시 중 | 중국 / 역사 | 중국의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [병마용 — 황제의 군대는 왜 땅속에 서 있을까](../../content/stories/history/asia/qin-terracotta-army-faces-and-afterlife.json) | 게시 중 | 중국 / 역사 | 중국의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [정화의 항해 — 큰 배에는 무엇이 실려 있었을까](../../content/stories/history/asia/zheng-he-gifts-and-indian-ocean.json) | 게시 중 | 중국 / 역사 | 중국의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [중국의 명절 음식에는 잎사귀 포장이 있다](../../content/stories/life/food/zongzi-leaf-parcel.json) | 게시 중 | 중국 / 생활 | 중국의 생활라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 

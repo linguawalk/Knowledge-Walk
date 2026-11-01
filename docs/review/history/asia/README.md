@@ -4,6 +4,6 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
-| [갑골문 — 왕이 내일을 물었더니 질문이 남았다](oracle-bones-questions-and-written-traces.md) | 자료 대조 완료 · 게시 승인 대기 |
-| [병마용 — 황제의 군대는 왜 땅속에 서 있을까](qin-terracotta-army-faces-and-afterlife.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [갑골문 — 왕이 내일을 물었더니 질문이 남았다](oracle-bones-questions-and-written-traces.md) | 자료 대조·공개 게시 승인 완료 |
+| [병마용 — 황제의 군대는 왜 땅속에 서 있을까](qin-terracotta-army-faces-and-afterlife.md) | 자료 대조·공개 게시 승인 완료 |
 | [정화의 항해 — 큰 배에는 무엇이 실려 있었을까](zheng-he-gifts-and-indian-ocean.md) | 자료 대조·공개 게시 승인 완료 |

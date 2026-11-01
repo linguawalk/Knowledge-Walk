@@ -1,0 +1,24 @@
+{
+  "id": "ten-china-japan-publication-20261101",
+  "approved_at": "2026-11-01",
+  "user_request": "홈페이지 게시",
+  "story_ids": [
+    "qin-terracotta-army-faces-and-afterlife",
+    "beijing-forbidden-city-gates-and-distance",
+    "oracle-bones-questions-and-written-traces",
+    "diamond-sutra-868-print-and-gift",
+    "jingdezhen-blue-white-porcelain-sea",
+    "hokusai-fuji-thirty-six-changing-views",
+    "edo-daimyo-road-and-residence",
+    "okakura-book-tea-room-and-attention",
+    "momotaro-dumplings-and-companions",
+    "urashima-taro-box-and-lost-time"
+  ],
+  "deployment_status": "pending",
+  "expected_live_story_count": 288,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261101-ten-china-japan-objects-and-stories/index.html",
+  "country_preview_urls": {
+    "중국": "https://knowledgewalk.net/collections/site-redesign/net/categories/asia-oceania/중국/index.html",
+    "일본": "https://knowledgewalk.net/collections/site-redesign/net/categories/asia-oceania/일본/index.html"
+  }
+}
