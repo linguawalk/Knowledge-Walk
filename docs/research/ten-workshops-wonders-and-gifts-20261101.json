@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "batch_id": "20261101-ten-workshops-wonders-and-gifts",
-  "status": "user_approved_publication_prepared",
+  "status": "user_approved_live_verified",
   "sources": [
     {
       "key": "world-m00068",
@@ -302,6 +302,12 @@
     "scope": "Only this ten-story batch; preceding review batch remains pending.",
     "unit_tests_passed": 36,
     "browser_views_checked": 48,
-    "numbered_sidebar": "verified on desktop and mobile; existing behavior preserved"
+    "numbered_sidebar": "verified on desktop and mobile; existing behavior preserved",
+    "live_files_verified": 23,
+    "live_public_articles": 278,
+    "github_content_commit": "c7cd67d5622b723a3bb9b5414308be569a682ec6",
+    "github_validation": "success",
+    "github_pages_deployment": "success",
+    "other_ten_story_review_batch": "still pending"
   }
 }
