@@ -5,6 +5,7 @@
 | 이야기 | 확인 상태 |
 |---|---|
 | [9월 2일 다음 날이 14일이었던 달력](british-calendar-eleven-days.md) | 자료 대조·공개 게시 승인 완료 |
+| [공장의 시계 — 하루의 길이는 누가 정했을까](factory-clock-workday-and-human-time.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [루터 — 작은 인쇄물은 어떻게 유럽을 흔들었을까](luther-pamphlets-and-reformation.md) | 자료 대조·공개 게시 승인 완료 |
 | [마그나 카르타 — 왕의 약속을 문서로 남긴 이유](magna-carta-king-and-written-promise.md) | 자료 대조·공개 게시 승인 완료 |
 | [뉴턴의 또 다른 일터는 조폐국이었다](newton-mint-work.md) | 자료 대조·공개 게시 승인 완료 |

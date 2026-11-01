@@ -18,6 +18,7 @@
 | [벼루함 속 해태의 입에는 작은 구멍이 있다](inkstone-water-dropper.md) | 자료 대조·공개 게시 승인 완료 |
 | [판화 한 장이 큰 그림의 제안서가 되었다](italy-print-painting-proposal.md) | 자료 대조·공개 게시 승인 완료 |
 | [절을 지키는 얼굴은 왜 그렇게 무서울까](japan-fierce-temple-guardian.md) | 자료 대조·공개 게시 승인 완료 |
+| [『시녀들』 — 그림 속 사람들은 누구를 보고 있을까](las-meninas-painter-mirror-and-viewer.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [레오나르도 다빈치의 생애 — 그림 한 장에서 세상을 관찰하다](leonardo-life-of-observation.md) | 자료 대조·공개 게시 승인 완료 |
 | [체스 말을 어디에 둘지 오래된 사진에 물었다](man-ray-chess-photo-layout.md) | 자료 대조·공개 게시 승인 완료 |
 | [이삭 줍는 여인들 — 풍요로운 들판의 가장 낮은 자리](millet-gleaners-harvest.md) | 자료 대조·공개 게시 승인 완료 |

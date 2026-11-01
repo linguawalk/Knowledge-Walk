@@ -1,0 +1,298 @@
+{
+  "date": "2026-11-01",
+  "batch_id": "20261101-ten-workshops-wonders-and-gifts",
+  "status": "source_checked_user_publication_approval_pending",
+  "sources": [
+    {
+      "key": "world-m00068",
+      "title": "OpenStax, World History Volume 2 — The Second Industrial Revolution",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00068/index.cnxml",
+      "supports": [
+        "1869년 웨스팅하우스의 공기 브레이크·이전 차량 사이 이동/수동 제동",
+        "1870년대 스위프트의 사업과 관련된 냉장 화차 개선·산업과 운송",
+        "1867자치령/1871BC 합류와 약속/1885완공·유럽계와 중국계 노동·메티스/리엘의 권리 요구"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "4d5b3fa828335a35986b545c2146ec03e432d68b64410b1369e7e16addf4be26"
+    },
+    {
+      "key": "world-m00002",
+      "title": "OpenStax, World History Volume 2 — Inventions, Innovations, and Mechanization",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00002/index.cnxml",
+      "supports": [
+        "노동시간/임금의 지역·성별·나이 차이·휴업·작업장 통제·테일러주의",
+        "다른 노동과 비교한 공장 선택·가사 사용인·여성의 자유와 제약",
+        "농업 기계·냉장 열차·통조림/소비재·산업화의 복합적 변화"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "fed8054796dcfbf769e04e4a0c5a961dbfb2cfcceff58db7790abdfeaad2f6dc"
+    },
+    {
+      "key": "world-m00005",
+      "title": "OpenStax, World History Volume 2 — Communities in Diaspora",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00005/index.cnxml",
+      "supports": [
+        "중국 남부의 빈곤/전쟁과 여러 지역으로의 이주·BC의 중국인 노동",
+        "캐나다1885 중국인 노동 이주자에 대한50달러 세금/예외/후속 인상·미국의 별도 배제법과 구별"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "b70302bdc2851fe6cd3986b087c63529fd202ca267009514090a039369173d59"
+    },
+    {
+      "key": "finance-m00004",
+      "title": "OpenStax, Principles of Finance — Importance of Data and Technology",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00004/index.cnxml",
+      "supports": [
+        "자료의 정확성/시의성·내부/외부 이용자와 서로 다른 결정·장부가치와 시장가치 구별",
+        "전자 파일/전송/클라우드/전자 문서 흔적·수정/삭제 권한과 정보 보호·분석과 예측의 조건"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "7f503fb638d1981ac5ed980413e1633d49d995a6ac7f9a3f2f37830c0e26e775"
+    },
+    {
+      "key": "finance-m00002",
+      "title": "OpenStax, Principles of Finance — What Is Finance?",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-principles-finance/main/modules/m00002/index.cnxml",
+      "supports": [
+        "금융의 자금 연결과 결제 서비스·카드/앱의 편의·지출 추적·제도와 신뢰. 개별 앱의 보호 범위를 확정하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "1b12e3006eda83b6073649dbe63a9742e62281d0b7a54e10877705f73a54afab"
+    },
+    {
+      "key": "how",
+      "title": "Archibald Williams, How It Works — Chapter X: Railway Brakes",
+      "url": "https://raw.githubusercontent.com/GITenberg/How-it-Works--13-Dealing-in-simple-language-with-steam-electricity-light-heat-sound-hydraulic__28553/master/28553-8.txt",
+      "supports": [
+        "수동/쇠사슬/증기 제동의 한계·응결/긴 편성의 조건",
+        "진공 자동/Westinghouse 자동의 구별·열차 분리 때의 자동 적용·제동력 조절. 역사적 원리를 읽으며 조작/정비 지침으로 쓰지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "2eadc16672d2b17367af7b1d1f81f5f7baab4fcf8a3855fb7c2b4146b3666d9f"
+    },
+    {
+      "key": "palace",
+      "title": "Peter Berlyn / Charles Fowler, The Crystal Palace: Its Architectural History and Constructive Marvels",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Crystal-PalaceIts-Architectural-History-and-Constructive-Marvels_44192/master/44192-8.txt",
+      "supports": [
+        "팩스턴의 온실 경험·시공사/자재 협의·짧은 건설 시간과 임시 건물의 목적",
+        "철/유리/반복 단위/유리판 크기/빗물과 이음·나무를 포함한 transept",
+        "남서쪽에서 본 외관의 당시 도판. 저자의 산업 찬양과 기술 설명을 구분"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "8c00ff4e785b240d2c66b1d6cb9ff2826559f1ac577dc2e99b70aa9619cb92d8"
+    },
+    {
+      "key": "caroline",
+      "title": "Mrs. John Herschel 편, Memoir and Correspondence of Caroline Herschel, 2nd edition (1879)",
+      "url": "https://raw.githubusercontent.com/GITenberg/Memoir-and-Correspondence-of-Caroline-Herschel_52923/master/52923-0.txt",
+      "supports": [
+        "하노버/영국과 음악·관측/계산/목록의 역할·1786년8월 일기의 첫 혜성 관측과 확인/편지",
+        "방문객/시계/장부 등 일상·연간50파운드 조수 급여와 자기 뜻대로 쓸 수 있는 첫 돈",
+        "당사자의 일기/회고/편지와 가족 편집자의 시선을 구별·92세 초상 판화"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "1ed744260aa454d76532bc9f8ef252f1bac92515b14abfbcb9f76f5c43f8e68c"
+    },
+    {
+      "key": "velazquez30316",
+      "title": "S. L. Bensusan, Velazquez — Plate II: Las Meniñas 및 작품/궁정 활동 해설",
+      "url": "https://raw.githubusercontent.com/GITenberg/Velazquez_30316/master/30316-8.txt",
+      "supports": [
+        "1656무렵의 작품·마르가리타와 시녀들·화가 자신/거울의 왕과 왕비·Prado의 작품 복제 도판",
+        "보이지 않는 캔버스와 관람자 위치는 해석의 여지를 밝힘·산티아고 기사 작위의 단순 보상설을 경계. 본문의 부정확한1658년 연대는 쓰지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "31f2cdf9a7111fe9cce218f87934ca030f5e9413474fcaf0c814b08f1d4b2946"
+    },
+    {
+      "key": "opera",
+      "title": "George P. Upton, The Standard Operas, 12th edition — La Traviata",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Standard-Operas--12th-edition---13-Their-Plots-Their-Music-and-Their-Composers_14968/master/14968-8.txt",
+      "supports": [
+        "1853베네치아/베르디/피아베/뒤마의 계보·축배/첫막의 독창/Semprelibera",
+        "시골 생활의 비용·제르몽의 요구·이별/파티의 모욕/최후 재회. 잘못된소품(초상화를던짐)과초연관객일화는사용하지않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "200a122c81f42ffe2a6e90b35606cf5ad4917d372c83191485ff4084009735bf"
+    },
+    {
+      "key": "operaglass",
+      "title": "Charles Annesley, The Standard Operaglass — La Traviata (or Violetta)",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Standard-OperaglassDetailed-Plots-of-One-Hundred-and-Fifty-one-Celebrated-Operas_24647/master/24647-8.txt",
+      "supports": [
+        "비올레타/알프레도·재산 매각과 생활·제르몽의 가족 명예 요구·떠남",
+        "플로라의 모임과 모욕·악화된 병과 화해/죽음. 원저자의 여성에 대한 도덕적 평가를 현대 사실로 반복하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "5153fa906245e932d222132393188bfec6832c7512869dcfb650f3ce536071c5"
+    },
+    {
+      "key": "magi",
+      "title": "O. Henry, The Gift of the Magi",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Gift-of-the-Magi_7256/master/7256.txt",
+      "supports": [
+        "1.87달러·델라의 머리카락/짐의 금시계·머리를 팔아 시곗줄을 삼",
+        "짐은 시계를 팔아 빗을 삼·당장 쓰지 못하는 선물·마기의 의미와 마지막 저녁. 이후 물건을 되찾았다는 결말을 추가하지 않음"
+      ],
+      "checked_at": "2026-11-01",
+      "sha256": "b55d318a1b3cbfaba6c4fe376376c366e61d796e2ea54f8dab1dfc4dc14bde26"
+    }
+  ],
+  "images": [
+    {
+      "story_id": "refrigerated-railcars-food-distance-and-time",
+      "file": "content/images/refrigerated-railcars-food-distance-and-time.png",
+      "alt": "얼음과 포장 식품을 냉장 화차에 싣고 살피는 19세기 노동자들의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 냉장 운송과 얼음·포장 작업을 떠올린 그림이며 특정 회사의 실제 화차·장비를 고증한 사진이나 설계도가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b2a6b08aa7dffb48fa58495e870bcc04b222656d4ab74a3d7231a50e8534db62"
+    },
+    {
+      "story_id": "factory-clock-workday-and-human-time",
+      "file": "content/images/factory-clock-workday-and-human-time.png",
+      "alt": "큰 벽시계 아래에서 직기와 함께 일하는 성인 노동자들의 산업화 시대 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 공장의 시계와 작업을 떠올린 그림이며 실제 공장의 근무일·인물·복장을 복원한 사진이 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "74ac6618fd7af7a3e58ead81894d8d5076e87cb8d2272a9bec8df3031dd5a5bf"
+    },
+    {
+      "story_id": "railway-air-brakes-stopping-train",
+      "file": "content/images/railway-air-brakes-stopping-train.png",
+      "alt": "정차한 증기기관차와 차량 사이의 연결을 땅에서 살피는 철도 노동자들의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 정차 중인 차량의 점검을 떠올린 그림입니다. 실제 제동 장치의 정확한 연결 방식이나 운전·정비 지침을 제공하는 도해가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7496ab2b44cc7bb960e66d1d53ecd737fac8393d2b9116de1a7597bff5ff5eba"
+    },
+    {
+      "story_id": "canadian-pacific-railway-workers-and-belonging",
+      "file": "content/images/canadian-pacific-railway-workers-and-belonging.png",
+      "alt": "산악 지형에서 선로를 놓는 중국계와 다른 철도 노동자들의 상상 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 철도 건설의 노동을 떠올린 그림이며 특정 공사일·장소·민족별 복장을 고증한 사진이 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e5e3bd97248184166b110e72fcec23589f2d11456093839de3c0fba003649448"
+    },
+    {
+      "story_id": "fintech-ledgers-screens-and-financial-data",
+      "file": "content/images/fintech-ledgers-screens-and-financial-data.png",
+      "alt": "옛 장부와 현대 휴대전화의 거래 항목을 함께 놓아 금융 기록의 전자화를 표현한 개념 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 장부와 화면의 연결을 표현한 개념 그림입니다. 특정 금융 앱의 실제 화면이나 거래·보호 범위를 보여 주는 자료가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b2be0a828075596eda8655947dec07bf3a7eeb93aa62ea7e1fabf92a0313a74b"
+    },
+    {
+      "story_id": "crystal-palace-greenhouse-and-prefabrication",
+      "file": "content/images/crystal-palace-greenhouse-and-prefabrication.jpg",
+      "alt": "길게 반복되는 철과 유리, 높은 가로 공간이 보이는 수정궁의 옛 외관 그림",
+      "type": "artwork",
+      "label": "수정궁의 당시 외관 도판",
+      "credit": "Peter Berlyn / Charles Fowler, The Crystal Palace 수록 General View of the Building from the South-West · Project Gutenberg · Public Domain. 당대의 도판이며 현대 사진이나 AI 복원도가 아닙니다. 원본 파일 그대로 사용했습니다.",
+      "source_url": "https://raw.githubusercontent.com/GITenberg/The-Crystal-PalaceIts-Architectural-History-and-Constructive-Marvels_44192/master/44192-h/images/p40f.jpg",
+      "license": "Public Domain",
+      "width": 2769,
+      "height": 1614,
+      "sha256": "3b5c60e93b0f6631bec7ed5e8ba576016365b04e5ecb92b3f8c4f80b62b7823e"
+    },
+    {
+      "story_id": "caroline-herschel-comet-notebook-and-salary",
+      "file": "content/images/caroline-herschel-comet-notebook-and-salary.jpg",
+      "alt": "보닛을 쓴 92세 캐롤라인 허셜을 묘사한 조지프 브라운의 옛 초상 판화",
+      "type": "artwork",
+      "label": "캐롤라인 허셜의 옛 초상 판화",
+      "credit": "Joseph Brown 조각 · Memoir and Correspondence of Caroline Herschel, 2nd edition (1879), frontispiece, ÆTAT 92 · Project Gutenberg · Public Domain. 92세 초상으로 표시된 판화이며 1786년 관측 당시의 사진이 아닙니다.",
+      "source_url": "https://raw.githubusercontent.com/GITenberg/Memoir-and-Correspondence-of-Caroline-Herschel_52923/master/52923-h/images/i_004.jpg",
+      "license": "Public Domain",
+      "width": 375,
+      "height": 500,
+      "sha256": "2f5dc69d7c95beaed5e9586583b617536607e26d80730a5f986b560670260742"
+    },
+    {
+      "story_id": "las-meninas-painter-mirror-and-viewer",
+      "file": "content/images/las-meninas-painter-mirror-and-viewer.jpg",
+      "alt": "화가 벨라스케스와 마르가리타 공주, 시녀들과 뒤쪽 거울이 있는 시녀들의 실제 작품 도판",
+      "type": "artwork",
+      "label": "실제 작품의 옛 복제 도판",
+      "credit": "Diego Velázquez (1599–1660), Las Meninas · S. L. Bensusan, Velazquez, Plate II 수록 복제 도판 · Project Gutenberg · Public Domain. 옛 인쇄물의 색과 명암은 원화와 다를 수 있습니다. 원본 파일 그대로 사용했습니다.",
+      "source_url": "https://raw.githubusercontent.com/GITenberg/Velazquez_30316/master/30316-h/images/img-014.jpg",
+      "license": "Public Domain",
+      "width": 1363,
+      "height": 1877,
+      "sha256": "9b57c5d781f85a8bb421ceb07422cff0c06fc3d276f545269cbbefcd1ac14d76"
+    },
+    {
+      "story_id": "la-traviata-violetta-party-and-silence",
+      "file": "content/images/la-traviata-violetta-party-and-silence.png",
+      "alt": "파티의 불빛에서 조금 떨어져 편지와 꽃 곁에 앉은 비올레타의 상상 무대 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 오페라의 사교 생활과 외로움을 떠올린 독립 그림이며 실제 초연의 무대·배우·장면을 고증한 자료가 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4f72c948d276bdc9d9e010d6e94fb34f200645c78ead91c2f43bc0325e5d938b"
+    },
+    {
+      "story_id": "gift-magi-watch-chain-and-combs",
+      "file": "content/images/gift-magi-watch-chain-and-combs.png",
+      "alt": "짧은 머리의 델라가 시곗줄을 들고 짐이 머리 장식 빗을 건네는 소설 장면 삽화",
+      "type": "ai_illustration",
+      "label": "AI 이야기 장면 삽화",
+      "credit": "AI 이야기 장면 삽화 · 소설의 선물 교환을 떠올린 독립 삽화이며 실제 인물 사진이나 기존 영화/삽화를 복제한 장면이 아닙니다.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9838d56228cf476a898909a36d40c7b155ad5435dc282a708d354a4a440dd3c4"
+    }
+  ],
+  "notes": [
+    "신규 10편은 검토 대기다. 이전 검토용 10편의 승인 상태를 바꾸지 않았으며 공개 홈페이지268편을 유지한다. 자동 제작과 예약은 계속 비활성화다.",
+    "Food1/HistoryEurope1/HistoryAmerica1/Engineering1/Fintech1/Architecture1/Physics1/Art1/Music1/Literature1. 한 원고는 한 세부 주제에만 저장한다. 기존 제목과 중심 소재를 검색해 중복을 피했다. Fintech에 첫 원고를 준비했으며 세부 주제의 원고 보유와 공개 승인을 구별한다.",
+    "각 본문2332–2856자로 기존 수준을 유지했다. 확인한 문헌/해설의 관련 대목에 근거해 독립적으로 집필하고 역사적 사실과 해석·일반적 원리를 구별했다. 소설/오페라는 결말을 포함함을 알린다.",
+    "냉장 화차는1870년대Swift사업과 관련된 개선을 썼다. 단독 최초 발명이라고 단정하지 않았다. 전기 냉장고/얼음·단열·공기/통조림의 다른 보존 원리를 합치지 않았고 유통의 일반 원리와 특정 날짜의 사건을 구분했다.",
+    "공장의 시간은 지역·성별·나이 차이를 유지했다. 모든 공장이 동일한 시간을 일했다고 하지 않았으며 Taylor의1911년 책과 과학적 관리, 기존의 긴 노동을 같은 시기로 합치지 않았다. 교재의 특정지역일반화/노동자의이유를 단일화하지않았다.",
+    "철도는 OpenStax의1869변화와Williams의후대자동제동설명을구별했다. 초기공기브레이크가동일한최종자동장치라고하지않았다. 진공/압축공기방식과쇠사슬/증기의한계를읽었으며조작·정비·개조법이나현대모든차량의동일설계를제시하지않았다.",
+    "캐나다는1871BC가입의기한약속과1885실제완공을구분했다. 메티스/리엘의땅·문화우려,중국남부이주원인/BC노동,1885중국인이민세50달러와예외를대조했다. 교재의캐나다가아시아인이민을금지하지않았다는포괄문장은1923후속배제와충돌하므로반복하지않았다. 출처없는사망수나노동자대화를덧붙이지않았다.",
+    "핀테크는기술과금융의접점을기록·정보전달·정확성·전자흔적·클라우드·권한으로설명한다. 특정최초앱/은행의연대사를만들지않았고디지털서비스전부가은행/예금이라는주장을피했다. 교재의2021Peloton주가/성공평가를현재시점의정보나추천으로옮기지않았다.",
+    "수정궁은Berlyn/Fowler의당대건설서에서Paxton자신의온실경험설명과구조·제작·배수·나무/가로공간을읽었다. 찬양의시선과확인가능한구조를구별했다. 출처를읽지않은이후이전/화재/파괴장면이나명칭최초발명일화를추가하지않았다.",
+    "캐롤라인은1879제2판의당사자기록과가족편집을구분했다.1786년8월1일의의심/후속확인/편지,목록/시계/지출,연50파운드와첫분기자기돈의의미를읽었다. 세계최초라는순위나여덟개가모두독립최초발견이라는단정을하지않았다.92세초상과젊은관측자의시점을구별했다.",
+    "시녀들은Bensusan PlateII의1656무렵/Prado/마르가리타/거울을대조했다. 왕과왕비를그리는중이라는저자의해석을보이지않는캔버스의직접확인으로바꾸지않았다. 작위의1658연대와작품보상설을쓰지않았고옛저자의외모/신분평가를반복하지않았다.",
+    "트라비아타는Upton의음악과Annesley의주요사건을대조했다. Upton의초상화를던졌다는잘못된소품과초연가수외모조롱일화를반복하지않았다.1853베네치아/베르디/피아베/뒤마계보를밝혔다. 여성의도덕성에대한옛평가를현대규범으로받아들이지않았다.",
+    "크리스마스선물은O.Henry원문의1.87달러·머리카락판매/시곗줄·시계판매/빗·마기·저녁을읽었다. 이후물건을되찾는결말을추가하지않았고가난이나희생을모든사람의생활규칙으로낭만화하지않았다.",
+    "이미지10장을육안확인했다.3장은실제미술작품의옛복제/92세초상판화/수정궁당대도판이다. 원본파일그대로복사하고URL/크레디트/PD/해시를기록했다.7장은AI삽화이며실제사진·인물·장치의정밀고증이나특정금융앱의화면이아님을명시했다.",
+    "사용자최종선호에따라GitHub검토원고에는소제목번호만표시하고앞부분바로가기목록을넣지않는다. 홈페이지의기존옆면바로가기는변경하지않는다. 신규원고의자동번호와이미지·출처를검사한다."
+  ],
+  "validation": {
+    "unit_tests_passed": 36,
+    "new_stories": 10,
+    "manuscripts": 291,
+    "approved_public_articles": 268,
+    "review_only_total": 20,
+    "subcategories_with_manuscripts": 43,
+    "draft_desktop_mobile_views_checked": 20,
+    "images_visually_inspected": 10,
+    "actual_images": 3,
+    "ai_illustrations": 7,
+    "image_decode_and_source_links": "passed",
+    "github_numbered_headings_without_front_outline": "passed on all ten drafts",
+    "website_numbered_sidebar": "existing layout verified without changes",
+    "body_characters": {
+      "minimum": 2332,
+      "maximum": 2856
+    },
+    "new_publications": 0,
+    "scheduled_generation_enabled": false
+  }
+}

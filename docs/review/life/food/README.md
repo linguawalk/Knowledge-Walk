@@ -10,5 +10,6 @@
 | [수저를 넣는 주머니에 바람을 수놓았다](embroidered-spoon-pouch.md) | 자료 대조·공개 게시 승인 완료 |
 | [토르티야 앞에는 돌 두 개가 있었다](mexico-tortilla-grinding-stone.md) | 자료 대조·공개 게시 승인 완료 |
 | [팝콘 한 알은 어떻게 저렇게 커질까](popcorn-little-explosion.md) | 자료 대조·공개 게시 승인 완료 |
+| [냉장 열차 — 식탁에 오기까지 음식은 얼마나 멀리 왔을까](refrigerated-railcars-food-distance-and-time.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [옥수수와 콩, 호박은 왜 세 자매일까](three-sisters-garden.md) | 자료 대조·공개 게시 승인 완료 |
 | [중국의 명절 음식에는 잎사귀 포장이 있다](zongzi-leaf-parcel.md) | 자료 대조·공개 게시 승인 완료 |

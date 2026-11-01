@@ -16,6 +16,7 @@
 | [엘리제를 위하여 — 익숙한 선율 앞에 남은 이름](fur-elise-title-and-theme.md) | 자료 대조·공개 게시 승인 완료 |
 | [골드베르크 변주곡 — 같은 음악이 돌아와도 다르게 들리는 이유](goldberg-variations-return.md) | 자료 대조·공개 게시 승인 완료 |
 | [하프 줄에는 왜 빨간색이 섞여 있을까](harp-colored-strings.md) | 자료 대조·공개 게시 승인 완료 |
+| [『라 트라비아타』 — 축배가 끝난 뒤 비올레타에게 남은 것](la-traviata-violetta-party-and-silence.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [『피가로의 결혼』 — 결혼식 날 가장 바쁜 것은 누구일까](marriage-figaro-countess-susanna-garden.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [대금에도 반짝이는 꽃무늬가 있었다](metal-flute-inlaid-flowers.md) | 자료 대조·공개 게시 승인 완료 |
 | [금속으로 만든 플루트는 왜 목관악기일까](metal-flute-woodwind-family.md) | 자료 대조·공개 게시 승인 완료 |

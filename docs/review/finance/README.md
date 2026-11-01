@@ -10,4 +10,4 @@
 | [Banking](banking/README.md) | 4편 |
 | [Insurance](insurance/README.md) | 2편 |
 | [Investment](investment/README.md) | 6편 |
-| [Fintech](fintech/README.md) | 0편 |
+| [Fintech](fintech/README.md) | 1편 |
