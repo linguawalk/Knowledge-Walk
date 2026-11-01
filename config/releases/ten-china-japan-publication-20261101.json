@@ -14,11 +14,20 @@
     "momotaro-dumplings-and-companions",
     "urashima-taro-box-and-lost-time"
   ],
-  "deployment_status": "pending",
+  "deployment_status": "live_verified",
   "expected_live_story_count": 288,
   "public_collection_url": "https://knowledgewalk.net/collections/20261101-ten-china-japan-objects-and-stories/index.html",
   "country_preview_urls": {
     "중국": "https://knowledgewalk.net/collections/site-redesign/net/categories/asia-oceania/중국/index.html",
     "일본": "https://knowledgewalk.net/collections/site-redesign/net/categories/asia-oceania/일본/index.html"
-  }
+  },
+  "verified_at": "2026-11-01T13:11:58.523098+09:00",
+  "live_story_count": 288,
+  "verified_new_story_count": 10,
+  "verified_public_response_count": 37,
+  "country_preview_story_counts": {
+    "net": 171,
+    "kr": 117
+  },
+  "verification": "새 글 10편·이미지 10개·국가 미리보기 글 10편·중국/일본 목록·첫 화면·검색·모음 등 HTTPS 응답 37개를 저장소 파일과 바이트 대조. 로컬 검사 41개, PC·모바일 48개 화면 확인 통과."
 }
