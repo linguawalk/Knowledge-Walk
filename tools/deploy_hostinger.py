@@ -107,7 +107,7 @@ def main():
 if __name__=='__main__':
     try:main()
     except ssl.SSLCertVerificationError:
-        print('TLS server identity could not be verified. No authenticated upload was attempted; a verified Hostinger FTP hostname is required.',file=sys.stderr);sys.exit(1)
+        print('TLS server identity could not be verified. Transfer stopped; no plaintext fallback was used. A verified Hostinger FTP hostname is required.',file=sys.stderr);sys.exit(1)
     except (ValueError,ftplib.Error,OSError):
         # Do not print server replies that might contain authentication details.
         print('Hostinger connection/deployment stopped. Check the encrypted password, verified TLS hostname and kr directory. No plaintext fallback was used.',file=sys.stderr);sys.exit(1)
