@@ -49,3 +49,13 @@ net에 남는 171편은 `/stories/{id}/index.html` 주소를 유지합니다. kr
 과거의 분야·소주제·묶음 주소도 각 글의 소유 사이트로 연결되게 유지합니다. 검토 원고 13편은 두 공개 사이트 모두에서 제외합니다. 원문·출처·이미지 권리 표시는 바꾸지 않습니다. 각 사이트의 본문은 서로 겹치지 않는 검색 목록으로 제공하며, 기존 미리보기의 이미지 호환을 위해 과거 공개 이미지 경로도 유지합니다.
 
 새 국가 분류와 kr 배치가 실제로 달라지면 `config/proposals/net-kr-story-placement.json`을 먼저 갱신합니다. 폴더명이나 본사·박물관의 소재지로 자동 재분류하지 않습니다. 자동 글 생성은 활성화하지 않았습니다.
+
+## AI 직접 업로드 연결
+
+`.github/workflows/hostinger-kr.yml`은 수동 실행만 가능하며 기본값은 파일을 바꾸지 않는 연결 검사입니다. 직접 게시 요청을 받은 경우에만 `publish: true`로 실행합니다. `tools/deploy_hostinger.py`는 암호화된 FTPS만 사용하고 서버 인증서 확인을 끄거나 평문 FTP로 전환하지 않습니다. 서버 주소 145.79.26.89, 사용자 u250225041, 대상 knowledgewalk.kr의 public_html은 사용자가 보여 준 Hostinger 화면에서 확인했습니다.
+
+GitHub 저장소의 [비밀정보 추가 화면](https://github.com/linguawalk/Knowledge-Walk/settings/secrets/actions/new)에서 이름 `HOSTINGER_FTP_PASSWORD`에 FTP 비밀번호를 등록합니다. 채팅이나 저장소 파일에는 비밀번호를 넣지 않습니다. 환경의 HTTPS 프록시 비밀정보를 FTP 인증에 사용할 수 있다고 가정하지 않습니다. GitHub 실행 환경이 비밀정보를 직접 받아 업로드하며 AI는 값을 읽을 필요가 없습니다.
+
+실제 연결에서 서버 인증서의 이름이나 계정 내 경로가 다르면 업로드를 중단합니다. 해당 경우 정확한 서버 호스트명을 확인해 저장소 변수 `HOSTINGER_FTPS_HOST`에 지정합니다. IP 주소가 있다는 이유로 인증서 검사를 해제하지 않습니다. 대상 경로가 knowledgewalk.kr임을 확인하지 못해도 업로드하지 않습니다. 일반 FTP 연결 화면만으로 FTPS·로그인·업로드의 성공까지 확인된 것은 아닙니다.
+
+게시할 때는 일반 파일과 이미지를 먼저 올리고 `.htaccess`·`index.html`을 마지막에 반영합니다. 기존 두 파일은 숨김 백업 이름으로 보관합니다. WordPress와 art 폴더를 삭제하는 동작은 없습니다. 업로드 후 실제 HTTPS 확인이 끝나야 `kr_live`를 활성화합니다.
