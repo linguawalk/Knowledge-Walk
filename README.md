@@ -206,4 +206,4 @@ python3 tests/browser_check.py
 
 ## net·kr 분리 게시
 
-현재 공개 생성은 `config/deployment.json`의 분리 모드를 따릅니다. net은 국가 중심 171편, kr은 주제 중심 117편입니다. 두 사이트는 같은 원고 저장소에서 독립 게시본으로 생성됩니다. kr은 기존 Hostinger 업로드 연결 전이며, 그동안 주제 사이트는 net의 `/knowledge/`에서 읽을 수 있습니다. [게시 구성·Hostinger 반영·주소 보존 안내](docs/domain-split-publication.md)를 참고합니다.
+현재 공개 생성은 `config/deployment.json`의 분리 모드를 따릅니다. net은 국가 중심 171편, kr은 주제 중심 127편입니다. 두 사이트는 같은 원고 저장소에서 독립 게시본으로 생성됩니다. kr은 기존 Hostinger 업로드 연결 전이며, 그동안 주제 사이트는 net의 `/knowledge/`에서 읽을 수 있습니다. [게시 구성·Hostinger 반영·주소 보존 안내](docs/domain-split-publication.md)를 참고합니다.

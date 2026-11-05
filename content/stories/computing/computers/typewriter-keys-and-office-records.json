@@ -89,9 +89,9 @@
     "width": 400,
     "height": 315
   },
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
-  "approved_by": null,
-  "approved_at": null
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 및 net 콘텐츠 10개 생성 요청",
+  "approved_at": "2026-11-05"
 }

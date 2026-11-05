@@ -1,6 +1,6 @@
 # kr 주제별 원고 배치표
 
-2026-11-05 기준. kr 게시본은 준비되었으며 Hostinger 연결이 남아 있습니다. 게시 상태는 기존 net 주소·임시 주제 경로를 포함한 공개 여부를 뜻합니다. 새 검토 원고 10편은 게시하지 않았습니다.
+2026-11-05 기준. kr 도메인은 Hostinger 연결이 남아 있습니다. 게시 상태는 기존 net 주소·임시 주제 경로를 포함한 공개 여부입니다.
 
 ## 기업과 산업
 
@@ -10,26 +10,26 @@
 |---|---|---|---|
 | [3M — 잘 붙지 않는 접착제의 쓸모](../../content/stories/companies/technology/postit-weak-glue-new-use.json) | 게시 중 | 기업과 산업 / 창업과 성장 | 특정 국가의 소개보다 창업과 성장의 변화·원리·사례가 중심인 글. |
 
-### 경영과 조직 — 4편 (게시 중 3편)
+### 경영과 조직 — 4편 (게시 중 4편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [자포스 — 상사를 없애면 일은 누가 정할까](../../content/stories/companies/fashion/zappos-circles-and-responsibility.json) | 게시 중 | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 변화·원리·사례가 중심인 글. |
 | [픽사 — 한 장면을 여러 사람이 함께 만들려면](../../content/stories/companies/media/pixar-openusd-many-artists.json) | 게시 중 | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 변화·원리·사례가 중심인 글. |
 | [풀먼 — 회사가 집까지 마련해 주면 행복할까](../../content/stories/companies/technology/pullman-town-wages-and-rent.json) | 게시 중 | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 변화·원리·사례가 중심인 글. |
-| [스탠더드오일 — 석유 회사는 왜 문어로 그려졌을까](../../content/stories/companies/technology/standard-oil-octopus-and-competition.json) | 미게시 · verified | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [스탠더드오일 — 석유 회사는 왜 문어로 그려졌을까](../../content/stories/companies/technology/standard-oil-octopus-and-competition.json) | 게시 중 | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 
-### 공장과 생산 — 5편 (게시 중 4편)
+### 공장과 생산 — 5편 (게시 중 5편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [BMW — 독일 자동차를 미국에서 만들면](../../content/stories/companies/automotive/bmw-car-made-across-borders.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글. |
 | [포드의 조립라인 — 사람이 차를 찾아다니지 않게 되자](../../content/stories/companies/automotive/ford-moving-assembly.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글. |
 | [토요타 — 창고가 가득 차면 안심해도 될까](../../content/stories/companies/automotive/toyota-inventory-and-timing.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글. |
-| [카네기 — 철강 공장보다 길었던 생산의 사슬](../../content/stories/companies/technology/carnegie-steel-chain-and-homestead.json) | 미게시 · verified | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [카네기 — 철강 공장보다 길었던 생산의 사슬](../../content/stories/companies/technology/carnegie-steel-chain-and-homestead.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 | [델 — 주문을 먼저 듣고 컴퓨터를 만들면](../../content/stories/companies/technology/dell-order-before-computer.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글. |
 
-### 상업과 유통 — 7편 (게시 중 6편)
+### 상업과 유통 — 7편 (게시 중 7편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -39,7 +39,7 @@
 | [에어비앤비 — 빈방을 연결하면 생기는 일](../../content/stories/companies/technology/airbnb-room-and-neighborhood.json) | 게시 중 | 기업과 산업 / 상업과 유통 | 특정 국가의 소개보다 상업과 유통의 변화·원리·사례가 중심인 글. |
 | [아마존 — 주문 버튼 뒤에는 무엇이 남아 있을까](../../content/stories/companies/technology/amazon-order-and-warehouse.json) | 게시 중 | 기업과 산업 / 상업과 유통 | 특정 국가의 소개보다 상업과 유통의 변화·원리·사례가 중심인 글. |
 | [박스드 — 차 없이도 창고형 쇼핑을 할 수 있을까](../../content/stories/companies/technology/boxed-bulk-shopping-without-car.json) | 게시 중 | 기업과 산업 / 상업과 유통 | 특정 국가의 소개보다 상업과 유통의 변화·원리·사례가 중심인 글. |
-| [시어스 — 시골집 식탁에 백화점 한 권이 도착했다](../../content/stories/companies/technology/sears-catalog-price-and-rural-door.json) | 미게시 · verified | 기업과 산업 / 상업과 유통 | 특정 국가의 소개보다 상업과 유통의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [시어스 — 시골집 식탁에 백화점 한 권이 도착했다](../../content/stories/companies/technology/sears-catalog-price-and-rural-door.json) | 게시 중 | 기업과 산업 / 상업과 유통 | 특정 국가의 소개보다 상업과 유통의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 
 ### 브랜드와 소비 — 7편 (게시 중 7편)
 
@@ -55,14 +55,14 @@
 
 ## 컴퓨터와 디지털
 
-### 컴퓨터의 역사 — 4편 (게시 중 2편)
+### 컴퓨터의 역사 — 4편 (게시 중 4편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [배비지 — 베틀의 카드에서 계산의 순서를 보다](../../content/stories/computing/computers/babbage-jacquard-cards-and-calculation.json) | 게시 중 | 컴퓨터와 디지털 / 컴퓨터의 역사 | 특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·사례가 중심인 글. |
 | [작은 마우스가 함께 등장한 큰 시연](../../content/stories/computing/computers/engelbart-mouse-demo.json) | 게시 중 | 컴퓨터와 디지털 / 컴퓨터의 역사 | 특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·사례가 중심인 글. |
-| [에니악 — 계산은 빨라졌는데 문제를 바꾸는 데는 시간이 걸렸다](../../content/stories/computing/computers/eniac-changing-problem-and-human-work.json) | 미게시 · verified | 컴퓨터와 디지털 / 컴퓨터의 역사 | 특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·역사를 중심으로 한 새 검토 원고. |
-| [타자기 — 글씨를 잘 쓰는 손보다 필요한 것이 생겼다](../../content/stories/computing/computers/typewriter-keys-and-office-records.json) | 미게시 · verified | 컴퓨터와 디지털 / 컴퓨터의 역사 | 특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [에니악 — 계산은 빨라졌는데 문제를 바꾸는 데는 시간이 걸렸다](../../content/stories/computing/computers/eniac-changing-problem-and-human-work.json) | 게시 중 | 컴퓨터와 디지털 / 컴퓨터의 역사 | 특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [타자기 — 글씨를 잘 쓰는 손보다 필요한 것이 생겼다](../../content/stories/computing/computers/typewriter-keys-and-office-records.json) | 게시 중 | 컴퓨터와 디지털 / 컴퓨터의 역사 | 특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 
 ### 소프트웨어 — 5편 (게시 중 5편)
 
@@ -119,23 +119,23 @@
 
 ## 돈과 금융
 
-### 돈과 화폐 — 5편 (게시 중 3편)
+### 돈과 화폐 — 5편 (게시 중 4편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [금 한 온스와 보통 한 온스는 무게가 다르다](../../content/stories/finance/investment/troy-ounce-weight.json) | 게시 중 | 돈과 금융 / 돈과 화폐 | 특정 국가의 소개보다 돈과 화폐의 변화·원리·사례가 중심인 글. |
 | [동전 가장자리에는 왜 작은 톱니가 있을까](../../content/stories/finance/money/coin-ridged-edge.json) | 미게시 · pending | 돈과 금융 / 돈과 화폐 | 특정 국가의 소개보다 돈과 화폐의 변화·원리·사례가 중심인 글. |
-| [금과 은 — 어떤 금속을 돈으로 쓸지가 생계의 문제가 되었다](../../content/stories/finance/money/gold-silver-debate-debt-and-prices.json) | 미게시 · verified | 돈과 금융 / 돈과 화폐 | 특정 국가의 소개보다 돈과 화폐의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [금과 은 — 어떤 금속을 돈으로 쓸지가 생계의 문제가 되었다](../../content/stories/finance/money/gold-silver-debate-debt-and-prices.json) | 게시 중 | 돈과 금융 / 돈과 화폐 | 특정 국가의 소개보다 돈과 화폐의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 | [물가 — 지갑 속 돈은 같은데 왜 덜 살 수 있을까](../../content/stories/finance/money/inflation-price-tag-and-purchasing-power.json) | 게시 중 | 돈과 금융 / 돈과 화폐 | 특정 국가의 소개보다 돈과 화폐의 변화·원리·사례가 중심인 글. |
 | [존 로 — 종이돈과 미시시피의 꿈은 어떻게 엮였을까](../../content/stories/finance/money/john-law-paper-money-and-mississippi.json) | 게시 중 | 돈과 금융 / 돈과 화폐 | 프랑스의 사례를 사용하지만 화폐·신용과 기대의 작동이 중심이므로 kr 우선. |
 
-### 은행과 신용 — 5편 (게시 중 4편)
+### 은행과 신용 — 5편 (게시 중 5편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [은행 앞에 줄이 길어지면 — 돈과 믿음의 시간차](../../content/stories/finance/banking/bank-run-lombard-street.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글. |
 | [예금자보호 — 은행의 약속 뒤에 안전망을 둔 이유](../../content/stories/finance/banking/deposit-insurance-bank-and-safety-net.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글. |
-| [연준의 탄생 — 은행을 위한 은행은 누가 운영해야 할까](../../content/stories/finance/banking/federal-reserve-1913-regions-and-credit.json) | 미게시 · verified | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [연준의 탄생 — 은행을 위한 은행은 누가 운영해야 할까](../../content/stories/finance/banking/federal-reserve-1913-regions-and-credit.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 | [매달 갚는데 왜 원금은 조금 줄어들까](../../content/stories/finance/banking/loan-payment-principal-interest.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글. |
 | [1933년의 은행 휴일 — 문을 닫고 신뢰를 되찾으려 한 이유](../../content/stories/finance/banking/roosevelt-bank-holiday-and-radio.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글. |
 
@@ -201,7 +201,7 @@
 | [여섯 개의 점으로 얼마나 많은 모양을 만들까](../../content/stories/science/mathematics/braille-six-dots.json) | 게시 중 | 과학과 발견 / 수학과 측정 | 특정 국가의 소개보다 수학과 측정의 변화·원리·사례가 중심인 글. |
 | [그림자로 지구를 잰 사람 — 에라토스테네스의 계산](../../content/stories/science/mathematics/eratosthenes-shadow-earth-circumference.json) | 게시 중 | 과학과 발견 / 수학과 측정 | 특정 국가의 소개보다 수학과 측정의 변화·원리·사례가 중심인 글. |
 
-### 과학자의 발견 — 16편 (게시 중 13편)
+### 과학자의 발견 — 16편 (게시 중 15편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -212,8 +212,8 @@
 | [존 스노 — 펌프 손잡이보다 먼저 바꾼 질문](../../content/stories/science/biology/john-snow-pump-and-evidence.json) | 게시 중 | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글. |
 | [멘델 — 사라진 것 같던 흰 꽃은 왜 다시 피었을까](../../content/stories/science/biology/mendel-peas-and-returning-traits.json) | 게시 중 | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글. |
 | [파스퇴르 — 공기는 들어오는데 왜 썩지 않았을까](../../content/stories/science/biology/pasteur-swan-neck-air-and-dust.json) | 게시 중 | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글. |
-| [페니실린 — 곰팡이를 발견한 날에 약이 완성된 것은 아니었다](../../content/stories/science/biology/penicillin-mold-to-medicine-team.json) | 미게시 · verified | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·역사를 중심으로 한 새 검토 원고. |
-| [제멜바이스 — 의사의 손이 지나온 길을 묻다](../../content/stories/science/biology/semmelweis-handwashing-and-hospital-wards.json) | 미게시 · verified | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [페니실린 — 곰팡이를 발견한 날에 약이 완성된 것은 아니었다](../../content/stories/science/biology/penicillin-mold-to-medicine-team.json) | 게시 중 | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [제멜바이스 — 의사의 손이 지나온 길을 묻다](../../content/stories/science/biology/semmelweis-handwashing-and-hospital-wards.json) | 게시 중 | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 | [멘델레예프 — 표를 완성하려고 빈칸을 남기다](../../content/stories/science/chemistry/mendeleev-empty-spaces-and-elements.json) | 게시 중 | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글. |
 | [캐롤라인 허셜 — 혜성을 찾은 밤에도 장부는 남아 있었다](../../content/stories/science/physics/caroline-herschel-comet-notebook-and-salary.json) | 게시 중 | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글. |
 | [갈릴레오 — 망원경을 밤하늘로 돌리던 때](../../content/stories/science/physics/galileo-telescope-changed-sky.json) | 게시 중 | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글. |
@@ -235,12 +235,12 @@
 
 현재 배치할 원고가 없습니다.
 
-### 집과 생활 도구 — 2편 (게시 중 1편)
+### 집과 생활 도구 — 2편 (게시 중 2편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [시계에도 작은 문이 달린 집이 있었다](../../content/stories/history/korea/clock-little-door-case.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 집과 생활 도구 | 제작국 근거가 부족하므로 한국 소장품이라는 이유만으로 한국 역사로 분류하지 않음. 보관 도구의 구조 중심으로 kr 배치. |
-| [엘리베이터 — 위로 가는 힘보다 멈출 수 있다는 믿음](../../content/stories/life/housing/safety-elevator-building-height-and-trust.json) | 미게시 · verified | 생활을 바꾼 물건과 기술 / 집과 생활 도구 | 특정 국가의 소개보다 집과 생활 도구의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [엘리베이터 — 위로 가는 힘보다 멈출 수 있다는 믿음](../../content/stories/life/housing/safety-elevator-building-height-and-trust.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 집과 생활 도구 | 특정 국가의 소개보다 집과 생활 도구의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 
 ### 이동과 운송 — 2편 (게시 중 2편)
 
