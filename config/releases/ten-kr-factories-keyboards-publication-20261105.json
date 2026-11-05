@@ -18,5 +18,10 @@
   "kr_stories": 127,
   "temporary_collection_url": "https://knowledgewalk.net/knowledge/collections/20261105-ten-kr-factories-keyboards-and-discoveries/index.html",
   "kr_domain_connected": false,
-  "deployment_status": "pending"
+  "deployment_status": "temporary_live_verified",
+  "verified_at": "2026-11-05",
+  "live_checked_story_count": 10,
+  "pages_run_id": 41976286252,
+  "hostinger_check_run_id": 41975564827,
+  "hostinger_blocker": "HOSTINGER_FTP_PASSWORD 미등록; 읽기 전용 검사 종료 코드 2. 업로드 단계 미실행."
 }

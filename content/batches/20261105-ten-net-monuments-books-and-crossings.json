@@ -1,0 +1,28 @@
+{
+  "id": "20261105-ten-net-monuments-books-and-crossings",
+  "title": "net 새 이야기 10편 — 궁전과 성당, 책과 바닷길",
+  "story_ids": [
+    "taj-mahal-marble-memory",
+    "eiffel-tower-iron-and-exhibition",
+    "alhambra-water-and-stories",
+    "bremen-old-animals-and-new-home",
+    "pinocchio-schoolbook-and-responsibility",
+    "notre-dame-novel-and-misunderstood-love",
+    "liberty-lazarus-and-harbor-poem",
+    "rio-1808-court-crosses-atlantic",
+    "abu-simbel-temple-and-rescue",
+    "mecca-pilgrimage-and-city"
+  ],
+  "countries": {
+    "taj-mahal-marble-memory": "인도",
+    "eiffel-tower-iron-and-exhibition": "프랑스",
+    "alhambra-water-and-stories": "스페인",
+    "bremen-old-animals-and-new-home": "독일",
+    "pinocchio-schoolbook-and-responsibility": "이탈리아",
+    "notre-dame-novel-and-misunderstood-love": "프랑스",
+    "liberty-lazarus-and-harbor-poem": "미국",
+    "rio-1808-court-crosses-atlantic": "브라질",
+    "abu-simbel-temple-and-rescue": "이집트",
+    "mecca-pilgrimage-and-city": "사우디아라비아"
+  }
+}

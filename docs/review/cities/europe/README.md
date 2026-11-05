@@ -6,6 +6,7 @@
 |---|---|
 | [아테네 — 파르테논은 누구의 돈으로 지었을까](athens-parthenon-and-tribute.md) | 자료 대조·공개 게시 승인 완료 |
 | [코르도바 — 오렌지나무 뒤에서 지중해를 만나다](cordoba-oranges-and-connections.md) | 자료 대조·공개 게시 승인 완료 |
+| [에펠탑 — 박람회의 철골은 어떻게 파리의 얼굴이 되었을까](eiffel-tower-iron-and-exhibition.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [아야 소피아 — 큰 지붕 아래 여러 시대가 머물다](istanbul-hagia-sophia-many-times.md) | 자료 대조·공개 게시 승인 완료 |
 | [런던 — 지독한 냄새가 도시의 밑바닥을 바꾸다](london-great-stink-and-sewers.md) | 자료 대조·공개 게시 승인 완료 |
 | [폼페이 — 이집트의 여신은 어떻게 이곳에 왔을까](pompeii-isis-small-temple.md) | 자료 대조·공개 게시 승인 완료 |

@@ -1,12 +1,12 @@
-# net 국가별 기존 원고 배치안
+# net 국가별 원고 배치표
 
-실제 이동·게시를 하지 않은 검토용 배치표입니다. 원고 링크는 기존 JSON 원본으로 연결됩니다. 국가 명칭은 탐색 위치이며 과거 문명·공동체의 소유권이나 당대 국적을 뜻하지 않습니다.
+2026-11-05 기준. 게시 승인 원고는 국가 중심 net에 공개하고, 새 원고 10편은 검토 상태로 보관합니다. 국가 명칭은 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않습니다.
 
 ## 아시아대양주
 
 ### 한국 — 25편 (게시 중 24편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [경회루 연못에서는 왜 청동 용이 나왔을까](../../content/stories/cities/asia/gyeonghoeru-pond-dragon.json) | 게시 중 | 한국 / 도시 | 한국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [궁궐 지붕 위에는 낯선 동물이 앉아 있었다](../../content/stories/cities/asia/palace-roof-pangolin.json) | 게시 중 | 한국 / 도시 | 한국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
@@ -36,7 +36,7 @@
 
 ### 일본 — 9편 (게시 중 9편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [에도 — 영주들은 왜 자꾸 길을 떠났을까](../../content/stories/cities/asia/edo-daimyo-road-and-residence.json) | 게시 중 | 일본 / 도시 | 일본의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [교토 — 궁정의 하루는 소설 속에 남았다](../../content/stories/cities/asia/kyoto-genji-court-and-snow.json) | 게시 중 | 일본 / 도시 | 일본의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
@@ -50,7 +50,7 @@
 
 ### 중국 — 11편 (게시 중 11편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [자금성 — 문을 지나면 황제에게 가까워졌을까](../../content/stories/cities/asia/beijing-forbidden-city-gates-and-distance.json) | 게시 중 | 중국 / 도시 | 중국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [장안 — 수도의 거리에는 어떤 말과 음악이 흘렀을까](../../content/stories/cities/asia/changan-travelers-and-music.json) | 게시 중 | 중국 / 도시 | 중국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
@@ -64,46 +64,32 @@
 | [정화의 항해 — 큰 배에는 무엇이 실려 있었을까](../../content/stories/history/asia/zheng-he-gifts-and-indian-ocean.json) | 게시 중 | 중국 / 역사 | 중국의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [중국의 명절 음식에는 잎사귀 포장이 있다](../../content/stories/life/food/zongzi-leaf-parcel.json) | 게시 중 | 중국 / 생활 | 중국의 생활라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
-### 인도 — 1편 (게시 중 1편)
+### 인도 — 2편 (게시 중 1편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [사비트리 — 죽음의 신을 따라 걸으며 나눈 말](../../content/stories/life/folks/savitri-words-along-yamas-road.json) | 게시 중 | 인도 / 문화 | 인도 전승을 바탕으로 한 재서술의 맥락. 본문이 사용하는 판본과 고전 전승 전체를 구분. |
+| [타지마할 — 하얀 무덤에 담긴 사랑과 제국](../../content/stories/cities/asia/taj-mahal-marble-memory.json) | 미게시 · verified | 인도 / 도시 | 인도의 특정 장소·작품·역사적 사건을 중심으로 한 도시 이야기. |
 
 ### 호주 — 0편 (게시 중 0편)
 
-현재 배치할 기존 원고가 없습니다. 새 원고가 생기면 채웁니다.
+현재 배치할 원고가 없습니다.
 
-### 기타 국가 / 우즈베키스탄 — 1편 (게시 중 1편)
+### 기타 국가 — 5편 (게시 중 5편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
-| [사마르칸트 — 푸른 광장에 장인과 학자가 모이다](../../content/stories/cities/asia/samarkand-registan-and-learning.json) | 게시 중 | 우즈베키스탄 / 도시 | 우즈베키스탄의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-
-### 기타 국가 / 인도네시아 — 1편 (게시 중 1편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [보로부두르 — 돌에 새긴 이야기를 따라 걷다](../../content/stories/cities/asia/borobudur-stone-stories-and-steps.json) | 게시 중 | 인도네시아 / 도시 | 인도네시아의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-
-### 기타 국가 / 타지키스탄 — 1편 (게시 중 1편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
-| [판지켄트 — 벽화 속 기사는 왜 실크로드를 떠올리게 할까](../../content/stories/cities/asia/panjikent-sogdian-merchants-and-mural.json) | 게시 중 | 타지키스탄 / 도시 | 타지키스탄의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-
-### 기타 국가 / 파키스탄 — 2편 (게시 중 2편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
 | [하라파 — 작은 인장은 왜 먼 도시에서 나왔을까](../../content/stories/cities/asia/harappa-seal-and-distant-trade.json) | 게시 중 | 파키스탄 / 도시 | 유적의 현재 위치인 파키스탄으로 탐색 위치를 정하되 인더스 문명은 여러 현대 국가에 걸친 역사임을 명시. |
 | [모헨조다로 — 작은 청동상에서 도시의 생활을 보다](../../content/stories/cities/asia/mohenjo-daro-bronze-and-city-life.json) | 게시 중 | 파키스탄 / 도시 | 현재 파키스탄의 유적 중심. 인더스 문명을 현대 파키스탄만의 역사로 한정하지 않음. |
+| [판지켄트 — 벽화 속 기사는 왜 실크로드를 떠올리게 할까](../../content/stories/cities/asia/panjikent-sogdian-merchants-and-mural.json) | 게시 중 | 타지키스탄 / 도시 | 타지키스탄의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [사마르칸트 — 푸른 광장에 장인과 학자가 모이다](../../content/stories/cities/asia/samarkand-registan-and-learning.json) | 게시 중 | 우즈베키스탄 / 도시 | 우즈베키스탄의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
 ## 유럽
 
 ### 영국 — 23편 (게시 중 20편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [런던 — 지독한 냄새가 도시의 밑바닥을 바꾸다](../../content/stories/cities/europe/london-great-stink-and-sewers.json) | 게시 중 | 영국 / 도시 | 영국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [수정궁 — 온실의 생각으로 거대한 전시장을 만들다](../../content/stories/culture/architecture/crystal-palace-greenhouse-and-prefabrication.json) | 게시 중 | 영국 / 도시 | 영국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
@@ -129,9 +115,9 @@
 | [옛 연애편지에는 종이로 만든 레이스가 있었다](../../content/stories/life/folks/victorian-paper-lace-valentine.json) | 게시 중 | 영국 / 생활 | 영국의 생활라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [커피하우스 — 커피 한 잔 옆에 뉴스가 놓였던 이유](../../content/stories/life/food/coffeehouse-news-and-conversation.json) | 게시 중 | 영국 / 생활 | 영국의 생활라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
-### 프랑스 — 12편 (게시 중 12편)
+### 프랑스 — 14편 (게시 중 12편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [바이외 자수 — 하늘의 긴 꼬리를 사람들이 가리킨 이유](../../content/stories/culture/art/bayeux-embroidery-comet-and-story.json) | 게시 중 | 프랑스 / 문화 | 프랑스의 바이외 유물 중심. 노르만 정복과 영국의 역사를 함께 보존. |
 | [식사 전의 기도 — 수프가 식기 전, 잠깐 멈춘 시간](../../content/stories/culture/art/chardin-grace-before-meal.json) | 게시 중 | 프랑스 / 문화 | 프랑스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
@@ -145,10 +131,12 @@
 | [레 미제라블 — 빵 한 조각에서 시작된 긴 질문](../../content/stories/culture/literature/les-miserables-reading-guide.json) | 게시 중 | 프랑스 / 문화 | 프랑스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [몬테크리스토 백작 — 복수가 끝나면 삶은 돌아올까](../../content/stories/culture/literature/monte-cristo-revenge-and-hope.json) | 게시 중 | 프랑스 / 문화 | 프랑스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [카르멘 — 익숙한 노래 뒤에는 어떤 이야기가 있을까](../../content/stories/culture/music/carmen-love-freedom-and-stage.json) | 게시 중 | 프랑스 / 문화 | 프랑스 오페라로 배치. 스페인 배경이라는 이유만으로 스페인 작품으로 분류하지 않음. |
+| [에펠탑 — 박람회의 철골은 어떻게 파리의 얼굴이 되었을까](../../content/stories/cities/europe/eiffel-tower-iron-and-exhibition.json) | 미게시 · verified | 프랑스 / 도시 | 프랑스의 특정 장소·작품·역사적 사건을 중심으로 한 도시 이야기. |
+| [노트르담 드 파리 — 성당의 종지기는 누구를 사랑했을까](../../content/stories/culture/literature/notre-dame-novel-and-misunderstood-love.json) | 미게시 · verified | 프랑스 / 문화 | 프랑스의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 
-### 이탈리아 — 14편 (게시 중 14편)
+### 이탈리아 — 15편 (게시 중 14편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [폼페이 — 이집트의 여신은 어떻게 이곳에 왔을까](../../content/stories/cities/europe/pompeii-isis-small-temple.json) | 게시 중 | 이탈리아 / 도시 | 이탈리아의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [콜로세움에서는 무대만큼 관중석도 크다](../../content/stories/cities/europe/rome-arena-crowd.json) | 게시 중 | 이탈리아 / 도시 | 이탈리아의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
@@ -164,10 +152,11 @@
 | [『라 트라비아타』 — 축배가 끝난 뒤 비올레타에게 남은 것](../../content/stories/culture/music/la-traviata-violetta-party-and-silence.json) | 게시 중 | 이탈리아 / 문화 | 이탈리아 오페라로 배치. 프랑스 원작·배경은 설명에 유지. |
 | [비발디 사계 — 새소리에서 폭풍과 겨울의 불가까지](../../content/stories/culture/music/vivaldi-four-seasons-spring.json) | 게시 중 | 이탈리아 / 문화 | 이탈리아의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [베수비오가 어두워진 날 — 플리니우스의 두 편지](../../content/stories/history/europe/pliny-vesuvius-pine-cloud-two-letters.json) | 게시 중 | 이탈리아 / 역사 | 이탈리아의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [피노키오 — 코가 길어지는 이야기 다음에는 무엇이 있을까](../../content/stories/culture/literature/pinocchio-schoolbook-and-responsibility.json) | 미게시 · verified | 이탈리아 / 문화 | 이탈리아의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 
-### 독일 — 9편 (게시 중 9편)
+### 독일 — 10편 (게시 중 9편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [베토벤 교향곡 제5번 — 네 음은 어떻게 긴 이야기가 될까](../../content/stories/culture/music/beethoven-fifth-four-notes.json) | 게시 중 | 독일 / 문화 | 독일의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [베토벤의 생애 — 들리는 세계가 달라져도 작업은 이어졌다](../../content/stories/culture/music/beethoven-life-and-work.json) | 게시 중 | 독일 / 문화 | 독일의 음악가라는 소개를 대표 위치로 삼되 빈에서의 활동과 오스트리아 맥락을 보존. |
@@ -178,103 +167,65 @@
 | [트로이메라이 — 짧은 피아노곡이 오래된 기억처럼 들릴 때](../../content/stories/culture/music/schumann-traumerei-memory.json) | 게시 중 | 독일 / 문화 | 독일의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [루터 — 작은 인쇄물은 어떻게 유럽을 흔들었을까](../../content/stories/history/europe/luther-pamphlets-and-reformation.json) | 게시 중 | 독일 / 역사 | 독일의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [하멜른의 피리 부는 사나이 — 쥐를 없앤 뒤 벌어진 일](../../content/stories/life/folks/hamelin-pied-piper-unpaid-promise.json) | 게시 중 | 독일 / 문화 | 독일의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [브레멘 음악대 — 네 동물은 왜 목적지에 도착하지 않았을까](../../content/stories/life/folks/bremen-old-animals-and-new-home.json) | 미게시 · verified | 독일 / 문화 | 독일의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 
 ### 러시아 — 1편 (게시 중 1편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [포스터를 한 장씩 붓으로 칠하던 작업장](../../content/stories/companies/media/tass-stencil-posters.json) | 게시 중 | 러시아 / 문화 | 소련 시기 TASS 포스터의 제작·전시라는 문화사 중심. 러시아를 탐색 위치로 삼되 소련 전체를 러시아와 동일시하지 않음. |
 
-### 스페인 — 3편 (게시 중 3편)
+### 스페인 — 4편 (게시 중 3편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [코르도바 — 오렌지나무 뒤에서 지중해를 만나다](../../content/stories/cities/europe/cordoba-oranges-and-connections.json) | 게시 중 | 스페인 / 도시 | 스페인의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [『시녀들』 — 그림 속 사람들은 누구를 보고 있을까](../../content/stories/culture/art/las-meninas-painter-mirror-and-viewer.json) | 게시 중 | 스페인 / 문화 | 스페인의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [『돈키호테』 — 풍차가 거인으로 보이는 사람](../../content/stories/culture/literature/don-quixote-windmills-and-sancho.json) | 게시 중 | 스페인 / 문화 | 스페인의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [알람브라 — 물소리와 오래된 이야기가 남은 궁전](../../content/stories/culture/architecture/alhambra-water-and-stories.json) | 미게시 · verified | 스페인 / 문화 | 스페인의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 
-### 기타 국가 / 그리스 — 9편 (게시 중 8편)
+### 기타 국가 — 26편 (게시 중 22편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [아테네 — 파르테논은 누구의 돈으로 지었을까](../../content/stories/cities/europe/athens-parthenon-and-tribute.json) | 게시 중 | 그리스 / 도시 | 그리스의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [소크라테스의 생애 — 질문을 멈추지 않은 사람](../../content/stories/culture/philosophy/socrates-life-and-questions.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [올림피아의 달리기 — 고대 선수들은 무엇을 위해 뛰었을까](../../content/stories/culture/sports/olympia-stadion-games-and-honor.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [아테네 — 부엉이는 어떻게 돈 위에 앉았을까](../../content/stories/finance/money/athens-owl-silver-coin.json) | 게시 중 | 그리스 / 역사 | 그리스의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [이카로스 — 날개가 생겼을 때 가장 어려웠던 일](../../content/stories/life/folks/daedalus-icarus-wings-and-middle-path.json) | 미게시 · verified | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [데메테르 — 석류 한 알이 딸의 귀환을 바꾼 이유](../../content/stories/life/folks/demeter-persephone-seed-and-return.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [오디세우스 — 아무도 아닌 사람이 이름을 외친 순간](../../content/stories/life/folks/odysseus-cyclops-nobody-real-name.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [오르페우스는 왜 뒤를 돌아보았을까](../../content/stories/life/folks/orpheus-eurydice-last-look.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [판도라 — 상자가 아니라 항아리였다는 이야기](../../content/stories/life/folks/pandora-jar-hope-under-lid.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-
-### 기타 국가 / 네덜란드 — 4편 (게시 중 4편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
+| [동굴 벽에는 동물만 그려진 것이 아니다](../../content/stories/culture/art/bulgaria-magura-human-figures.json) | 게시 중 | 불가리아 / 문화 | 불가리아의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [엠마오의 순례자들 — 식탁에서 낯선 이를 알아보는 순간](../../content/stories/culture/art/rembrandt-emmaus-light.json) | 게시 중 | 네덜란드 / 문화 | 네덜란드의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [렘브란트의 생애 — 얼굴과 빛을 다시 바라본 시간](../../content/stories/culture/art/rembrandt-life-self-portraits.json) | 게시 중 | 네덜란드 / 문화 | 네덜란드의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [롤랭 재상의 성모 — 작은 방 너머에 도시가 펼쳐진다](../../content/stories/culture/art/van-eyck-rolin-window.json) | 게시 중 | 벨기에 / 문화 | 현재 벨기에에 해당하는 저지대·플랑드르 미술 맥락을 탐색 기준으로 제안. 당대 국가 명칭으로 오해하지 않게 안내. |
 | [반 고흐의 생애 — 그림 곁에는 편지가 있었다](../../content/stories/culture/art/van-gogh-life-and-letters.json) | 게시 중 | 네덜란드 / 문화 | 네덜란드 출신 화가의 생애를 대표 위치로 삼되 프랑스 활동을 함께 설명. 프랑스 배치도 가능한 편집 판단 항목. |
 | [레이스 뜨는 여인 — 작은 일에 시선이 모일 때](../../content/stories/culture/art/vermeer-lacemaker-looking-guide.json) | 게시 중 | 네덜란드 / 문화 | 네덜란드의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-
-### 기타 국가 / 벨기에 — 1편 (게시 중 1편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
-| [롤랭 재상의 성모 — 작은 방 너머에 도시가 펼쳐진다](../../content/stories/culture/art/van-eyck-rolin-window.json) | 게시 중 | 벨기에 / 문화 | 현재 벨기에에 해당하는 저지대·플랑드르 미술 맥락을 탐색 기준으로 제안. 당대 국가 명칭으로 오해하지 않게 안내. |
-
-### 기타 국가 / 불가리아 — 1편 (게시 중 1편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
-| [동굴 벽에는 동물만 그려진 것이 아니다](../../content/stories/culture/art/bulgaria-magura-human-figures.json) | 게시 중 | 불가리아 / 문화 | 불가리아의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-
-### 기타 국가 / 아일랜드 — 2편 (게시 중 2편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
 | [『걸리버 여행기』 — 소인국보다 더 이상한 것은 무엇일까](../../content/stories/culture/literature/gulliver-travels-size-and-satire.json) | 게시 중 | 아일랜드 / 문화 | 아일랜드 문학의 작가와 풍자라는 맥락을 우선한 편집안. 영국 정치·영어권 문학 맥락도 함께 설명해야 함. |
-| [피온 — 지혜의 연어는 누구의 몫이었을까](../../content/stories/life/folks/fionn-salmon-wisdom-and-teacher.json) | 게시 중 | 아일랜드 / 문화 | 아일랜드의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-
-### 기타 국가 / 오스트리아 — 6편 (게시 중 4편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
+| [쇼팽의 생애 — 떠나온 나라가 피아노에 남을 때](../../content/stories/culture/music/chopin-life-piano-and-home.json) | 게시 중 | 폴란드 / 문화 | 폴란드와 고향의 기억을 대표 위치로 삼되 프랑스에서의 주요 활동을 보존. |
 | [『돈 조반니』 — 저녁 식사에 석상을 초대한 남자](../../content/stories/culture/music/don-giovanni-statue-dinner-and-refusal.json) | 미게시 · verified | 오스트리아 / 문화 | 모차르트의 오스트리아 음악 맥락으로 배치. 프라하 초연과 스페인 배경을 별도 정보로 보존. |
 | [『피가로의 결혼』 — 결혼식 날 가장 바쁜 것은 누구일까](../../content/stories/culture/music/marriage-figaro-countess-susanna-garden.json) | 미게시 · verified | 오스트리아 / 문화 | 오스트리아 음악 맥락으로 배치. 프랑스 원작과 스페인 배경도 본문에서 유지. |
 | [『마술피리』 — 높은 여왕의 목소리와 소박한 새잡이](../../content/stories/culture/music/mozart-magic-flute-two-kinds-courage.json) | 게시 중 | 오스트리아 / 문화 | 오스트리아의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [터키 행진곡 — 피아노에서 군악대가 들리는 이유](../../content/stories/culture/music/mozart-turkish-rondo.json) | 게시 중 | 오스트리아 / 문화 | 오스트리아 음악으로 배치. 제목의 튀르키예와 당시 유럽의 터키풍 음악 표현을 구분. |
 | [슈베르트 마왕 — 한 가수가 네 사람을 노래할 때](../../content/stories/culture/music/schubert-erlking-four-voices.json) | 게시 중 | 오스트리아 / 문화 | 오스트리아의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [슈베르트 송어 — 맑은 물은 왜 흐려졌을까](../../content/stories/culture/music/schubert-trout-clear-water.json) | 게시 중 | 오스트리아 / 문화 | 오스트리아의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-
-### 기타 국가 / 키프로스 — 1편 (게시 중 0편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
+| [소크라테스의 생애 — 질문을 멈추지 않은 사람](../../content/stories/culture/philosophy/socrates-life-and-questions.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [올림피아의 달리기 — 고대 선수들은 무엇을 위해 뛰었을까](../../content/stories/culture/sports/olympia-stadion-games-and-honor.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [아테네 — 부엉이는 어떻게 돈 위에 앉았을까](../../content/stories/finance/money/athens-owl-silver-coin.json) | 게시 중 | 그리스 / 역사 | 그리스의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [이카로스 — 날개가 생겼을 때 가장 어려웠던 일](../../content/stories/life/folks/daedalus-icarus-wings-and-middle-path.json) | 미게시 · verified | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [데메테르 — 석류 한 알이 딸의 귀환을 바꾼 이유](../../content/stories/life/folks/demeter-persephone-seed-and-return.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [피온 — 지혜의 연어는 누구의 몫이었을까](../../content/stories/life/folks/fionn-salmon-wisdom-and-teacher.json) | 게시 중 | 아일랜드 / 문화 | 아일랜드의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [오디세우스 — 아무도 아닌 사람이 이름을 외친 순간](../../content/stories/life/folks/odysseus-cyclops-nobody-real-name.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [오르페우스는 왜 뒤를 돌아보았을까](../../content/stories/life/folks/orpheus-eurydice-last-look.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [판도라 — 상자가 아니라 항아리였다는 이야기](../../content/stories/life/folks/pandora-jar-hope-under-lid.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [피그말리온 — 조각이 따뜻해진 순간](../../content/stories/life/folks/pygmalion-ivory-statue-and-living-person.json) | 미게시 · verified | 키프로스 / 문화 | 키프로스를 신화 속 배경에 따른 탐색 위치로 제안. 그리스·로마 전승과 오비디우스의 서술을 현대 국가의 소유로 해석하지 않음. |
-
-### 기타 국가 / 폴란드 — 1편 (게시 중 1편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
-| [쇼팽의 생애 — 떠나온 나라가 피아노에 남을 때](../../content/stories/culture/music/chopin-life-piano-and-home.json) | 게시 중 | 폴란드 / 문화 | 폴란드와 고향의 기억을 대표 위치로 삼되 프랑스에서의 주요 활동을 보존. |
-
-### 기타 국가 / 핀란드 — 1편 (게시 중 1편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
 | [삼포 — 밀가루와 소금, 돈을 내던 보물은 왜 깨졌을까](../../content/stories/life/folks/sampo-forging-plenty-and-fragments.json) | 게시 중 | 핀란드 / 문화 | 핀란드의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
 ### 지역에 걸친 이야기 — 1편 (게시 중 1편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
-| [토르 — 망치를 찾으러 신부가 된 날](../../content/stories/life/folks/thor-thrym-bridal-veil-and-hammer.json) | 게시 중 | 문화 | 북유럽 공유 전승으로 지역에 걸친 이야기에 배치. 아이슬란드 문헌 기록과 전승의 범위를 구분. |
+| [토르 — 망치를 찾으러 신부가 된 날](../../content/stories/life/folks/thor-thrym-bridal-veil-and-hammer.json) | 게시 중 | 지역에 걸친 이야기 / 문화 | 북유럽 공유 전승으로 지역에 걸친 이야기에 배치. 아이슬란드 문헌 기록과 전승의 범위를 구분. |
 
 ## 아메리카
 
-### 미국 — 14편 (게시 중 14편)
+### 미국 — 15편 (게시 중 14편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [카호키아 — 평범한 언덕인 줄 알았는데](../../content/stories/cities/americas/cahokia-mound-and-plaza.json) | 게시 중 | 미국 / 도시 | 미국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [시카고의 사자는 가끔 헬멧을 쓴다](../../content/stories/cities/americas/chicago-lion-sports-helmet.json) | 게시 중 | 미국 / 도시 | 미국의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
@@ -290,46 +241,50 @@
 | [마우이는 왜 태양에 밧줄을 걸었을까](../../content/stories/life/folks/maui-snaring-sun-kapa-days.json) | 게시 중 | 미국 / 문화 | 현재 미국 하와이를 기본 탐색 위치로 제안. 폴리네시아·태평양 문화 맥락이 중요하므로 아시아대양주 연결도 검토. 미국 전체의 신화로 일반화하지 않음. |
 | [까마귀 소년 — 빛을 조각내어 낮과 밤을 만들다](../../content/stories/life/folks/raven-boy-light-fragments-and-night.json) | 게시 중 | 미국 / 문화 | 현재 미국 알래스카의 특정 수집 전승을 기준으로 배치. 다른 원주민 공동체의 까마귀 신화와 합쳐 설명하지 않음. |
 | [옥수수와 콩, 호박은 왜 세 자매일까](../../content/stories/life/food/three-sisters-garden.json) | 게시 중 | 미국 / 생활 | 미국 지역의 자료를 탐색 위치로 제안. 하우데노사우니 등 공동체와 캐나다를 포함한 문화권을 별도로 설명. |
+| [자유의 여신상과 라자루스 — 조각상은 어떻게 환영의 목소리를 얻었을까](../../content/stories/culture/literature/liberty-lazarus-and-harbor-poem.json) | 미게시 · verified | 미국 / 문화 | 미국의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 
 ### 캐나다 — 2편 (게시 중 2편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [바퀴 없이 짐을 옮기던 긴 두 개의 막대](../../content/stories/history/america/canada-dog-travois.json) | 게시 중 | 캐나다 / 생활 | 캐나다의 자료와 원주민 운송 문화 맥락. 캐나다 전체의 단일 전통으로 일반화하지 않음. |
 | [캐나다 철도 — 나라를 잇던 선로 위에는 누가 있었을까](../../content/stories/history/america/canadian-pacific-railway-workers-and-belonging.json) | 게시 중 | 캐나다 / 역사 | 캐나다의 철도 건설·이주노동·소속의 역사 중심. 기업 운영 원리만을 다룬 글과 구분. |
 
 ### 멕시코 — 2편 (게시 중 2편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [테노치티틀란 — 호수 위의 도시는 어떻게 먹고살았을까](../../content/stories/cities/americas/tenochtitlan-lake-and-city.json) | 게시 중 | 멕시코 / 도시 | 멕시코의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [토르티야 앞에는 돌 두 개가 있었다](../../content/stories/life/food/mexico-tortilla-grinding-stone.json) | 게시 중 | 멕시코 / 생활 | 멕시코의 생활라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
-### 브라질 — 0편 (게시 중 0편)
+### 브라질 — 1편 (게시 중 0편)
 
-현재 배치할 기존 원고가 없습니다. 새 원고가 생기면 채웁니다.
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
+|---|---|---|---|
+| [1808년 리우 — 유럽의 왕실이 식민지로 건너오다](../../content/stories/history/america/rio-1808-court-crosses-atlantic.json) | 미게시 · verified | 브라질 / 역사 | 브라질의 특정 장소·작품·역사적 사건을 중심으로 한 역사 이야기. |
 
-### 기타 국가 / 페루 — 2편 (게시 중 2편)
+### 기타 국가 — 2편 (게시 중 2편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [쿠스코 — 산길은 어떻게 제국을 묶었을까](../../content/stories/cities/americas/cusco-roads-and-empire.json) | 게시 중 | 페루 / 도시 | 페루의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [키푸 — 잉카는 매듭으로 무엇을 기록했을까](../../content/stories/history/america/inca-quipu-knots-and-records.json) | 게시 중 | 페루 / 역사 | 페루를 대표 탐색 위치로 하되 잉카의 범위는 현대 여러 국가에 걸침을 유지. |
 
 ## 중동아프리카
 
-### 이집트 — 4편 (게시 중 4편)
+### 이집트 — 5편 (게시 중 4편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [알렉산드리아 — 항구 도시는 왜 학자들을 모았을까](../../content/stories/cities/africa/alexandria-museion-and-books.json) | 게시 중 | 이집트 / 도시 | 이집트의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [로제타석 — 왜 같은 말을 세 가지 문자로 새겼을까](../../content/stories/history/africa/rosetta-stone-three-scripts.json) | 게시 중 | 이집트 / 역사 | 이집트의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [수에즈 운하 — 지름길은 어떻게 제국의 길이 되었을까](../../content/stories/history/middle-east/suez-canal-shortcut-and-power.json) | 게시 중 | 이집트 / 역사 | 이집트의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [이시스 — 사라진 오시리스를 찾아 나선 길](../../content/stories/life/folks/isis-osiris-chest-and-search.json) | 게시 중 | 이집트 / 문화 | 이집트의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [아부심벨 — 왕의 얼굴을 새긴 절벽을 왜 옮겼을까](../../content/stories/culture/architecture/abu-simbel-temple-and-rescue.json) | 미게시 · verified | 이집트 / 문화 | 이집트의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 
 ### 이란 — 3편 (게시 중 3편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [이스파한 — 광장에서는 장사도 하고 공도 쳤다](../../content/stories/cities/middle-east/isfahan-square-and-everyday-life.json) | 게시 중 | 이란 / 도시 | 이란의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [페르시아의 전령 — 빠른 말 뒤에는 어떤 준비가 있었을까](../../content/stories/history/middle-east/persian-couriers-and-relay-stations.json) | 게시 중 | 이란 / 역사 | 이란을 대표 탐색 위치로 하되 아케메네스 제국을 현대 이란 영토와 동일시하지 않음. |
@@ -337,57 +292,34 @@
 
 ### 튀르키예 — 1편 (게시 중 1편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [아야 소피아 — 큰 지붕 아래 여러 시대가 머물다](../../content/stories/cities/europe/istanbul-hagia-sophia-many-times.json) | 게시 중 | 튀르키예 / 도시 | 튀르키예의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
-### 사우디아라비아 — 0편 (게시 중 0편)
+### 사우디아라비아 — 1편 (게시 중 0편)
 
-현재 배치할 기존 원고가 없습니다. 새 원고가 생기면 채웁니다.
-
-### 기타 국가 / 말리 — 3편 (게시 중 3편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
-| [팀북투 — 사막의 길 끝에서 책을 펼치다](../../content/stories/cities/africa/timbuktu-trade-and-learning.json) | 게시 중 | 말리 / 도시 | 말리의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [만사 무사 — 순례길의 금은 왜 카이로에 흔적을 남겼을까](../../content/stories/finance/money/mansa-musa-gold-and-cairo.json) | 게시 중 | 말리 / 역사 | 말리 통치자와 순례를 중심으로 배치하되 이집트 카이로에서의 사건을 함께 설명. |
-| [타가자 — 사막에서 소금은 왜 먼 길을 떠났을까](../../content/stories/history/africa/taghaza-salt-caravan-and-labor.json) | 게시 중 | 말리 / 역사 | 현재 말리의 타가자를 탐색 기준으로 사용. 사하라 교역과 노동은 여러 지역을 잇는 역사임을 명시. |
+| [메카와 순례 — 같은 방향으로 모이는 길의 역사](../../content/stories/history/middle-east/mecca-pilgrimage-and-city.json) | 미게시 · verified | 사우디아라비아 / 역사 | 사우디아라비아의 특정 장소·작품·역사적 사건을 중심으로 한 역사 이야기. |
 
-### 기타 국가 / 모잠비크 — 2편 (게시 중 2편)
+### 기타 국가 — 9편 (게시 중 9편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
-| [고향 마을에 둥근 창의 문화 공간을 만들다](../../content/stories/cities/africa/mozambique-village-cultural-center.json) | 게시 중 | 모잠비크 / 도시 | 모잠비크의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [소팔라 — 작은 항구 뒤에는 긴 길이 있었다](../../content/stories/cities/africa/sofala-port-and-hinterland.json) | 게시 중 | 모잠비크 / 도시 | 모잠비크의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-
-### 기타 국가 / 알제리 — 1편 (게시 중 1편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
-| [한 지붕 아래 사람과 가축의 자리가 있었다](../../content/stories/life/housing/kabyle-house-shared-roof.json) | 게시 중 | 알제리 / 생활 | 알제리 카빌 지역의 특정 시기 주거 연구 중심. 현재 모든 가정의 모습으로 일반화하지 않음. |
-
-### 기타 국가 / 요르단 — 1편 (게시 중 1편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
-| [이 집은 다음 목초지까지 함께 간다](../../content/stories/life/housing/jordan-moving-tent.json) | 게시 중 | 요르단 / 생활 | 요르단의 특정 자료 중심. 베두인 문화를 요르단 한 국가로 한정하지 않음. |
-
-### 기타 국가 / 이라크 — 1편 (게시 중 1편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
-|---|---|---|---|
-| [바그다드 — 둥근 도시 바깥으로 이야기가 자라다](../../content/stories/cities/middle-east/baghdad-round-city-and-books.json) | 게시 중 | 이라크 / 도시 | 이라크의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-
-### 기타 국가 / 짐바브웨 — 1편 (게시 중 1편)
-
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [그레이트 짐바브웨 — 돌을 붙이지 않고 벽을 세우다](../../content/stories/cities/africa/great-zimbabwe-stone-and-trade.json) | 게시 중 | 짐바브웨 / 도시 | 짐바브웨의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [고향 마을에 둥근 창의 문화 공간을 만들다](../../content/stories/cities/africa/mozambique-village-cultural-center.json) | 게시 중 | 모잠비크 / 도시 | 모잠비크의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [소팔라 — 작은 항구 뒤에는 긴 길이 있었다](../../content/stories/cities/africa/sofala-port-and-hinterland.json) | 게시 중 | 모잠비크 / 도시 | 모잠비크의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [팀북투 — 사막의 길 끝에서 책을 펼치다](../../content/stories/cities/africa/timbuktu-trade-and-learning.json) | 게시 중 | 말리 / 도시 | 말리의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [바그다드 — 둥근 도시 바깥으로 이야기가 자라다](../../content/stories/cities/middle-east/baghdad-round-city-and-books.json) | 게시 중 | 이라크 / 도시 | 이라크의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
+| [만사 무사 — 순례길의 금은 왜 카이로에 흔적을 남겼을까](../../content/stories/finance/money/mansa-musa-gold-and-cairo.json) | 게시 중 | 말리 / 역사 | 말리 통치자와 순례를 중심으로 배치하되 이집트 카이로에서의 사건을 함께 설명. |
+| [타가자 — 사막에서 소금은 왜 먼 길을 떠났을까](../../content/stories/history/africa/taghaza-salt-caravan-and-labor.json) | 게시 중 | 말리 / 역사 | 현재 말리의 타가자를 탐색 기준으로 사용. 사하라 교역과 노동은 여러 지역을 잇는 역사임을 명시. |
+| [이 집은 다음 목초지까지 함께 간다](../../content/stories/life/housing/jordan-moving-tent.json) | 게시 중 | 요르단 / 생활 | 요르단의 특정 자료 중심. 베두인 문화를 요르단 한 국가로 한정하지 않음. |
+| [한 지붕 아래 사람과 가축의 자리가 있었다](../../content/stories/life/housing/kabyle-house-shared-roof.json) | 게시 중 | 알제리 / 생활 | 알제리 카빌 지역의 특정 시기 주거 연구 중심. 현재 모든 가정의 모습으로 일반화하지 않음. |
 
 ### 지역에 걸친 이야기 — 2편 (게시 중 2편)
 
-| 제목·원고 | 현재 상태 | 제안 분류 | 배치 이유 |
+| 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
-| [피부 위의 무늬는 씻어 낸 뒤에도 남는다](../../content/stories/life/clothing/henna-paste-and-stain.json) | 게시 중 | 생활 | 한 국가의 전통으로 단정할 근거가 부족하여 지역에 걸친 이야기로 임시 배치. 남아시아에도 널리 이어지는 문화이므로 지역 한정의 소유 주장으로 읽히지 않게 안내. |
-| [아난시 — 지혜를 항아리에 숨기려던 날](../../content/stories/life/folks/anansi-wisdom-pot-and-son.json) | 게시 중 | 문화 | 아칸권과 가나 등의 전승 및 디아스포라 확산을 고려하여 지역에 걸친 이야기로 배치. 특정 수집본의 출처를 전체 전승의 유일한 기원으로 확대하지 않음. |
+| [피부 위의 무늬는 씻어 낸 뒤에도 남는다](../../content/stories/life/clothing/henna-paste-and-stain.json) | 게시 중 | 지역에 걸친 이야기 / 생활 | 한 국가의 전통으로 단정할 근거가 부족하여 지역에 걸친 이야기로 임시 배치. 남아시아에도 널리 이어지는 문화이므로 지역 한정의 소유 주장으로 읽히지 않게 안내. |
+| [아난시 — 지혜를 항아리에 숨기려던 날](../../content/stories/life/folks/anansi-wisdom-pot-and-son.json) | 게시 중 | 지역에 걸친 이야기 / 문화 | 아칸권과 가나 등의 전승 및 디아스포라 확산을 고려하여 지역에 걸친 이야기로 배치. 특정 수집본의 출처를 전체 전승의 유일한 기원으로 확대하지 않음. |
 
