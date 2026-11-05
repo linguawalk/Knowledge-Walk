@@ -19,13 +19,13 @@
 | [『제인 에어』 — 사랑해도 떠날 수 있는 사람](jane-eyre-love-and-own-voice.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [지킬 박사와 하이드 — 다른 이름이면 책임도 사라질까](jekyll-hyde-door-and-responsibility.md) | 자료 대조·공개 게시 승인 완료 |
 | [레 미제라블 — 빵 한 조각에서 시작된 긴 질문](les-miserables-reading-guide.md) | 자료 대조·공개 게시 승인 완료 |
-| [자유의 여신상과 라자루스 — 조각상은 어떻게 환영의 목소리를 얻었을까](liberty-lazarus-and-harbor-poem.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [자유의 여신상과 라자루스 — 조각상은 어떻게 환영의 목소리를 얻었을까](liberty-lazarus-and-harbor-poem.md) | 자료 대조·공개 게시 승인 완료 |
 | [『작은 아씨들』 — 네 자매에게 같은 미래가 필요했을까](little-women-four-sisters-different-futures.md) | 자료 대조·공개 게시 승인 완료 |
 | [몬테크리스토 백작 — 복수가 끝나면 삶은 돌아올까](monte-cristo-revenge-and-hope.md) | 자료 대조·공개 게시 승인 완료 |
-| [노트르담 드 파리 — 성당의 종지기는 누구를 사랑했을까](notre-dame-novel-and-misunderstood-love.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [노트르담 드 파리 — 성당의 종지기는 누구를 사랑했을까](notre-dame-novel-and-misunderstood-love.md) | 자료 대조·공개 게시 승인 완료 |
 | [『차의 책』 — 찻잔 하나를 위해 방을 비운다는 것](okakura-book-tea-room-and-attention.md) | 자료 대조·공개 게시 승인 완료 |
 | [오즈의 마법사 — 필요한 것은 이미 길 위에 있었을까](oz-wizard-road-and-home.md) | 자료 대조·공개 게시 승인 완료 |
-| [피노키오 — 코가 길어지는 이야기 다음에는 무엇이 있을까](pinocchio-schoolbook-and-responsibility.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [피노키오 — 코가 길어지는 이야기 다음에는 무엇이 있을까](pinocchio-schoolbook-and-responsibility.md) | 자료 대조·공개 게시 승인 완료 |
 | [이 현판의 글자는 따로 만들어 붙였다](poem-plaque-raised-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [오만과 편견 — 처음 본 인상을 믿어도 될까](pride-prejudice-first-impressions.md) | 자료 대조·공개 게시 승인 완료 |
 | [『로빈슨 크루소』 — 무인도에는 정말 혼자였을까](robinson-crusoe-tools-footprint-friday.md) | 자료 대조·공개 게시 승인 완료 |

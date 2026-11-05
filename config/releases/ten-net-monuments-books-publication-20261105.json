@@ -1,0 +1,26 @@
+{
+  "id": "ten-net-monuments-books-publication-20261105",
+  "user_request": "홈페이지 게시",
+  "approved_at": "2026-11-05",
+  "story_ids": [
+    "taj-mahal-marble-memory",
+    "eiffel-tower-iron-and-exhibition",
+    "alhambra-water-and-stories",
+    "bremen-old-animals-and-new-home",
+    "pinocchio-schoolbook-and-responsibility",
+    "notre-dame-novel-and-misunderstood-love",
+    "liberty-lazarus-and-harbor-poem",
+    "rio-1808-court-crosses-atlantic",
+    "abu-simbel-temple-and-rescue",
+    "mecca-pilgrimage-and-city"
+  ],
+  "net_stories": 181,
+  "kr_stories": 127,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261105-ten-net-monuments-books-and-crossings/index.html",
+  "kr_domain_connected": false,
+  "deployment_status": "pending",
+  "local_browser_checks": 20,
+  "numbered_sections_per_story": 7,
+  "numbered_toc_per_story": 7,
+  "local_tests_passed": 50
+}

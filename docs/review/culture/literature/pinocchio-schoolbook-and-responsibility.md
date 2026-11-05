@@ -4,7 +4,7 @@
 
 Culture · Literature
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![나무 인형과 책, 목공 작업실을 그린 피노키오 이야기 삽화](../../../../content/images/pinocchio-schoolbook-and-responsibility.png)
 
