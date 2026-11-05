@@ -1,0 +1,28 @@
+{
+  "id": "20261105-ten-net-books-canvases-and-ancient-cities",
+  "title": "net 새 이야기 10편 — 책과 화폭, 오래된 도시의 기록",
+  "story_ids": [
+    "hamlet-ghost-proof-and-revenge",
+    "faust-first-part-gretchen-and-desire",
+    "moby-dick-ishmael-ahab-and-sea",
+    "little-mermaid-voice-and-soul",
+    "delacroix-liberty-1830-and-barricade",
+    "surrender-breda-keys-and-victory",
+    "pompeii-79-ash-and-everyday-city",
+    "nara-todaiji-buddha-and-state",
+    "dunhuang-caves-paintings-and-donors",
+    "karnak-columns-light-and-growing-temple"
+  ],
+  "countries": {
+    "hamlet-ghost-proof-and-revenge": "영국",
+    "faust-first-part-gretchen-and-desire": "독일",
+    "moby-dick-ishmael-ahab-and-sea": "미국",
+    "little-mermaid-voice-and-soul": "덴마크",
+    "delacroix-liberty-1830-and-barricade": "프랑스",
+    "surrender-breda-keys-and-victory": "스페인",
+    "pompeii-79-ash-and-everyday-city": "이탈리아",
+    "nara-todaiji-buddha-and-state": "일본",
+    "dunhuang-caves-paintings-and-donors": "중국",
+    "karnak-columns-light-and-growing-temple": "이집트"
+  }
+}

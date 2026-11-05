@@ -18,9 +18,16 @@
   "kr_stories": 137,
   "kr_domain_connected": false,
   "temporary_collection_url": "https://knowledgewalk.net/knowledge/collections/20261105-ten-kr-machines-money-and-knowledge/index.html",
-  "deployment_status": "pending",
+  "deployment_status": "temporary_live_verified",
   "hostinger_check_run_id": 42019654064,
   "hostinger_blocker": "HOSTINGER_FTP_PASSWORD 미등록: 읽기 전용 연결 검사 종료 코드 2, 업로드 미실행",
   "local_tests_passed": 51,
-  "local_browser_checks": 20
+  "local_browser_checks": 20,
+  "verified_at": "2026-11-05",
+  "verified_new_story_count": 10,
+  "verified_image_count": 10,
+  "pages_run_id": 42019975805,
+  "live_net_story_count": 191,
+  "live_kr_story_count": 137,
+  "verified_public_response_count": 23
 }

@@ -9,7 +9,9 @@
 | [동굴 벽에는 동물만 그려진 것이 아니다](bulgaria-magura-human-figures.md) | 자료 대조·공개 게시 승인 완료 |
 | [식사 전의 기도 — 수프가 식기 전, 잠깐 멈춘 시간](chardin-grace-before-meal.md) | 자료 대조·공개 게시 승인 완료 |
 | [레카미에 부인의 초상 — 빈 공간이 사람을 돋보이게 할 때](david-recamier-empty-space.md) | 자료 대조·공개 게시 승인 완료 |
+| [민중을 이끄는 자유의 여신 — 삼색기 아래의 1830년](delacroix-liberty-1830-and-barricade.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [그림 속 뱃놀이에는 참석자 명단이 있다](dokseodang-gathering.md) | 자료 대조·공개 게시 승인 완료 |
+| [둔황 막고굴 — 비단 위의 불화는 누구의 소망을 담았을까](dunhuang-caves-paintings-and-donors.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [유명한 그림도 처음에는 거절당했다](el-greco-painting-journey.md) | 자료 대조·공개 게시 승인 완료 |
 | [음악 수업 — 악보보다 서로의 얼굴이 가까운 시간](fragonard-music-lesson.md) | 자료 대조·공개 게시 승인 완료 |
 | [메두사호의 뗏목 — 멀리 보이는 작은 배를 향하여](gericault-medusa-distant-ship.md) | 자료 대조·공개 게시 승인 완료 |
@@ -30,6 +32,7 @@
 | [엠마오의 순례자들 — 식탁에서 낯선 이를 알아보는 순간](rembrandt-emmaus-light.md) | 자료 대조·공개 게시 승인 완료 |
 | [렘브란트의 생애 — 얼굴과 빛을 다시 바라본 시간](rembrandt-life-self-portraits.md) | 자료 대조·공개 게시 승인 완료 |
 | [주전자의 이야기는 바닥에도 적혀 있다](silver-kettle-hidden-letters.md) | 자료 대조·공개 게시 승인 완료 |
+| [브레다의 항복 — 승리보다 먼저 보이는 두 사람의 손](surrender-breda-keys-and-victory.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [장갑을 낀 남자 — 얼굴보다 손이 먼저 알려 주는 것](titian-man-with-glove.md) | 자료 대조·공개 게시 승인 완료 |
 | [롤랭 재상의 성모 — 작은 방 너머에 도시가 펼쳐진다](van-eyck-rolin-window.md) | 자료 대조·공개 게시 승인 완료 |
 | [반 고흐의 생애 — 그림 곁에는 편지가 있었다](van-gogh-life-and-letters.md) | 자료 대조·공개 게시 승인 완료 |

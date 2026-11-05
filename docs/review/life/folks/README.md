@@ -13,6 +13,7 @@
 | [피온 — 지혜의 연어는 누구의 몫이었을까](fionn-salmon-wisdom-and-teacher.md) | 자료 대조·공개 게시 승인 완료 |
 | [하멜른의 피리 부는 사나이 — 쥐를 없앤 뒤 벌어진 일](hamelin-pied-piper-unpaid-promise.md) | 자료 대조·공개 게시 승인 완료 |
 | [이시스 — 사라진 오시리스를 찾아 나선 길](isis-osiris-chest-and-search.md) | 자료 대조·공개 게시 승인 완료 |
+| [인어공주 — 목소리를 내주고 얻으려 했던 것은 무엇일까](little-mermaid-voice-and-soul.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [마우이는 왜 태양에 밧줄을 걸었을까](maui-snaring-sun-kapa-days.md) | 자료 대조·공개 게시 승인 완료 |
 | [모모타로 — 복숭아에서 나온 소년에게 동료가 필요했던 이유](momotaro-dumplings-and-companions.md) | 자료 대조·공개 게시 승인 완료 |
 | [오디세우스 — 아무도 아닌 사람이 이름을 외친 순간](odysseus-cyclops-nobody-real-name.md) | 자료 대조·공개 게시 승인 완료 |
