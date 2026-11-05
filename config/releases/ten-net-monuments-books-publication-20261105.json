@@ -18,9 +18,15 @@
   "kr_stories": 127,
   "public_collection_url": "https://knowledgewalk.net/collections/20261105-ten-net-monuments-books-and-crossings/index.html",
   "kr_domain_connected": false,
-  "deployment_status": "pending",
+  "deployment_status": "live_verified",
   "local_browser_checks": 20,
   "numbered_sections_per_story": 7,
   "numbered_toc_per_story": 7,
-  "local_tests_passed": 50
+  "local_tests_passed": 50,
+  "verified_at": "2026-11-05",
+  "verified_new_story_count": 10,
+  "verified_image_count": 10,
+  "pages_run_id": 41978600861,
+  "live_net_story_count": 181,
+  "live_kr_story_count": 127
 }
