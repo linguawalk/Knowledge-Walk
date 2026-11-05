@@ -1,6 +1,6 @@
 # net 국가별 원고 배치표
 
-2026-11-05 기준. 공개 net 191편과 새 검토 원고 10편을 포함했습니다. 새 원고는 사용자 검토 후 게시합니다. 국가 명칭은 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않습니다.
+2026-11-05 기준. 공개 net 201편을 포함했습니다. 책·화폭·오래된 도시의 새 글 10편도 사용자 요청으로 게시 승인했습니다. 국가 명칭은 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않습니다.
 
 ## 아시아대양주
 
@@ -34,7 +34,7 @@
 | [이 거북이는 물이 차면 떠올랐다](../../content/stories/science/engineering/water-clock-floating-turtle.json) | 게시 중 | 한국 / 문화 | 한국의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [별지도를 다른 돌에 다시 새긴 이유](../../content/stories/science/physics/star-map-carved-again.json) | 게시 중 | 한국 / 문화 | 한국의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
-### 일본 — 10편 (게시 중 9편)
+### 일본 — 10편 (게시 중 10편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -47,9 +47,9 @@
 | [아마테라스 — 동굴 밖에서는 왜 웃음이 터졌을까](../../content/stories/life/folks/amaterasu-cave-laughter-and-mirror.json) | 게시 중 | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [모모타로 — 복숭아에서 나온 소년에게 동료가 필요했던 이유](../../content/stories/life/folks/momotaro-dumplings-and-companions.json) | 게시 중 | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [우라시마 타로 — 고향으로 돌아왔는데 시간이 달랐다](../../content/stories/life/folks/urashima-taro-box-and-lost-time.json) | 게시 중 | 일본 / 문화 | 일본의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [나라의 도다이지 — 거대한 불상에 담긴 국가의 바람](../../content/stories/culture/architecture/nara-todaiji-buddha-and-state.json) | 미게시 · verified | 일본 / 문화 | 일본의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
+| [나라의 도다이지 — 거대한 불상에 담긴 국가의 바람](../../content/stories/culture/architecture/nara-todaiji-buddha-and-state.json) | 게시 중 | 일본 / 문화 | 일본의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
-### 중국 — 12편 (게시 중 11편)
+### 중국 — 12편 (게시 중 12편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -64,7 +64,7 @@
 | [병마용 — 황제의 군대는 왜 땅속에 서 있을까](../../content/stories/history/asia/qin-terracotta-army-faces-and-afterlife.json) | 게시 중 | 중국 / 역사 | 중국의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [정화의 항해 — 큰 배에는 무엇이 실려 있었을까](../../content/stories/history/asia/zheng-he-gifts-and-indian-ocean.json) | 게시 중 | 중국 / 역사 | 중국의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [중국의 명절 음식에는 잎사귀 포장이 있다](../../content/stories/life/food/zongzi-leaf-parcel.json) | 게시 중 | 중국 / 생활 | 중국의 생활라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [둔황 막고굴 — 비단 위의 불화는 누구의 소망을 담았을까](../../content/stories/culture/art/dunhuang-caves-paintings-and-donors.json) | 미게시 · verified | 중국 / 문화 | 중국의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
+| [둔황 막고굴 — 비단 위의 불화는 누구의 소망을 담았을까](../../content/stories/culture/art/dunhuang-caves-paintings-and-donors.json) | 게시 중 | 중국 / 문화 | 중국의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
 ### 인도 — 2편 (게시 중 2편)
 
@@ -92,7 +92,7 @@
 
 ## 유럽
 
-### 영국 — 25편 (게시 중 21편)
+### 영국 — 25편 (게시 중 22편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -120,9 +120,9 @@
 | [옛 연애편지에는 종이로 만든 레이스가 있었다](../../content/stories/life/folks/victorian-paper-lace-valentine.json) | 게시 중 | 영국 / 생활 | 영국의 생활라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [커피하우스 — 커피 한 잔 옆에 뉴스가 놓였던 이유](../../content/stories/life/food/coffeehouse-news-and-conversation.json) | 게시 중 | 영국 / 생활 | 영국의 생활라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [캔터베리 이야기 — 순례길에서는 누가 이야기를 잘했을까](../../content/stories/culture/literature/canterbury-pilgrims-and-pardoners-gold.json) | 게시 중 | 영국 / 문화 | 영국의 구체적인 작품·유적·기록·도시사를 다룬 문화 이야기. |
-| [햄릿 — 복수해야 한다는 말만으로 행동할 수 있을까](../../content/stories/culture/literature/hamlet-ghost-proof-and-revenge.json) | 미게시 · verified | 영국 / 문화 | 덴마크를 무대로 한 작품이지만 셰익스피어의 영문학 작품이라는 중심 맥락으로 영국에 단독 배치. |
+| [햄릿 — 복수해야 한다는 말만으로 행동할 수 있을까](../../content/stories/culture/literature/hamlet-ghost-proof-and-revenge.json) | 게시 중 | 영국 / 문화 | 덴마크를 무대로 한 작품이지만 셰익스피어의 영문학 작품이라는 중심 맥락으로 영국에 단독 배치. |
 
-### 프랑스 — 16편 (게시 중 15편)
+### 프랑스 — 16편 (게시 중 16편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -141,9 +141,9 @@
 | [에펠탑 — 박람회의 철골은 어떻게 파리의 얼굴이 되었을까](../../content/stories/cities/europe/eiffel-tower-iron-and-exhibition.json) | 게시 중 | 프랑스 / 도시 | 프랑스의 특정 장소·작품·역사적 사건을 중심으로 한 도시 이야기. |
 | [노트르담 드 파리 — 성당의 종지기는 누구를 사랑했을까](../../content/stories/culture/literature/notre-dame-novel-and-misunderstood-love.json) | 게시 중 | 프랑스 / 문화 | 프랑스의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 | [보바리 부인 — 꿈꾸던 삶은 왜 빚이 되었을까](../../content/stories/culture/literature/madame-bovary-desire-and-credit.json) | 게시 중 | 프랑스 / 문화 | 프랑스의 구체적인 작품·유적·기록·도시사를 다룬 문화 이야기. |
-| [민중을 이끄는 자유의 여신 — 삼색기 아래의 1830년](../../content/stories/culture/art/delacroix-liberty-1830-and-barricade.json) | 미게시 · verified | 프랑스 / 문화 | 프랑스의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
+| [민중을 이끄는 자유의 여신 — 삼색기 아래의 1830년](../../content/stories/culture/art/delacroix-liberty-1830-and-barricade.json) | 게시 중 | 프랑스 / 문화 | 프랑스의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
-### 이탈리아 — 16편 (게시 중 15편)
+### 이탈리아 — 16편 (게시 중 16편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -162,9 +162,9 @@
 | [비발디 사계 — 새소리에서 폭풍과 겨울의 불가까지](../../content/stories/culture/music/vivaldi-four-seasons-spring.json) | 게시 중 | 이탈리아 / 문화 | 이탈리아의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [베수비오가 어두워진 날 — 플리니우스의 두 편지](../../content/stories/history/europe/pliny-vesuvius-pine-cloud-two-letters.json) | 게시 중 | 이탈리아 / 역사 | 이탈리아의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [피노키오 — 코가 길어지는 이야기 다음에는 무엇이 있을까](../../content/stories/culture/literature/pinocchio-schoolbook-and-responsibility.json) | 게시 중 | 이탈리아 / 문화 | 이탈리아의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
-| [폼페이 — 화산재 아래에서 도시의 일상이 나타나다](../../content/stories/cities/europe/pompeii-79-ash-and-everyday-city.json) | 미게시 · verified | 이탈리아 / 도시 | 이탈리아의 구체적인 작품·유적·문화 기록을 중심으로 한 도시 이야기. |
+| [폼페이 — 화산재 아래에서 도시의 일상이 나타나다](../../content/stories/cities/europe/pompeii-79-ash-and-everyday-city.json) | 게시 중 | 이탈리아 / 도시 | 이탈리아의 구체적인 작품·유적·문화 기록을 중심으로 한 도시 이야기. |
 
-### 독일 — 11편 (게시 중 10편)
+### 독일 — 11편 (게시 중 11편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -178,7 +178,7 @@
 | [루터 — 작은 인쇄물은 어떻게 유럽을 흔들었을까](../../content/stories/history/europe/luther-pamphlets-and-reformation.json) | 게시 중 | 독일 / 역사 | 독일의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [하멜른의 피리 부는 사나이 — 쥐를 없앤 뒤 벌어진 일](../../content/stories/life/folks/hamelin-pied-piper-unpaid-promise.json) | 게시 중 | 독일 / 문화 | 독일의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [브레멘 음악대 — 네 동물은 왜 목적지에 도착하지 않았을까](../../content/stories/life/folks/bremen-old-animals-and-new-home.json) | 게시 중 | 독일 / 문화 | 독일의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
-| [파우스트 1부 — 더 많은 삶을 원한 사람은 누구를 다치게 했을까](../../content/stories/culture/literature/faust-first-part-gretchen-and-desire.json) | 미게시 · verified | 독일 / 문화 | 독일의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
+| [파우스트 1부 — 더 많은 삶을 원한 사람은 누구를 다치게 했을까](../../content/stories/culture/literature/faust-first-part-gretchen-and-desire.json) | 게시 중 | 독일 / 문화 | 독일의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
 ### 러시아 — 2편 (게시 중 2편)
 
@@ -187,7 +187,7 @@
 | [포스터를 한 장씩 붓으로 칠하던 작업장](../../content/stories/companies/media/tass-stencil-posters.json) | 게시 중 | 러시아 / 문화 | 소련 시기 TASS 포스터의 제작·전시라는 문화사 중심. 러시아를 탐색 위치로 삼되 소련 전체를 러시아와 동일시하지 않음. |
 | [고골의 외투 — 새 옷 한 벌이 한 사람의 세계를 바꿀 때](../../content/stories/culture/literature/gogol-overcoat-clerk-and-city.json) | 게시 중 | 러시아 / 문화 | 러시아의 구체적인 작품·유적·기록·도시사를 다룬 문화 이야기. |
 
-### 스페인 — 5편 (게시 중 4편)
+### 스페인 — 5편 (게시 중 5편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -195,9 +195,9 @@
 | [『시녀들』 — 그림 속 사람들은 누구를 보고 있을까](../../content/stories/culture/art/las-meninas-painter-mirror-and-viewer.json) | 게시 중 | 스페인 / 문화 | 스페인의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [『돈키호테』 — 풍차가 거인으로 보이는 사람](../../content/stories/culture/literature/don-quixote-windmills-and-sancho.json) | 게시 중 | 스페인 / 문화 | 스페인의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [알람브라 — 물소리와 오래된 이야기가 남은 궁전](../../content/stories/culture/architecture/alhambra-water-and-stories.json) | 게시 중 | 스페인 / 문화 | 스페인의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
-| [브레다의 항복 — 승리보다 먼저 보이는 두 사람의 손](../../content/stories/culture/art/surrender-breda-keys-and-victory.json) | 미게시 · verified | 스페인 / 문화 | 스페인의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
+| [브레다의 항복 — 승리보다 먼저 보이는 두 사람의 손](../../content/stories/culture/art/surrender-breda-keys-and-victory.json) | 게시 중 | 스페인 / 문화 | 스페인의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
-### 기타 국가 — 27편 (게시 중 22편)
+### 기타 국가 — 27편 (게시 중 23편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -227,7 +227,7 @@
 | [판도라 — 상자가 아니라 항아리였다는 이야기](../../content/stories/life/folks/pandora-jar-hope-under-lid.json) | 게시 중 | 그리스 / 문화 | 그리스의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [피그말리온 — 조각이 따뜻해진 순간](../../content/stories/life/folks/pygmalion-ivory-statue-and-living-person.json) | 미게시 · verified | 키프로스 / 문화 | 키프로스를 신화 속 배경에 따른 탐색 위치로 제안. 그리스·로마 전승과 오비디우스의 서술을 현대 국가의 소유로 해석하지 않음. |
 | [삼포 — 밀가루와 소금, 돈을 내던 보물은 왜 깨졌을까](../../content/stories/life/folks/sampo-forging-plenty-and-fragments.json) | 게시 중 | 핀란드 / 문화 | 핀란드의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
-| [인어공주 — 목소리를 내주고 얻으려 했던 것은 무엇일까](../../content/stories/life/folks/little-mermaid-voice-and-soul.json) | 미게시 · verified | 덴마크 / 문화 | 덴마크의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
+| [인어공주 — 목소리를 내주고 얻으려 했던 것은 무엇일까](../../content/stories/life/folks/little-mermaid-voice-and-soul.json) | 게시 중 | 덴마크 / 문화 | 덴마크의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
 ### 지역에 걸친 이야기 — 1편 (게시 중 1편)
 
@@ -237,7 +237,7 @@
 
 ## 아메리카
 
-### 미국 — 17편 (게시 중 16편)
+### 미국 — 17편 (게시 중 17편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -257,7 +257,7 @@
 | [옥수수와 콩, 호박은 왜 세 자매일까](../../content/stories/life/food/three-sisters-garden.json) | 게시 중 | 미국 / 생활 | 미국 지역의 자료를 탐색 위치로 제안. 하우데노사우니 등 공동체와 캐나다를 포함한 문화권을 별도로 설명. |
 | [자유의 여신상과 라자루스 — 조각상은 어떻게 환영의 목소리를 얻었을까](../../content/stories/culture/literature/liberty-lazarus-and-harbor-poem.json) | 게시 중 | 미국 / 문화 | 미국의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 | [슬리피 할로의 전설 — 머리 없는 기사는 정말 나타났을까](../../content/stories/culture/literature/sleepy-hollow-story-and-rumor.json) | 게시 중 | 미국 / 문화 | 미국의 구체적인 작품·유적·기록·도시사를 다룬 문화 이야기. |
-| [모비 딕 — 한 선장의 복수가 배 전체의 운명이 될 때](../../content/stories/culture/literature/moby-dick-ishmael-ahab-and-sea.json) | 미게시 · verified | 미국 / 문화 | 미국의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
+| [모비 딕 — 한 선장의 복수가 배 전체의 운명이 될 때](../../content/stories/culture/literature/moby-dick-ishmael-ahab-and-sea.json) | 게시 중 | 미국 / 문화 | 미국의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
 ### 캐나다 — 3편 (게시 중 3편)
 
@@ -290,7 +290,7 @@
 
 ## 중동아프리카
 
-### 이집트 — 6편 (게시 중 5편)
+### 이집트 — 6편 (게시 중 6편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -299,7 +299,7 @@
 | [수에즈 운하 — 지름길은 어떻게 제국의 길이 되었을까](../../content/stories/history/middle-east/suez-canal-shortcut-and-power.json) | 게시 중 | 이집트 / 역사 | 이집트의 역사라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [이시스 — 사라진 오시리스를 찾아 나선 길](../../content/stories/life/folks/isis-osiris-chest-and-search.json) | 게시 중 | 이집트 / 문화 | 이집트의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [아부심벨 — 왕의 얼굴을 새긴 절벽을 왜 옮겼을까](../../content/stories/culture/architecture/abu-simbel-temple-and-rescue.json) | 게시 중 | 이집트 / 문화 | 이집트의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
-| [카르나크 신전 — 돌기둥의 숲은 어떻게 커졌을까](../../content/stories/culture/architecture/karnak-columns-light-and-growing-temple.json) | 미게시 · verified | 이집트 / 문화 | 이집트의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
+| [카르나크 신전 — 돌기둥의 숲은 어떻게 커졌을까](../../content/stories/culture/architecture/karnak-columns-light-and-growing-temple.json) | 게시 중 | 이집트 / 문화 | 이집트의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
 ### 이란 — 4편 (게시 중 4편)
 

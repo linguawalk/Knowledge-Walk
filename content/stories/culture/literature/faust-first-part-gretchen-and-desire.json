@@ -86,7 +86,9 @@
     "credit": "AI 이야기 장면 삽화 · 작품과 장소를 떠올리기 위한 그림이며 실제 사진·배우 초상·정확한 복원이 아닙니다.",
     "alt": "서재의 학자와 문가의 낯선 방문자를 그린 파우스트 상상 삽화"
   },
-  "status": "review",
-  "publication_ready": false,
-  "source_review": "verified"
+  "status": "approved",
+  "publication_ready": true,
+  "source_review": "verified",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-05"
 }

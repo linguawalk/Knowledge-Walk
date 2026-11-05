@@ -12,13 +12,13 @@
 | [『돈키호테』 — 풍차가 거인으로 보이는 사람](don-quixote-windmills-and-sancho.md) | 자료 대조·공개 게시 승인 완료 |
 | [도리언 그레이의 초상 — 얼굴 대신 그림이 늙어 간다면](dorian-gray-portrait-and-conscience.md) | 자료 대조·공개 게시 승인 완료 |
 | [80일간의 세계 일주 — 시계보다 늦게 알게 된 여행의 의미](eighty-days-time-and-travel.md) | 자료 대조·공개 게시 승인 완료 |
-| [파우스트 1부 — 더 많은 삶을 원한 사람은 누구를 다치게 했을까](faust-first-part-gretchen-and-desire.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [파우스트 1부 — 더 많은 삶을 원한 사람은 누구를 다치게 했을까](faust-first-part-gretchen-and-desire.md) | 자료 대조·공개 게시 승인 완료 |
 | [프랑켄슈타인 — 만들어 낸 생명에게는 누가 책임질까](frankenstein-creator-and-creature.md) | 자료 대조·공개 게시 승인 완료 |
 | [오 헨리의 「크리스마스 선물」 — 당장 쓸 수 없는 두 선물](gift-magi-watch-chain-and-combs.md) | 자료 대조·공개 게시 승인 완료 |
 | [고골의 외투 — 새 옷 한 벌이 한 사람의 세계를 바꿀 때](gogol-overcoat-clerk-and-city.md) | 자료 대조·공개 게시 승인 완료 |
 | [『위대한 유산』 — 신사가 된 소년은 누구를 부끄러워했을까](great-expectations-pip-secret-benefactor.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [『걸리버 여행기』 — 소인국보다 더 이상한 것은 무엇일까](gulliver-travels-size-and-satire.md) | 자료 대조·공개 게시 승인 완료 |
-| [햄릿 — 복수해야 한다는 말만으로 행동할 수 있을까](hamlet-ghost-proof-and-revenge.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [햄릿 — 복수해야 한다는 말만으로 행동할 수 있을까](hamlet-ghost-proof-and-revenge.md) | 자료 대조·공개 게시 승인 완료 |
 | [제인 오스틴의 생애 — 작은 거실에서 넓은 세계를 쓰다](jane-austen-life-and-writing.md) | 자료 대조·공개 게시 승인 완료 |
 | [『제인 에어』 — 사랑해도 떠날 수 있는 사람](jane-eyre-love-and-own-voice.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [지킬 박사와 하이드 — 다른 이름이면 책임도 사라질까](jekyll-hyde-door-and-responsibility.md) | 자료 대조·공개 게시 승인 완료 |
@@ -26,7 +26,7 @@
 | [자유의 여신상과 라자루스 — 조각상은 어떻게 환영의 목소리를 얻었을까](liberty-lazarus-and-harbor-poem.md) | 자료 대조·공개 게시 승인 완료 |
 | [『작은 아씨들』 — 네 자매에게 같은 미래가 필요했을까](little-women-four-sisters-different-futures.md) | 자료 대조·공개 게시 승인 완료 |
 | [보바리 부인 — 꿈꾸던 삶은 왜 빚이 되었을까](madame-bovary-desire-and-credit.md) | 자료 대조·공개 게시 승인 완료 |
-| [모비 딕 — 한 선장의 복수가 배 전체의 운명이 될 때](moby-dick-ishmael-ahab-and-sea.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [모비 딕 — 한 선장의 복수가 배 전체의 운명이 될 때](moby-dick-ishmael-ahab-and-sea.md) | 자료 대조·공개 게시 승인 완료 |
 | [몬테크리스토 백작 — 복수가 끝나면 삶은 돌아올까](monte-cristo-revenge-and-hope.md) | 자료 대조·공개 게시 승인 완료 |
 | [노트르담 드 파리 — 성당의 종지기는 누구를 사랑했을까](notre-dame-novel-and-misunderstood-love.md) | 자료 대조·공개 게시 승인 완료 |
 | [『차의 책』 — 찻잔 하나를 위해 방을 비운다는 것](okakura-book-tea-room-and-attention.md) | 자료 대조·공개 게시 승인 완료 |

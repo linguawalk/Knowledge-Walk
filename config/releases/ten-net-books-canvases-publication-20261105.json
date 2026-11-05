@@ -1,0 +1,26 @@
+{
+  "id": "ten-net-books-canvases-publication-20261105",
+  "user_request": "홈페이지 게시",
+  "approved_at": "2026-11-05",
+  "story_ids": [
+    "hamlet-ghost-proof-and-revenge",
+    "faust-first-part-gretchen-and-desire",
+    "moby-dick-ishmael-ahab-and-sea",
+    "little-mermaid-voice-and-soul",
+    "delacroix-liberty-1830-and-barricade",
+    "surrender-breda-keys-and-victory",
+    "pompeii-79-ash-and-everyday-city",
+    "nara-todaiji-buddha-and-state",
+    "dunhuang-caves-paintings-and-donors",
+    "karnak-columns-light-and-growing-temple"
+  ],
+  "net_stories": 201,
+  "kr_stories": 137,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261105-ten-net-books-canvases-and-ancient-cities/index.html",
+  "kr_domain_connected": false,
+  "deployment_status": "pending",
+  "local_tests_passed": 51,
+  "local_browser_checks": 20,
+  "numbered_sections_per_story": 7,
+  "numbered_toc_per_story": 7
+}
