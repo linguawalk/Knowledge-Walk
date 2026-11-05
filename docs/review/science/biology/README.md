@@ -13,4 +13,6 @@
 | [존 스노 — 펌프 손잡이보다 먼저 바꾼 질문](john-snow-pump-and-evidence.md) | 자료 대조·공개 게시 승인 완료 |
 | [멘델 — 사라진 것 같던 흰 꽃은 왜 다시 피었을까](mendel-peas-and-returning-traits.md) | 자료 대조·공개 게시 승인 완료 |
 | [파스퇴르 — 공기는 들어오는데 왜 썩지 않았을까](pasteur-swan-neck-air-and-dust.md) | 자료 대조·공개 게시 승인 완료 |
+| [페니실린 — 곰팡이를 발견한 날에 약이 완성된 것은 아니었다](penicillin-mold-to-medicine-team.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [레서판다의 꼬리는 담요가 되기도 한다](red-panda-tail.md) | 자료 대조·공개 게시 승인 완료 |
+| [제멜바이스 — 의사의 손이 지나온 길을 묻다](semmelweis-handwashing-and-hospital-wards.md) | 자료 대조 완료 · 게시 승인 대기 |

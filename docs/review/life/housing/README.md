@@ -10,3 +10,4 @@
 | [옛 열쇠에도 초록색 매듭이 달려 있었다](lock-green-knot.md) | 자료 대조·공개 게시 승인 완료 |
 | [궁궐의 작은 상자에는 생활의 필요가 담겼다](maehwa-portable-toilet.md) | 자료 대조·공개 게시 승인 완료 |
 | [빗을 담는 상자의 문지기는 거북이었다](red-comb-chest-turtle.md) | 자료 대조·공개 게시 승인 완료 |
+| [엘리베이터 — 위로 가는 힘보다 멈출 수 있다는 믿음](safety-elevator-building-height-and-trust.md) | 자료 대조 완료 · 게시 승인 대기 |

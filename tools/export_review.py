@@ -12,6 +12,12 @@ def review_path(story):
     return Path(story['category']) / slug(story['subcategory']) / f"{story['id']}.md"
 
 
+def review_classification(story, category_map):
+    if story.get('kr_topic') and story.get('kr_subtopic'):
+        return f"{story['kr_topic']} · {story['kr_subtopic']}"
+    return f"{category_map[story['category']]['title']} · {story['subcategory']}"
+
+
 def numbered_sections(story):
     sections = []
     for index, block in enumerate(story['body']):
@@ -70,7 +76,7 @@ def main():
     index = ['# KnowledgeWalk — 이야기 서가', '',
              f'분야를 고른 다음 소주제로 들어가면 전체 {len(stories)}편의 글과 이미지를 함께 읽을 수 있습니다.', '',
              f'**공개 승인 {sum(publishable(s) for s in stories)}편 / 자료 대조 완료·편집 검토 {sum(s["source_review"] == "verified" and not publishable(s) for s in stories)}편 / 출처 추가 확인 {sum(s["source_review"] != "verified" for s in stories)}편.** 실제 웹 게시는 별도의 배포 상태를 따릅니다.', '',
-             '[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261101-ten-china-japan-objects-and-stories.md)', '',
+             '[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261105-ten-kr-factories-keyboards-and-discoveries.md)', '',
              '| 분야 | 이야기 | 소주제 수 |', '|---|---:|---:|']
     for category in categories:
         cid = category['id']
@@ -100,7 +106,7 @@ def main():
         target = destination / review_path(story)
         image = os.path.relpath(ROOT / story['image']['file'], target.parent).replace(os.sep, '/')
         draft = [f"# {story['title']}", '', f"*{story['subtitle']}*", '',
-                 f"{cmap[story['category']]['title']} · {story['subcategory']}", '',
+                 review_classification(story, cmap), '',
                  f"> {review_notice(story)}", '',
                  f"![{story['image']['alt']}]({image})", '', f"*{story['image']['credit']}*", '']
         if story['image']['type'] != 'ai_illustration':
@@ -141,7 +147,7 @@ def main():
             story = by_id[sid]
             kind = story['image'].get('label') or ('AI 설명용 삽화' if story['image']['type'] == 'ai_illustration' else '박물관 제공 소장품 사진')
             country_cell = f" {countries.get(sid, '')} |" if countries else ''
-            lines.append(f"|{country_cell} {cmap[story['category']]['title']} · {story['subcategory']} | [{story['title']}]({review_path(story).as_posix()}) | {kind} |")
+            lines.append(f"|{country_cell} {review_classification(story, cmap)} | [{story['title']}]({review_path(story).as_posix()}) | {kind} |")
         lines += ['', '[분야별 이야기 서가](README.md) · [43개 소주제 현황](../topic-coverage.md)', '']
         (destination / f'batch-{path.stem}.md').write_text('\n'.join(lines), encoding='utf-8')
     export_daily_queue(destination)
