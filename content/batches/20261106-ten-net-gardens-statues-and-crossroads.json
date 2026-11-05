@@ -1,0 +1,28 @@
+{
+  "id": "20261106-ten-net-gardens-statues-and-crossroads",
+  "title": "net 새 이야기 10편 — 정원과 조각, 길 위의 역사",
+  "story_ids": [
+    "romeo-juliet-names-and-missed-letter",
+    "cherry-orchard-auction-and-firs",
+    "great-gatsby-green-light-and-past",
+    "joyce-dead-song-snow-and-memory",
+    "michelangelo-david-marble-and-republic",
+    "samothrace-nike-wind-and-prow",
+    "great-wall-gates-and-political-choices",
+    "ise-shrine-rebuilding-and-inherited-craft",
+    "rostam-sohrab-token-and-recognition",
+    "fez-markets-water-and-travelers-view"
+  ],
+  "countries": {
+    "romeo-juliet-names-and-missed-letter": "영국",
+    "cherry-orchard-auction-and-firs": "러시아",
+    "great-gatsby-green-light-and-past": "미국",
+    "joyce-dead-song-snow-and-memory": "아일랜드",
+    "michelangelo-david-marble-and-republic": "이탈리아",
+    "samothrace-nike-wind-and-prow": "그리스",
+    "great-wall-gates-and-political-choices": "중국",
+    "ise-shrine-rebuilding-and-inherited-craft": "일본",
+    "rostam-sohrab-token-and-recognition": "이란",
+    "fez-markets-water-and-travelers-view": "모로코"
+  }
+}

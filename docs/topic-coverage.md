@@ -5,46 +5,46 @@
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
-| History | Asia | 1 | 1 | 1 |
+| History | Asia | 4 | 4 | 3 |
 | History | Europe | 8 | 8 | 8 |
-| History | America | 8 | 8 | 8 |
-| History | Middle East | 2 | 2 | 2 |
+| History | America | 9 | 9 | 9 |
+| History | Middle East | 3 | 3 | 3 |
 | History | Africa | 2 | 2 | 2 |
-| Cities | Asia | 10 | 10 | 10 |
-| Cities | Europe | 7 | 7 | 7 |
-| Cities | Americas | 5 | 5 | 5 |
-| Cities | Middle East | 2 | 2 | 2 |
-| Cities | Africa | 5 | 5 | 5 |
-| Culture | Architecture | 4 | 4 | 4 |
-| Culture | Literature | 24 | 24 | 21 |
-| Culture | Philosophy | 6 | 6 | 5 |
+| Cities | Asia | 14 | 14 | 14 |
+| Cities | Europe | 9 | 9 | 9 |
+| Cities | Americas | 7 | 7 | 7 |
+| Cities | Middle East | 3 | 3 | 3 |
+| Cities | Africa | 6 | 6 | 5 |
+| Culture | Architecture | 10 | 10 | 9 |
+| Culture | Literature | 41 | 41 | 33 |
+| Culture | Philosophy | 7 | 7 | 6 |
 | Culture | Music | 27 | 26 | 24 |
-| Culture | Art | 29 | 29 | 29 |
+| Culture | Art | 37 | 37 | 35 |
 | Culture | Film | 1 | 1 | 1 |
 | Culture | Sports | 1 | 1 | 1 |
-| Life | Folks | 19 | 19 | 17 |
+| Life | Folks | 23 | 23 | 21 |
 | Life | Clothing | 4 | 4 | 4 |
 | Life | Food | 9 | 9 | 9 |
-| Life | Housing | 6 | 6 | 6 |
-| Companies | Technology | 11 | 11 | 11 |
+| Life | Housing | 9 | 9 | 9 |
+| Companies | Technology | 16 | 16 | 16 |
 | Companies | Automotive | 4 | 4 | 4 |
 | Companies | Finance | 1 | 1 | 1 |
 | Companies | Media | 4 | 4 | 4 |
 | Companies | Fashion | 5 | 5 | 5 |
-| Computing | Computers | 4 | 4 | 4 |
+| Computing | Computers | 6 | 6 | 6 |
 | Computing | Software | 11 | 11 | 11 |
-| Computing | Internet | 9 | 9 | 9 |
+| Computing | Internet | 10 | 10 | 10 |
 | Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 8 | 7 | 7 |
-| Finance | Banking | 4 | 4 | 4 |
+| Finance | Money | 10 | 9 | 9 |
+| Finance | Banking | 6 | 6 | 6 |
 | Finance | Insurance | 2 | 2 | 2 |
 | Finance | Investment | 6 | 6 | 6 |
 | Finance | Fintech | 1 | 1 | 1 |
 | Science | Mathematics | 3 | 3 | 3 |
-| Science | Physics | 10 | 10 | 9 |
+| Science | Physics | 11 | 11 | 10 |
 | Science | Chemistry | 3 | 3 | 3 |
-| Science | Biology | 10 | 10 | 10 |
+| Science | Biology | 13 | 13 | 13 |
 | Science | Earth-Science | 2 | 2 | 2 |
 | Science | Engineering | 6 | 6 | 5 |
 

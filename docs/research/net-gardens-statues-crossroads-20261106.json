@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-06",
+  "batch": "20261106-ten-net-gardens-statues-and-crossroads",
+  "publication_status": "review_only",
+  "articles": [
+    {
+      "id": "romeo-juliet-names-and-missed-letter",
+      "body_characters": 2349,
+      "headings": 7
+    },
+    {
+      "id": "cherry-orchard-auction-and-firs",
+      "body_characters": 2330,
+      "headings": 7
+    },
+    {
+      "id": "great-gatsby-green-light-and-past",
+      "body_characters": 2340,
+      "headings": 7
+    },
+    {
+      "id": "joyce-dead-song-snow-and-memory",
+      "body_characters": 2345,
+      "headings": 7
+    },
+    {
+      "id": "michelangelo-david-marble-and-republic",
+      "body_characters": 2331,
+      "headings": 7
+    },
+    {
+      "id": "samothrace-nike-wind-and-prow",
+      "body_characters": 2315,
+      "headings": 7
+    },
+    {
+      "id": "great-wall-gates-and-political-choices",
+      "body_characters": 2320,
+      "headings": 7
+    },
+    {
+      "id": "ise-shrine-rebuilding-and-inherited-craft",
+      "body_characters": 2323,
+      "headings": 7
+    },
+    {
+      "id": "rostam-sohrab-token-and-recognition",
+      "body_characters": 2310,
+      "headings": 7
+    },
+    {
+      "id": "fez-markets-water-and-travelers-view",
+      "body_characters": 2334,
+      "headings": 7
+    }
+  ],
+  "source_checks": [
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-History-of-Greek-Art-With-an-Introductory-Chapter-on-Art-in-Egypt-and-Mesopotamia_4390/master/4390.txt",
+      "status": 200,
+      "bytes": 325461
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Greek-Sculpture--13-A-collection-of-sixteen-pictures-of-Greek-marbles-with-introduction-and-i__34842/master/34842-0.txt",
+      "status": 200,
+      "bytes": 125538
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Dubliners_2814/master/2814-0.txt",
+      "status": 200,
+      "bytes": 405900
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Plays-by-Anton-Chekhov-Second-Series_7986/master/7986-0.txt",
+      "status": 200,
+      "bytes": 419064
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Michelangelo_32762/master/32762-0.txt",
+      "status": 200,
+      "bytes": 283253
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/In-Morocco_39042/master/39042-h/images/gs17.jpg",
+      "status": 200,
+      "bytes": 189884
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Greek-Sculpture--13-A-collection-of-sixteen-pictures-of-Greek-marbles-with-introduction-and-i__34842/master/34842-h/images/illus16.jpg",
+      "status": 200,
+      "bytes": 209450
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Life-of-Michelangelo-Buonarroti_11242/master/11242-8.txt",
+      "status": 200,
+      "bytes": 1123593
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Persian-Literature-Comprising-The-Shah-Nameh-The-Rubaiyat-The-Divan-and-The-Gulistan-Volu__10315/master/10315-8.txt",
+      "status": 200,
+      "bytes": 879883
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Tragedy-of-Romeo-and-Juliet_1112/master/1112.txt",
+      "status": 200,
+      "bytes": 179010
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Great-Gatsby_64317/master/64317-0.txt",
+      "status": 200,
+      "bytes": 306029
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Japan-An-Attempt-at-Interpretation_5979/master/5979.txt",
+      "status": 200,
+      "bytes": 739994
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/In-Morocco_39042/master/39042-8.txt",
+      "status": 200,
+      "bytes": 335197
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/China-and-the-Manchus_2156/master/2156-8.txt",
+      "status": 200,
+      "bytes": 216409
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Michelangelo_32762/master/32762-h/images/ill_018_lg.jpg",
+      "status": 200,
+      "bytes": 133303
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Awakening-of-China_15125/master/15125-8.txt",
+      "status": 200,
+      "bytes": 520408
+    }
+  ],
+  "validation": {
+    "unit_tests": 51,
+    "browser_views": 20,
+    "source_urls_ok": 16,
+    "images_visually_checked": 10,
+    "public_net": 201,
+    "public_kr_temporary": 137
+  }
+}

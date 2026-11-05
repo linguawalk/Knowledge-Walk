@@ -1,16 +1,16 @@
 # KnowledgeWalk — 이야기 서가
 
-분야를 고른 다음 소주제로 들어가면 전체 351편의 글과 이미지를 함께 읽을 수 있습니다.
+분야를 고른 다음 소주제로 들어가면 전체 361편의 글과 이미지를 함께 읽을 수 있습니다.
 
-**공개 승인 338편 / 자료 대조 완료·편집 검토 10편 / 출처 추가 확인 3편.** 실제 웹 게시는 별도의 배포 상태를 따릅니다.
+**공개 승인 338편 / 자료 대조 완료·편집 검토 20편 / 출처 추가 확인 3편.** 실제 웹 게시는 별도의 배포 상태를 따릅니다.
 
-[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261105-ten-net-books-canvases-and-ancient-cities.md)
+[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261106-ten-net-gardens-statues-and-crossroads.md)
 
 | 분야 | 이야기 | 소주제 수 |
 |---|---:|---:|
-| [History · 역사](history/README.md) | 29편 | 6개 |
-| [Cities · 도시](cities/README.md) | 38편 | 5개 |
-| [Culture · 문화](culture/README.md) | 116편 | 7개 |
+| [History · 역사](history/README.md) | 30편 | 6개 |
+| [Cities · 도시](cities/README.md) | 39편 | 5개 |
+| [Culture · 문화](culture/README.md) | 124편 | 7개 |
 | [Life · 생활](life/README.md) | 45편 | 4개 |
 | [Companies · 기업](companies/README.md) | 30편 | 5개 |
 | [Computing · 컴퓨팅](computing/README.md) | 30편 | 5개 |

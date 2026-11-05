@@ -6,10 +6,10 @@
 
 | 소주제 | 이야기 |
 |---|---:|
-| [Architecture](architecture/README.md) | 9편 |
-| [Literature](literature/README.md) | 36편 |
+| [Architecture](architecture/README.md) | 10편 |
+| [Literature](literature/README.md) | 41편 |
 | [Philosophy](philosophy/README.md) | 7편 |
 | [Music](music/README.md) | 27편 |
-| [Art](art/README.md) | 35편 |
+| [Art](art/README.md) | 37편 |
 | [Film](film/README.md) | 1편 |
 | [Sports](sports/README.md) | 1편 |
