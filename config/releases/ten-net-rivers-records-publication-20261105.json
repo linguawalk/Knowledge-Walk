@@ -1,0 +1,22 @@
+{
+  "id": "ten-net-rivers-records-publication-20261105",
+  "user_request": "홈페이지 게시 및 kr 새 글 10개",
+  "approved_at": "2026-11-05",
+  "story_ids": [
+    "canterbury-pilgrims-and-pardoners-gold",
+    "gogol-overcoat-clerk-and-city",
+    "sleepy-hollow-story-and-rumor",
+    "madame-bovary-desire-and-credit",
+    "persepolis-fire-and-clay-records",
+    "piri-reis-map-and-shared-seas",
+    "palenque-glyphs-and-city-memory",
+    "angkor-wat-temple-and-changing-faith",
+    "sydney-cove-1788-fleet-and-shore",
+    "quebec-1608-river-and-fur-trade"
+  ],
+  "net_stories": 191,
+  "kr_stories": 127,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261105-ten-net-rivers-records-and-tales/index.html",
+  "kr_domain_connected": false,
+  "deployment_status": "pending"
+}

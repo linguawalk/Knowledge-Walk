@@ -97,7 +97,9 @@
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A04_03_PersepTablet.jpg",
     "license": "Public Domain"
   },
-  "status": "review",
-  "publication_ready": false,
-  "source_review": "verified"
+  "status": "approved",
+  "publication_ready": true,
+  "source_review": "verified",
+  "approved_at": "2026-11-05",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 및 kr 새 글 10개 요청"
 }

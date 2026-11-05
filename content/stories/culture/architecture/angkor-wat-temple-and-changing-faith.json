@@ -97,7 +97,9 @@
     "source_url": "https://raw.githubusercontent.com/GITenberg/Travels-in-the-Central-Parts-of-Indo-China-Siam-Cambodia-and-Laos-Vol-1-of-2-During-the-Years__46559/master/46559-h/images/t288.jpg",
     "license": "Public Domain"
   },
-  "status": "review",
-  "publication_ready": false,
-  "source_review": "verified"
+  "status": "approved",
+  "publication_ready": true,
+  "source_review": "verified",
+  "approved_at": "2026-11-05",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 및 kr 새 글 10개 요청"
 }

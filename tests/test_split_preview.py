@@ -99,7 +99,12 @@ class SplitTests(unittest.TestCase):
         self.assertIn('기타 국가',self.pages[Path('net')/'categories/europe/index.html'])
         country=self.pages[Path('net')/'categories/europe/이탈리아/index.html']
         for label in self.taxonomy['country_content_labels']:self.assertIn(label,country)
-        empty=self.pages[Path('net')/'categories/asia-oceania/호주/index.html']
+        import copy
+        categories=copy.deepcopy(net.categories)
+        categories[0]['children'].append('검사전용빈국가')
+        empty_site=split.SplitSite('net',categories,net.stories,self.taxonomy)
+        empty_site.category(categories[0],'검사전용빈국가')
+        empty=empty_site.files['categories/asia-oceania/검사전용빈국가/index.html']
         self.assertIn('아직 공개된 이야기가 없습니다.',empty)
         self.assertNotIn('8개 분야, 43개',self.pages[Path('kr/library.html')])
 
