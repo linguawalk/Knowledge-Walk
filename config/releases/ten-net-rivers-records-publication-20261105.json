@@ -18,5 +18,14 @@
   "kr_stories": 127,
   "public_collection_url": "https://knowledgewalk.net/collections/20261105-ten-net-rivers-records-and-tales/index.html",
   "kr_domain_connected": false,
-  "deployment_status": "pending"
+  "deployment_status": "live_verified",
+  "verified_at": "2026-11-05",
+  "verified_new_story_count": 10,
+  "verified_image_count": 10,
+  "pages_run_id": 42011562068,
+  "live_net_story_count": 191,
+  "live_kr_story_count": 127,
+  "local_tests_passed": 51,
+  "local_browser_checks": 20,
+  "verified_public_response_count": 23
 }

@@ -19,7 +19,7 @@
 | [풀먼 — 회사가 집까지 마련해 주면 행복할까](../../content/stories/companies/technology/pullman-town-wages-and-rent.json) | 게시 중 | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 변화·원리·사례가 중심인 글. |
 | [스탠더드오일 — 석유 회사는 왜 문어로 그려졌을까](../../content/stories/companies/technology/standard-oil-octopus-and-competition.json) | 게시 중 | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 
-### 공장과 생산 — 5편 (게시 중 5편)
+### 공장과 생산 — 6편 (게시 중 5편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -28,8 +28,9 @@
 | [토요타 — 창고가 가득 차면 안심해도 될까](../../content/stories/companies/automotive/toyota-inventory-and-timing.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글. |
 | [카네기 — 철강 공장보다 길었던 생산의 사슬](../../content/stories/companies/technology/carnegie-steel-chain-and-homestead.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 | [델 — 주문을 먼저 듣고 컴퓨터를 만들면](../../content/stories/companies/technology/dell-order-before-computer.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글. |
+| [맥코믹 — 수확철의 짧은 시간을 기계로 바꾸다](../../content/stories/companies/technology/mccormick-reaper-and-harvest-window.json) | 미게시 · verified | 기업과 산업 / 공장과 생산 | 국가 소개보다 공장과 생산의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
-### 상업과 유통 — 7편 (게시 중 7편)
+### 상업과 유통 — 8편 (게시 중 7편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -40,6 +41,7 @@
 | [아마존 — 주문 버튼 뒤에는 무엇이 남아 있을까](../../content/stories/companies/technology/amazon-order-and-warehouse.json) | 게시 중 | 기업과 산업 / 상업과 유통 | 특정 국가의 소개보다 상업과 유통의 변화·원리·사례가 중심인 글. |
 | [박스드 — 차 없이도 창고형 쇼핑을 할 수 있을까](../../content/stories/companies/technology/boxed-bulk-shopping-without-car.json) | 게시 중 | 기업과 산업 / 상업과 유통 | 특정 국가의 소개보다 상업과 유통의 변화·원리·사례가 중심인 글. |
 | [시어스 — 시골집 식탁에 백화점 한 권이 도착했다](../../content/stories/companies/technology/sears-catalog-price-and-rural-door.json) | 게시 중 | 기업과 산업 / 상업과 유통 | 특정 국가의 소개보다 상업과 유통의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [싱어 — 재봉틀은 어떻게 집 안으로 들어왔을까](../../content/stories/companies/technology/singer-sewing-machine-and-installments.json) | 미게시 · verified | 기업과 산업 / 상업과 유통 | 국가 소개보다 상업과 유통의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
 ### 브랜드와 소비 — 7편 (게시 중 7편)
 
@@ -74,7 +76,7 @@
 | [CSS — 같은 글이 다른 얼굴로 보이는 이유](../../content/stories/computing/software/css-same-words-different-page.json) | 게시 중 | 컴퓨터와 디지털 / 소프트웨어 | 특정 국가의 소개보다 소프트웨어의 변화·원리·사례가 중심인 글. |
 | [최종본, 진짜 최종본 — 깃은 무엇을 기억할까](../../content/stories/computing/software/git-saving-many-versions.json) | 게시 중 | 컴퓨터와 디지털 / 소프트웨어 | 특정 국가의 소개보다 소프트웨어의 변화·원리·사례가 중심인 글. |
 
-### 인터넷과 통신 — 8편 (게시 중 8편)
+### 인터넷과 통신 — 9편 (게시 중 8편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -86,6 +88,7 @@
 | [웹의 시작 — 논문에서 다른 논문으로 건너가고 싶었다](../../content/stories/computing/internet/web-links-shared-knowledge.json) | 게시 중 | 컴퓨터와 디지털 / 인터넷과 통신 | 특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글. |
 | [와이파이 — 연결됐는데 인터넷이 안 되는 까닭](../../content/stories/computing/internet/wifi-connected-without-internet.json) | 게시 중 | 컴퓨터와 디지털 / 인터넷과 통신 | 특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글. |
 | [인터넷에도 첫 번째 정거장이 있었다](../../content/stories/history/america/arpanet-first-node.json) | 게시 중 | 컴퓨터와 디지털 / 인터넷과 통신 | 특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글. |
+| [대서양 해저전선 — 소식이 바다보다 빨라지기까지](../../content/stories/computing/internet/atlantic-cable-failures-and-connection.json) | 미게시 · verified | 컴퓨터와 디지털 / 인터넷과 통신 | 국가 소개보다 인터넷과 통신의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
 ### 데이터와 기록 — 10편 (게시 중 10편)
 
@@ -119,7 +122,7 @@
 
 ## 돈과 금융
 
-### 돈과 화폐 — 5편 (게시 중 4편)
+### 돈과 화폐 — 6편 (게시 중 4편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -128,8 +131,9 @@
 | [금과 은 — 어떤 금속을 돈으로 쓸지가 생계의 문제가 되었다](../../content/stories/finance/money/gold-silver-debate-debt-and-prices.json) | 게시 중 | 돈과 금융 / 돈과 화폐 | 특정 국가의 소개보다 돈과 화폐의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 | [물가 — 지갑 속 돈은 같은데 왜 덜 살 수 있을까](../../content/stories/finance/money/inflation-price-tag-and-purchasing-power.json) | 게시 중 | 돈과 금융 / 돈과 화폐 | 특정 국가의 소개보다 돈과 화폐의 변화·원리·사례가 중심인 글. |
 | [존 로 — 종이돈과 미시시피의 꿈은 어떻게 엮였을까](../../content/stories/finance/money/john-law-paper-money-and-mississippi.json) | 게시 중 | 돈과 금융 / 돈과 화폐 | 프랑스의 사례를 사용하지만 화폐·신용과 기대의 작동이 중심이므로 kr 우선. |
+| [브레턴우즈 1944 — 전쟁이 끝나기 전에 돈의 질서를 의논하다](../../content/stories/finance/money/bretton-woods-1944-money-rules.json) | 미게시 · verified | 돈과 금융 / 돈과 화폐 | 국가 소개보다 돈과 화폐의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
-### 은행과 신용 — 5편 (게시 중 5편)
+### 은행과 신용 — 6편 (게시 중 5편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -138,6 +142,7 @@
 | [연준의 탄생 — 은행을 위한 은행은 누가 운영해야 할까](../../content/stories/finance/banking/federal-reserve-1913-regions-and-credit.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 | [매달 갚는데 왜 원금은 조금 줄어들까](../../content/stories/finance/banking/loan-payment-principal-interest.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글. |
 | [1933년의 은행 휴일 — 문을 닫고 신뢰를 되찾으려 한 이유](../../content/stories/finance/banking/roosevelt-bank-holiday-and-radio.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글. |
+| [잉글랜드은행 1694 — 왕의 전쟁 자금에서 자라난 은행](../../content/stories/finance/banking/bank-england-1694-government-credit.json) | 미게시 · verified | 돈과 금융 / 은행과 신용 | 국가 소개보다 은행과 신용의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
 ### 투자와 시장 — 5편 (게시 중 5편)
 
@@ -174,7 +179,7 @@
 | [우주선 안에도 작은 이름표가 가득하다](../../content/stories/science/engineering/discovery-panel-labels.json) | 게시 중 | 과학과 발견 / 우주와 천문 | 특정 국가의 소개보다 우주와 천문의 변화·원리·사례가 중심인 글. |
 | [보이저 — 오래된 탐사선에 새 동작을 가르치다](../../content/stories/science/engineering/voyager-grand-tour-old-spacecraft-new-tricks.json) | 미게시 · verified | 과학과 발견 / 우주와 천문 | 특정 국가의 소개보다 우주와 천문의 변화·원리·사례가 중심인 글. |
 
-### 생명과 인체 — 4편 (게시 중 4편)
+### 생명과 인체 — 5편 (게시 중 4편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -182,6 +187,7 @@
 | [플라밍고는 태어날 때부터 분홍색일까](../../content/stories/science/biology/flamingo-pink-feathers.json) | 게시 중 | 과학과 발견 / 생명과 인체 | 특정 국가의 소개보다 생명과 인체의 변화·원리·사례가 중심인 글. |
 | [도마뱀붙이 — 접착제 없이 벽을 걷는 발](../../content/stories/science/biology/gecko-feet-small-forces.json) | 게시 중 | 과학과 발견 / 생명과 인체 | 특정 국가의 소개보다 생명과 인체의 변화·원리·사례가 중심인 글. |
 | [레서판다의 꼬리는 담요가 되기도 한다](../../content/stories/science/biology/red-panda-tail.json) | 게시 중 | 과학과 발견 / 생명과 인체 | 특정 국가의 소개보다 생명과 인체의 변화·원리·사례가 중심인 글. |
+| [하비의 혈액순환 — 심장이 보낸 피는 어디로 갔을까](../../content/stories/science/biology/harvey-heart-blood-and-quantity.json) | 미게시 · verified | 과학과 발견 / 생명과 인체 | 국가 소개보다 생명과 인체의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
 ### 물질과 에너지 — 5편 (게시 중 5편)
 
@@ -201,7 +207,7 @@
 | [여섯 개의 점으로 얼마나 많은 모양을 만들까](../../content/stories/science/mathematics/braille-six-dots.json) | 게시 중 | 과학과 발견 / 수학과 측정 | 특정 국가의 소개보다 수학과 측정의 변화·원리·사례가 중심인 글. |
 | [그림자로 지구를 잰 사람 — 에라토스테네스의 계산](../../content/stories/science/mathematics/eratosthenes-shadow-earth-circumference.json) | 게시 중 | 과학과 발견 / 수학과 측정 | 특정 국가의 소개보다 수학과 측정의 변화·원리·사례가 중심인 글. |
 
-### 과학자의 발견 — 16편 (게시 중 15편)
+### 과학자의 발견 — 17편 (게시 중 15편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -221,6 +227,7 @@
 | [케플러 — 하늘의 원을 조금 찌그러뜨린 사람](../../content/stories/science/physics/kepler-mars-observations-and-ellipse.json) | 게시 중 | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글. |
 | [마리 퀴리의 생애 — 반짝이는 발견 뒤의 오래된 실험실](../../content/stories/science/physics/marie-curie-life-and-discovery.json) | 게시 중 | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글. |
 | [뉴턴의 프리즘 — 유리가 색을 만든 것일까](../../content/stories/science/physics/newton-prism-white-light-colours.json) | 미게시 · verified | 과학과 발견 / 과학자의 발견 | 특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글. |
+| [뢴트겐의 엑스선 — 몸을 열지 않고 안을 본다는 것](../../content/stories/science/physics/roentgen-xray-shadow-and-diagnosis.json) | 미게시 · verified | 과학과 발견 / 과학자의 발견 | 국가 소개보다 과학자의 발견의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
 ## 생활을 바꾼 물건과 기술
 
@@ -235,12 +242,13 @@
 
 현재 배치할 원고가 없습니다.
 
-### 집과 생활 도구 — 2편 (게시 중 2편)
+### 집과 생활 도구 — 3편 (게시 중 2편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [시계에도 작은 문이 달린 집이 있었다](../../content/stories/history/korea/clock-little-door-case.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 집과 생활 도구 | 제작국 근거가 부족하므로 한국 소장품이라는 이유만으로 한국 역사로 분류하지 않음. 보관 도구의 구조 중심으로 kr 배치. |
 | [엘리베이터 — 위로 가는 힘보다 멈출 수 있다는 믿음](../../content/stories/life/housing/safety-elevator-building-height-and-trust.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 집과 생활 도구 | 특정 국가의 소개보다 집과 생활 도구의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [보온병 — 차가운 실험을 지키던 병이 생활로 들어오다](../../content/stories/life/housing/dewar-vacuum-flask-and-heat.json) | 미게시 · verified | 생활을 바꾼 물건과 기술 / 집과 생활 도구 | 국가 소개보다 집과 생활 도구의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
 ### 이동과 운송 — 2편 (게시 중 2편)
 
@@ -249,7 +257,7 @@
 | [철도를 바꾼 것은 달리는 힘만이 아니었다](../../content/stories/science/engineering/railway-air-brakes-stopping-train.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 이동과 운송 | 특정 국가의 소개보다 이동과 운송의 변화·원리·사례가 중심인 글. |
 | [증기기관 — 광산의 물이 공장의 힘으로 이어지기까지](../../content/stories/science/engineering/steam-engine-mine-and-factory.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 이동과 운송 | 특정 국가의 소개보다 이동과 운송의 변화·원리·사례가 중심인 글. |
 
-### 놀이와 취미 — 6편 (게시 중 5편)
+### 놀이와 취미 — 7편 (게시 중 5편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -259,6 +267,7 @@
 | [금속으로 만든 플루트는 왜 목관악기일까](../../content/stories/culture/music/metal-flute-woodwind-family.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 놀이와 취미 | 특정 국가의 소개보다 놀이와 취미의 변화·원리·사례가 중심인 글. |
 | [공연 시작 전, 오케스트라는 왜 한 음을 길게 낼까](../../content/stories/culture/music/orchestra-oboe-a.json) | 미게시 · pending | 생활을 바꾼 물건과 기술 / 놀이와 취미 | 특정 국가의 소개보다 놀이와 취미의 변화·원리·사례가 중심인 글. |
 | [트롬본 연주자는 왜 팔을 길게 뻗을까](../../content/stories/culture/music/trombone-sliding-notes.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 놀이와 취미 | 특정 국가의 소개보다 놀이와 취미의 변화·원리·사례가 중심인 글. |
+| [축음기 — 한 번 지나간 목소리를 다시 들을 수 있다면](../../content/stories/life/housing/phonograph-groove-and-returning-voice.json) | 미게시 · verified | 생활을 바꾼 물건과 기술 / 놀이와 취미 | 국가 소개보다 놀이와 취미의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
 ## 생각과 지식
 
@@ -289,11 +298,12 @@
 
 현재 배치할 원고가 없습니다.
 
-### 기록과 지식 전달 — 1편 (게시 중 1편)
+### 기록과 지식 전달 — 2편 (게시 중 1편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [옛 베개 사진 옆에는 왜 자가 서 있을까](../../content/stories/culture/art/glass-photo-pillow-ruler.json) | 게시 중 | 생각과 지식 / 기록과 지식 전달 | 베개 자체보다 유리건판 사진·측정 자·기록 방식이 중심이므로 kr의 기록과 지식 전달에 배치. |
+| [듀이 십진분류 — 책의 자리를 숫자로 찾기까지](../../content/stories/culture/philosophy/dewey-decimal-books-and-shelves.json) | 미게시 · verified | 생각과 지식 / 기록과 지식 전달 | 국가 소개보다 기록과 지식 전달의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
 ### 사회와 제도의 탄생 — 3편 (게시 중 3편)
 

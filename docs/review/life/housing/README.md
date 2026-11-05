@@ -5,9 +5,11 @@
 | 이야기 | 확인 상태 |
 |---|---|
 | [화로 아래에 작은 짐승의 발이 있다](brazier-animal-feet.md) | 자료 대조·공개 게시 승인 완료 |
+| [보온병 — 차가운 실험을 지키던 병이 생활로 들어오다](dewar-vacuum-flask-and-heat.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [이 집은 다음 목초지까지 함께 간다](jordan-moving-tent.md) | 자료 대조·공개 게시 승인 완료 |
 | [한 지붕 아래 사람과 가축의 자리가 있었다](kabyle-house-shared-roof.md) | 자료 대조·공개 게시 승인 완료 |
 | [옛 열쇠에도 초록색 매듭이 달려 있었다](lock-green-knot.md) | 자료 대조·공개 게시 승인 완료 |
 | [궁궐의 작은 상자에는 생활의 필요가 담겼다](maehwa-portable-toilet.md) | 자료 대조·공개 게시 승인 완료 |
+| [축음기 — 한 번 지나간 목소리를 다시 들을 수 있다면](phonograph-groove-and-returning-voice.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [빗을 담는 상자의 문지기는 거북이었다](red-comb-chest-turtle.md) | 자료 대조·공개 게시 승인 완료 |
 | [엘리베이터 — 위로 가는 힘보다 멈출 수 있다는 믿음](safety-elevator-building-height-and-trust.md) | 자료 대조·공개 게시 승인 완료 |
