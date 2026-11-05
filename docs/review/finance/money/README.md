@@ -7,7 +7,7 @@
 | [아테네 — 부엉이는 어떻게 돈 위에 앉았을까](athens-owl-silver-coin.md) | 자료 대조·공개 게시 승인 완료 |
 | [돈을 만들던 나무판에는 무엇이 남았을까](banknote-plate-fifty-yang.md) | 자료 대조·공개 게시 승인 완료 |
 | [흑사병 뒤의 임금 — 일할 사람이 줄자 무엇이 달라졌을까](black-death-labor-and-wages.md) | 자료 대조·공개 게시 승인 완료 |
-| [브레턴우즈 1944 — 전쟁이 끝나기 전에 돈의 질서를 의논하다](bretton-woods-1944-money-rules.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [브레턴우즈 1944 — 전쟁이 끝나기 전에 돈의 질서를 의논하다](bretton-woods-1944-money-rules.md) | 자료 대조·공개 게시 승인 완료 |
 | [동전 가장자리에는 왜 작은 톱니가 있을까](coin-ridged-edge.md) | 출처 추가 확인 중 |
 | [금과 은 — 어떤 금속을 돈으로 쓸지가 생계의 문제가 되었다](gold-silver-debate-debt-and-prices.md) | 자료 대조·공개 게시 승인 완료 |
 | [물가 — 지갑 속 돈은 같은데 왜 덜 살 수 있을까](inflation-price-tag-and-purchasing-power.md) | 자료 대조·공개 게시 승인 완료 |

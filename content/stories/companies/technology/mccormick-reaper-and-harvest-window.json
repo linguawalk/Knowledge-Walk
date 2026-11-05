@@ -88,7 +88,9 @@
     "source_url": "https://raw.githubusercontent.com/GITenberg/The-Progress-of-Invention-in-the-Nineteenth-Century._41538/master/41538-h/images/illo209.jpg",
     "license": "Public Domain · 1900년 출판"
   },
-  "status": "review",
-  "publication_ready": false,
-  "source_review": "verified"
+  "status": "approved",
+  "publication_ready": true,
+  "source_review": "verified",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 및 net 새 글 10개 요청",
+  "approved_at": "2026-11-05"
 }

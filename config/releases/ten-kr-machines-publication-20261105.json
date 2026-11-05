@@ -1,0 +1,26 @@
+{
+  "id": "ten-kr-machines-publication-20261105",
+  "user_request": "홈페이지 게시 및 net 새 글 10개",
+  "approved_at": "2026-11-05",
+  "story_ids": [
+    "singer-sewing-machine-and-installments",
+    "mccormick-reaper-and-harvest-window",
+    "atlantic-cable-failures-and-connection",
+    "bank-england-1694-government-credit",
+    "bretton-woods-1944-money-rules",
+    "roentgen-xray-shadow-and-diagnosis",
+    "harvey-heart-blood-and-quantity",
+    "dewar-vacuum-flask-and-heat",
+    "phonograph-groove-and-returning-voice",
+    "dewey-decimal-books-and-shelves"
+  ],
+  "net_stories": 191,
+  "kr_stories": 137,
+  "kr_domain_connected": false,
+  "temporary_collection_url": "https://knowledgewalk.net/knowledge/collections/20261105-ten-kr-machines-money-and-knowledge/index.html",
+  "deployment_status": "pending",
+  "hostinger_check_run_id": 42019654064,
+  "hostinger_blocker": "HOSTINGER_FTP_PASSWORD 미등록: 읽기 전용 연결 검사 종료 코드 2, 업로드 미실행",
+  "local_tests_passed": 51,
+  "local_browser_checks": 20
+}

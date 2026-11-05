@@ -104,7 +104,9 @@
     "alt": "산악 호텔과 회의 탁자의 대표들을 함께 그린 브레턴우즈 회의 상상 삽화",
     "credit": "AI 이야기 장면 삽화 · 역사적 상황과 원리를 떠올리기 위한 그림이며 실제 사진·인물 초상·정확한 복원이나 과학 도해가 아닙니다."
   },
-  "status": "review",
-  "publication_ready": false,
-  "source_review": "verified"
+  "status": "approved",
+  "publication_ready": true,
+  "source_review": "verified",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 및 net 새 글 10개 요청",
+  "approved_at": "2026-11-05"
 }

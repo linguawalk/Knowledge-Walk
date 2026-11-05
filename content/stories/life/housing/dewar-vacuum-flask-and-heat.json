@@ -95,7 +95,9 @@
     "alt": "실험실의 이중벽 유리 용기와 생활용 보온병을 함께 떠올린 상상 삽화",
     "credit": "AI 이야기 장면 삽화 · 역사적 상황과 원리를 떠올리기 위한 그림이며 실제 사진·인물 초상·정확한 복원이나 과학 도해가 아닙니다."
   },
-  "status": "review",
-  "publication_ready": false,
-  "source_review": "verified"
+  "status": "approved",
+  "publication_ready": true,
+  "source_review": "verified",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 및 net 새 글 10개 요청",
+  "approved_at": "2026-11-05"
 }
