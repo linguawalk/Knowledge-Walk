@@ -16,4 +16,5 @@
 | [판지켄트 — 벽화 속 기사는 왜 실크로드를 떠올리게 할까](panjikent-sogdian-merchants-and-mural.md) | 자료 대조·공개 게시 승인 완료 |
 | [사마르칸트 — 푸른 광장에 장인과 학자가 모이다](samarkand-registan-and-learning.md) | 자료 대조·공개 게시 승인 완료 |
 | [쑤저우 — 배 한 척이 도시의 길이 되던 풍경](suzhou-grand-canal-and-city.md) | 자료 대조·공개 게시 승인 완료 |
+| [시드니 코브 1788 — 배가 도착했다고 역사가 시작된 것은 아니다](sydney-cove-1788-fleet-and-shore.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [타지마할 — 하얀 무덤에 담긴 사랑과 제국](taj-mahal-marble-memory.md) | 자료 대조·공개 게시 승인 완료 |

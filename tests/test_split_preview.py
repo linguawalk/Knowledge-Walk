@@ -53,6 +53,21 @@ class SplitTests(unittest.TestCase):
         _,stories=split.prepare('net',self.taxonomy,self.rows,originals)
         self.assertNotIn(sample['id'],{s['id'] for s in stories})
 
+    def test_other_country_navigation_waits_for_publication_approval(self):
+        import copy
+        rows = copy.deepcopy(self.rows)
+        originals = copy.deepcopy(self.originals)
+        sample = self.sites['net'].stories[0]
+        row = next(r for r in rows if r['id'] == sample['id'])
+        row.update(region='아시아대양주', country_group='기타 국가', country='검토전용국가')
+        # A saved published flag must not create an unpublished country's menu or sitemap entry.
+        originals[sample['id']]['status'] = 'review'
+        categories, _ = split.prepare('net', self.taxonomy, rows, originals)
+        self.assertNotIn('검토전용국가', categories[0]['children'])
+        originals[sample['id']]['status'] = 'approved'
+        categories, _ = split.prepare('net', self.taxonomy, rows, originals)
+        self.assertIn('검토전용국가', categories[0]['children'])
+
     def test_every_page_noindex_and_links_resolve(self):
         for name,body in self.pages.items():
             if name.suffix!='.html':continue

@@ -1,0 +1,28 @@
+{
+  "id": "20261105-ten-net-rivers-records-and-tales",
+  "title": "net 새 이야기 10편 — 강가의 도시, 기록과 이야기",
+  "story_ids": [
+    "canterbury-pilgrims-and-pardoners-gold",
+    "gogol-overcoat-clerk-and-city",
+    "sleepy-hollow-story-and-rumor",
+    "madame-bovary-desire-and-credit",
+    "persepolis-fire-and-clay-records",
+    "piri-reis-map-and-shared-seas",
+    "palenque-glyphs-and-city-memory",
+    "angkor-wat-temple-and-changing-faith",
+    "sydney-cove-1788-fleet-and-shore",
+    "quebec-1608-river-and-fur-trade"
+  ],
+  "countries": {
+    "canterbury-pilgrims-and-pardoners-gold": "영국",
+    "gogol-overcoat-clerk-and-city": "러시아",
+    "sleepy-hollow-story-and-rumor": "미국",
+    "madame-bovary-desire-and-credit": "프랑스",
+    "persepolis-fire-and-clay-records": "이란",
+    "piri-reis-map-and-shared-seas": "튀르키예",
+    "palenque-glyphs-and-city-memory": "멕시코",
+    "angkor-wat-temple-and-changing-faith": "캄보디아",
+    "sydney-cove-1788-fleet-and-shore": "호주",
+    "quebec-1608-river-and-fur-trade": "캐나다"
+  }
+}

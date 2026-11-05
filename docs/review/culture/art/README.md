@@ -25,6 +25,7 @@
 | [체스 말을 어디에 둘지 오래된 사진에 물었다](man-ray-chess-photo-layout.md) | 자료 대조·공개 게시 승인 완료 |
 | [이삭 줍는 여인들 — 풍요로운 들판의 가장 낮은 자리](millet-gleaners-harvest.md) | 자료 대조·공개 게시 승인 완료 |
 | [모나리자 — 미소와 손, 그리고 그림이 사라진 해](mona-lisa-looking-guide.md) | 자료 대조·공개 게시 승인 완료 |
+| [피리 레이스의 지도 — 오스만의 종이 위에 아메리카가 나타나다](piri-reis-map-and-shared-seas.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [아름다운 정원사 — 그림 속 여인은 누구일까](raphael-belle-jardiniere.md) | 자료 대조·공개 게시 승인 완료 |
 | [엠마오의 순례자들 — 식탁에서 낯선 이를 알아보는 순간](rembrandt-emmaus-light.md) | 자료 대조·공개 게시 승인 완료 |
 | [렘브란트의 생애 — 얼굴과 빛을 다시 바라본 시간](rembrandt-life-self-portraits.md) | 자료 대조·공개 게시 승인 완료 |

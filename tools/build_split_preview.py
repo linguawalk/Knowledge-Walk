@@ -36,7 +36,9 @@ def prepare(domain, taxonomy, placements, originals):
     for cid, (title, children) in zip(ids, definitions.items()):
         children = list(children)
         if domain == 'net':
-            children += sorted({r['country'] for r in rows if r['region'] == title and r['country_group'] == '기타 국가'})
+            children += sorted({r['country'] for r in rows
+                                if r['region'] == title and r['country_group'] == '기타 국가'
+                                and publishable(originals[r['id']])})
             children += ['지역에 걸친 이야기']
         categories.append(dict(id=cid, title=title, label=title, intro=INTRO[title], children=children))
         lookup[title] = cid
