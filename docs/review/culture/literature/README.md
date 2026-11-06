@@ -19,6 +19,7 @@
 | [파우스트 1부 — 더 많은 삶을 원한 사람은 누구를 다치게 했을까](faust-first-part-gretchen-and-desire.md) | 자료 대조·공개 게시 승인 완료 |
 | [프랑켄슈타인 — 만들어 낸 생명에게는 누가 책임질까](frankenstein-creator-and-creature.md) | 자료 대조·공개 게시 승인 완료 |
 | [오 헨리의 「크리스마스 선물」 — 당장 쓸 수 없는 두 선물](gift-magi-watch-chain-and-combs.md) | 자료 대조·공개 게시 승인 완료 |
+| [고골의 코 — 얼굴에서 사라진 코가 나보다 높은 관리라면](gogol-nose-rank-and-recognition.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [고골의 외투 — 새 옷 한 벌이 한 사람의 세계를 바꿀 때](gogol-overcoat-clerk-and-city.md) | 자료 대조·공개 게시 승인 완료 |
 | [『위대한 유산』 — 신사가 된 소년은 누구를 부끄러워했을까](great-expectations-pip-secret-benefactor.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [위대한 개츠비 — 초록 불빛 너머에는 무엇이 있었을까](great-gatsby-green-light-and-past.md) | 자료 대조·공개 게시 승인 완료 |
@@ -33,6 +34,8 @@
 | [『작은 아씨들』 — 네 자매에게 같은 미래가 필요했을까](little-women-four-sisters-different-futures.md) | 자료 대조·공개 게시 승인 완료 |
 | [맥베스 — 예언은 누구의 손으로 현실이 되었을까](macbeth-prophecy-and-borrowed-crown.md) | 자료 대조·공개 게시 승인 완료 |
 | [보바리 부인 — 꿈꾸던 삶은 왜 빚이 되었을까](madame-bovary-desire-and-credit.md) | 자료 대조·공개 게시 승인 완료 |
+| [변신 — 그레고르의 방문 밖에서는 무엇이 달라졌을까](metamorphosis-gregor-door-and-family.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [한여름 밤의 꿈 — 사랑은 숲에서 누구의 마음이 되었을까](midsummer-lovers-magic-and-artisans.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [모비 딕 — 한 선장의 복수가 배 전체의 운명이 될 때](moby-dick-ishmael-ahab-and-sea.md) | 자료 대조·공개 게시 승인 완료 |
 | [몬테크리스토 백작 — 복수가 끝나면 삶은 돌아올까](monte-cristo-revenge-and-hope.md) | 자료 대조·공개 게시 승인 완료 |
 | [노트르담 드 파리 — 성당의 종지기는 누구를 사랑했을까](notre-dame-novel-and-misunderstood-love.md) | 자료 대조·공개 게시 승인 완료 |

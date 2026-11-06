@@ -1,6 +1,6 @@
 # net 국가별 원고 배치표
 
-2026-11-06 기준. 공개 net 221편과 미게시 원고 8편을 포함했습니다. 국가 명칭은 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않습니다.
+2026-11-06 기준. 공개 net 221편과 미게시 원고 18편을 포함했습니다. 새 검토 원고는 사용자의 게시 요청 후 공개합니다. 국가 명칭은 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않습니다.
 
 ## 아시아대양주
 
@@ -70,12 +70,13 @@
 | [만리장성 — 벽이 있어도 역사는 문을 통해 움직였다](../../content/stories/history/asia/great-wall-gates-and-political-choices.json) | 게시 중 | 중국 / 역사 | 중국의 구체적인 작품·유적·도시 기록을 중심으로 한 역사 이야기. |
 | [두장옌 — 오래된 물길은 누가 계속 열어 두었을까](../../content/stories/cities/asia/dujiangyan-irrigation-and-maintenance.json) | 게시 중 | 중국 / 도시 | 중국의 구체적인 작품·도시·문화 기록을 중심으로 한 도시 이야기. |
 
-### 인도 — 2편 (게시 중 2편)
+### 인도 — 3편 (게시 중 2편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [사비트리 — 죽음의 신을 따라 걸으며 나눈 말](../../content/stories/life/folks/savitri-words-along-yamas-road.json) | 게시 중 | 인도 / 문화 | 인도 전승을 바탕으로 한 재서술의 맥락. 본문이 사용하는 판본과 고전 전승 전체를 구분. |
 | [타지마할 — 하얀 무덤에 담긴 사랑과 제국](../../content/stories/cities/asia/taj-mahal-marble-memory.json) | 게시 중 | 인도 / 도시 | 인도의 특정 장소·작품·역사적 사건을 중심으로 한 도시 이야기. |
+| [산치 대탑 — 들어가는 대신 주위를 도는 건축](../../content/stories/culture/architecture/sanchi-stupa-gates-and-circling-path.json) | 미게시 · verified | 인도 / 문화 | 인도의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
 ### 호주 — 1편 (게시 중 1편)
 
@@ -96,7 +97,7 @@
 
 ## 유럽
 
-### 영국 — 27편 (게시 중 24편)
+### 영국 — 28편 (게시 중 24편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -127,6 +128,7 @@
 | [햄릿 — 복수해야 한다는 말만으로 행동할 수 있을까](../../content/stories/culture/literature/hamlet-ghost-proof-and-revenge.json) | 게시 중 | 영국 / 문화 | 덴마크를 무대로 한 작품이지만 셰익스피어의 영문학 작품이라는 중심 맥락으로 영국에 단독 배치. |
 | [로미오와 줄리엣 — 두 사람 사이에 이름과 편지가 놓이다](../../content/stories/culture/literature/romeo-juliet-names-and-missed-letter.json) | 게시 중 | 영국 / 문화 | 베로나를 배경으로 하지만 셰익스피어의 영문학 작품을 읽는 맥락으로 영국에 단독 배치. |
 | [맥베스 — 예언은 누구의 손으로 현실이 되었을까](../../content/stories/culture/literature/macbeth-prophecy-and-borrowed-crown.json) | 게시 중 | 영국 / 문화 | 스코틀랜드를 무대로 한 셰익스피어 작품이며 기존 영문학 분류에 따라 영국에 단독 배치. |
+| [한여름 밤의 꿈 — 사랑은 숲에서 누구의 마음이 되었을까](../../content/stories/culture/literature/midsummer-lovers-magic-and-artisans.json) | 미게시 · verified | 영국 / 문화 | 아테네 배경과 구분해 셰익스피어의 영문학 작품을 읽는 맥락으로 영국에 단독 배치. |
 
 ### 프랑스 — 16편 (게시 중 16편)
 
@@ -171,7 +173,7 @@
 | [폼페이 — 화산재 아래에서 도시의 일상이 나타나다](../../content/stories/cities/europe/pompeii-79-ash-and-everyday-city.json) | 게시 중 | 이탈리아 / 도시 | 이탈리아의 구체적인 작품·유적·문화 기록을 중심으로 한 도시 이야기. |
 | [미켈란젤로의 다비드 — 돌 속의 청년은 무엇을 기다릴까](../../content/stories/culture/art/michelangelo-david-marble-and-republic.json) | 게시 중 | 이탈리아 / 문화 | 이탈리아의 구체적인 작품·유적·도시 기록을 중심으로 한 문화 이야기. |
 
-### 독일 — 12편 (게시 중 12편)
+### 독일 — 13편 (게시 중 12편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -187,8 +189,9 @@
 | [브레멘 음악대 — 네 동물은 왜 목적지에 도착하지 않았을까](../../content/stories/life/folks/bremen-old-animals-and-new-home.json) | 게시 중 | 독일 / 문화 | 독일의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 | [파우스트 1부 — 더 많은 삶을 원한 사람은 누구를 다치게 했을까](../../content/stories/culture/literature/faust-first-part-gretchen-and-desire.json) | 게시 중 | 독일 / 문화 | 독일의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 | [브란덴부르크 협주곡 — 같은 이름 아래 여섯 가지 합주가 모인 이유](../../content/stories/culture/music/bach-brandenburg-dedication-and-voices.json) | 게시 중 | 독일 / 문화 | 독일의 구체적인 작품·도시·문화 기록을 중심으로 한 문화 이야기. |
+| [피델리오 — 베토벤의 오페라에서 문이 열리는 순간](../../content/stories/culture/music/fidelio-leonore-prison-and-chorus.json) | 미게시 · verified | 독일 / 문화 | 스페인 배경과 구분해 베토벤의 독일어 오페라를 듣는 맥락으로 독일에 단독 배치. |
 
-### 러시아 — 4편 (게시 중 4편)
+### 러시아 — 5편 (게시 중 4편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -196,8 +199,9 @@
 | [고골의 외투 — 새 옷 한 벌이 한 사람의 세계를 바꿀 때](../../content/stories/culture/literature/gogol-overcoat-clerk-and-city.json) | 게시 중 | 러시아 / 문화 | 러시아의 구체적인 작품·유적·기록·도시사를 다룬 문화 이야기. |
 | [벚꽃 동산 — 아름다운 정원은 왜 경매에 나왔을까](../../content/stories/culture/literature/cherry-orchard-auction-and-firs.json) | 게시 중 | 러시아 / 문화 | 러시아의 구체적인 작품·유적·도시 기록을 중심으로 한 문화 이야기. |
 | [사람에게는 얼마만큼의 땅이 필요한가 — 해가 지기 전에 돌아와야 했던 사람](../../content/stories/culture/literature/tolstoy-pahom-land-and-sunset.json) | 게시 중 | 러시아 / 문화 | 러시아의 구체적인 작품·도시·문화 기록을 중심으로 한 문화 이야기. |
+| [고골의 코 — 얼굴에서 사라진 코가 나보다 높은 관리라면](../../content/stories/culture/literature/gogol-nose-rank-and-recognition.json) | 미게시 · verified | 러시아 / 문화 | 러시아의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
-### 스페인 — 5편 (게시 중 5편)
+### 스페인 — 6편 (게시 중 5편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -206,8 +210,9 @@
 | [『돈키호테』 — 풍차가 거인으로 보이는 사람](../../content/stories/culture/literature/don-quixote-windmills-and-sancho.json) | 게시 중 | 스페인 / 문화 | 스페인의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [알람브라 — 물소리와 오래된 이야기가 남은 궁전](../../content/stories/culture/architecture/alhambra-water-and-stories.json) | 게시 중 | 스페인 / 문화 | 스페인의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 | [브레다의 항복 — 승리보다 먼저 보이는 두 사람의 손](../../content/stories/culture/art/surrender-breda-keys-and-victory.json) | 게시 중 | 스페인 / 문화 | 스페인의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
+| [고야의 1808년 5월 3일 — 불빛은 누구의 얼굴을 비추는가](../../content/stories/culture/art/goya-third-may-lantern-and-facing-men.json) | 미게시 · verified | 스페인 / 문화 | 스페인의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
-### 기타 국가 — 32편 (게시 중 28편)
+### 기타 국가 — 34편 (게시 중 28편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -243,6 +248,8 @@
 | [안티고네 — 왕의 명령으로 장례를 금할 수 있을까](../../content/stories/culture/literature/antigone-burial-law-and-listening.json) | 게시 중 | 그리스 / 문화 | 그리스의 구체적인 작품·도시·문화 기록을 중심으로 한 문화 이야기. |
 | [렘브란트의 야경 — 밤의 순찰로만 보면 놓치는 사람들](../../content/stories/culture/art/rembrandt-night-watch-light-and-company.json) | 게시 중 | 네덜란드 / 문화 | 네덜란드의 구체적인 작품·도시·문화 기록을 중심으로 한 문화 이야기. |
 | [리스본 1755 — 무너진 도시의 길은 어떻게 다시 그려졌을까](../../content/stories/cities/europe/lisbon-1755-earthquake-and-new-streets.json) | 게시 중 | 포르투갈 / 도시 | 포르투갈의 구체적인 작품·도시·문화 기록을 중심으로 한 도시 이야기. |
+| [변신 — 그레고르의 방문 밖에서는 무엇이 달라졌을까](../../content/stories/culture/literature/metamorphosis-gregor-door-and-family.json) | 미게시 · verified | 체코 / 문화 | 독일어로 쓰인 작품이며 프라하의 작가 카프카라는 중심 맥락으로 체코에 단독 배치. 당대 국적을 현재 국가와 동일시하지 않음. |
+| [우유 따르는 여인 — 작은 동작은 어떻게 오래 남을까](../../content/stories/culture/art/vermeer-milkmaid-light-and-pouring.json) | 미게시 · verified | 네덜란드 / 문화 | 네덜란드의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
 ### 지역에 걸친 이야기 — 1편 (게시 중 1편)
 
@@ -284,13 +291,14 @@
 | [캐나다 철도 — 나라를 잇던 선로 위에는 누가 있었을까](../../content/stories/history/america/canadian-pacific-railway-workers-and-belonging.json) | 게시 중 | 캐나다 / 역사 | 캐나다의 철도 건설·이주노동·소속의 역사 중심. 기업 운영 원리만을 다룬 글과 구분. |
 | [퀘벡 1608 — 강가의 작은 거처는 어떻게 교역의 중심이 되었을까](../../content/stories/cities/americas/quebec-1608-river-and-fur-trade.json) | 게시 중 | 캐나다 / 도시 | 캐나다의 구체적인 작품·유적·기록·도시사를 다룬 도시 이야기. |
 
-### 멕시코 — 3편 (게시 중 3편)
+### 멕시코 — 4편 (게시 중 3편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [테노치티틀란 — 호수 위의 도시는 어떻게 먹고살았을까](../../content/stories/cities/americas/tenochtitlan-lake-and-city.json) | 게시 중 | 멕시코 / 도시 | 멕시코의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [토르티야 앞에는 돌 두 개가 있었다](../../content/stories/life/food/mexico-tortilla-grinding-stone.json) | 게시 중 | 멕시코 / 생활 | 멕시코의 생활라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [팔렝케 — 마야의 글자는 어떻게 도시의 역사가 되었을까](../../content/stories/cities/americas/palenque-glyphs-and-city-memory.json) | 게시 중 | 멕시코 / 도시 | 멕시코의 구체적인 작품·유적·기록·도시사를 다룬 도시 이야기. |
+| [치첸이트사 — 피라미드 옆에는 우물과 길이 있었다](../../content/stories/cities/americas/chichen-itza-pyramid-cenote-and-plazas.json) | 미게시 · verified | 멕시코 / 도시 | 멕시코의 구체적인 작품·유적·문화 기록을 중심으로 한 도시 이야기. |
 
 ### 브라질 — 1편 (게시 중 1편)
 
@@ -298,12 +306,13 @@
 |---|---|---|---|
 | [1808년 리우 — 유럽의 왕실이 식민지로 건너오다](../../content/stories/history/america/rio-1808-court-crosses-atlantic.json) | 게시 중 | 브라질 / 역사 | 브라질의 특정 장소·작품·역사적 사건을 중심으로 한 역사 이야기. |
 
-### 기타 국가 — 2편 (게시 중 2편)
+### 기타 국가 — 3편 (게시 중 2편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [쿠스코 — 산길은 어떻게 제국을 묶었을까](../../content/stories/cities/americas/cusco-roads-and-empire.json) | 게시 중 | 페루 / 도시 | 페루의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [키푸 — 잉카는 매듭으로 무엇을 기록했을까](../../content/stories/history/america/inca-quipu-knots-and-records.json) | 게시 중 | 페루 / 역사 | 페루를 대표 탐색 위치로 하되 잉카의 범위는 현대 여러 국가에 걸침을 유지. |
+| [마추픽추 — 산 위의 도시는 돌담만으로 서 있지 않았다](../../content/stories/cities/americas/machu-picchu-terraces-stone-and-landscape.json) | 미게시 · verified | 페루 / 도시 | 페루의 구체적인 작품·유적·문화 기록을 중심으로 한 도시 이야기. |
 
 ## 중동아프리카
 
@@ -328,12 +337,13 @@
 | [페르세폴리스 — 불탄 궁전에서 살아남은 기록](../../content/stories/cities/middle-east/persepolis-fire-and-clay-records.json) | 게시 중 | 이란 / 도시 | 이란의 구체적인 작품·유적·기록·도시사를 다룬 도시 이야기. |
 | [로스탐과 소흐라브 — 서로를 알아보지 못한 부자의 결투](../../content/stories/culture/literature/rostam-sohrab-token-and-recognition.json) | 게시 중 | 이란 / 문화 | 이란의 구체적인 작품·유적·도시 기록을 중심으로 한 문화 이야기. |
 
-### 튀르키예 — 2편 (게시 중 2편)
+### 튀르키예 — 3편 (게시 중 2편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [아야 소피아 — 큰 지붕 아래 여러 시대가 머물다](../../content/stories/cities/europe/istanbul-hagia-sophia-many-times.json) | 게시 중 | 튀르키예 / 도시 | 튀르키예의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [피리 레이스의 지도 — 오스만의 종이 위에 아메리카가 나타나다](../../content/stories/culture/art/piri-reis-map-and-shared-seas.json) | 게시 중 | 튀르키예 / 문화 | 튀르키예의 구체적인 작품·유적·기록·도시사를 다룬 문화 이야기. |
+| [톱카프 궁전 — 문을 지날 때 제국의 일은 어떻게 나뉘었을까](../../content/stories/culture/architecture/topkapi-courts-gates-and-government.json) | 미게시 · verified | 튀르키예 / 문화 | 튀르키예의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 
 ### 사우디아라비아 — 1편 (게시 중 1편)
 

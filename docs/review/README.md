@@ -1,16 +1,16 @@
 # KnowledgeWalk — 이야기 서가
 
-분야를 고른 다음 소주제로 들어가면 전체 391편의 글과 이미지를 함께 읽을 수 있습니다.
+분야를 고른 다음 소주제로 들어가면 전체 401편의 글과 이미지를 함께 읽을 수 있습니다.
 
-**공개 승인 378편 / 자료 대조 완료·편집 검토 10편 / 출처 추가 확인 3편.** 실제 웹 게시는 별도의 배포 상태를 따릅니다.
+**공개 승인 378편 / 자료 대조 완료·편집 검토 20편 / 출처 추가 확인 3편.** 실제 웹 게시는 별도의 배포 상태를 따릅니다.
 
-[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261106-ten-kr-light-metal-and-evidence.md)
+[아침 검토함](daily-queue.md) · [홈페이지 확인 안내](../homepage-review.md) · [새 이야기 10편](batch-20261106-ten-net-dreams-gates-and-highlands.md)
 
 | 분야 | 이야기 | 소주제 수 |
 |---|---:|---:|
 | [History · 역사](history/README.md) | 30편 | 6개 |
-| [Cities · 도시](cities/README.md) | 43편 | 5개 |
-| [Culture · 문화](culture/README.md) | 132편 | 7개 |
+| [Cities · 도시](cities/README.md) | 45편 | 5개 |
+| [Culture · 문화](culture/README.md) | 140편 | 7개 |
 | [Life · 생활](life/README.md) | 48편 | 4개 |
 | [Companies · 기업](companies/README.md) | 34편 | 5개 |
 | [Computing · 컴퓨팅](computing/README.md) | 34편 | 5개 |

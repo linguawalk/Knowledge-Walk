@@ -1,0 +1,28 @@
+{
+  "id": "20261106-ten-net-dreams-gates-and-highlands",
+  "title": "net 새 이야기 10편 — 꿈과 문, 산 위의 도시",
+  "story_ids": [
+    "midsummer-lovers-magic-and-artisans",
+    "metamorphosis-gregor-door-and-family",
+    "gogol-nose-rank-and-recognition",
+    "fidelio-leonore-prison-and-chorus",
+    "goya-third-may-lantern-and-facing-men",
+    "vermeer-milkmaid-light-and-pouring",
+    "chichen-itza-pyramid-cenote-and-plazas",
+    "sanchi-stupa-gates-and-circling-path",
+    "machu-picchu-terraces-stone-and-landscape",
+    "topkapi-courts-gates-and-government"
+  ],
+  "countries": {
+    "midsummer-lovers-magic-and-artisans": "영국",
+    "metamorphosis-gregor-door-and-family": "체코",
+    "gogol-nose-rank-and-recognition": "러시아",
+    "fidelio-leonore-prison-and-chorus": "독일",
+    "goya-third-may-lantern-and-facing-men": "스페인",
+    "vermeer-milkmaid-light-and-pouring": "네덜란드",
+    "chichen-itza-pyramid-cenote-and-plazas": "멕시코",
+    "sanchi-stupa-gates-and-circling-path": "인도",
+    "machu-picchu-terraces-stone-and-landscape": "페루",
+    "topkapi-courts-gates-and-government": "튀르키예"
+  }
+}

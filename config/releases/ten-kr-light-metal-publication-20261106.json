@@ -18,7 +18,19 @@
   "kr_stories": 157,
   "kr_domain_connected": false,
   "temporary_collection_url": "https://knowledgewalk.net/knowledge/collections/20261106-ten-kr-light-metal-and-evidence/index.html",
-  "deployment_status": "pending",
+  "deployment_status": "temporary_live_verified",
   "hostinger_check_run_id": 42200797508,
-  "hostinger_blocker": "직전 연결 검사 종료 코드 2: HOSTINGER_FTP_PASSWORD 미등록. 실제 kr 업로드 미실행."
+  "hostinger_blocker": "직전 연결 검사 종료 코드 2: HOSTINGER_FTP_PASSWORD 미등록. 실제 kr 업로드 미실행.",
+  "verified_at": "2026-11-06",
+  "verified_new_story_count": 10,
+  "verified_image_count": 10,
+  "pages_run_id": 42206341694,
+  "live_net_story_count": 221,
+  "live_kr_story_count": 157,
+  "local_tests_passed": 51,
+  "local_browser_checks": 20,
+  "numbered_sections_per_story": 7,
+  "numbered_toc_per_story": 7,
+  "verified_public_response_count": 23,
+  "validation_run_id": 42206341921
 }
