@@ -1,0 +1,24 @@
+{
+  "id": "ten-kr-light-metal-publication-20261106",
+  "user_request": "홈페이지 게시 및 net 새글 10개",
+  "approved_at": "2026-11-06",
+  "story_ids": [
+    "edison-lighting-network-beyond-bulb",
+    "bessemer-converter-air-and-steel-production",
+    "crc-checksum-detecting-changed-data",
+    "markdown-readable-source-and-commonmark",
+    "ruthwell-savings-bank-small-deposits",
+    "barometer-pressure-trends-and-weather",
+    "lavoisier-metals-air-and-balanced-mass",
+    "appert-bottles-heat-and-preserving-food",
+    "cream-separator-centrifuge-and-dairy-work",
+    "dictionary-quotations-and-word-histories"
+  ],
+  "net_stories": 221,
+  "kr_stories": 157,
+  "kr_domain_connected": false,
+  "temporary_collection_url": "https://knowledgewalk.net/knowledge/collections/20261106-ten-kr-light-metal-and-evidence/index.html",
+  "deployment_status": "pending",
+  "hostinger_check_run_id": 42200797508,
+  "hostinger_blocker": "직전 연결 검사 종료 코드 2: HOSTINGER_FTP_PASSWORD 미등록. 실제 kr 업로드 미실행."
+}

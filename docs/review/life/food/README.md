@@ -4,10 +4,10 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
-| [아페르의 유리병 — 음식은 어떻게 계절을 넘어갔을까](appert-bottles-heat-and-preserving-food.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [아페르의 유리병 — 음식은 어떻게 계절을 넘어갔을까](appert-bottles-heat-and-preserving-food.md) | 자료 대조·공개 게시 승인 완료 |
 | [접시 바닥에서 복 한 글자를 만나다](blue-dish-hidden-fortune.md) | 자료 대조·공개 게시 승인 완료 |
 | [커피하우스 — 커피 한 잔 옆에 뉴스가 놓였던 이유](coffeehouse-news-and-conversation.md) | 자료 대조·공개 게시 승인 완료 |
-| [우유 원심분리기 — 크림이 떠오르기를 기다리지 않아도 된다면](cream-separator-centrifuge-and-dairy-work.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [우유 원심분리기 — 크림이 떠오르기를 기다리지 않아도 된다면](cream-separator-centrifuge-and-dairy-work.md) | 자료 대조·공개 게시 승인 완료 |
 | [과자를 높이 쌓는 데에도 틀이 필요했다](dasik-sweets-frame.md) | 자료 대조·공개 게시 승인 완료 |
 | [수저를 넣는 주머니에 바람을 수놓았다](embroidered-spoon-pouch.md) | 자료 대조·공개 게시 승인 완료 |
 | [토르티야 앞에는 돌 두 개가 있었다](mexico-tortilla-grinding-stone.md) | 자료 대조·공개 게시 승인 완료 |

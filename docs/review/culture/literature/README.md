@@ -11,7 +11,7 @@
 | [벚꽃 동산 — 아름다운 정원은 왜 경매에 나왔을까](cherry-orchard-auction-and-firs.md) | 자료 대조·공개 게시 승인 완료 |
 | [크리스마스 캐럴 — 스크루지가 다시 배우는 사람의 온기](christmas-carol-scrooge-change.md) | 자료 대조·공개 게시 승인 완료 |
 | [『금강경』 — 천 년 전의 책은 어떻게 여러 독자를 만났을까](diamond-sutra-868-print-and-gift.md) | 자료 대조·공개 게시 승인 완료 |
-| [사전 — 뜻을 정하기 전에 용례를 모으다](dictionary-quotations-and-word-histories.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [사전 — 뜻을 정하기 전에 용례를 모으다](dictionary-quotations-and-word-histories.md) | 자료 대조·공개 게시 승인 완료 |
 | [『돈키호테』 — 풍차가 거인으로 보이는 사람](don-quixote-windmills-and-sancho.md) | 자료 대조·공개 게시 승인 완료 |
 | [도리언 그레이의 초상 — 얼굴 대신 그림이 늙어 간다면](dorian-gray-portrait-and-conscience.md) | 자료 대조·공개 게시 승인 완료 |
 | [80일간의 세계 일주 — 시계보다 늦게 알게 된 여행의 의미](eighty-days-time-and-travel.md) | 자료 대조·공개 게시 승인 완료 |
