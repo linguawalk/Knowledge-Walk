@@ -18,9 +18,18 @@
   "kr_stories": 137,
   "public_collection_url": "https://knowledgewalk.net/collections/20261106-ten-net-stages-rivers-and-bridges/index.html",
   "kr_domain_connected": false,
-  "deployment_status": "pending",
+  "deployment_status": "live_verified",
   "local_tests_passed": 51,
   "local_browser_checks": 20,
   "numbered_sections_per_story": 7,
-  "numbered_toc_per_story": 7
+  "numbered_toc_per_story": 7,
+  "verified_at": "2026-11-06",
+  "verified_new_story_count": 10,
+  "verified_image_count": 10,
+  "verified_country_page_count": 10,
+  "verified_public_response_count": 35,
+  "live_net_story_count": 221,
+  "live_kr_story_count": 137,
+  "pages_run_id": 42148772432,
+  "validation_run_id": 42148772821
 }
