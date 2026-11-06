@@ -1,0 +1,331 @@
+{
+  "date": "2026-11-06",
+  "batch": "20261106-ten-net-workshops-wonders-and-choices",
+  "status": "review_only",
+  "stories": [
+    {
+      "id": "silas-marner-gold-child-and-neighbors",
+      "body_characters": 2360,
+      "numbered_sections": 7
+    },
+    {
+      "id": "queen-spades-three-cards-and-obsession",
+      "body_characters": 2354,
+      "numbered_sections": 7
+    },
+    {
+      "id": "freischutz-wolfs-glen-and-final-shot",
+      "body_characters": 2419,
+      "numbered_sections": 7
+    },
+    {
+      "id": "sistine-ceiling-adam-and-painted-architecture",
+      "body_characters": 2410,
+      "numbered_sections": 7
+    },
+    {
+      "id": "vulcan-forge-apollo-and-interrupted-work",
+      "body_characters": 2351,
+      "numbered_sections": 7
+    },
+    {
+      "id": "mont-saint-michel-tides-abbey-and-stacked-rooms",
+      "body_characters": 2357,
+      "numbered_sections": 7
+    },
+    {
+      "id": "ajanta-caves-prayer-halls-painting-and-monks",
+      "body_characters": 2404,
+      "numbered_sections": 7
+    },
+    {
+      "id": "osaka-mills-mint-and-port-city",
+      "body_characters": 2409,
+      "numbered_sections": 7
+    },
+    {
+      "id": "china-wheelbarrows-chengdu-roads-and-loads",
+      "body_characters": 2327,
+      "numbered_sections": 7
+    },
+    {
+      "id": "bahia-palace-courtyards-water-and-craft",
+      "body_characters": 2351,
+      "numbered_sections": 7
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-0.txt",
+      "status": 200,
+      "bytes": 773197
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-h/images/i_020f.jpg",
+      "status": 200,
+      "bytes": 240133
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Chinese-pictures-b-notes-on-photographs-made-in-China_71968/master/71968-0.txt",
+      "status": 200,
+      "bytes": 59912
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Chinese-pictures-b-notes-on-photographs-made-in-China_71968/master/71968-h/images/i033.jpg",
+      "status": 200,
+      "bytes": 116240
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/History-of-Indian-and-Eastern-Architecture_61178/master/61178-0.txt",
+      "status": 200,
+      "bytes": 1718908
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/History-of-Indian-and-Eastern-Architecture_61178/master/61178-h/images/ill_pg_125_lg.jpg",
+      "status": 200,
+      "bytes": 251015
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/In-Morocco_39042/master/39042-8.txt",
+      "status": 200,
+      "bytes": 335197
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/In-Morocco_39042/master/39042-h/images/gs19.jpg",
+      "status": 200,
+      "bytes": 250665
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Michelangelo_32762/master/32762-0.txt",
+      "status": 200,
+      "bytes": 283253
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Michelangelo_32762/master/32762-h/images/ill_036_lg.jpg",
+      "status": 200,
+      "bytes": 251766
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Mont-Saint-Michel-and-Chartres_4584/master/4584.txt",
+      "status": 200,
+      "bytes": 854271
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Saint-Michel-et-le-Mont-Saint-Michel_68245/master/68245-0.txt",
+      "status": 200,
+      "bytes": 1119959
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Saint-Michel-et-le-Mont-Saint-Michel_68245/master/68245-h/images/ill_040.jpg",
+      "status": 200,
+      "bytes": 244977
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Silas-Marner_550/master/550.txt",
+      "status": 200,
+      "bytes": 420906
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Opera--13-A-Sketch-of-the-Development-of-Opera.-With-full-Descriptions-of-all-Works-in-th__16248/master/16248-8.txt",
+      "status": 200,
+      "bytes": 587911
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Queen-of-Spades-and-other-stories_55024/master/55024-8.txt",
+      "status": 200,
+      "bytes": 350172
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Standard-Operas--12th-edition---13-Their-Plots-Their-Music-and-Their-Composers_14968/master/14968-8.txt",
+      "status": 200,
+      "bytes": 545754
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Velazquez_58543/master/58543-0.txt",
+      "status": 200,
+      "bytes": 176952
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Velazquez_58543/master/58543-h/images/abb9.jpg",
+      "status": 200,
+      "bytes": 101204
+    }
+  ],
+  "browser_checks": [
+    {
+      "id": "silas-marner-gold-child-and-neighbors",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "queen-spades-three-cards-and-obsession",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "freischutz-wolfs-glen-and-final-shot",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "sistine-ceiling-adam-and-painted-architecture",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "vulcan-forge-apollo-and-interrupted-work",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "mont-saint-michel-tides-abbey-and-stacked-rooms",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "ajanta-caves-prayer-halls-painting-and-monks",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "osaka-mills-mint-and-port-city",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "china-wheelbarrows-chengdu-roads-and-loads",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "bahia-palace-courtyards-water-and-craft",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "silas-marner-gold-child-and-neighbors",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "queen-spades-three-cards-and-obsession",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "freischutz-wolfs-glen-and-final-shot",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "sistine-ceiling-adam-and-painted-architecture",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "vulcan-forge-apollo-and-interrupted-work",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "mont-saint-michel-tides-abbey-and-stacked-rooms",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "ajanta-caves-prayer-halls-painting-and-monks",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "osaka-mills-mint-and-port-city",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "china-wheelbarrows-chengdu-roads-and-loads",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "bahia-palace-courtyards-water-and-craft",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    }
+  ],
+  "tests_passed": 51,
+  "images_visually_checked": 10,
+  "public_counts": {
+    "net": 231,
+    "temporary_kr": 157
+  },
+  "previous_net_publication": {
+    "commit": "d1f607198174569eeff8a5df9cb8066a094c8ac5",
+    "pages_run_id": 42212070626,
+    "validation_run_id": 42212070964,
+    "live_response_count": 35,
+    "verified_stories": 10,
+    "verified_images": 10,
+    "collection": "https://knowledgewalk.net/collections/20261106-ten-net-dreams-gates-and-highlands/index.html"
+  }
+}

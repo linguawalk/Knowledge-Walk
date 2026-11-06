@@ -36,6 +36,7 @@
 | [렘브란트의 야경 — 밤의 순찰로만 보면 놓치는 사람들](rembrandt-night-watch-light-and-company.md) | 자료 대조·공개 게시 승인 완료 |
 | [사모트라케의 니케 — 머리 없는 여신에게 바람이 보이는 이유](samothrace-nike-wind-and-prow.md) | 자료 대조·공개 게시 승인 완료 |
 | [주전자의 이야기는 바닥에도 적혀 있다](silver-kettle-hidden-letters.md) | 자료 대조·공개 게시 승인 완료 |
+| [시스티나 천장화 — 두 손가락 사이에는 천장 전체가 있다](sistine-ceiling-adam-and-painted-architecture.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [브레다의 항복 — 승리보다 먼저 보이는 두 사람의 손](surrender-breda-keys-and-victory.md) | 자료 대조·공개 게시 승인 완료 |
 | [장갑을 낀 남자 — 얼굴보다 손이 먼저 알려 주는 것](titian-man-with-glove.md) | 자료 대조·공개 게시 승인 완료 |
 | [롤랭 재상의 성모 — 작은 방 너머에 도시가 펼쳐진다](van-eyck-rolin-window.md) | 자료 대조·공개 게시 승인 완료 |
@@ -43,4 +44,5 @@
 | [레이스 뜨는 여인 — 작은 일에 시선이 모일 때](vermeer-lacemaker-looking-guide.md) | 자료 대조·공개 게시 승인 완료 |
 | [우유 따르는 여인 — 작은 동작은 어떻게 오래 남을까](vermeer-milkmaid-light-and-pouring.md) | 자료 대조·공개 게시 승인 완료 |
 | [딸을 안은 자화상 — 비제 르 브룅이 남긴 두 가지 얼굴](vigee-lebrun-mother-daughter.md) | 자료 대조·공개 게시 승인 완료 |
+| [불카누스의 대장간 — 신의 소식이 망치질을 멈춘 순간](vulcan-forge-apollo-and-interrupted-work.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [시테라 섬으로의 순례 — 연인들은 어디로 가는 걸까](watteau-cythera-pilgrimage.md) | 자료 대조·공개 게시 승인 완료 |

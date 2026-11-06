@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "batch": "20261106-ten-net-dreams-gates-and-highlands",
-  "status": "review_only",
+  "status": "published",
   "stories": [
     {
       "id": "midsummer-lovers-magic-and-artisans",
@@ -301,7 +301,7 @@
   "tests_passed": 51,
   "images_visually_checked": 10,
   "public_counts": {
-    "net": 221,
+    "net": 231,
     "temporary_kr": 157
   },
   "previous_kr_publication": {
@@ -310,5 +310,221 @@
     "live_verified": true,
     "actual_kr_live": false,
     "blocker": "Hostinger FTP password connection is not configured."
-  }
+  },
+  "published_at": "2026-11-06",
+  "publication_commit": "d1f607198174569eeff8a5df9cb8066a094c8ac5",
+  "pages_run_id": 42212070626,
+  "validation_run_id": 42212070964,
+  "live_response_checks": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 16114,
+      "sha256": "6cb395aae35940105cb0d4ca0cdee95c032caa2e56986a0ea79f73ecd80b6221"
+    },
+    {
+      "path": "collections/20261106-ten-net-dreams-gates-and-highlands/index.html",
+      "status": 200,
+      "bytes": 14328,
+      "sha256": "0f55295f7076adb68b4b4cb85fdcb2e9172883907cce7b2c14536a75dc640f51"
+    },
+    {
+      "path": "search-index.json",
+      "status": 200,
+      "bytes": 1520056,
+      "sha256": "82c297ea9409d873fbd5304dab48d4ac4459a38758e8f0045fb3219d5da32264"
+    },
+    {
+      "path": "knowledge/search-index.json",
+      "status": 200,
+      "bytes": 1042374,
+      "sha256": "c3fc46d513f04136105e0cc88887a28baa941f7179f6f65a1efecd68fd6f8981"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "bytes": 30715,
+      "sha256": "42da1fee7c61b15a939bdd8875556838128e066d6f47659c2bd122bc4e7567d9"
+    },
+    {
+      "path": "stories/midsummer-lovers-magic-and-artisans/index.html",
+      "status": 200,
+      "bytes": 15342,
+      "sha256": "6cc1083107e58549d8956a43ba3b25837342be336bb14278a9de88edd0b1c4ac"
+    },
+    {
+      "path": "media/midsummer-lovers-magic-and-artisans.png",
+      "status": 200,
+      "bytes": 3480224,
+      "sha256": "613b7ca600804a417d78b0c5d2ce5ed564655c1e85a4c987da67ae5728d2984b"
+    },
+    {
+      "path": "categories/europe/영국/index.html",
+      "status": 200,
+      "bytes": 27994,
+      "sha256": "b82dcb06c13bf5512ff16ef3c0029fdc63e311014c20963fc25dcd9255583448"
+    },
+    {
+      "path": "stories/metamorphosis-gregor-door-and-family/index.html",
+      "status": 200,
+      "bytes": 15346,
+      "sha256": "a64fb6bd4531a5411d06d6313d530e499c6c8926aee309f761e338f1ffc62671"
+    },
+    {
+      "path": "media/metamorphosis-gregor-door-and-family.png",
+      "status": 200,
+      "bytes": 2722338,
+      "sha256": "640ef59fea8cea04cc1e01b2490a74cb185b91ed10a0501632b6c634daeddf31"
+    },
+    {
+      "path": "categories/europe/체코/index.html",
+      "status": 200,
+      "bytes": 7464,
+      "sha256": "68c0ee4c83afce9206a7b7c9e35fc87b04c09d88d36f84c1e845b43e5da1f738"
+    },
+    {
+      "path": "stories/gogol-nose-rank-and-recognition/index.html",
+      "status": 200,
+      "bytes": 15309,
+      "sha256": "47f39cfce685a1479939f073e034acaa2a96e097b3eadcfac834aaedc7319977"
+    },
+    {
+      "path": "media/gogol-nose-rank-and-recognition.png",
+      "status": 200,
+      "bytes": 3249492,
+      "sha256": "8ff266afd1ea9a894a285f48fb2ad96a38e9545084ccab26293fa92be5da616f"
+    },
+    {
+      "path": "categories/europe/러시아/index.html",
+      "status": 200,
+      "bytes": 10754,
+      "sha256": "a3c356728176542a04fad359808596db60f3685f27abcff597dda1eba0364596"
+    },
+    {
+      "path": "stories/fidelio-leonore-prison-and-chorus/index.html",
+      "status": 200,
+      "bytes": 15425,
+      "sha256": "71775838b0646700c17c48bc9dc02b1f572d4cfc43c4a5f879fbb9a461aa8e81"
+    },
+    {
+      "path": "media/fidelio-leonore-prison-and-chorus.png",
+      "status": 200,
+      "bytes": 3057775,
+      "sha256": "a966934776a2fae9deca7f4b6c604d7445a0c29bc0dcd87f22ce05789f901520"
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "status": 200,
+      "bytes": 17702,
+      "sha256": "fc0638f78d187dafda1ff2b9d14f367ebc07a5e4e9bd80fbc95a5e2bfe1cd9c9"
+    },
+    {
+      "path": "stories/goya-third-may-lantern-and-facing-men/index.html",
+      "status": 200,
+      "bytes": 15718,
+      "sha256": "949b4817be2a20b0d6a59387e0bb09588e3592b63e1e73ad8560d8d3a93caa0a"
+    },
+    {
+      "path": "media/goya-third-may-lantern-and-facing-men.jpg",
+      "status": 200,
+      "bytes": 221583,
+      "sha256": "e4a38d5a963bb002235531de0b672a341ed8f0a9c937771a47a2af52a5b4bc6e"
+    },
+    {
+      "path": "categories/europe/스페인/index.html",
+      "status": 200,
+      "bytes": 11803,
+      "sha256": "9f0723ae551c569aa6e0545f84d4ee7abce6041a6ede87196a8061029fd3727b"
+    },
+    {
+      "path": "stories/vermeer-milkmaid-light-and-pouring/index.html",
+      "status": 200,
+      "bytes": 15477,
+      "sha256": "f0557ce76dd66b69a60d6c78d79dad6ffc39e0d1eeb54020fcf9b7188e401495"
+    },
+    {
+      "path": "media/vermeer-milkmaid-light-and-pouring.jpg",
+      "status": 200,
+      "bytes": 149313,
+      "sha256": "0ad73aad4ee10820f39bc6fa721d5d6cc9443085b8283434f55f1a09beb30ce2"
+    },
+    {
+      "path": "categories/europe/네덜란드/index.html",
+      "status": 200,
+      "bytes": 11799,
+      "sha256": "319f70eca6f78149daa38199d47768bec839aa42ad1726bd400478bb1d0866c5"
+    },
+    {
+      "path": "stories/chichen-itza-pyramid-cenote-and-plazas/index.html",
+      "status": 200,
+      "bytes": 15795,
+      "sha256": "b18cd40d0e4bc826cee45565d6c5f77dd5a6b53fff747ea7a6021abb91d259ee"
+    },
+    {
+      "path": "media/chichen-itza-pyramid-cenote-and-plazas.png",
+      "status": 200,
+      "bytes": 185255,
+      "sha256": "1d83611b8186a6f6316f26522e290cfd77e3b86c1159c0599c23047165b879fc"
+    },
+    {
+      "path": "categories/americas/멕시코/index.html",
+      "status": 200,
+      "bytes": 9947,
+      "sha256": "7fe162a86b3ab533ace82423be479c2daeeb4dc2007092e4de6ce84d81f346d0"
+    },
+    {
+      "path": "stories/sanchi-stupa-gates-and-circling-path/index.html",
+      "status": 200,
+      "bytes": 15762,
+      "sha256": "15040fa9adb6b75cd505d5765d623d2549b11fecfebe0b8deca6c69eaea8bf3b"
+    },
+    {
+      "path": "media/sanchi-stupa-gates-and-circling-path.jpg",
+      "status": 200,
+      "bytes": 255881,
+      "sha256": "5120d547d94c979dc241563490ec334953dc04ad700c21c58c7f6f53c15f7899"
+    },
+    {
+      "path": "categories/asia-oceania/인도/index.html",
+      "status": 200,
+      "bytes": 9078,
+      "sha256": "72ebe2659e4b157c47b11b66df5add86025b16effb165b8c78be15a1aa5408a5"
+    },
+    {
+      "path": "stories/machu-picchu-terraces-stone-and-landscape/index.html",
+      "status": 200,
+      "bytes": 15462,
+      "sha256": "3a3efdd8d6366c245eb289137c14ce2b71af6ac11915ceb4a46c806b27966d5f"
+    },
+    {
+      "path": "media/machu-picchu-terraces-stone-and-landscape.jpg",
+      "status": 200,
+      "bytes": 247552,
+      "sha256": "05283246829d4e995bf572e06a56a9893d4576f29dfc60568ff4701d73e83230"
+    },
+    {
+      "path": "categories/americas/페루/index.html",
+      "status": 200,
+      "bytes": 9082,
+      "sha256": "755a81044339e6ae29fa3d545887029bf28aedb0405fc20d7a86c64fcec1cd76"
+    },
+    {
+      "path": "stories/topkapi-courts-gates-and-government/index.html",
+      "status": 200,
+      "bytes": 15752,
+      "sha256": "b9100f9540192357362c3951ccc35a549798ae8d964f980893199e95815de695"
+    },
+    {
+      "path": "media/topkapi-courts-gates-and-government.jpg",
+      "status": 200,
+      "bytes": 99970,
+      "sha256": "f14430606cea3f3aac40d17ccc330262745dfb75a47048409c5fab19f020025d"
+    },
+    {
+      "path": "categories/middle-east-africa/튀르키예/index.html",
+      "status": 200,
+      "bytes": 9156,
+      "sha256": "4ba70a56bdc3d5e9b59cedaa782e4cf427da89c2819021c0fdfabe60c94820ba"
+    }
+  ]
 }

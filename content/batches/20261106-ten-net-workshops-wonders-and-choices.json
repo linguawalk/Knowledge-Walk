@@ -1,0 +1,28 @@
+{
+  "id": "20261106-ten-net-workshops-wonders-and-choices",
+  "title": "net 새 이야기 10편 — 작업장과 경이, 선택의 순간",
+  "story_ids": [
+    "silas-marner-gold-child-and-neighbors",
+    "queen-spades-three-cards-and-obsession",
+    "freischutz-wolfs-glen-and-final-shot",
+    "sistine-ceiling-adam-and-painted-architecture",
+    "vulcan-forge-apollo-and-interrupted-work",
+    "mont-saint-michel-tides-abbey-and-stacked-rooms",
+    "ajanta-caves-prayer-halls-painting-and-monks",
+    "osaka-mills-mint-and-port-city",
+    "china-wheelbarrows-chengdu-roads-and-loads",
+    "bahia-palace-courtyards-water-and-craft"
+  ],
+  "countries": {
+    "silas-marner-gold-child-and-neighbors": "영국",
+    "queen-spades-three-cards-and-obsession": "러시아",
+    "freischutz-wolfs-glen-and-final-shot": "독일",
+    "sistine-ceiling-adam-and-painted-architecture": "이탈리아",
+    "vulcan-forge-apollo-and-interrupted-work": "스페인",
+    "mont-saint-michel-tides-abbey-and-stacked-rooms": "프랑스",
+    "ajanta-caves-prayer-halls-painting-and-monks": "인도",
+    "osaka-mills-mint-and-port-city": "일본",
+    "china-wheelbarrows-chengdu-roads-and-loads": "중국",
+    "bahia-palace-courtyards-water-and-craft": "모로코"
+  }
+}

@@ -44,11 +44,13 @@
 | [피노키오 — 코가 길어지는 이야기 다음에는 무엇이 있을까](pinocchio-schoolbook-and-responsibility.md) | 자료 대조·공개 게시 승인 완료 |
 | [이 현판의 글자는 따로 만들어 붙였다](poem-plaque-raised-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [오만과 편견 — 처음 본 인상을 믿어도 될까](pride-prejudice-first-impressions.md) | 자료 대조·공개 게시 승인 완료 |
+| [스페이드의 여왕 — 확실한 세 장을 알면 삶도 이길 수 있을까](queen-spades-three-cards-and-obsession.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [『로빈슨 크루소』 — 무인도에는 정말 혼자였을까](robinson-crusoe-tools-footprint-friday.md) | 자료 대조·공개 게시 승인 완료 |
 | [로미오와 줄리엣 — 두 사람 사이에 이름과 편지가 놓이다](romeo-juliet-names-and-missed-letter.md) | 자료 대조·공개 게시 승인 완료 |
 | [로스탐과 소흐라브 — 서로를 알아보지 못한 부자의 결투](rostam-sohrab-token-and-recognition.md) | 자료 대조·공개 게시 승인 완료 |
 | [『비밀의 화원』 — 문을 연 뒤에는 누가 정원을 돌보았을까](secret-garden-key-and-shared-work.md) | 자료 대조·공개 게시 승인 완료 |
 | [붉은 머리 연맹 — 너무 좋은 아르바이트의 비밀](sherlock-red-headed-league.md) | 자료 대조·공개 게시 승인 완료 |
+| [사일러스 마너 — 잃어버린 금화 대신 아이가 들어온 밤](silas-marner-gold-child-and-neighbors.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [슬리피 할로의 전설 — 머리 없는 기사는 정말 나타났을까](sleepy-hollow-story-and-rumor.md) | 자료 대조·공개 게시 승인 완료 |
 | [『두 도시 이야기』 — 닮은 얼굴이 다른 삶을 구할 때](tale-two-cities-carton-and-recalled-life.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [사람에게는 얼마만큼의 땅이 필요한가 — 해가 지기 전에 돌아와야 했던 사람](tolstoy-pahom-land-and-sunset.md) | 자료 대조·공개 게시 승인 완료 |
