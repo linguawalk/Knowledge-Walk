@@ -7,7 +7,7 @@
 | [이상한 나라의 앨리스 — 말이 통하지 않는 세계에서 나를 찾기](alice-language-and-rules.md) | 자료 대조·공개 게시 승인 완료 |
 | [책에도 주인의 이름표를 찍어 두었다](book-owner-seal.md) | 자료 대조·공개 게시 승인 완료 |
 | [캔터베리 이야기 — 순례길에서는 누가 이야기를 잘했을까](canterbury-pilgrims-and-pardoners-gold.md) | 자료 대조·공개 게시 승인 완료 |
-| [벚꽃 동산 — 아름다운 정원은 왜 경매에 나왔을까](cherry-orchard-auction-and-firs.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [벚꽃 동산 — 아름다운 정원은 왜 경매에 나왔을까](cherry-orchard-auction-and-firs.md) | 자료 대조·공개 게시 승인 완료 |
 | [크리스마스 캐럴 — 스크루지가 다시 배우는 사람의 온기](christmas-carol-scrooge-change.md) | 자료 대조·공개 게시 승인 완료 |
 | [『금강경』 — 천 년 전의 책은 어떻게 여러 독자를 만났을까](diamond-sutra-868-print-and-gift.md) | 자료 대조·공개 게시 승인 완료 |
 | [『돈키호테』 — 풍차가 거인으로 보이는 사람](don-quixote-windmills-and-sancho.md) | 자료 대조·공개 게시 승인 완료 |
@@ -18,13 +18,13 @@
 | [오 헨리의 「크리스마스 선물」 — 당장 쓸 수 없는 두 선물](gift-magi-watch-chain-and-combs.md) | 자료 대조·공개 게시 승인 완료 |
 | [고골의 외투 — 새 옷 한 벌이 한 사람의 세계를 바꿀 때](gogol-overcoat-clerk-and-city.md) | 자료 대조·공개 게시 승인 완료 |
 | [『위대한 유산』 — 신사가 된 소년은 누구를 부끄러워했을까](great-expectations-pip-secret-benefactor.md) | 자료 대조 완료 · 게시 승인 대기 |
-| [위대한 개츠비 — 초록 불빛 너머에는 무엇이 있었을까](great-gatsby-green-light-and-past.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [위대한 개츠비 — 초록 불빛 너머에는 무엇이 있었을까](great-gatsby-green-light-and-past.md) | 자료 대조·공개 게시 승인 완료 |
 | [『걸리버 여행기』 — 소인국보다 더 이상한 것은 무엇일까](gulliver-travels-size-and-satire.md) | 자료 대조·공개 게시 승인 완료 |
 | [햄릿 — 복수해야 한다는 말만으로 행동할 수 있을까](hamlet-ghost-proof-and-revenge.md) | 자료 대조·공개 게시 승인 완료 |
 | [제인 오스틴의 생애 — 작은 거실에서 넓은 세계를 쓰다](jane-austen-life-and-writing.md) | 자료 대조·공개 게시 승인 완료 |
 | [『제인 에어』 — 사랑해도 떠날 수 있는 사람](jane-eyre-love-and-own-voice.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [지킬 박사와 하이드 — 다른 이름이면 책임도 사라질까](jekyll-hyde-door-and-responsibility.md) | 자료 대조·공개 게시 승인 완료 |
-| [조이스의 「죽은 사람들」 — 노래 한 곡이 저녁을 바꾸다](joyce-dead-song-snow-and-memory.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [조이스의 「죽은 사람들」 — 노래 한 곡이 저녁을 바꾸다](joyce-dead-song-snow-and-memory.md) | 자료 대조·공개 게시 승인 완료 |
 | [레 미제라블 — 빵 한 조각에서 시작된 긴 질문](les-miserables-reading-guide.md) | 자료 대조·공개 게시 승인 완료 |
 | [자유의 여신상과 라자루스 — 조각상은 어떻게 환영의 목소리를 얻었을까](liberty-lazarus-and-harbor-poem.md) | 자료 대조·공개 게시 승인 완료 |
 | [『작은 아씨들』 — 네 자매에게 같은 미래가 필요했을까](little-women-four-sisters-different-futures.md) | 자료 대조·공개 게시 승인 완료 |
@@ -38,8 +38,8 @@
 | [이 현판의 글자는 따로 만들어 붙였다](poem-plaque-raised-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [오만과 편견 — 처음 본 인상을 믿어도 될까](pride-prejudice-first-impressions.md) | 자료 대조·공개 게시 승인 완료 |
 | [『로빈슨 크루소』 — 무인도에는 정말 혼자였을까](robinson-crusoe-tools-footprint-friday.md) | 자료 대조·공개 게시 승인 완료 |
-| [로미오와 줄리엣 — 두 사람 사이에 이름과 편지가 놓이다](romeo-juliet-names-and-missed-letter.md) | 자료 대조 완료 · 게시 승인 대기 |
-| [로스탐과 소흐라브 — 서로를 알아보지 못한 부자의 결투](rostam-sohrab-token-and-recognition.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [로미오와 줄리엣 — 두 사람 사이에 이름과 편지가 놓이다](romeo-juliet-names-and-missed-letter.md) | 자료 대조·공개 게시 승인 완료 |
+| [로스탐과 소흐라브 — 서로를 알아보지 못한 부자의 결투](rostam-sohrab-token-and-recognition.md) | 자료 대조·공개 게시 승인 완료 |
 | [『비밀의 화원』 — 문을 연 뒤에는 누가 정원을 돌보았을까](secret-garden-key-and-shared-work.md) | 자료 대조·공개 게시 승인 완료 |
 | [붉은 머리 연맹 — 너무 좋은 아르바이트의 비밀](sherlock-red-headed-league.md) | 자료 대조·공개 게시 승인 완료 |
 | [슬리피 할로의 전설 — 머리 없는 기사는 정말 나타났을까](sleepy-hollow-story-and-rumor.md) | 자료 대조·공개 게시 승인 완료 |

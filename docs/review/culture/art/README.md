@@ -25,14 +25,14 @@
 | [『시녀들』 — 그림 속 사람들은 누구를 보고 있을까](las-meninas-painter-mirror-and-viewer.md) | 자료 대조·공개 게시 승인 완료 |
 | [레오나르도 다빈치의 생애 — 그림 한 장에서 세상을 관찰하다](leonardo-life-of-observation.md) | 자료 대조·공개 게시 승인 완료 |
 | [체스 말을 어디에 둘지 오래된 사진에 물었다](man-ray-chess-photo-layout.md) | 자료 대조·공개 게시 승인 완료 |
-| [미켈란젤로의 다비드 — 돌 속의 청년은 무엇을 기다릴까](michelangelo-david-marble-and-republic.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [미켈란젤로의 다비드 — 돌 속의 청년은 무엇을 기다릴까](michelangelo-david-marble-and-republic.md) | 자료 대조·공개 게시 승인 완료 |
 | [이삭 줍는 여인들 — 풍요로운 들판의 가장 낮은 자리](millet-gleaners-harvest.md) | 자료 대조·공개 게시 승인 완료 |
 | [모나리자 — 미소와 손, 그리고 그림이 사라진 해](mona-lisa-looking-guide.md) | 자료 대조·공개 게시 승인 완료 |
 | [피리 레이스의 지도 — 오스만의 종이 위에 아메리카가 나타나다](piri-reis-map-and-shared-seas.md) | 자료 대조·공개 게시 승인 완료 |
 | [아름다운 정원사 — 그림 속 여인은 누구일까](raphael-belle-jardiniere.md) | 자료 대조·공개 게시 승인 완료 |
 | [엠마오의 순례자들 — 식탁에서 낯선 이를 알아보는 순간](rembrandt-emmaus-light.md) | 자료 대조·공개 게시 승인 완료 |
 | [렘브란트의 생애 — 얼굴과 빛을 다시 바라본 시간](rembrandt-life-self-portraits.md) | 자료 대조·공개 게시 승인 완료 |
-| [사모트라케의 니케 — 머리 없는 여신에게 바람이 보이는 이유](samothrace-nike-wind-and-prow.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [사모트라케의 니케 — 머리 없는 여신에게 바람이 보이는 이유](samothrace-nike-wind-and-prow.md) | 자료 대조·공개 게시 승인 완료 |
 | [주전자의 이야기는 바닥에도 적혀 있다](silver-kettle-hidden-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [브레다의 항복 — 승리보다 먼저 보이는 두 사람의 손](surrender-breda-keys-and-victory.md) | 자료 대조·공개 게시 승인 완료 |
 | [장갑을 낀 남자 — 얼굴보다 손이 먼저 알려 주는 것](titian-man-with-glove.md) | 자료 대조·공개 게시 승인 완료 |

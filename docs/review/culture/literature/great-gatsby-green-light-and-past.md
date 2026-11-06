@@ -4,7 +4,7 @@
 
 Culture · Literature
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![밤의 부두에서 먼 초록 불빛을 바라보는 남자의 상상 삽화](../../../../content/images/great-gatsby-green-light-and-past.png)
 
