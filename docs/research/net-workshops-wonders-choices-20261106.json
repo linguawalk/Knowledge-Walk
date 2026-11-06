@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "batch": "20261106-ten-net-workshops-wonders-and-choices",
-  "status": "review_only",
+  "status": "approved_for_publication",
   "stories": [
     {
       "id": "silas-marner-gold-child-and-neighbors",
@@ -316,7 +316,7 @@
   "tests_passed": 51,
   "images_visually_checked": 10,
   "public_counts": {
-    "net": 231,
+    "net": 241,
     "temporary_kr": 157
   },
   "previous_net_publication": {
@@ -327,5 +327,6 @@
     "verified_stories": 10,
     "verified_images": 10,
     "collection": "https://knowledgewalk.net/collections/20261106-ten-net-dreams-gates-and-highlands/index.html"
-  }
+  },
+  "approved_at": "2026-11-06"
 }

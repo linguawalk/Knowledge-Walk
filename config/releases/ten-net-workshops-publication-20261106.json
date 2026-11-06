@@ -1,0 +1,26 @@
+{
+  "id": "ten-net-workshops-publication-20261106",
+  "user_request": "홈페이지 게시",
+  "approved_at": "2026-11-06",
+  "story_ids": [
+    "silas-marner-gold-child-and-neighbors",
+    "queen-spades-three-cards-and-obsession",
+    "freischutz-wolfs-glen-and-final-shot",
+    "sistine-ceiling-adam-and-painted-architecture",
+    "vulcan-forge-apollo-and-interrupted-work",
+    "mont-saint-michel-tides-abbey-and-stacked-rooms",
+    "ajanta-caves-prayer-halls-painting-and-monks",
+    "osaka-mills-mint-and-port-city",
+    "china-wheelbarrows-chengdu-roads-and-loads",
+    "bahia-palace-courtyards-water-and-craft"
+  ],
+  "net_stories": 241,
+  "kr_stories": 157,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261106-ten-net-workshops-wonders-and-choices/index.html",
+  "kr_domain_connected": false,
+  "deployment_status": "pending",
+  "numbered_sections_per_story": 7,
+  "numbered_toc_per_story": 7,
+  "local_tests_passed": 51,
+  "local_browser_checks": 20
+}
