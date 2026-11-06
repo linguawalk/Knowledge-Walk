@@ -88,7 +88,9 @@
     "source_url": "https://raw.githubusercontent.com/GITenberg/Opening-Ceremonies-of-the-New-York-and-Brooklyn-Bridge-May-24-1883_28191/master/28191-h/images/bridge_lg.png",
     "license": "Public Domain · 저작권 만료 작품 및 역사 출판 도판"
   },
-  "status": "review",
-  "publication_ready": false,
-  "source_review": "verified"
+  "status": "approved",
+  "publication_ready": true,
+  "source_review": "verified",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-06"
 }

@@ -32,7 +32,7 @@
 | [아름다운 정원사 — 그림 속 여인은 누구일까](raphael-belle-jardiniere.md) | 자료 대조·공개 게시 승인 완료 |
 | [엠마오의 순례자들 — 식탁에서 낯선 이를 알아보는 순간](rembrandt-emmaus-light.md) | 자료 대조·공개 게시 승인 완료 |
 | [렘브란트의 생애 — 얼굴과 빛을 다시 바라본 시간](rembrandt-life-self-portraits.md) | 자료 대조·공개 게시 승인 완료 |
-| [렘브란트의 야경 — 밤의 순찰로만 보면 놓치는 사람들](rembrandt-night-watch-light-and-company.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [렘브란트의 야경 — 밤의 순찰로만 보면 놓치는 사람들](rembrandt-night-watch-light-and-company.md) | 자료 대조·공개 게시 승인 완료 |
 | [사모트라케의 니케 — 머리 없는 여신에게 바람이 보이는 이유](samothrace-nike-wind-and-prow.md) | 자료 대조·공개 게시 승인 완료 |
 | [주전자의 이야기는 바닥에도 적혀 있다](silver-kettle-hidden-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [브레다의 항복 — 승리보다 먼저 보이는 두 사람의 손](surrender-breda-keys-and-victory.md) | 자료 대조·공개 게시 승인 완료 |

@@ -7,7 +7,7 @@
 | [자금성 — 문을 지나면 황제에게 가까워졌을까](beijing-forbidden-city-gates-and-distance.md) | 자료 대조·공개 게시 승인 완료 |
 | [보로부두르 — 돌에 새긴 이야기를 따라 걷다](borobudur-stone-stories-and-steps.md) | 자료 대조·공개 게시 승인 완료 |
 | [장안 — 수도의 거리에는 어떤 말과 음악이 흘렀을까](changan-travelers-and-music.md) | 자료 대조·공개 게시 승인 완료 |
-| [두장옌 — 오래된 물길은 누가 계속 열어 두었을까](dujiangyan-irrigation-and-maintenance.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [두장옌 — 오래된 물길은 누가 계속 열어 두었을까](dujiangyan-irrigation-and-maintenance.md) | 자료 대조·공개 게시 승인 완료 |
 | [에도 — 영주들은 왜 자꾸 길을 떠났을까](edo-daimyo-road-and-residence.md) | 자료 대조·공개 게시 승인 완료 |
 | [경회루 연못에서는 왜 청동 용이 나왔을까](gyeonghoeru-pond-dragon.md) | 자료 대조·공개 게시 승인 완료 |
 | [하라파 — 작은 인장은 왜 먼 도시에서 나왔을까](harappa-seal-and-distant-trade.md) | 자료 대조·공개 게시 승인 완료 |

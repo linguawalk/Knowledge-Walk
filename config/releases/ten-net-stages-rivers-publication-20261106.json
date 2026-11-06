@@ -1,0 +1,26 @@
+{
+  "id": "ten-net-stages-rivers-publication-20261106",
+  "user_request": "홈페이지 게시",
+  "approved_at": "2026-11-06",
+  "story_ids": [
+    "macbeth-prophecy-and-borrowed-crown",
+    "antigone-burial-law-and-listening",
+    "tolstoy-pahom-land-and-sunset",
+    "bach-brandenburg-dedication-and-voices",
+    "rembrandt-night-watch-light-and-company",
+    "lisbon-1755-earthquake-and-new-streets",
+    "japanese-theatre-revolving-stage-and-labor",
+    "petra-siq-facade-and-local-knowledge",
+    "dujiangyan-irrigation-and-maintenance",
+    "brooklyn-bridge-caissons-and-shared-work"
+  ],
+  "net_stories": 221,
+  "kr_stories": 137,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261106-ten-net-stages-rivers-and-bridges/index.html",
+  "kr_domain_connected": false,
+  "deployment_status": "pending",
+  "local_tests_passed": 51,
+  "local_browser_checks": 20,
+  "numbered_sections_per_story": 7,
+  "numbered_toc_per_story": 7
+}
