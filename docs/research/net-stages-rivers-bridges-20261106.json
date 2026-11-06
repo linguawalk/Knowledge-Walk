@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-06",
+  "batch": "20261106-ten-net-stages-rivers-and-bridges",
+  "publication_status": "review_only",
+  "articles": [
+    {
+      "id": "macbeth-prophecy-and-borrowed-crown",
+      "body_characters": 2316,
+      "numbered_sections": 7
+    },
+    {
+      "id": "antigone-burial-law-and-listening",
+      "body_characters": 2302,
+      "numbered_sections": 7
+    },
+    {
+      "id": "tolstoy-pahom-land-and-sunset",
+      "body_characters": 2312,
+      "numbered_sections": 7
+    },
+    {
+      "id": "bach-brandenburg-dedication-and-voices",
+      "body_characters": 2307,
+      "numbered_sections": 7
+    },
+    {
+      "id": "rembrandt-night-watch-light-and-company",
+      "body_characters": 2320,
+      "numbered_sections": 7
+    },
+    {
+      "id": "lisbon-1755-earthquake-and-new-streets",
+      "body_characters": 2311,
+      "numbered_sections": 7
+    },
+    {
+      "id": "japanese-theatre-revolving-stage-and-labor",
+      "body_characters": 2303,
+      "numbered_sections": 7
+    },
+    {
+      "id": "petra-siq-facade-and-local-knowledge",
+      "body_characters": 2302,
+      "numbered_sections": 7
+    },
+    {
+      "id": "dujiangyan-irrigation-and-maintenance",
+      "body_characters": 2329,
+      "numbered_sections": 7
+    },
+    {
+      "id": "brooklyn-bridge-caissons-and-shared-work",
+      "body_characters": 2304,
+      "numbered_sections": 7
+    }
+  ],
+  "source_checks": [
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Rembrandt_20607/master/20607-8.txt",
+      "status": 200,
+      "bytes": 71258
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-poem-on-the-earthquake-at-Lisbon_67011/master/67011-0.txt",
+      "status": 200,
+      "bytes": 34870
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Through-Portugal_55034/master/55034-0.txt",
+      "status": 200,
+      "bytes": 420740
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Jinrikisha-days-in-Japan_72989/master/72989-0.txt",
+      "status": 200,
+      "bytes": 660909
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Travels-in-Syria-and-the-Holy-Land_8884/master/8884-8.txt",
+      "status": 200,
+      "bytes": 1351187
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Johann-Sebastian-Bach_48977/master/48977-0.txt",
+      "status": 200,
+      "bytes": 100417
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Johann-Sebastian-Bach-his-Life-Art-and-Work_35041/master/35041-0.txt",
+      "status": 200,
+      "bytes": 514780
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Opening-Ceremonies-of-the-New-York-and-Brooklyn-Bridge-May-24-1883_28191/master/28191-8.txt",
+      "status": 200,
+      "bytes": 144382
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Opening-Ceremonies-of-the-New-York-and-Brooklyn-Bridge-May-24-1883_28191/master/28191-h/images/bridge_lg.png",
+      "status": 200,
+      "bytes": 139969
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Rembrandt_20607/master/20607-h/images/image07.jpg",
+      "status": 200,
+      "bytes": 334324
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Macbeth_2264/master/2264.txt",
+      "status": 200,
+      "bytes": 119845
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Wayfarer-in-ChinaImpressions-of-a-trip-across-West-China-and-Mongolia_27481/master/27481-8.txt",
+      "status": 200,
+      "bytes": 506430
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Plays-of-Sophocles--Oedipus-the-King--Oedipus-at-Colonus--Antigone_31/master/31.txt",
+      "status": 200,
+      "bytes": 241635
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/What-Men-Live-By-and-Other-Tales_6157/master/6157-0.txt",
+      "status": 200,
+      "bytes": 120557
+    }
+  ],
+  "validation": {
+    "unit_tests": 51,
+    "browser_views": 20,
+    "images_visually_checked": 10,
+    "source_urls_ok": 14,
+    "public_net": 211,
+    "public_kr_temporary": 137
+  },
+  "previous_batch_publication": {
+    "batch": "20261106-ten-net-gardens-statues-and-crossroads",
+    "status": "live_verified",
+    "pages_run_id": 42146235875,
+    "verified_response_count": 35
+  }
+}

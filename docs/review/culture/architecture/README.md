@@ -12,5 +12,6 @@
 | [수정궁 — 온실의 생각으로 거대한 전시장을 만들다](crystal-palace-greenhouse-and-prefabrication.md) | 자료 대조·공개 게시 승인 완료 |
 | [이세 신궁 — 새로 지은 건물에 오래된 시간이 남는 법](ise-shrine-rebuilding-and-inherited-craft.md) | 자료 대조·공개 게시 승인 완료 |
 | [일본의 나무 장식은 관람석 아래에서 발견됐다](japan-phoenix-wood-panels.md) | 자료 대조·공개 게시 승인 완료 |
+| [일본의 회전무대 — 집 한 채가 돌아가면 다음 장면이 열린다](japanese-theatre-revolving-stage-and-labor.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [카르나크 신전 — 돌기둥의 숲은 어떻게 커졌을까](karnak-columns-light-and-growing-temple.md) | 자료 대조·공개 게시 승인 완료 |
 | [나라의 도다이지 — 거대한 불상에 담긴 국가의 바람](nara-todaiji-buddha-and-state.md) | 자료 대조·공개 게시 승인 완료 |

@@ -1,0 +1,28 @@
+{
+  "id": "20261106-ten-net-stages-rivers-and-bridges",
+  "title": "net 새 이야기 10편 — 무대와 물길, 도시를 잇는 사람들",
+  "story_ids": [
+    "macbeth-prophecy-and-borrowed-crown",
+    "antigone-burial-law-and-listening",
+    "tolstoy-pahom-land-and-sunset",
+    "bach-brandenburg-dedication-and-voices",
+    "rembrandt-night-watch-light-and-company",
+    "lisbon-1755-earthquake-and-new-streets",
+    "japanese-theatre-revolving-stage-and-labor",
+    "petra-siq-facade-and-local-knowledge",
+    "dujiangyan-irrigation-and-maintenance",
+    "brooklyn-bridge-caissons-and-shared-work"
+  ],
+  "countries": {
+    "macbeth-prophecy-and-borrowed-crown": "영국",
+    "antigone-burial-law-and-listening": "그리스",
+    "tolstoy-pahom-land-and-sunset": "러시아",
+    "bach-brandenburg-dedication-and-voices": "독일",
+    "rembrandt-night-watch-light-and-company": "네덜란드",
+    "lisbon-1755-earthquake-and-new-streets": "포르투갈",
+    "japanese-theatre-revolving-stage-and-labor": "일본",
+    "petra-siq-facade-and-local-knowledge": "요르단",
+    "dujiangyan-irrigation-and-maintenance": "중국",
+    "brooklyn-bridge-caissons-and-shared-work": "미국"
+  }
+}

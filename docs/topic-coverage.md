@@ -5,21 +5,21 @@
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
-| History | Asia | 4 | 4 | 3 |
+| History | Asia | 4 | 4 | 4 |
 | History | Europe | 8 | 8 | 8 |
 | History | America | 9 | 9 | 9 |
 | History | Middle East | 3 | 3 | 3 |
 | History | Africa | 2 | 2 | 2 |
-| Cities | Asia | 14 | 14 | 14 |
-| Cities | Europe | 9 | 9 | 9 |
-| Cities | Americas | 7 | 7 | 7 |
-| Cities | Middle East | 3 | 3 | 3 |
-| Cities | Africa | 6 | 6 | 5 |
-| Culture | Architecture | 10 | 10 | 9 |
-| Culture | Literature | 41 | 41 | 33 |
+| Cities | Asia | 15 | 15 | 14 |
+| Cities | Europe | 10 | 10 | 9 |
+| Cities | Americas | 8 | 8 | 7 |
+| Cities | Middle East | 4 | 4 | 3 |
+| Cities | Africa | 6 | 6 | 6 |
+| Culture | Architecture | 11 | 11 | 10 |
+| Culture | Literature | 44 | 44 | 38 |
 | Culture | Philosophy | 7 | 7 | 6 |
-| Culture | Music | 27 | 26 | 24 |
-| Culture | Art | 37 | 37 | 35 |
+| Culture | Music | 28 | 27 | 24 |
+| Culture | Art | 38 | 38 | 37 |
 | Culture | Film | 1 | 1 | 1 |
 | Culture | Sports | 1 | 1 | 1 |
 | Life | Folks | 23 | 23 | 21 |

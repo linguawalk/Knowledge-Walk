@@ -5,6 +5,7 @@
 | 이야기 | 확인 상태 |
 |---|---|
 | [이상한 나라의 앨리스 — 말이 통하지 않는 세계에서 나를 찾기](alice-language-and-rules.md) | 자료 대조·공개 게시 승인 완료 |
+| [안티고네 — 왕의 명령으로 장례를 금할 수 있을까](antigone-burial-law-and-listening.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [책에도 주인의 이름표를 찍어 두었다](book-owner-seal.md) | 자료 대조·공개 게시 승인 완료 |
 | [캔터베리 이야기 — 순례길에서는 누가 이야기를 잘했을까](canterbury-pilgrims-and-pardoners-gold.md) | 자료 대조·공개 게시 승인 완료 |
 | [벚꽃 동산 — 아름다운 정원은 왜 경매에 나왔을까](cherry-orchard-auction-and-firs.md) | 자료 대조·공개 게시 승인 완료 |
@@ -28,6 +29,7 @@
 | [레 미제라블 — 빵 한 조각에서 시작된 긴 질문](les-miserables-reading-guide.md) | 자료 대조·공개 게시 승인 완료 |
 | [자유의 여신상과 라자루스 — 조각상은 어떻게 환영의 목소리를 얻었을까](liberty-lazarus-and-harbor-poem.md) | 자료 대조·공개 게시 승인 완료 |
 | [『작은 아씨들』 — 네 자매에게 같은 미래가 필요했을까](little-women-four-sisters-different-futures.md) | 자료 대조·공개 게시 승인 완료 |
+| [맥베스 — 예언은 누구의 손으로 현실이 되었을까](macbeth-prophecy-and-borrowed-crown.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [보바리 부인 — 꿈꾸던 삶은 왜 빚이 되었을까](madame-bovary-desire-and-credit.md) | 자료 대조·공개 게시 승인 완료 |
 | [모비 딕 — 한 선장의 복수가 배 전체의 운명이 될 때](moby-dick-ishmael-ahab-and-sea.md) | 자료 대조·공개 게시 승인 완료 |
 | [몬테크리스토 백작 — 복수가 끝나면 삶은 돌아올까](monte-cristo-revenge-and-hope.md) | 자료 대조·공개 게시 승인 완료 |
@@ -44,4 +46,5 @@
 | [붉은 머리 연맹 — 너무 좋은 아르바이트의 비밀](sherlock-red-headed-league.md) | 자료 대조·공개 게시 승인 완료 |
 | [슬리피 할로의 전설 — 머리 없는 기사는 정말 나타났을까](sleepy-hollow-story-and-rumor.md) | 자료 대조·공개 게시 승인 완료 |
 | [『두 도시 이야기』 — 닮은 얼굴이 다른 삶을 구할 때](tale-two-cities-carton-and-recalled-life.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [사람에게는 얼마만큼의 땅이 필요한가 — 해가 지기 전에 돌아와야 했던 사람](tolstoy-pahom-land-and-sunset.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [보물섬 — 지도보다 어려운 것은 사람을 읽는 일](treasure-island-trust-and-map.md) | 자료 대조·공개 게시 승인 완료 |
