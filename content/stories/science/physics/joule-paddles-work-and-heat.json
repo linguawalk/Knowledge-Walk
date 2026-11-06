@@ -95,7 +95,9 @@
     "label": "AI 관련 장면 삽화",
     "credit": "AI 관련 장면 삽화 · 역사와 원리를 떠올리기 위한 상상 그림이며 실제 사진·인물 초상·정확한 복원이나 과학 설계도가 아닙니다."
   },
-  "status": "review",
-  "publication_ready": false,
-  "source_review": "verified"
+  "status": "approved",
+  "publication_ready": true,
+  "source_review": "verified",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 및 kr 새글 10개 요청",
+  "approved_at": "2026-11-06"
 }

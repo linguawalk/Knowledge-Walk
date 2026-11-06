@@ -12,5 +12,5 @@
 | [궁궐의 작은 상자에는 생활의 필요가 담겼다](maehwa-portable-toilet.md) | 자료 대조·공개 게시 승인 완료 |
 | [축음기 — 한 번 지나간 목소리를 다시 들을 수 있다면](phonograph-groove-and-returning-voice.md) | 자료 대조·공개 게시 승인 완료 |
 | [빗을 담는 상자의 문지기는 거북이었다](red-comb-chest-turtle.md) | 자료 대조·공개 게시 승인 완료 |
-| [자전거 — 앞바퀴가 작아지자 탈 수 있는 사람이 늘었다](safety-bicycle-chain-and-pneumatic-tyre.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [자전거 — 앞바퀴가 작아지자 탈 수 있는 사람이 늘었다](safety-bicycle-chain-and-pneumatic-tyre.md) | 자료 대조·공개 게시 승인 완료 |
 | [엘리베이터 — 위로 가는 힘보다 멈출 수 있다는 믿음](safety-elevator-building-height-and-trust.md) | 자료 대조·공개 게시 승인 완료 |
