@@ -10,7 +10,7 @@
 |---|---|---|---|
 | [3M — 잘 붙지 않는 접착제의 쓸모](../../content/stories/companies/technology/postit-weak-glue-new-use.json) | 게시 중 | 기업과 산업 / 창업과 성장 | 특정 국가의 소개보다 창업과 성장의 변화·원리·사례가 중심인 글. |
 
-### 경영과 조직 — 4편 (게시 중 4편)
+### 경영과 조직 — 5편 (게시 중 4편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -18,8 +18,9 @@
 | [픽사 — 한 장면을 여러 사람이 함께 만들려면](../../content/stories/companies/media/pixar-openusd-many-artists.json) | 게시 중 | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 변화·원리·사례가 중심인 글. |
 | [풀먼 — 회사가 집까지 마련해 주면 행복할까](../../content/stories/companies/technology/pullman-town-wages-and-rent.json) | 게시 중 | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 변화·원리·사례가 중심인 글. |
 | [스탠더드오일 — 석유 회사는 왜 문어로 그려졌을까](../../content/stories/companies/technology/standard-oil-octopus-and-competition.json) | 게시 중 | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 변화·원리·역사를 중심으로 한 새 검토 원고. |
+| [볼턴과 와트 — 절약한 석탄이 회사의 수입이 되다](../../content/stories/companies/technology/boulton-watt-fuel-savings-business.json) | 미게시 · verified | 기업과 산업 / 경영과 조직 | 특정 국가의 소개보다 경영과 조직의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고. |
 
-### 공장과 생산 — 6편 (게시 중 6편)
+### 공장과 생산 — 7편 (게시 중 6편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -29,6 +30,7 @@
 | [카네기 — 철강 공장보다 길었던 생산의 사슬](../../content/stories/companies/technology/carnegie-steel-chain-and-homestead.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 | [델 — 주문을 먼저 듣고 컴퓨터를 만들면](../../content/stories/companies/technology/dell-order-before-computer.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글. |
 | [맥코믹 — 수확철의 짧은 시간을 기계로 바꾸다](../../content/stories/companies/technology/mccormick-reaper-and-harvest-window.json) | 게시 중 | 기업과 산업 / 공장과 생산 | 국가 소개보다 공장과 생산의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
+| [리노타이프 — 글자 하나 대신 한 줄을 만들다](../../content/stories/companies/technology/linotype-matrices-and-newspaper-time.json) | 미게시 · verified | 기업과 산업 / 공장과 생산 | 특정 국가의 소개보다 공장과 생산의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고. |
 
 ### 상업과 유통 — 8편 (게시 중 8편)
 
@@ -66,7 +68,7 @@
 | [에니악 — 계산은 빨라졌는데 문제를 바꾸는 데는 시간이 걸렸다](../../content/stories/computing/computers/eniac-changing-problem-and-human-work.json) | 게시 중 | 컴퓨터와 디지털 / 컴퓨터의 역사 | 특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 | [타자기 — 글씨를 잘 쓰는 손보다 필요한 것이 생겼다](../../content/stories/computing/computers/typewriter-keys-and-office-records.json) | 게시 중 | 컴퓨터와 디지털 / 컴퓨터의 역사 | 특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 
-### 소프트웨어 — 5편 (게시 중 5편)
+### 소프트웨어 — 6편 (게시 중 5편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -75,8 +77,9 @@
 | [파이썬이라는 이름은 코미디에서 왔다](../../content/stories/computing/programming/python-comedy-name.json) | 게시 중 | 컴퓨터와 디지털 / 소프트웨어 | 특정 국가의 소개보다 소프트웨어의 변화·원리·사례가 중심인 글. |
 | [CSS — 같은 글이 다른 얼굴로 보이는 이유](../../content/stories/computing/software/css-same-words-different-page.json) | 게시 중 | 컴퓨터와 디지털 / 소프트웨어 | 특정 국가의 소개보다 소프트웨어의 변화·원리·사례가 중심인 글. |
 | [최종본, 진짜 최종본 — 깃은 무엇을 기억할까](../../content/stories/computing/software/git-saving-many-versions.json) | 게시 중 | 컴퓨터와 디지털 / 소프트웨어 | 특정 국가의 소개보다 소프트웨어의 변화·원리·사례가 중심인 글. |
+| [GNU 선언문 — 프로그램을 나누는 조건도 설계하다](../../content/stories/computing/software/gnu-manifesto-sharing-and-conditions.json) | 미게시 · verified | 컴퓨터와 디지털 / 소프트웨어 | 특정 국가의 소개보다 소프트웨어의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고. |
 
-### 인터넷과 통신 — 9편 (게시 중 9편)
+### 인터넷과 통신 — 10편 (게시 중 9편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -89,6 +92,7 @@
 | [와이파이 — 연결됐는데 인터넷이 안 되는 까닭](../../content/stories/computing/internet/wifi-connected-without-internet.json) | 게시 중 | 컴퓨터와 디지털 / 인터넷과 통신 | 특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글. |
 | [인터넷에도 첫 번째 정거장이 있었다](../../content/stories/history/america/arpanet-first-node.json) | 게시 중 | 컴퓨터와 디지털 / 인터넷과 통신 | 특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글. |
 | [대서양 해저전선 — 소식이 바다보다 빨라지기까지](../../content/stories/computing/internet/atlantic-cable-failures-and-connection.json) | 게시 중 | 컴퓨터와 디지털 / 인터넷과 통신 | 국가 소개보다 인터넷과 통신의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
+| [TCP — 나누어 보낸 데이터는 어떻게 다시 이어질까](../../content/stories/computing/internet/tcp-byte-stream-and-retransmission.json) | 미게시 · verified | 컴퓨터와 디지털 / 인터넷과 통신 | 특정 국가의 소개보다 인터넷과 통신의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고. |
 
 ### 데이터와 기록 — 10편 (게시 중 10편)
 
@@ -133,7 +137,7 @@
 | [존 로 — 종이돈과 미시시피의 꿈은 어떻게 엮였을까](../../content/stories/finance/money/john-law-paper-money-and-mississippi.json) | 게시 중 | 돈과 금융 / 돈과 화폐 | 프랑스의 사례를 사용하지만 화폐·신용과 기대의 작동이 중심이므로 kr 우선. |
 | [브레턴우즈 1944 — 전쟁이 끝나기 전에 돈의 질서를 의논하다](../../content/stories/finance/money/bretton-woods-1944-money-rules.json) | 게시 중 | 돈과 금융 / 돈과 화폐 | 국가 소개보다 돈과 화폐의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
-### 은행과 신용 — 6편 (게시 중 6편)
+### 은행과 신용 — 7편 (게시 중 6편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -143,6 +147,7 @@
 | [매달 갚는데 왜 원금은 조금 줄어들까](../../content/stories/finance/banking/loan-payment-principal-interest.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글. |
 | [1933년의 은행 휴일 — 문을 닫고 신뢰를 되찾으려 한 이유](../../content/stories/finance/banking/roosevelt-bank-holiday-and-radio.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글. |
 | [잉글랜드은행 1694 — 왕의 전쟁 자금에서 자라난 은행](../../content/stories/finance/banking/bank-england-1694-government-credit.json) | 게시 중 | 돈과 금융 / 은행과 신용 | 국가 소개보다 은행과 신용의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
+| [1866년 오버렌드 거니 — 오래된 명성이 손실을 막아 주지는 않았다](../../content/stories/finance/banking/overend-gurney-1866-reputation-and-losses.json) | 미게시 · verified | 돈과 금융 / 은행과 신용 | 특정 국가의 소개보다 은행과 신용의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고. |
 
 ### 투자와 시장 — 5편 (게시 중 5편)
 
@@ -161,15 +166,16 @@
 | [보험 — 사고가 없으면 낸 돈이 아까운 걸까](../../content/stories/finance/insurance/insurance-pool-uncertain-loss.json) | 게시 중 | 돈과 금융 / 보험과 위험 | 특정 국가의 소개보다 보험과 위험의 변화·원리·사례가 중심인 글. |
 | [로이즈 — 커피하우스에서 자라난 해상보험](../../content/stories/finance/insurance/lloyds-coffeehouse-shipping-news.json) | 게시 중 | 돈과 금융 / 보험과 위험 | 특정 국가의 소개보다 보험과 위험의 변화·원리·사례가 중심인 글. |
 
-### 금융과 기술 — 1편 (게시 중 1편)
+### 금융과 기술 — 2편 (게시 중 1편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [금융 장부가 화면으로 옮겨 갔을 때](../../content/stories/finance/fintech/fintech-ledgers-screens-and-financial-data.json) | 게시 중 | 돈과 금융 / 금융과 기술 | 특정 국가의 소개보다 금융과 기술의 변화·원리·사례가 중심인 글. |
+| [수표 청산소 — 현금을 옮기지 않고 빚을 맞추는 방법](../../content/stories/finance/banking/clearing-house-cheques-and-net-balances.json) | 미게시 · verified | 돈과 금융 / 금융과 기술 | 특정 국가의 소개보다 금융과 기술의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고. |
 
 ## 과학과 발견
 
-### 우주와 천문 — 5편 (게시 중 4편)
+### 우주와 천문 — 6편 (게시 중 4편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -178,6 +184,7 @@
 | [밀물과 썰물 — 달은 왜 반대편 바다도 움직일까](../../content/stories/science/earth-science/tides-moon-and-changing-shore.json) | 게시 중 | 과학과 발견 / 우주와 천문 | 특정 국가의 소개보다 우주와 천문의 변화·원리·사례가 중심인 글. |
 | [우주선 안에도 작은 이름표가 가득하다](../../content/stories/science/engineering/discovery-panel-labels.json) | 게시 중 | 과학과 발견 / 우주와 천문 | 특정 국가의 소개보다 우주와 천문의 변화·원리·사례가 중심인 글. |
 | [보이저 — 오래된 탐사선에 새 동작을 가르치다](../../content/stories/science/engineering/voyager-grand-tour-old-spacecraft-new-tricks.json) | 미게시 · verified | 과학과 발견 / 우주와 천문 | 특정 국가의 소개보다 우주와 천문의 변화·원리·사례가 중심인 글. |
+| [분광기 — 별빛의 빈틈에서 물질의 흔적을 읽다](../../content/stories/science/physics/spectroscope-dark-lines-and-elements.json) | 미게시 · verified | 과학과 발견 / 우주와 천문 | 특정 국가의 소개보다 우주와 천문의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고. |
 
 ### 생명과 인체 — 5편 (게시 중 5편)
 
@@ -189,7 +196,7 @@
 | [레서판다의 꼬리는 담요가 되기도 한다](../../content/stories/science/biology/red-panda-tail.json) | 게시 중 | 과학과 발견 / 생명과 인체 | 특정 국가의 소개보다 생명과 인체의 변화·원리·사례가 중심인 글. |
 | [하비의 혈액순환 — 심장이 보낸 피는 어디로 갔을까](../../content/stories/science/biology/harvey-heart-blood-and-quantity.json) | 게시 중 | 과학과 발견 / 생명과 인체 | 국가 소개보다 생명과 인체의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
-### 물질과 에너지 — 5편 (게시 중 5편)
+### 물질과 에너지 — 6편 (게시 중 5편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -198,6 +205,7 @@
 | [끓는 물 — 산에서는 왜 100도보다 먼저 끓을까](../../content/stories/science/physics/boiling-water-mountain-pressure.json) | 게시 중 | 과학과 발견 / 물질과 에너지 | 특정 국가의 소개보다 물질과 에너지의 변화·원리·사례가 중심인 글. |
 | [얼음 — 호수는 왜 위에서부터 얼어 갈까](../../content/stories/science/physics/ice-floats-lake-freezes-from-top.json) | 게시 중 | 과학과 발견 / 물질과 에너지 | 특정 국가의 소개보다 물질과 에너지의 변화·원리·사례가 중심인 글. |
 | [닮은 동전인데 왜 하나만 자석에 붙을까](../../content/stories/science/physics/magnetic-penny.json) | 게시 중 | 과학과 발견 / 물질과 에너지 | 특정 국가의 소개보다 물질과 에너지의 변화·원리·사례가 중심인 글. |
+| [줄의 실험 — 물을 데우는 데 불이 꼭 필요할까](../../content/stories/science/physics/joule-paddles-work-and-heat.json) | 미게시 · verified | 과학과 발견 / 물질과 에너지 | 특정 국가의 소개보다 물질과 에너지의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고. |
 
 ### 수학과 측정 — 3편 (게시 중 3편)
 
@@ -250,12 +258,13 @@
 | [엘리베이터 — 위로 가는 힘보다 멈출 수 있다는 믿음](../../content/stories/life/housing/safety-elevator-building-height-and-trust.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 집과 생활 도구 | 특정 국가의 소개보다 집과 생활 도구의 변화·원리·역사를 중심으로 한 새 검토 원고. |
 | [보온병 — 차가운 실험을 지키던 병이 생활로 들어오다](../../content/stories/life/housing/dewar-vacuum-flask-and-heat.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 집과 생활 도구 | 국가 소개보다 집과 생활 도구의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
 
-### 이동과 운송 — 2편 (게시 중 2편)
+### 이동과 운송 — 3편 (게시 중 2편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [철도를 바꾼 것은 달리는 힘만이 아니었다](../../content/stories/science/engineering/railway-air-brakes-stopping-train.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 이동과 운송 | 특정 국가의 소개보다 이동과 운송의 변화·원리·사례가 중심인 글. |
 | [증기기관 — 광산의 물이 공장의 힘으로 이어지기까지](../../content/stories/science/engineering/steam-engine-mine-and-factory.json) | 게시 중 | 생활을 바꾼 물건과 기술 / 이동과 운송 | 특정 국가의 소개보다 이동과 운송의 변화·원리·사례가 중심인 글. |
+| [자전거 — 앞바퀴가 작아지자 탈 수 있는 사람이 늘었다](../../content/stories/life/housing/safety-bicycle-chain-and-pneumatic-tyre.json) | 미게시 · verified | 생활을 바꾼 물건과 기술 / 이동과 운송 | 특정 국가의 소개보다 이동과 운송의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고. |
 
 ### 놀이와 취미 — 7편 (게시 중 6편)
 
@@ -298,12 +307,13 @@
 
 현재 배치할 원고가 없습니다.
 
-### 기록과 지식 전달 — 2편 (게시 중 2편)
+### 기록과 지식 전달 — 3편 (게시 중 2편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [옛 베개 사진 옆에는 왜 자가 서 있을까](../../content/stories/culture/art/glass-photo-pillow-ruler.json) | 게시 중 | 생각과 지식 / 기록과 지식 전달 | 베개 자체보다 유리건판 사진·측정 자·기록 방식이 중심이므로 kr의 기록과 지식 전달에 배치. |
 | [듀이 십진분류 — 책의 자리를 숫자로 찾기까지](../../content/stories/culture/philosophy/dewey-decimal-books-and-shelves.json) | 게시 중 | 생각과 지식 / 기록과 지식 전달 | 국가 소개보다 기록과 지식 전달의 기술·제도·변화 과정을 중심으로 한 검토 원고. |
+| [백과전서 — 장인의 손기술은 어떻게 책 속에 들어왔을까](../../content/stories/culture/literature/encyclopedia-workshops-plates-and-editors.json) | 미게시 · verified | 생각과 지식 / 기록과 지식 전달 | 특정 국가의 소개보다 기록과 지식 전달의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고. |
 
 ### 사회와 제도의 탄생 — 3편 (게시 중 3편)
 

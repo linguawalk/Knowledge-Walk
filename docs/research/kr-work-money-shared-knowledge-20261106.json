@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-06",
+  "batch": "20261106-ten-kr-work-money-and-shared-knowledge",
+  "publication_status": "review_only",
+  "articles": [
+    {
+      "id": "boulton-watt-fuel-savings-business",
+      "body_characters": 2305,
+      "numbered_sections": 7
+    },
+    {
+      "id": "linotype-matrices-and-newspaper-time",
+      "body_characters": 2321,
+      "numbered_sections": 7
+    },
+    {
+      "id": "tcp-byte-stream-and-retransmission",
+      "body_characters": 2333,
+      "numbered_sections": 7
+    },
+    {
+      "id": "gnu-manifesto-sharing-and-conditions",
+      "body_characters": 2330,
+      "numbered_sections": 7
+    },
+    {
+      "id": "clearing-house-cheques-and-net-balances",
+      "body_characters": 2314,
+      "numbered_sections": 7
+    },
+    {
+      "id": "overend-gurney-1866-reputation-and-losses",
+      "body_characters": 2315,
+      "numbered_sections": 7
+    },
+    {
+      "id": "joule-paddles-work-and-heat",
+      "body_characters": 2307,
+      "numbered_sections": 7
+    },
+    {
+      "id": "spectroscope-dark-lines-and-elements",
+      "body_characters": 2312,
+      "numbered_sections": 7
+    },
+    {
+      "id": "safety-bicycle-chain-and-pneumatic-tyre",
+      "body_characters": 2315,
+      "numbered_sections": 7
+    },
+    {
+      "id": "encyclopedia-workshops-plates-and-editors",
+      "body_characters": 2306,
+      "numbered_sections": 7
+    }
+  ],
+  "source_checks": [
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Progress-of-Invention-in-the-Nineteenth-Century._41538/master/41538-h/images/illo274.jpg",
+      "status": 200,
+      "bytes": 38398
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Diderot-and-the-Encyclop-dists--Vol-1-of-2-_15098/master/15098-8.txt",
+      "status": 200,
+      "bytes": 605853
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-university-physics-bundle/main/modules/m58397/index.cnxml",
+      "status": 200,
+      "bytes": 67920
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Progress-of-Invention-in-the-Nineteenth-Century._41538/master/41538-h/images/illo303.jpg",
+      "status": 200,
+      "bytes": 48053
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-astronomy/main/modules/m59795/index.cnxml",
+      "status": 200,
+      "bytes": 20441
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-university-physics-bundle/main/modules/m58387/index.cnxml",
+      "status": 200,
+      "bytes": 68591
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Progress-of-Invention-in-the-Nineteenth-Century._41538/master/41538-h/images/illo176.jpg",
+      "status": 200,
+      "bytes": 76520
+    },
+    {
+      "url": "https://raw.githubusercontent.com/wesley-eddy/rfc9293bis/master/rfc9293.xml",
+      "status": 200,
+      "bytes": 521195
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-astronomy/main/modules/m59793/index.cnxml",
+      "status": 200,
+      "bytes": 20766
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Lombard-Street--A-Description-of-the-Money-Market_4359/master/4359.txt",
+      "status": 200,
+      "bytes": 477754
+    },
+    {
+      "url": "https://raw.githubusercontent.com/emacs-mirror/emacs/emacs-24/etc/GNU",
+      "status": 200,
+      "bytes": 26992
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/James-Watt_26131/master/26131-8.txt",
+      "status": 200,
+      "bytes": 357921
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Progress-of-Invention-in-the-Nineteenth-Century._41538/master/41538-0.txt",
+      "status": 200,
+      "bytes": 912575
+    }
+  ],
+  "validation": {
+    "unit_tests": 51,
+    "browser_views": 20,
+    "images_visually_checked": 10,
+    "source_urls_ok": 13,
+    "public_net": 221,
+    "public_kr_temporary": 137
+  }
+}

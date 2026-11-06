@@ -9,4 +9,4 @@
 | [Folks](folks/README.md) | 23편 |
 | [Clothing](clothing/README.md) | 4편 |
 | [Food](food/README.md) | 9편 |
-| [Housing](housing/README.md) | 9편 |
+| [Housing](housing/README.md) | 10편 |

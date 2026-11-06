@@ -14,6 +14,7 @@
 | [『돈키호테』 — 풍차가 거인으로 보이는 사람](don-quixote-windmills-and-sancho.md) | 자료 대조·공개 게시 승인 완료 |
 | [도리언 그레이의 초상 — 얼굴 대신 그림이 늙어 간다면](dorian-gray-portrait-and-conscience.md) | 자료 대조·공개 게시 승인 완료 |
 | [80일간의 세계 일주 — 시계보다 늦게 알게 된 여행의 의미](eighty-days-time-and-travel.md) | 자료 대조·공개 게시 승인 완료 |
+| [백과전서 — 장인의 손기술은 어떻게 책 속에 들어왔을까](encyclopedia-workshops-plates-and-editors.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [파우스트 1부 — 더 많은 삶을 원한 사람은 누구를 다치게 했을까](faust-first-part-gretchen-and-desire.md) | 자료 대조·공개 게시 승인 완료 |
 | [프랑켄슈타인 — 만들어 낸 생명에게는 누가 책임질까](frankenstein-creator-and-creature.md) | 자료 대조·공개 게시 승인 완료 |
 | [오 헨리의 「크리스마스 선물」 — 당장 쓸 수 없는 두 선물](gift-magi-watch-chain-and-combs.md) | 자료 대조·공개 게시 승인 완료 |
