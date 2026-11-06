@@ -4,7 +4,7 @@
 
 Culture · Architecture
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![산치 대탑 북문의 기둥과 겹친 가로 부재, 부조를 보여 주는 역사 도판](../../../../content/images/sanchi-stupa-gates-and-circling-path.jpg)
 

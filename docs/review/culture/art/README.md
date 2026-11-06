@@ -16,7 +16,7 @@
 | [음악 수업 — 악보보다 서로의 얼굴이 가까운 시간](fragonard-music-lesson.md) | 자료 대조·공개 게시 승인 완료 |
 | [메두사호의 뗏목 — 멀리 보이는 작은 배를 향하여](gericault-medusa-distant-ship.md) | 자료 대조·공개 게시 승인 완료 |
 | [옛 베개 사진 옆에는 왜 자가 서 있을까](glass-photo-pillow-ruler.md) | 자료 대조·공개 게시 승인 완료 |
-| [고야의 1808년 5월 3일 — 불빛은 누구의 얼굴을 비추는가](goya-third-may-lantern-and-facing-men.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [고야의 1808년 5월 3일 — 불빛은 누구의 얼굴을 비추는가](goya-third-may-lantern-and-facing-men.md) | 자료 대조·공개 게시 승인 완료 |
 | [호쿠사이 — 같은 후지산을 서른여섯 번 바라본다면](hokusai-fuji-thirty-six-changing-views.md) | 자료 대조·공개 게시 승인 완료 |
 | [에라스무스의 초상 — 글을 쓰는 손이 얼굴을 설명할 때](holbein-erasmus-writing.md) | 자료 대조·공개 게시 승인 완료 |
 | [벼루함 속 해태의 입에는 작은 구멍이 있다](inkstone-water-dropper.md) | 자료 대조·공개 게시 승인 완료 |
@@ -41,6 +41,6 @@
 | [롤랭 재상의 성모 — 작은 방 너머에 도시가 펼쳐진다](van-eyck-rolin-window.md) | 자료 대조·공개 게시 승인 완료 |
 | [반 고흐의 생애 — 그림 곁에는 편지가 있었다](van-gogh-life-and-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [레이스 뜨는 여인 — 작은 일에 시선이 모일 때](vermeer-lacemaker-looking-guide.md) | 자료 대조·공개 게시 승인 완료 |
-| [우유 따르는 여인 — 작은 동작은 어떻게 오래 남을까](vermeer-milkmaid-light-and-pouring.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [우유 따르는 여인 — 작은 동작은 어떻게 오래 남을까](vermeer-milkmaid-light-and-pouring.md) | 자료 대조·공개 게시 승인 완료 |
 | [딸을 안은 자화상 — 비제 르 브룅이 남긴 두 가지 얼굴](vigee-lebrun-mother-daughter.md) | 자료 대조·공개 게시 승인 완료 |
 | [시테라 섬으로의 순례 — 연인들은 어디로 가는 걸까](watteau-cythera-pilgrimage.md) | 자료 대조·공개 게시 승인 완료 |

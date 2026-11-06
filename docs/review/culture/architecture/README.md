@@ -15,5 +15,5 @@
 | [일본의 회전무대 — 집 한 채가 돌아가면 다음 장면이 열린다](japanese-theatre-revolving-stage-and-labor.md) | 자료 대조·공개 게시 승인 완료 |
 | [카르나크 신전 — 돌기둥의 숲은 어떻게 커졌을까](karnak-columns-light-and-growing-temple.md) | 자료 대조·공개 게시 승인 완료 |
 | [나라의 도다이지 — 거대한 불상에 담긴 국가의 바람](nara-todaiji-buddha-and-state.md) | 자료 대조·공개 게시 승인 완료 |
-| [산치 대탑 — 들어가는 대신 주위를 도는 건축](sanchi-stupa-gates-and-circling-path.md) | 자료 대조 완료 · 게시 승인 대기 |
-| [톱카프 궁전 — 문을 지날 때 제국의 일은 어떻게 나뉘었을까](topkapi-courts-gates-and-government.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [산치 대탑 — 들어가는 대신 주위를 도는 건축](sanchi-stupa-gates-and-circling-path.md) | 자료 대조·공개 게시 승인 완료 |
+| [톱카프 궁전 — 문을 지날 때 제국의 일은 어떻게 나뉘었을까](topkapi-courts-gates-and-government.md) | 자료 대조·공개 게시 승인 완료 |

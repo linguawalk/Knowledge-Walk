@@ -4,7 +4,7 @@
 
 Culture · Architecture
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![톱카프 궁전의 옛 모퉁이 건물과 나무를 보여 주는 역사 선묘 도판](../../../../content/images/topkapi-courts-gates-and-government.jpg)
 

@@ -12,14 +12,14 @@
 | History | Africa | 2 | 2 | 2 |
 | Cities | Asia | 15 | 15 | 15 |
 | Cities | Europe | 10 | 10 | 10 |
-| Cities | Americas | 10 | 10 | 8 |
+| Cities | Americas | 10 | 10 | 10 |
 | Cities | Middle East | 4 | 4 | 4 |
 | Cities | Africa | 6 | 6 | 6 |
-| Culture | Architecture | 13 | 13 | 11 |
-| Culture | Literature | 49 | 49 | 43 |
+| Culture | Architecture | 13 | 13 | 13 |
+| Culture | Literature | 49 | 49 | 46 |
 | Culture | Philosophy | 7 | 7 | 6 |
-| Culture | Music | 29 | 28 | 25 |
-| Culture | Art | 40 | 40 | 38 |
+| Culture | Music | 29 | 28 | 26 |
+| Culture | Art | 40 | 40 | 40 |
 | Culture | Film | 1 | 1 | 1 |
 | Culture | Sports | 1 | 1 | 1 |
 | Life | Folks | 23 | 23 | 21 |

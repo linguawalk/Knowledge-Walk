@@ -4,7 +4,7 @@
 
 Culture · Literature
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![닫힌 방문 아래의 낯선 그림자와 걱정하는 가족을 그린 변신 관련 상상 삽화](../../../../content/images/metamorphosis-gregor-door-and-family.png)
 

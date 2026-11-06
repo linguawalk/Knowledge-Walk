@@ -1,0 +1,26 @@
+{
+  "id": "ten-net-dreams-gates-publication-20261106",
+  "user_request": "홈페이지 게시 및 net 새 글 10개",
+  "approved_at": "2026-11-06",
+  "story_ids": [
+    "midsummer-lovers-magic-and-artisans",
+    "metamorphosis-gregor-door-and-family",
+    "gogol-nose-rank-and-recognition",
+    "fidelio-leonore-prison-and-chorus",
+    "goya-third-may-lantern-and-facing-men",
+    "vermeer-milkmaid-light-and-pouring",
+    "chichen-itza-pyramid-cenote-and-plazas",
+    "sanchi-stupa-gates-and-circling-path",
+    "machu-picchu-terraces-stone-and-landscape",
+    "topkapi-courts-gates-and-government"
+  ],
+  "net_stories": 231,
+  "kr_stories": 157,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261106-ten-net-dreams-gates-and-highlands/index.html",
+  "kr_domain_connected": false,
+  "deployment_status": "pending",
+  "numbered_sections_per_story": 7,
+  "numbered_toc_per_story": 7,
+  "local_tests_passed": 51,
+  "local_browser_checks": 20
+}

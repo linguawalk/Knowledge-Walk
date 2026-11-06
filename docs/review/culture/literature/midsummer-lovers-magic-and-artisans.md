@@ -4,7 +4,7 @@
 
 Culture · Literature
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![요정의 불빛과 네 연인, 당나귀 머리의 직공을 연상하는 한여름 숲의 상상 삽화](../../../../content/images/midsummer-lovers-magic-and-artisans.png)
 
