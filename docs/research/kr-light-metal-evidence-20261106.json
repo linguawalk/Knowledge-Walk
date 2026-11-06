@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-06",
+  "batch": "20261106-ten-kr-light-metal-and-evidence",
+  "publication_status": "review_only",
+  "articles": [
+    {
+      "id": "edison-lighting-network-beyond-bulb",
+      "body_characters": 2342,
+      "numbered_sections": 7
+    },
+    {
+      "id": "bessemer-converter-air-and-steel-production",
+      "body_characters": 2310,
+      "numbered_sections": 7
+    },
+    {
+      "id": "crc-checksum-detecting-changed-data",
+      "body_characters": 2339,
+      "numbered_sections": 7
+    },
+    {
+      "id": "markdown-readable-source-and-commonmark",
+      "body_characters": 2324,
+      "numbered_sections": 7
+    },
+    {
+      "id": "ruthwell-savings-bank-small-deposits",
+      "body_characters": 2325,
+      "numbered_sections": 7
+    },
+    {
+      "id": "barometer-pressure-trends-and-weather",
+      "body_characters": 2316,
+      "numbered_sections": 7
+    },
+    {
+      "id": "lavoisier-metals-air-and-balanced-mass",
+      "body_characters": 2324,
+      "numbered_sections": 7
+    },
+    {
+      "id": "appert-bottles-heat-and-preserving-food",
+      "body_characters": 2311,
+      "numbered_sections": 7
+    },
+    {
+      "id": "cream-separator-centrifuge-and-dairy-work",
+      "body_characters": 2319,
+      "numbered_sections": 7
+    },
+    {
+      "id": "dictionary-quotations-and-word-histories",
+      "body_characters": 2346,
+      "numbered_sections": 7
+    }
+  ],
+  "source_checks": [
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-History-of-Banks-for-Savings-in-Great-Britain-and-Ireland_42583/master/42583-8.txt",
+      "status": 200,
+      "bytes": 932529
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Barometer-and-Weather-Guide_23921/master/23921-8.txt",
+      "status": 200,
+      "bytes": 93218
+    },
+    {
+      "url": "https://raw.githubusercontent.com/commonmark/commonmark-spec/0.31.2/spec.txt",
+      "status": 200,
+      "bytes": 205025
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Evolution-of-English-Lexicography_11694/master/11694-8.txt",
+      "status": 200,
+      "bytes": 98908
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Progress-of-Invention-in-the-Nineteenth-Century._41538/master/41538-0.txt",
+      "status": 200,
+      "bytes": 912575
+    },
+    {
+      "url": "https://raw.githubusercontent.com/madler/zlib/master/doc/rfc1952.txt",
+      "status": 200,
+      "bytes": 25037
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Progress-of-Invention-in-the-Nineteenth-Century._41538/master/41538-h/images/illo387.jpg",
+      "status": 200,
+      "bytes": 31743
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Progress-of-Invention-in-the-Nineteenth-Century._41538/master/41538-h/images/illo245.jpg",
+      "status": 200,
+      "bytes": 39920
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Art-of-Preserving-All-Kinds-of-Animal-and-Vegetable-Substances-for-Several-Years-2nd-ed-A__52551/master/52551-0.txt",
+      "status": 200,
+      "bytes": 163022
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Aneroid-Barometer-Its-Instruction-and-Use_69513/master/69513-h/69513-h.htm",
+      "status": 200,
+      "bytes": 309545
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Aneroid-Barometer-Its-Instruction-and-Use_69513/master/69513-h/images/frontispiece.jpg",
+      "status": 200,
+      "bytes": 101580
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Elements-of-Chemistry-In-a-New-Systematic-Order-Containing-all-the-Modern-Discoveries_30775/master/30775-8.txt",
+      "status": 200,
+      "bytes": 737600
+    }
+  ],
+  "validation": {
+    "unit_tests": 51,
+    "browser_views": 20,
+    "images_visually_checked": 10,
+    "source_urls_ok": 12,
+    "public_net": 221,
+    "public_kr_temporary": 147
+  },
+  "previous_batch_publication": {
+    "batch": "20261106-ten-kr-work-money-and-shared-knowledge",
+    "status": "temporary_live_verified",
+    "pages_run_id": 42201083745,
+    "verified_story_pages": 10,
+    "verified_images": 10,
+    "hostinger_check_run_id": 42200797508,
+    "hostinger_status": "missing_credential_exit_2_no_upload"
+  }
+}
