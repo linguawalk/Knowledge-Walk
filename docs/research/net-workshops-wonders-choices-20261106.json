@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "batch": "20261106-ten-net-workshops-wonders-and-choices",
-  "status": "approved_for_publication",
+  "status": "published",
   "stories": [
     {
       "id": "silas-marner-gold-child-and-neighbors",
@@ -328,5 +328,221 @@
     "verified_images": 10,
     "collection": "https://knowledgewalk.net/collections/20261106-ten-net-dreams-gates-and-highlands/index.html"
   },
-  "approved_at": "2026-11-06"
+  "approved_at": "2026-11-06",
+  "published_at": "2026-11-06",
+  "publication_commit": "07bc9311fc4a12a8f2e5698a91dd0badedf54b2b",
+  "pages_run_id": 42216833623,
+  "validation_run_id": 42216833267,
+  "live_response_checks": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 16229,
+      "sha256": "0797eb476e193f3b8bc31f30a707c1f4e36349b66a06757a3f14c7d31fe4acee"
+    },
+    {
+      "path": "collections/20261106-ten-net-workshops-wonders-and-choices/index.html",
+      "status": 200,
+      "bytes": 14435,
+      "sha256": "a602e01c6fc56dc9b0a244201deed7ad865d46c9ba45a0f584d79b59c78906de"
+    },
+    {
+      "path": "search-index.json",
+      "status": 200,
+      "bytes": 1586963,
+      "sha256": "c3673aa104f2e7090ee84ea7c35351815a853745b4234f11518dd84b5cbdc819"
+    },
+    {
+      "path": "knowledge/search-index.json",
+      "status": 200,
+      "bytes": 1042374,
+      "sha256": "c3fc46d513f04136105e0cc88887a28baa941f7179f6f65a1efecd68fd6f8981"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "bytes": 31900,
+      "sha256": "bb00d717480168b8ab73c3b154df2759b4f4c9660ef18c8fb5d1f0f88539647e"
+    },
+    {
+      "path": "stories/silas-marner-gold-child-and-neighbors/index.html",
+      "status": 200,
+      "bytes": 15349,
+      "sha256": "9e833dc8002bb571d66f590c11697eed3449283c447f3f7344aeaf90890d56fe"
+    },
+    {
+      "path": "media/silas-marner-gold-child-and-neighbors.png",
+      "status": 200,
+      "bytes": 2839234,
+      "sha256": "3851168101a15c78c730d8cf44725a17bc26e52e36668646be5c942e874e4e56"
+    },
+    {
+      "path": "categories/europe/영국/index.html",
+      "status": 200,
+      "bytes": 28883,
+      "sha256": "5a54ac7d94d2f19315a9bb19f5a3c2e77008926125193d9687c25c44ce19a042"
+    },
+    {
+      "path": "stories/queen-spades-three-cards-and-obsession/index.html",
+      "status": 200,
+      "bytes": 15488,
+      "sha256": "ff582c4967dfcfb51cf1b2466111969c2149536b3c1b6dafcd7cbedc7b708ace"
+    },
+    {
+      "path": "media/queen-spades-three-cards-and-obsession.png",
+      "status": 200,
+      "bytes": 2443322,
+      "sha256": "fc49357824bb26550e46a0059903e441d43a40787d1c21f556ad7235aa300f7b"
+    },
+    {
+      "path": "categories/europe/러시아/index.html",
+      "status": 200,
+      "bytes": 11655,
+      "sha256": "fac169d456a2d925f61c75cd9d99ab0e61894faff450723d086492c255fb3952"
+    },
+    {
+      "path": "stories/freischutz-wolfs-glen-and-final-shot/index.html",
+      "status": 200,
+      "bytes": 16104,
+      "sha256": "2701b623ec3c0a6c467a1172369e504723a63027a650ceda69544bb3cb5e6089"
+    },
+    {
+      "path": "media/freischutz-wolfs-glen-and-final-shot.png",
+      "status": 200,
+      "bytes": 2607924,
+      "sha256": "0eb3792b27f569327c4af1f3775cc1a5f309b03ce884de21dbe9d142bcd33508"
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "status": 200,
+      "bytes": 18571,
+      "sha256": "7306532dc60244c2ba98a26e74d5e66ccc4739309f6db3deba1796f5bc6a6e97"
+    },
+    {
+      "path": "stories/sistine-ceiling-adam-and-painted-architecture/index.html",
+      "status": 200,
+      "bytes": 15954,
+      "sha256": "38165f9962bbc4a2ee158efb525d59c0a5f333382950fc36e8b1e2e1b319abf2"
+    },
+    {
+      "path": "media/sistine-ceiling-adam-and-painted-architecture.jpg",
+      "status": 200,
+      "bytes": 251766,
+      "sha256": "2d990bff3a7264383626988712ff8498711fe4ab937f362ef3b98be96f3a9ce8"
+    },
+    {
+      "path": "categories/europe/이탈리아/index.html",
+      "status": 200,
+      "bytes": 22034,
+      "sha256": "a0eec05d39bed1bee8f1a11fa757f0700bf79b4b8eae9814056f949f340c6735"
+    },
+    {
+      "path": "stories/vulcan-forge-apollo-and-interrupted-work/index.html",
+      "status": 200,
+      "bytes": 15818,
+      "sha256": "665de6a1b9f4759711ebc3ef8ad845909f4e064a87357d55ae99f0e6a15ac10b"
+    },
+    {
+      "path": "media/vulcan-forge-apollo-and-interrupted-work.jpg",
+      "status": 200,
+      "bytes": 101204,
+      "sha256": "1a6ab504a529c0f19b20382f8961d8b8f6040d10e19fed0abe6f122aae720178"
+    },
+    {
+      "path": "categories/europe/스페인/index.html",
+      "status": 200,
+      "bytes": 12723,
+      "sha256": "e50f23a07f0e42295fe3219f93af7027c5940539beffb81207917da8ad6ee80f"
+    },
+    {
+      "path": "stories/mont-saint-michel-tides-abbey-and-stacked-rooms/index.html",
+      "status": 200,
+      "bytes": 16325,
+      "sha256": "4ab7fc21beb8252f04fa64c42416fef9541d6c088598c18fe9845b61e7341c42"
+    },
+    {
+      "path": "media/mont-saint-michel-tides-abbey-and-stacked-rooms.jpg",
+      "status": 200,
+      "bytes": 244977,
+      "sha256": "4fe86f4cbfa64de6f64989c2a960c1fd943b749a9799cb2288cb1d57071972d2"
+    },
+    {
+      "path": "categories/europe/프랑스/index.html",
+      "status": 200,
+      "bytes": 21453,
+      "sha256": "780ad30c9bcd1678f84f3c090c155f15cff9262c5a5b50ec14155999e5564a52"
+    },
+    {
+      "path": "stories/ajanta-caves-prayer-halls-painting-and-monks/index.html",
+      "status": 200,
+      "bytes": 15980,
+      "sha256": "1901f8e54208b4a08d632569b0e89a9848827a91f68af82f9df486d2d3dd2d0c"
+    },
+    {
+      "path": "media/ajanta-caves-prayer-halls-painting-and-monks.jpg",
+      "status": 200,
+      "bytes": 251015,
+      "sha256": "2f3e561a82d79cfa8e5fff1ff8b9c489eda0f53af9459c34174c2d7adfa08019"
+    },
+    {
+      "path": "categories/asia-oceania/인도/index.html",
+      "status": 200,
+      "bytes": 9972,
+      "sha256": "2db0f26f56aec88767ecf4e935ffb8a80ab645b22e64475358161c5aa1ac576c"
+    },
+    {
+      "path": "stories/osaka-mills-mint-and-port-city/index.html",
+      "status": 200,
+      "bytes": 15882,
+      "sha256": "6ae8cbc360ceeb87b852f276cb228645ad7f062fdd244345ff3d233c9d788035"
+    },
+    {
+      "path": "media/osaka-mills-mint-and-port-city.jpg",
+      "status": 200,
+      "bytes": 240133,
+      "sha256": "1f84e879fd7a932c87c2b5de2c670f5c9c55e3f6d9b78ca1c1ffb91caddd6147"
+    },
+    {
+      "path": "categories/asia-oceania/일본/index.html",
+      "status": 200,
+      "bytes": 17925,
+      "sha256": "3fd51513c0f5f425ab233ad4262acfefd5ee15a0fefdd33d9896de9e5af10403"
+    },
+    {
+      "path": "stories/china-wheelbarrows-chengdu-roads-and-loads/index.html",
+      "status": 200,
+      "bytes": 15795,
+      "sha256": "c0a6b4a85ee526011d943481c981a4a5f0bfaf5e0eb0e6882369640608f0d88a"
+    },
+    {
+      "path": "media/china-wheelbarrows-chengdu-roads-and-loads.jpg",
+      "status": 200,
+      "bytes": 116240,
+      "sha256": "d4a9e02724e0e4dd11980649644e160e772568b6ad92459fa7981c61f7332a48"
+    },
+    {
+      "path": "categories/asia-oceania/중국/index.html",
+      "status": 200,
+      "bytes": 19429,
+      "sha256": "3cd582ecb7ff1435ca3a9cda0abbb0d5170805ad71a75183894bb9a7d3735cd0"
+    },
+    {
+      "path": "stories/bahia-palace-courtyards-water-and-craft/index.html",
+      "status": 200,
+      "bytes": 15756,
+      "sha256": "a09af778ee9251c59dfc3ebf15e903dcb7c60c008db74e18f57b06d5ffdd35a2"
+    },
+    {
+      "path": "media/bahia-palace-courtyards-water-and-craft.jpg",
+      "status": 200,
+      "bytes": 250665,
+      "sha256": "5a57def78ef331cefc4cf4585b3f53fe5e74e2ffc8d16860eaad73016c5cb3e3"
+    },
+    {
+      "path": "categories/middle-east-africa/모로코/index.html",
+      "status": 200,
+      "bytes": 8214,
+      "sha256": "7864edfc6dab556e053f9b905d9d3e19f78c88d55e52625c07cac409e320363c"
+    }
+  ]
 }
