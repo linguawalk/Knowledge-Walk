@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "batch": "20261107-ten-net-history-letters-gates-and-empires",
-  "status": "approved_for_publication",
+  "status": "published",
   "stories": [
     {
       "id": "penny-post-1840-price-prepayment-and-letters",
@@ -611,5 +611,221 @@
     ]
   ],
   "unavailable_source_policy": "403으로 접근하지 못한 웹페이지는 읽은 출처로 인용하지 않았습니다. 실제 접근 가능한 GITenberg 원문·도판을 대조했습니다.",
-  "approved_at": "2026-11-07"
+  "approved_at": "2026-11-07",
+  "published_at": "2026-11-07",
+  "publication_commit": "caab4490cea277c839258fafbab1f3252b48d045",
+  "pages_run_id": 42330310488,
+  "validation_run_id": 42330310650,
+  "live_response_checks": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 16219,
+      "sha256": "26a07baf2aa278fd519ae1a98410840c6f36d26934b204d484409e208b90a349"
+    },
+    {
+      "path": "collections/20261107-ten-net-history-letters-gates-and-empires/index.html",
+      "status": 200,
+      "bytes": 14608,
+      "sha256": "086732ce3849dd57e400dbb61b4ac9b83062b2fea21eb331ab155a55a655e0ba"
+    },
+    {
+      "path": "search-index.json",
+      "status": 200,
+      "bytes": 1654434,
+      "sha256": "19cc125e40c02c5f9b935c72ed8ea18d79dee028d88cd8a55e032d0b9c5a4071"
+    },
+    {
+      "path": "knowledge/search-index.json",
+      "status": 200,
+      "bytes": 1042374,
+      "sha256": "c3fc46d513f04136105e0cc88887a28baa941f7179f6f65a1efecd68fd6f8981"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "bytes": 33122,
+      "sha256": "3619dc0d9837ee37ed582ba5762bb7a5ebdc7993f3b0a15677efcab2fcba6dc8"
+    },
+    {
+      "path": "stories/penny-post-1840-price-prepayment-and-letters/index.html",
+      "status": 200,
+      "bytes": 16242,
+      "sha256": "b490e3e16f68c6804c517090cb454820a765afe0db545683fe1a19b7f3f18adb"
+    },
+    {
+      "path": "media/penny-post-1840-price-prepayment-and-letters.jpg",
+      "status": 200,
+      "bytes": 58502,
+      "sha256": "c4a329ae4764606ce46998693b8fe0513621e14e7d566c21d02c75530657bb81"
+    },
+    {
+      "path": "categories/europe/영국/index.html",
+      "status": 200,
+      "bytes": 29573,
+      "sha256": "ba41146e9294ffe546a1501f5ae1a2be451244b1c1312968cbf22e2a21f5b4ed"
+    },
+    {
+      "path": "stories/versailles-1789-women-bread-and-royal-move/index.html",
+      "status": 200,
+      "bytes": 15691,
+      "sha256": "5fcc83f0b12f8e757e001076dc4f28cb07f80b9f8fc44c3d61476b1aea642c66"
+    },
+    {
+      "path": "media/versailles-1789-women-bread-and-royal-move.png",
+      "status": 200,
+      "bytes": 3370436,
+      "sha256": "7eacf1417b60b1d5846dccd40f443f62a9c2c3014d76c8c49b062a2f6b2c62be"
+    },
+    {
+      "path": "categories/europe/프랑스/index.html",
+      "status": 200,
+      "bytes": 22078,
+      "sha256": "a149d76a1c92e7fa423c274b8bb8c7c006a4bca82087bc618f45e2b8fd96497a"
+    },
+    {
+      "path": "stories/canossa-1077-penance-princes-and-power/index.html",
+      "status": 200,
+      "bytes": 16099,
+      "sha256": "ae9db3c9e7ce29396a81a628a8d15c665fbdf63ffb14301d07b0aeed3b99953e"
+    },
+    {
+      "path": "media/canossa-1077-penance-princes-and-power.png",
+      "status": 200,
+      "bytes": 3130667,
+      "sha256": "f45f548f2b6d981fd6fd471c875919b3dcd394894e8498ff2b319b6865187304"
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "status": 200,
+      "bytes": 19237,
+      "sha256": "43764c424badf75e79df0ef84d44800ba0d44311f041df8ed26be27d6fca166e"
+    },
+    {
+      "path": "stories/perry-1853-black-ships-and-negotiated-ports/index.html",
+      "status": 200,
+      "bytes": 16756,
+      "sha256": "95e0add946b21017bf0501f05dd7630edef2307668d06e4305c5d0f7c9af2d8b"
+    },
+    {
+      "path": "media/perry-1853-black-ships-and-negotiated-ports.jpg",
+      "status": 200,
+      "bytes": 82763,
+      "sha256": "c028dfd3b5551833dc4100f5f8bb1108ac5481ca0a866961d4a11b87644e5ae0"
+    },
+    {
+      "path": "categories/asia-oceania/일본/index.html",
+      "status": 200,
+      "bytes": 18599,
+      "sha256": "f6745fa65a66b50a915b3912d2288060cf6e3903a338ed6f081f4304e5838930"
+    },
+    {
+      "path": "stories/china-examinations-cells-books-and-office/index.html",
+      "status": 200,
+      "bytes": 16600,
+      "sha256": "eeceeffc7b6b6ed7d50de56847c7f1327d3c19ec081a7a1667c8cf2ac9a6e6f4"
+    },
+    {
+      "path": "media/china-examinations-cells-books-and-office.jpg",
+      "status": 200,
+      "bytes": 38990,
+      "sha256": "cc2502eb8d7801890dd4a302d16da171ef599088700b7ea5520a8ccc8af40b8d"
+    },
+    {
+      "path": "categories/asia-oceania/중국/index.html",
+      "status": 200,
+      "bytes": 20137,
+      "sha256": "fbe7130314340fca89f02aa0d100e57de3ab6188f5e9fc9f6c95d53d649d8028"
+    },
+    {
+      "path": "stories/asoka-edicts-kalinga-and-public-morality/index.html",
+      "status": 200,
+      "bytes": 16415,
+      "sha256": "410cb5ddc5c2db0c5600a9f66af82f4eba6464b6246165c636edc42216479449"
+    },
+    {
+      "path": "media/asoka-edicts-kalinga-and-public-morality.jpg",
+      "status": 200,
+      "bytes": 42265,
+      "sha256": "c37c7db5c6906350a399318ac921cd4aeb0d5cb8c40b72ade4a36e85d5351a35"
+    },
+    {
+      "path": "categories/asia-oceania/인도/index.html",
+      "status": 200,
+      "bytes": 10626,
+      "sha256": "d0d3e8334c13634dd55c4ac4bf459d8fd6a27b239cf3bde037cd82b7c086a482"
+    },
+    {
+      "path": "stories/ellis-island-inspection-manifests-and-families/index.html",
+      "status": 200,
+      "bytes": 15633,
+      "sha256": "6ef4407c0a18ddd5c01a43409a0cf9f579282f4506d79c80b8307cee633c9420"
+    },
+    {
+      "path": "media/ellis-island-inspection-manifests-and-families.png",
+      "status": 200,
+      "bytes": 2816335,
+      "sha256": "7805013d3a2cd19c2bc721598edce2425037193960ef42c6cf60c10f0adac6fe"
+    },
+    {
+      "path": "categories/americas/미국/index.html",
+      "status": 200,
+      "bytes": 23519,
+      "sha256": "c17c9874c85f8bf8d84e4634998037fc10fde042170f06fa378ada356bbd61a9"
+    },
+    {
+      "path": "stories/brazil-1822-independence-crown-and-unequal-freedom/index.html",
+      "status": 200,
+      "bytes": 15604,
+      "sha256": "338ed9348e3c56d6c66ebcaffeda3c7509c8d87761943b1a2d1ef22214188fa4"
+    },
+    {
+      "path": "media/brazil-1822-independence-crown-and-unequal-freedom.png",
+      "status": 200,
+      "bytes": 2876457,
+      "sha256": "236262582e1cb3ac63a1b61ee845f4dec478d4afa6f7d1afd9719a1271104108"
+    },
+    {
+      "path": "categories/americas/브라질/index.html",
+      "status": 200,
+      "bytes": 8124,
+      "sha256": "a894bdeb582ad237547022f85adeb3194b3855c15079b9612500719f478f55b7"
+    },
+    {
+      "path": "stories/amarna-akhenaten-capital-sun-and-afterlife/index.html",
+      "status": 200,
+      "bytes": 16165,
+      "sha256": "b05e2673ccefa76a7afc524d996e9b9b5b4376545e59975f5bf588e50107992e"
+    },
+    {
+      "path": "media/amarna-akhenaten-capital-sun-and-afterlife.jpg",
+      "status": 200,
+      "bytes": 104819,
+      "sha256": "d48313884e0ea51c16d7e70494eec0bf2eae822e3b9d389d5a629e9c57c69fe8"
+    },
+    {
+      "path": "categories/middle-east-africa/이집트/index.html",
+      "status": 200,
+      "bytes": 12397,
+      "sha256": "e8c2d0291a1b36dbeaeee1a85025a329556b680eac68d4c96e6a4c841f869bd0"
+    },
+    {
+      "path": "stories/constantinople-1453-walls-sea-and-new-capital/index.html",
+      "status": 200,
+      "bytes": 15920,
+      "sha256": "6f1ddf4ba7b287fc180785e9076efd4bf5af4270c81f58dde954f458e546539d"
+    },
+    {
+      "path": "media/constantinople-1453-walls-sea-and-new-capital.jpg",
+      "status": 200,
+      "bytes": 89366,
+      "sha256": "e71d48dc3b790235459eefc471fd6aa30d05a38b0545c458aa5a20eb4290f45f"
+    },
+    {
+      "path": "categories/middle-east-africa/튀르키예/index.html",
+      "status": 200,
+      "bytes": 9820,
+      "sha256": "03694a6b66771bfb953a8ca31ef2303af706e967990f342e4dab01151de62517"
+    }
+  ]
 }
