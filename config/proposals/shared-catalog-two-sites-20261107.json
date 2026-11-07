@@ -1,7 +1,7 @@
 {
-  "state": "active_shared_catalog",
+  "state": "active_single_domain_shared_catalog",
   "date": "2026-11-07",
-  "purpose": "하나의 원고를 net 국가별·kr 분야별 서가와 양쪽 본문으로 제공하는 검토안",
+  "purpose": "net 하나에서 국가별·분야별로 같은 승인 원고를 탐색하는 운영",
   "active_deployment_unchanged": false,
   "net_country_content_labels": [
     "역사",
@@ -34,12 +34,12 @@
       }
     ],
     "publish_to": [
-      "net",
-      "kr"
+      "countries",
+      "subjects"
     ],
     "canonical_domain": "net",
     "canonical_url": "https://knowledgewalk.net/stories/fur-elise-title-and-theme/index.html",
-    "kr_copy_canonical_matches_net": true
+    "subject_copy_canonical_matches_net": true
   },
   "general_story_sample": {
     "id": "crc-checksum-detecting-changed-data",
@@ -51,15 +51,16 @@
       }
     ],
     "publish_to": [
-      "net",
-      "kr"
+      "countries",
+      "subjects"
     ],
     "net_discovery": [
       "전체 이야기",
       "검색"
     ],
-    "canonical_domain": "kr",
-    "canonical_url_policy": "실제 kr 연결 전에는 현재 도달 가능한 임시 주제 경로를 유지. 실제kr 전환은 별도 검증 후 시행."
+    "canonical_domain": "net",
+    "canonical_url_policy": "knowledgewalk.net/stories/<id>/index.html을 대표주소로 사용. 분야별 /knowledge/ 경로는 계속 읽을 수 있음."
   },
-  "actual_kr_live": false
+  "actual_kr_live": false,
+  "single_domain": true
 }

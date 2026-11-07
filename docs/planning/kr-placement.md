@@ -297,57 +297,57 @@
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [3M — 잘 붙지 않는 접착제의 쓸모](../../content/stories/companies/technology/postit-weak-glue-new-use.json) | 공개 | kr |
-| [전구 다음의 발명 — 에디슨은 왜 전선을 거리로 내보냈을까](../../content/stories/companies/technology/edison-lighting-network-beyond-bulb.json) | 공개 | kr |
+| [3M — 잘 붙지 않는 접착제의 쓸모](../../content/stories/companies/technology/postit-weak-glue-new-use.json) | 공개 | net |
+| [전구 다음의 발명 — 에디슨은 왜 전선을 거리로 내보냈을까](../../content/stories/companies/technology/edison-lighting-network-beyond-bulb.json) | 공개 | net |
 
 ### 경영과 조직 — 5편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [자포스 — 상사를 없애면 일은 누가 정할까](../../content/stories/companies/fashion/zappos-circles-and-responsibility.json) | 공개 | kr |
-| [픽사 — 한 장면을 여러 사람이 함께 만들려면](../../content/stories/companies/media/pixar-openusd-many-artists.json) | 공개 | kr |
-| [풀먼 — 회사가 집까지 마련해 주면 행복할까](../../content/stories/companies/technology/pullman-town-wages-and-rent.json) | 공개 | kr |
-| [스탠더드오일 — 석유 회사는 왜 문어로 그려졌을까](../../content/stories/companies/technology/standard-oil-octopus-and-competition.json) | 공개 | kr |
-| [볼턴과 와트 — 절약한 석탄이 회사의 수입이 되다](../../content/stories/companies/technology/boulton-watt-fuel-savings-business.json) | 공개 | kr |
+| [자포스 — 상사를 없애면 일은 누가 정할까](../../content/stories/companies/fashion/zappos-circles-and-responsibility.json) | 공개 | net |
+| [픽사 — 한 장면을 여러 사람이 함께 만들려면](../../content/stories/companies/media/pixar-openusd-many-artists.json) | 공개 | net |
+| [풀먼 — 회사가 집까지 마련해 주면 행복할까](../../content/stories/companies/technology/pullman-town-wages-and-rent.json) | 공개 | net |
+| [스탠더드오일 — 석유 회사는 왜 문어로 그려졌을까](../../content/stories/companies/technology/standard-oil-octopus-and-competition.json) | 공개 | net |
+| [볼턴과 와트 — 절약한 석탄이 회사의 수입이 되다](../../content/stories/companies/technology/boulton-watt-fuel-savings-business.json) | 공개 | net |
 
 ### 공장과 생산 — 8편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [BMW — 독일 자동차를 미국에서 만들면](../../content/stories/companies/automotive/bmw-car-made-across-borders.json) | 공개 | kr |
-| [포드의 조립라인 — 사람이 차를 찾아다니지 않게 되자](../../content/stories/companies/automotive/ford-moving-assembly.json) | 공개 | kr |
-| [토요타 — 창고가 가득 차면 안심해도 될까](../../content/stories/companies/automotive/toyota-inventory-and-timing.json) | 공개 | kr |
-| [카네기 — 철강 공장보다 길었던 생산의 사슬](../../content/stories/companies/technology/carnegie-steel-chain-and-homestead.json) | 공개 | kr |
-| [델 — 주문을 먼저 듣고 컴퓨터를 만들면](../../content/stories/companies/technology/dell-order-before-computer.json) | 공개 | kr |
-| [맥코믹 — 수확철의 짧은 시간을 기계로 바꾸다](../../content/stories/companies/technology/mccormick-reaper-and-harvest-window.json) | 공개 | kr |
-| [리노타이프 — 글자 하나 대신 한 줄을 만들다](../../content/stories/companies/technology/linotype-matrices-and-newspaper-time.json) | 공개 | kr |
-| [베서머 전로 — 공기를 불어넣자 철강 공장의 시간이 달라졌다](../../content/stories/companies/technology/bessemer-converter-air-and-steel-production.json) | 공개 | kr |
+| [BMW — 독일 자동차를 미국에서 만들면](../../content/stories/companies/automotive/bmw-car-made-across-borders.json) | 공개 | net |
+| [포드의 조립라인 — 사람이 차를 찾아다니지 않게 되자](../../content/stories/companies/automotive/ford-moving-assembly.json) | 공개 | net |
+| [토요타 — 창고가 가득 차면 안심해도 될까](../../content/stories/companies/automotive/toyota-inventory-and-timing.json) | 공개 | net |
+| [카네기 — 철강 공장보다 길었던 생산의 사슬](../../content/stories/companies/technology/carnegie-steel-chain-and-homestead.json) | 공개 | net |
+| [델 — 주문을 먼저 듣고 컴퓨터를 만들면](../../content/stories/companies/technology/dell-order-before-computer.json) | 공개 | net |
+| [맥코믹 — 수확철의 짧은 시간을 기계로 바꾸다](../../content/stories/companies/technology/mccormick-reaper-and-harvest-window.json) | 공개 | net |
+| [리노타이프 — 글자 하나 대신 한 줄을 만들다](../../content/stories/companies/technology/linotype-matrices-and-newspaper-time.json) | 공개 | net |
+| [베서머 전로 — 공기를 불어넣자 철강 공장의 시간이 달라졌다](../../content/stories/companies/technology/bessemer-converter-air-and-steel-production.json) | 공개 | net |
 
 ### 상업과 유통 — 8편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [백화점 — 사지 않아도 구경하러 들어가는 가게](../../content/stories/companies/fashion/department-stores-window-shopping.json) | 공개 | kr |
-| [동인도회사 — 장사하러 간 회사는 왜 세금을 걷었을까](../../content/stories/companies/finance/east-india-company-trade-and-taxes.json) | 공개 | kr |
-| [넷플릭스 — 영화가 우편함에서 화면으로 옮겨 오기까지](../../content/stories/companies/media/netflix-envelope-to-streaming.json) | 공개 | kr |
-| [에어비앤비 — 빈방을 연결하면 생기는 일](../../content/stories/companies/technology/airbnb-room-and-neighborhood.json) | 공개 | kr |
-| [아마존 — 주문 버튼 뒤에는 무엇이 남아 있을까](../../content/stories/companies/technology/amazon-order-and-warehouse.json) | 공개 | kr |
-| [박스드 — 차 없이도 창고형 쇼핑을 할 수 있을까](../../content/stories/companies/technology/boxed-bulk-shopping-without-car.json) | 공개 | kr |
-| [시어스 — 시골집 식탁에 백화점 한 권이 도착했다](../../content/stories/companies/technology/sears-catalog-price-and-rural-door.json) | 공개 | kr |
-| [싱어 — 재봉틀은 어떻게 집 안으로 들어왔을까](../../content/stories/companies/technology/singer-sewing-machine-and-installments.json) | 공개 | kr |
+| [백화점 — 사지 않아도 구경하러 들어가는 가게](../../content/stories/companies/fashion/department-stores-window-shopping.json) | 공개 | net |
+| [동인도회사 — 장사하러 간 회사는 왜 세금을 걷었을까](../../content/stories/companies/finance/east-india-company-trade-and-taxes.json) | 공개 | net |
+| [넷플릭스 — 영화가 우편함에서 화면으로 옮겨 오기까지](../../content/stories/companies/media/netflix-envelope-to-streaming.json) | 공개 | net |
+| [에어비앤비 — 빈방을 연결하면 생기는 일](../../content/stories/companies/technology/airbnb-room-and-neighborhood.json) | 공개 | net |
+| [아마존 — 주문 버튼 뒤에는 무엇이 남아 있을까](../../content/stories/companies/technology/amazon-order-and-warehouse.json) | 공개 | net |
+| [박스드 — 차 없이도 창고형 쇼핑을 할 수 있을까](../../content/stories/companies/technology/boxed-bulk-shopping-without-car.json) | 공개 | net |
+| [시어스 — 시골집 식탁에 백화점 한 권이 도착했다](../../content/stories/companies/technology/sears-catalog-price-and-rural-door.json) | 공개 | net |
+| [싱어 — 재봉틀은 어떻게 집 안으로 들어왔을까](../../content/stories/companies/technology/singer-sewing-machine-and-installments.json) | 공개 | net |
 
 ### 브랜드와 소비 — 8편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [할리데이비슨 — 오토바이 다음에는 무엇을 팔까](../../content/stories/companies/automotive/harley-davidson-riders-and-community.json) | 공개 | kr |
-| [어웨이 — 여행가방보다 여행 책이 먼저 도착했다](../../content/stories/companies/fashion/away-suitcase-and-travel-book.json) | 공개 | kr |
-| [봄바스 — 왜 하필 양말이었을까](../../content/stories/companies/fashion/bombas-socks-and-giving.json) | 공개 | kr |
-| [파타고니아 — 잘 팔리는 장비를 왜 바꾸려 했을까](../../content/stories/companies/fashion/patagonia-climbing-gear-and-rock.json) | 공개 | kr |
+| [할리데이비슨 — 오토바이 다음에는 무엇을 팔까](../../content/stories/companies/automotive/harley-davidson-riders-and-community.json) | 공개 | net |
+| [어웨이 — 여행가방보다 여행 책이 먼저 도착했다](../../content/stories/companies/fashion/away-suitcase-and-travel-book.json) | 공개 | net |
+| [봄바스 — 왜 하필 양말이었을까](../../content/stories/companies/fashion/bombas-socks-and-giving.json) | 공개 | net |
+| [파타고니아 — 잘 팔리는 장비를 왜 바꾸려 했을까](../../content/stories/companies/fashion/patagonia-climbing-gear-and-rock.json) | 공개 | net |
 | [포스터를 한 장씩 붓으로 칠하던 작업장](../../content/stories/companies/media/tass-stencil-posters.json) | 공개 | net |
-| [코닥은 카메라와 함께 무엇을 팔았을까](../../content/stories/companies/technology/kodak-camera-and-lessons.json) | 공개 | kr |
-| [레고라는 이름은 원래 무슨 뜻일까](../../content/stories/companies/technology/lego-play-well.json) | 공개 | kr |
-| [소니 — 편리한 음악 시대에 레코드를 다시 만들겠다고 한 이유](../../content/stories/companies/technology/sony-vinyl-records-return.json) | 공개 | kr |
+| [코닥은 카메라와 함께 무엇을 팔았을까](../../content/stories/companies/technology/kodak-camera-and-lessons.json) | 공개 | net |
+| [레고라는 이름은 원래 무슨 뜻일까](../../content/stories/companies/technology/lego-play-well.json) | 공개 | net |
+| [소니 — 편리한 음악 시대에 레코드를 다시 만들겠다고 한 이유](../../content/stories/companies/technology/sony-vinyl-records-return.json) | 공개 | net |
 
 ## 컴퓨터와 디지털
 
@@ -355,68 +355,68 @@
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [배비지 — 베틀의 카드에서 계산의 순서를 보다](../../content/stories/computing/computers/babbage-jacquard-cards-and-calculation.json) | 공개 | kr |
-| [작은 마우스가 함께 등장한 큰 시연](../../content/stories/computing/computers/engelbart-mouse-demo.json) | 공개 | kr |
-| [에니악 — 계산은 빨라졌는데 문제를 바꾸는 데는 시간이 걸렸다](../../content/stories/computing/computers/eniac-changing-problem-and-human-work.json) | 공개 | kr |
-| [타자기 — 글씨를 잘 쓰는 손보다 필요한 것이 생겼다](../../content/stories/computing/computers/typewriter-keys-and-office-records.json) | 공개 | kr |
+| [배비지 — 베틀의 카드에서 계산의 순서를 보다](../../content/stories/computing/computers/babbage-jacquard-cards-and-calculation.json) | 공개 | net |
+| [작은 마우스가 함께 등장한 큰 시연](../../content/stories/computing/computers/engelbart-mouse-demo.json) | 공개 | net |
+| [에니악 — 계산은 빨라졌는데 문제를 바꾸는 데는 시간이 걸렸다](../../content/stories/computing/computers/eniac-changing-problem-and-human-work.json) | 공개 | net |
+| [타자기 — 글씨를 잘 쓰는 손보다 필요한 것이 생겼다](../../content/stories/computing/computers/typewriter-keys-and-office-records.json) | 공개 | net |
 
 ### 소프트웨어 — 7편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [마이크로소프트가 옛 프로그램을 공개한 까닭](../../content/stories/companies/technology/microsoft-dos-open-archive.json) | 공개 | kr |
-| [리눅스 — 펭귄 뒤에는 누가 일하고 있을까](../../content/stories/computing/computers/linux-shared-kernel.json) | 공개 | kr |
-| [파이썬이라는 이름은 코미디에서 왔다](../../content/stories/computing/programming/python-comedy-name.json) | 공개 | kr |
-| [CSS — 같은 글이 다른 얼굴로 보이는 이유](../../content/stories/computing/software/css-same-words-different-page.json) | 공개 | kr |
-| [최종본, 진짜 최종본 — 깃은 무엇을 기억할까](../../content/stories/computing/software/git-saving-many-versions.json) | 공개 | kr |
-| [GNU 선언문 — 프로그램을 나누는 조건도 설계하다](../../content/stories/computing/software/gnu-manifesto-sharing-and-conditions.json) | 공개 | kr |
-| [마크다운 — 꾸미기 전의 글도 읽기 좋게 만들려면](../../content/stories/computing/software/markdown-readable-source-and-commonmark.json) | 공개 | kr |
+| [마이크로소프트가 옛 프로그램을 공개한 까닭](../../content/stories/companies/technology/microsoft-dos-open-archive.json) | 공개 | net |
+| [리눅스 — 펭귄 뒤에는 누가 일하고 있을까](../../content/stories/computing/computers/linux-shared-kernel.json) | 공개 | net |
+| [파이썬이라는 이름은 코미디에서 왔다](../../content/stories/computing/programming/python-comedy-name.json) | 공개 | net |
+| [CSS — 같은 글이 다른 얼굴로 보이는 이유](../../content/stories/computing/software/css-same-words-different-page.json) | 공개 | net |
+| [최종본, 진짜 최종본 — 깃은 무엇을 기억할까](../../content/stories/computing/software/git-saving-many-versions.json) | 공개 | net |
+| [GNU 선언문 — 프로그램을 나누는 조건도 설계하다](../../content/stories/computing/software/gnu-manifesto-sharing-and-conditions.json) | 공개 | net |
+| [마크다운 — 꾸미기 전의 글도 읽기 좋게 만들려면](../../content/stories/computing/software/markdown-readable-source-and-commonmark.json) | 공개 | net |
 
 ### 인터넷과 통신 — 10편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [전보 한 장에는 종이가 한 번 더 붙어 있다](../../content/stories/companies/media/western-union-pasted-message.json) | 공개 | kr |
-| [DNS — 사이트는 이사해도 이름을 유지할 수 있을까](../../content/stories/computing/internet/dns-names-and-addresses.json) | 공개 | kr |
-| [이메일 주소에는 왜 골뱅이가 들어갈까](../../content/stories/computing/internet/email-at-sign.json) | 공개 | kr |
-| [404와 410은 같은 빈 페이지가 아니다](../../content/stories/computing/internet/http-404-410.json) | 공개 | kr |
-| [모스 — 소식은 언제부터 기차보다 빨리 갔을까](../../content/stories/computing/internet/morse-wire-signals-and-distance.json) | 공개 | kr |
-| [웹의 시작 — 논문에서 다른 논문으로 건너가고 싶었다](../../content/stories/computing/internet/web-links-shared-knowledge.json) | 공개 | kr |
-| [와이파이 — 연결됐는데 인터넷이 안 되는 까닭](../../content/stories/computing/internet/wifi-connected-without-internet.json) | 공개 | kr |
-| [인터넷에도 첫 번째 정거장이 있었다](../../content/stories/history/america/arpanet-first-node.json) | 공개 | kr |
-| [대서양 해저전선 — 소식이 바다보다 빨라지기까지](../../content/stories/computing/internet/atlantic-cable-failures-and-connection.json) | 공개 | kr |
-| [TCP — 나누어 보낸 데이터는 어떻게 다시 이어질까](../../content/stories/computing/internet/tcp-byte-stream-and-retransmission.json) | 공개 | kr |
+| [전보 한 장에는 종이가 한 번 더 붙어 있다](../../content/stories/companies/media/western-union-pasted-message.json) | 공개 | net |
+| [DNS — 사이트는 이사해도 이름을 유지할 수 있을까](../../content/stories/computing/internet/dns-names-and-addresses.json) | 공개 | net |
+| [이메일 주소에는 왜 골뱅이가 들어갈까](../../content/stories/computing/internet/email-at-sign.json) | 공개 | net |
+| [404와 410은 같은 빈 페이지가 아니다](../../content/stories/computing/internet/http-404-410.json) | 공개 | net |
+| [모스 — 소식은 언제부터 기차보다 빨리 갔을까](../../content/stories/computing/internet/morse-wire-signals-and-distance.json) | 공개 | net |
+| [웹의 시작 — 논문에서 다른 논문으로 건너가고 싶었다](../../content/stories/computing/internet/web-links-shared-knowledge.json) | 공개 | net |
+| [와이파이 — 연결됐는데 인터넷이 안 되는 까닭](../../content/stories/computing/internet/wifi-connected-without-internet.json) | 공개 | net |
+| [인터넷에도 첫 번째 정거장이 있었다](../../content/stories/history/america/arpanet-first-node.json) | 공개 | net |
+| [대서양 해저전선 — 소식이 바다보다 빨라지기까지](../../content/stories/computing/internet/atlantic-cable-failures-and-connection.json) | 공개 | net |
+| [TCP — 나누어 보낸 데이터는 어떻게 다시 이어질까](../../content/stories/computing/internet/tcp-byte-stream-and-retransmission.json) | 공개 | net |
 
 ### 데이터와 기록 — 11편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [QR 코드 — 왜 세 모서리에 큰 네모가 있을까](../../content/stories/computing/computers/qr-code-three-corners.json) | 공개 | kr |
-| [CSV — 쉼표가 들어 있는 칸은 어떻게 나눌까](../../content/stories/computing/programming/csv-comma-inside-a-cell.json) | 공개 | kr |
-| [웃는 이모지에도 번호표가 있다](../../content/stories/computing/software/emoji-number-tags.json) | 공개 | kr |
-| [사진 파일은 어떻게 가벼워졌을까 — JPEG의 작은 타협](../../content/stories/computing/software/jpeg-small-photo-file.json) | 공개 | kr |
-| [문자인식 — 사진 속 글자는 왜 복사가 안 될까](../../content/stories/computing/software/ocr-picture-to-searchable-text.json) | 공개 | kr |
-| [PNG — 배경이 없는 그림은 어떻게 가능한가](../../content/stories/computing/software/png-transparent-background.json) | 공개 | kr |
-| [SQLite — 앱의 기록은 어디에 모여 있을까](../../content/stories/computing/software/sqlite-small-database.json) | 공개 | kr |
-| [SVG — 점 대신 선의 모양을 기록하면](../../content/stories/computing/software/svg-shapes-not-fixed-pixels.json) | 공개 | kr |
-| [유니코드 — 다른 컴퓨터에서도 같은 글자를 읽는 약속](../../content/stories/computing/software/unicode-letters-shared-numbers.json) | 공개 | kr |
-| [ZIP — 여러 파일은 어떻게 한 봉투에 들어갈까](../../content/stories/computing/software/zip-files-and-repetition.json) | 공개 | kr |
-| [CRC — 파일이 달라졌다는 사실은 어떻게 알아낼까](../../content/stories/computing/software/crc-checksum-detecting-changed-data.json) | 공개 | kr |
+| [QR 코드 — 왜 세 모서리에 큰 네모가 있을까](../../content/stories/computing/computers/qr-code-three-corners.json) | 공개 | net |
+| [CSV — 쉼표가 들어 있는 칸은 어떻게 나눌까](../../content/stories/computing/programming/csv-comma-inside-a-cell.json) | 공개 | net |
+| [웃는 이모지에도 번호표가 있다](../../content/stories/computing/software/emoji-number-tags.json) | 공개 | net |
+| [사진 파일은 어떻게 가벼워졌을까 — JPEG의 작은 타협](../../content/stories/computing/software/jpeg-small-photo-file.json) | 공개 | net |
+| [문자인식 — 사진 속 글자는 왜 복사가 안 될까](../../content/stories/computing/software/ocr-picture-to-searchable-text.json) | 공개 | net |
+| [PNG — 배경이 없는 그림은 어떻게 가능한가](../../content/stories/computing/software/png-transparent-background.json) | 공개 | net |
+| [SQLite — 앱의 기록은 어디에 모여 있을까](../../content/stories/computing/software/sqlite-small-database.json) | 공개 | net |
+| [SVG — 점 대신 선의 모양을 기록하면](../../content/stories/computing/software/svg-shapes-not-fixed-pixels.json) | 공개 | net |
+| [유니코드 — 다른 컴퓨터에서도 같은 글자를 읽는 약속](../../content/stories/computing/software/unicode-letters-shared-numbers.json) | 공개 | net |
+| [ZIP — 여러 파일은 어떻게 한 봉투에 들어갈까](../../content/stories/computing/software/zip-files-and-repetition.json) | 공개 | net |
+| [CRC — 파일이 달라졌다는 사실은 어떻게 알아낼까](../../content/stories/computing/software/crc-checksum-detecting-changed-data.json) | 공개 | net |
 
 ### 인공지능 — 1편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [AI는 옷 사진으로 무엇을 연습할까](../../content/stories/computing/artificial-intelligence/ai-clothing-labels.json) | 공개 | kr |
+| [AI는 옷 사진으로 무엇을 연습할까](../../content/stories/computing/artificial-intelligence/ai-clothing-labels.json) | 공개 | net |
 
 ### 디지털 생활과 보안 — 4편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [대체 텍스트 — 그림을 말로 전한다면](../../content/stories/computing/internet/alt-text-image-in-words.json) | 공개 | kr |
-| [쿠키 — 웹사이트는 내가 왔던 것을 어떻게 기억할까](../../content/stories/computing/internet/cookies-browser-memory.json) | 공개 | kr |
-| [HTTPS — 웹 주소의 작은 s가 하는 일](../../content/stories/computing/internet/https-small-s-and-connection.json) | 공개 | kr |
-| [컴퓨터의 시계 — 오전 1시가 두 번 오는 날](../../content/stories/computing/software/computer-time-repeated-hour.json) | 공개 | kr |
+| [대체 텍스트 — 그림을 말로 전한다면](../../content/stories/computing/internet/alt-text-image-in-words.json) | 공개 | net |
+| [쿠키 — 웹사이트는 내가 왔던 것을 어떻게 기억할까](../../content/stories/computing/internet/cookies-browser-memory.json) | 공개 | net |
+| [HTTPS — 웹 주소의 작은 s가 하는 일](../../content/stories/computing/internet/https-small-s-and-connection.json) | 공개 | net |
+| [컴퓨터의 시계 — 오전 1시가 두 번 오는 날](../../content/stories/computing/software/computer-time-repeated-hour.json) | 공개 | net |
 
 ## 돈과 금융
 
@@ -424,53 +424,53 @@
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [금 한 온스와 보통 한 온스는 무게가 다르다](../../content/stories/finance/investment/troy-ounce-weight.json) | 공개 | kr |
+| [금 한 온스와 보통 한 온스는 무게가 다르다](../../content/stories/finance/investment/troy-ounce-weight.json) | 공개 | net |
 | [아테네 — 부엉이는 어떻게 돈 위에 앉았을까](../../content/stories/finance/money/athens-owl-silver-coin.json) | 공개 | net |
 | [돈을 만들던 나무판에는 무엇이 남았을까](../../content/stories/finance/money/banknote-plate-fifty-yang.json) | 공개 | net |
-| [동전 가장자리에는 왜 작은 톱니가 있을까](../../content/stories/finance/money/coin-ridged-edge.json) | 미승인 | kr |
-| [금과 은 — 어떤 금속을 돈으로 쓸지가 생계의 문제가 되었다](../../content/stories/finance/money/gold-silver-debate-debt-and-prices.json) | 공개 | kr |
-| [물가 — 지갑 속 돈은 같은데 왜 덜 살 수 있을까](../../content/stories/finance/money/inflation-price-tag-and-purchasing-power.json) | 공개 | kr |
-| [존 로 — 종이돈과 미시시피의 꿈은 어떻게 엮였을까](../../content/stories/finance/money/john-law-paper-money-and-mississippi.json) | 공개 | kr |
+| [동전 가장자리에는 왜 작은 톱니가 있을까](../../content/stories/finance/money/coin-ridged-edge.json) | 미승인 | net |
+| [금과 은 — 어떤 금속을 돈으로 쓸지가 생계의 문제가 되었다](../../content/stories/finance/money/gold-silver-debate-debt-and-prices.json) | 공개 | net |
+| [물가 — 지갑 속 돈은 같은데 왜 덜 살 수 있을까](../../content/stories/finance/money/inflation-price-tag-and-purchasing-power.json) | 공개 | net |
+| [존 로 — 종이돈과 미시시피의 꿈은 어떻게 엮였을까](../../content/stories/finance/money/john-law-paper-money-and-mississippi.json) | 공개 | net |
 | [쿠빌라이의 지폐 — 나무껍질이 돈이 되던 제국](../../content/stories/finance/money/kublai-paper-money-and-seal.json) | 공개 | net |
 | [만사 무사 — 순례길의 금은 왜 카이로에 흔적을 남겼을까](../../content/stories/finance/money/mansa-musa-gold-and-cairo.json) | 공개 | net |
-| [브레턴우즈 1944 — 전쟁이 끝나기 전에 돈의 질서를 의논하다](../../content/stories/finance/money/bretton-woods-1944-money-rules.json) | 공개 | kr |
+| [브레턴우즈 1944 — 전쟁이 끝나기 전에 돈의 질서를 의논하다](../../content/stories/finance/money/bretton-woods-1944-money-rules.json) | 공개 | net |
 
 ### 은행과 신용 — 8편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [은행 앞에 줄이 길어지면 — 돈과 믿음의 시간차](../../content/stories/finance/banking/bank-run-lombard-street.json) | 공개 | kr |
-| [예금자보호 — 은행의 약속 뒤에 안전망을 둔 이유](../../content/stories/finance/banking/deposit-insurance-bank-and-safety-net.json) | 공개 | kr |
-| [연준의 탄생 — 은행을 위한 은행은 누가 운영해야 할까](../../content/stories/finance/banking/federal-reserve-1913-regions-and-credit.json) | 공개 | kr |
-| [매달 갚는데 왜 원금은 조금 줄어들까](../../content/stories/finance/banking/loan-payment-principal-interest.json) | 공개 | kr |
-| [1933년의 은행 휴일 — 문을 닫고 신뢰를 되찾으려 한 이유](../../content/stories/finance/banking/roosevelt-bank-holiday-and-radio.json) | 공개 | kr |
-| [잉글랜드은행 1694 — 왕의 전쟁 자금에서 자라난 은행](../../content/stories/finance/banking/bank-england-1694-government-credit.json) | 공개 | kr |
-| [1866년 오버렌드 거니 — 오래된 명성이 손실을 막아 주지는 않았다](../../content/stories/finance/banking/overend-gurney-1866-reputation-and-losses.json) | 공개 | kr |
-| [저축은행 — 작은 돈도 예금이 되는 조건](../../content/stories/finance/banking/ruthwell-savings-bank-small-deposits.json) | 공개 | kr |
+| [은행 앞에 줄이 길어지면 — 돈과 믿음의 시간차](../../content/stories/finance/banking/bank-run-lombard-street.json) | 공개 | net |
+| [예금자보호 — 은행의 약속 뒤에 안전망을 둔 이유](../../content/stories/finance/banking/deposit-insurance-bank-and-safety-net.json) | 공개 | net |
+| [연준의 탄생 — 은행을 위한 은행은 누가 운영해야 할까](../../content/stories/finance/banking/federal-reserve-1913-regions-and-credit.json) | 공개 | net |
+| [매달 갚는데 왜 원금은 조금 줄어들까](../../content/stories/finance/banking/loan-payment-principal-interest.json) | 공개 | net |
+| [1933년의 은행 휴일 — 문을 닫고 신뢰를 되찾으려 한 이유](../../content/stories/finance/banking/roosevelt-bank-holiday-and-radio.json) | 공개 | net |
+| [잉글랜드은행 1694 — 왕의 전쟁 자금에서 자라난 은행](../../content/stories/finance/banking/bank-england-1694-government-credit.json) | 공개 | net |
+| [1866년 오버렌드 거니 — 오래된 명성이 손실을 막아 주지는 않았다](../../content/stories/finance/banking/overend-gurney-1866-reputation-and-losses.json) | 공개 | net |
+| [저축은행 — 작은 돈도 예금이 되는 조건](../../content/stories/finance/banking/ruthwell-savings-bank-small-deposits.json) | 공개 | net |
 
 ### 투자와 시장 — 5편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [채권 — 이자는 그대로인데 왜 가격이 떨어질까](../../content/stories/finance/investment/bond-price-when-interest-rates-rise.json) | 공개 | kr |
-| [복리 — 이자가 다음 해의 출발선에 서면](../../content/stories/finance/investment/compound-interest-time.json) | 공개 | kr |
-| [분산투자 — 바구니를 늘려도 같은 비를 맞는다면](../../content/stories/finance/investment/diversification-baskets-and-common-weather.json) | 공개 | kr |
-| [남해회사 — 바다 건너의 꿈은 어떻게 주가가 되었을까](../../content/stories/finance/investment/south-sea-bubble-promise-and-shares.json) | 공개 | kr |
-| [버지니아 회사 — 신대륙의 꿈을 주식으로 팔다](../../content/stories/finance/investment/virginia-company-shares-and-colony.json) | 공개 | kr |
+| [채권 — 이자는 그대로인데 왜 가격이 떨어질까](../../content/stories/finance/investment/bond-price-when-interest-rates-rise.json) | 공개 | net |
+| [복리 — 이자가 다음 해의 출발선에 서면](../../content/stories/finance/investment/compound-interest-time.json) | 공개 | net |
+| [분산투자 — 바구니를 늘려도 같은 비를 맞는다면](../../content/stories/finance/investment/diversification-baskets-and-common-weather.json) | 공개 | net |
+| [남해회사 — 바다 건너의 꿈은 어떻게 주가가 되었을까](../../content/stories/finance/investment/south-sea-bubble-promise-and-shares.json) | 공개 | net |
+| [버지니아 회사 — 신대륙의 꿈을 주식으로 팔다](../../content/stories/finance/investment/virginia-company-shares-and-colony.json) | 공개 | net |
 
 ### 보험과 위험 — 2편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [보험 — 사고가 없으면 낸 돈이 아까운 걸까](../../content/stories/finance/insurance/insurance-pool-uncertain-loss.json) | 공개 | kr |
-| [로이즈 — 커피하우스에서 자라난 해상보험](../../content/stories/finance/insurance/lloyds-coffeehouse-shipping-news.json) | 공개 | kr |
+| [보험 — 사고가 없으면 낸 돈이 아까운 걸까](../../content/stories/finance/insurance/insurance-pool-uncertain-loss.json) | 공개 | net |
+| [로이즈 — 커피하우스에서 자라난 해상보험](../../content/stories/finance/insurance/lloyds-coffeehouse-shipping-news.json) | 공개 | net |
 
 ### 금융과 기술 — 2편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [금융 장부가 화면으로 옮겨 갔을 때](../../content/stories/finance/fintech/fintech-ledgers-screens-and-financial-data.json) | 공개 | kr |
-| [수표 청산소 — 현금을 옮기지 않고 빚을 맞추는 방법](../../content/stories/finance/banking/clearing-house-cheques-and-net-balances.json) | 공개 | kr |
+| [금융 장부가 화면으로 옮겨 갔을 때](../../content/stories/finance/fintech/fintech-ledgers-screens-and-financial-data.json) | 공개 | net |
+| [수표 청산소 — 현금을 옮기지 않고 빚을 맞추는 방법](../../content/stories/finance/banking/clearing-house-cheques-and-net-balances.json) | 공개 | net |
 
 ## 과학과 발견
 
@@ -478,68 +478,68 @@
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [달에서는 신발 바닥도 기록이 되었다](../../content/stories/history/america/apollo-bootprint-close-up.json) | 공개 | kr |
-| [지구본의 둥근 몸에는 어떤 그림을 입힐까](../../content/stories/science/earth-science/earth-map-for-globe.json) | 공개 | kr |
-| [밀물과 썰물 — 달은 왜 반대편 바다도 움직일까](../../content/stories/science/earth-science/tides-moon-and-changing-shore.json) | 공개 | kr |
-| [우주선 안에도 작은 이름표가 가득하다](../../content/stories/science/engineering/discovery-panel-labels.json) | 공개 | kr |
-| [보이저 — 오래된 탐사선에 새 동작을 가르치다](../../content/stories/science/engineering/voyager-grand-tour-old-spacecraft-new-tricks.json) | 미승인 | kr |
-| [분광기 — 별빛의 빈틈에서 물질의 흔적을 읽다](../../content/stories/science/physics/spectroscope-dark-lines-and-elements.json) | 공개 | kr |
+| [달에서는 신발 바닥도 기록이 되었다](../../content/stories/history/america/apollo-bootprint-close-up.json) | 공개 | net |
+| [지구본의 둥근 몸에는 어떤 그림을 입힐까](../../content/stories/science/earth-science/earth-map-for-globe.json) | 공개 | net |
+| [밀물과 썰물 — 달은 왜 반대편 바다도 움직일까](../../content/stories/science/earth-science/tides-moon-and-changing-shore.json) | 공개 | net |
+| [우주선 안에도 작은 이름표가 가득하다](../../content/stories/science/engineering/discovery-panel-labels.json) | 공개 | net |
+| [보이저 — 오래된 탐사선에 새 동작을 가르치다](../../content/stories/science/engineering/voyager-grand-tour-old-spacecraft-new-tricks.json) | 미승인 | net |
+| [분광기 — 별빛의 빈틈에서 물질의 흔적을 읽다](../../content/stories/science/physics/spectroscope-dark-lines-and-elements.json) | 공개 | net |
 
 ### 생명과 인체 — 5편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [코끼리가 귀를 흔드는 데에는 이유가 있다](../../content/stories/science/biology/elephant-ear-fan.json) | 공개 | kr |
-| [플라밍고는 태어날 때부터 분홍색일까](../../content/stories/science/biology/flamingo-pink-feathers.json) | 공개 | kr |
-| [도마뱀붙이 — 접착제 없이 벽을 걷는 발](../../content/stories/science/biology/gecko-feet-small-forces.json) | 공개 | kr |
-| [레서판다의 꼬리는 담요가 되기도 한다](../../content/stories/science/biology/red-panda-tail.json) | 공개 | kr |
-| [하비의 혈액순환 — 심장이 보낸 피는 어디로 갔을까](../../content/stories/science/biology/harvey-heart-blood-and-quantity.json) | 공개 | kr |
+| [코끼리가 귀를 흔드는 데에는 이유가 있다](../../content/stories/science/biology/elephant-ear-fan.json) | 공개 | net |
+| [플라밍고는 태어날 때부터 분홍색일까](../../content/stories/science/biology/flamingo-pink-feathers.json) | 공개 | net |
+| [도마뱀붙이 — 접착제 없이 벽을 걷는 발](../../content/stories/science/biology/gecko-feet-small-forces.json) | 공개 | net |
+| [레서판다의 꼬리는 담요가 되기도 한다](../../content/stories/science/biology/red-panda-tail.json) | 공개 | net |
+| [하비의 혈액순환 — 심장이 보낸 피는 어디로 갔을까](../../content/stories/science/biology/harvey-heart-blood-and-quantity.json) | 공개 | net |
 
 ### 물질과 에너지 — 10편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [패러데이 — 촛불 하나로 어디까지 이야기할 수 있을까](../../content/stories/science/chemistry/faraday-candle-lecture-and-matter.json) | 공개 | kr |
-| [비누 — 물과 기름 사이에 다리를 놓다](../../content/stories/science/chemistry/soap-water-and-oily-plate.json) | 공개 | kr |
+| [패러데이 — 촛불 하나로 어디까지 이야기할 수 있을까](../../content/stories/science/chemistry/faraday-candle-lecture-and-matter.json) | 공개 | net |
+| [비누 — 물과 기름 사이에 다리를 놓다](../../content/stories/science/chemistry/soap-water-and-oily-plate.json) | 공개 | net |
 | [그릇처럼 생긴 해시계에는 두 종류의 선이 있다](../../content/stories/science/engineering/bowl-sundial.json) | 공개 | net |
 | [이 거북이는 물이 차면 떠올랐다](../../content/stories/science/engineering/water-clock-floating-turtle.json) | 공개 | net |
-| [끓는 물 — 산에서는 왜 100도보다 먼저 끓을까](../../content/stories/science/physics/boiling-water-mountain-pressure.json) | 공개 | kr |
-| [얼음 — 호수는 왜 위에서부터 얼어 갈까](../../content/stories/science/physics/ice-floats-lake-freezes-from-top.json) | 공개 | kr |
-| [닮은 동전인데 왜 하나만 자석에 붙을까](../../content/stories/science/physics/magnetic-penny.json) | 공개 | kr |
+| [끓는 물 — 산에서는 왜 100도보다 먼저 끓을까](../../content/stories/science/physics/boiling-water-mountain-pressure.json) | 공개 | net |
+| [얼음 — 호수는 왜 위에서부터 얼어 갈까](../../content/stories/science/physics/ice-floats-lake-freezes-from-top.json) | 공개 | net |
+| [닮은 동전인데 왜 하나만 자석에 붙을까](../../content/stories/science/physics/magnetic-penny.json) | 공개 | net |
 | [별지도를 다른 돌에 다시 새긴 이유](../../content/stories/science/physics/star-map-carved-again.json) | 공개 | net |
-| [줄의 실험 — 물을 데우는 데 불이 꼭 필요할까](../../content/stories/science/physics/joule-paddles-work-and-heat.json) | 공개 | kr |
-| [라부아지에 — 늘어난 금속의 무게는 어디에서 왔을까](../../content/stories/science/chemistry/lavoisier-metals-air-and-balanced-mass.json) | 공개 | kr |
+| [줄의 실험 — 물을 데우는 데 불이 꼭 필요할까](../../content/stories/science/physics/joule-paddles-work-and-heat.json) | 공개 | net |
+| [라부아지에 — 늘어난 금속의 무게는 어디에서 왔을까](../../content/stories/science/chemistry/lavoisier-metals-air-and-balanced-mass.json) | 공개 | net |
 
 ### 수학과 측정 — 4편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [A4를 반으로 접어도 비슷한 모양인 이유](../../content/stories/science/mathematics/a4-fold-same-shape.json) | 공개 | kr |
-| [여섯 개의 점으로 얼마나 많은 모양을 만들까](../../content/stories/science/mathematics/braille-six-dots.json) | 공개 | kr |
-| [그림자로 지구를 잰 사람 — 에라토스테네스의 계산](../../content/stories/science/mathematics/eratosthenes-shadow-earth-circumference.json) | 공개 | kr |
-| [기압계 — 눈금 하나로 내일 날씨를 알 수 있을까](../../content/stories/science/physics/barometer-pressure-trends-and-weather.json) | 공개 | kr |
+| [A4를 반으로 접어도 비슷한 모양인 이유](../../content/stories/science/mathematics/a4-fold-same-shape.json) | 공개 | net |
+| [여섯 개의 점으로 얼마나 많은 모양을 만들까](../../content/stories/science/mathematics/braille-six-dots.json) | 공개 | net |
+| [그림자로 지구를 잰 사람 — 에라토스테네스의 계산](../../content/stories/science/mathematics/eratosthenes-shadow-earth-circumference.json) | 공개 | net |
+| [기압계 — 눈금 하나로 내일 날씨를 알 수 있을까](../../content/stories/science/physics/barometer-pressure-trends-and-weather.json) | 공개 | net |
 
 ### 과학자의 발견 — 17편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [나이팅게일 — 등불보다 먼저 병실의 공기를 보다](../../content/stories/history/europe/nightingale-air-and-observation.json) | 공개 | kr |
-| [다윈의 생애 — 한 번의 여행으로 끝나지 않은 발견](../../content/stories/science/biology/darwin-life-of-observation.json) | 공개 | kr |
-| [로버트 훅 — 코르크 속에서 작은 방을 보다](../../content/stories/science/biology/hooke-cork-small-rooms.json) | 공개 | kr |
-| [제너 — 우유 짜는 사람들의 경험이 백신으로 이어지기까지](../../content/stories/science/biology/jenner-cowpox-and-vaccination-history.json) | 공개 | kr |
-| [존 스노 — 펌프 손잡이보다 먼저 바꾼 질문](../../content/stories/science/biology/john-snow-pump-and-evidence.json) | 공개 | kr |
-| [멘델 — 사라진 것 같던 흰 꽃은 왜 다시 피었을까](../../content/stories/science/biology/mendel-peas-and-returning-traits.json) | 공개 | kr |
-| [파스퇴르 — 공기는 들어오는데 왜 썩지 않았을까](../../content/stories/science/biology/pasteur-swan-neck-air-and-dust.json) | 공개 | kr |
-| [페니실린 — 곰팡이를 발견한 날에 약이 완성된 것은 아니었다](../../content/stories/science/biology/penicillin-mold-to-medicine-team.json) | 공개 | kr |
-| [제멜바이스 — 의사의 손이 지나온 길을 묻다](../../content/stories/science/biology/semmelweis-handwashing-and-hospital-wards.json) | 공개 | kr |
-| [멘델레예프 — 표를 완성하려고 빈칸을 남기다](../../content/stories/science/chemistry/mendeleev-empty-spaces-and-elements.json) | 공개 | kr |
-| [캐롤라인 허셜 — 혜성을 찾은 밤에도 장부는 남아 있었다](../../content/stories/science/physics/caroline-herschel-comet-notebook-and-salary.json) | 공개 | kr |
-| [갈릴레오 — 망원경을 밤하늘로 돌리던 때](../../content/stories/science/physics/galileo-telescope-changed-sky.json) | 공개 | kr |
-| [헨리에타 리빗 — 별의 밝기에서 거리의 열쇠를 찾다](../../content/stories/science/physics/henrietta-leavitt-star-rhythm-distance.json) | 공개 | kr |
-| [케플러 — 하늘의 원을 조금 찌그러뜨린 사람](../../content/stories/science/physics/kepler-mars-observations-and-ellipse.json) | 공개 | kr |
-| [마리 퀴리의 생애 — 반짝이는 발견 뒤의 오래된 실험실](../../content/stories/science/physics/marie-curie-life-and-discovery.json) | 공개 | kr |
-| [뉴턴의 프리즘 — 유리가 색을 만든 것일까](../../content/stories/science/physics/newton-prism-white-light-colours.json) | 미승인 | kr |
-| [뢴트겐의 엑스선 — 몸을 열지 않고 안을 본다는 것](../../content/stories/science/physics/roentgen-xray-shadow-and-diagnosis.json) | 공개 | kr |
+| [나이팅게일 — 등불보다 먼저 병실의 공기를 보다](../../content/stories/history/europe/nightingale-air-and-observation.json) | 공개 | net |
+| [다윈의 생애 — 한 번의 여행으로 끝나지 않은 발견](../../content/stories/science/biology/darwin-life-of-observation.json) | 공개 | net |
+| [로버트 훅 — 코르크 속에서 작은 방을 보다](../../content/stories/science/biology/hooke-cork-small-rooms.json) | 공개 | net |
+| [제너 — 우유 짜는 사람들의 경험이 백신으로 이어지기까지](../../content/stories/science/biology/jenner-cowpox-and-vaccination-history.json) | 공개 | net |
+| [존 스노 — 펌프 손잡이보다 먼저 바꾼 질문](../../content/stories/science/biology/john-snow-pump-and-evidence.json) | 공개 | net |
+| [멘델 — 사라진 것 같던 흰 꽃은 왜 다시 피었을까](../../content/stories/science/biology/mendel-peas-and-returning-traits.json) | 공개 | net |
+| [파스퇴르 — 공기는 들어오는데 왜 썩지 않았을까](../../content/stories/science/biology/pasteur-swan-neck-air-and-dust.json) | 공개 | net |
+| [페니실린 — 곰팡이를 발견한 날에 약이 완성된 것은 아니었다](../../content/stories/science/biology/penicillin-mold-to-medicine-team.json) | 공개 | net |
+| [제멜바이스 — 의사의 손이 지나온 길을 묻다](../../content/stories/science/biology/semmelweis-handwashing-and-hospital-wards.json) | 공개 | net |
+| [멘델레예프 — 표를 완성하려고 빈칸을 남기다](../../content/stories/science/chemistry/mendeleev-empty-spaces-and-elements.json) | 공개 | net |
+| [캐롤라인 허셜 — 혜성을 찾은 밤에도 장부는 남아 있었다](../../content/stories/science/physics/caroline-herschel-comet-notebook-and-salary.json) | 공개 | net |
+| [갈릴레오 — 망원경을 밤하늘로 돌리던 때](../../content/stories/science/physics/galileo-telescope-changed-sky.json) | 공개 | net |
+| [헨리에타 리빗 — 별의 밝기에서 거리의 열쇠를 찾다](../../content/stories/science/physics/henrietta-leavitt-star-rhythm-distance.json) | 공개 | net |
+| [케플러 — 하늘의 원을 조금 찌그러뜨린 사람](../../content/stories/science/physics/kepler-mars-observations-and-ellipse.json) | 공개 | net |
+| [마리 퀴리의 생애 — 반짝이는 발견 뒤의 오래된 실험실](../../content/stories/science/physics/marie-curie-life-and-discovery.json) | 공개 | net |
+| [뉴턴의 프리즘 — 유리가 색을 만든 것일까](../../content/stories/science/physics/newton-prism-white-light-colours.json) | 미승인 | net |
+| [뢴트겐의 엑스선 — 몸을 열지 않고 안을 본다는 것](../../content/stories/science/physics/roentgen-xray-shadow-and-diagnosis.json) | 공개 | net |
 
 ## 생활을 바꾼 물건과 기술
 
@@ -551,12 +551,12 @@
 | [과자를 높이 쌓는 데에도 틀이 필요했다](../../content/stories/life/food/dasik-sweets-frame.json) | 공개 | net |
 | [수저를 넣는 주머니에 바람을 수놓았다](../../content/stories/life/food/embroidered-spoon-pouch.json) | 공개 | net |
 | [토르티야 앞에는 돌 두 개가 있었다](../../content/stories/life/food/mexico-tortilla-grinding-stone.json) | 공개 | net |
-| [팝콘 한 알은 어떻게 저렇게 커질까](../../content/stories/life/food/popcorn-little-explosion.json) | 공개 | kr |
-| [냉장 열차 — 식탁에 오기까지 음식은 얼마나 멀리 왔을까](../../content/stories/life/food/refrigerated-railcars-food-distance-and-time.json) | 공개 | kr |
+| [팝콘 한 알은 어떻게 저렇게 커질까](../../content/stories/life/food/popcorn-little-explosion.json) | 공개 | net |
+| [냉장 열차 — 식탁에 오기까지 음식은 얼마나 멀리 왔을까](../../content/stories/life/food/refrigerated-railcars-food-distance-and-time.json) | 공개 | net |
 | [옥수수와 콩, 호박은 왜 세 자매일까](../../content/stories/life/food/three-sisters-garden.json) | 공개 | net |
 | [중국의 명절 음식에는 잎사귀 포장이 있다](../../content/stories/life/food/zongzi-leaf-parcel.json) | 공개 | net |
-| [아페르의 유리병 — 음식은 어떻게 계절을 넘어갔을까](../../content/stories/life/food/appert-bottles-heat-and-preserving-food.json) | 공개 | kr |
-| [우유 원심분리기 — 크림이 떠오르기를 기다리지 않아도 된다면](../../content/stories/life/food/cream-separator-centrifuge-and-dairy-work.json) | 공개 | kr |
+| [아페르의 유리병 — 음식은 어떻게 계절을 넘어갔을까](../../content/stories/life/food/appert-bottles-heat-and-preserving-food.json) | 공개 | net |
+| [우유 원심분리기 — 크림이 떠오르기를 기다리지 않아도 된다면](../../content/stories/life/food/cream-separator-centrifuge-and-dairy-work.json) | 공개 | net |
 
 ### 옷과 재료 — 4편
 
@@ -571,35 +571,35 @@
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [시계에도 작은 문이 달린 집이 있었다](../../content/stories/history/korea/clock-little-door-case.json) | 공개 | kr |
+| [시계에도 작은 문이 달린 집이 있었다](../../content/stories/history/korea/clock-little-door-case.json) | 공개 | net |
 | [화로 아래에 작은 짐승의 발이 있다](../../content/stories/life/housing/brazier-animal-feet.json) | 공개 | net |
 | [이 집은 다음 목초지까지 함께 간다](../../content/stories/life/housing/jordan-moving-tent.json) | 공개 | net |
 | [한 지붕 아래 사람과 가축의 자리가 있었다](../../content/stories/life/housing/kabyle-house-shared-roof.json) | 공개 | net |
 | [옛 열쇠에도 초록색 매듭이 달려 있었다](../../content/stories/life/housing/lock-green-knot.json) | 공개 | net |
 | [궁궐의 작은 상자에는 생활의 필요가 담겼다](../../content/stories/life/housing/maehwa-portable-toilet.json) | 공개 | net |
 | [빗을 담는 상자의 문지기는 거북이었다](../../content/stories/life/housing/red-comb-chest-turtle.json) | 공개 | net |
-| [엘리베이터 — 위로 가는 힘보다 멈출 수 있다는 믿음](../../content/stories/life/housing/safety-elevator-building-height-and-trust.json) | 공개 | kr |
-| [보온병 — 차가운 실험을 지키던 병이 생활로 들어오다](../../content/stories/life/housing/dewar-vacuum-flask-and-heat.json) | 공개 | kr |
+| [엘리베이터 — 위로 가는 힘보다 멈출 수 있다는 믿음](../../content/stories/life/housing/safety-elevator-building-height-and-trust.json) | 공개 | net |
+| [보온병 — 차가운 실험을 지키던 병이 생활로 들어오다](../../content/stories/life/housing/dewar-vacuum-flask-and-heat.json) | 공개 | net |
 
 ### 이동과 운송 — 3편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [철도를 바꾼 것은 달리는 힘만이 아니었다](../../content/stories/science/engineering/railway-air-brakes-stopping-train.json) | 공개 | kr |
-| [증기기관 — 광산의 물이 공장의 힘으로 이어지기까지](../../content/stories/science/engineering/steam-engine-mine-and-factory.json) | 공개 | kr |
-| [자전거 — 앞바퀴가 작아지자 탈 수 있는 사람이 늘었다](../../content/stories/life/housing/safety-bicycle-chain-and-pneumatic-tyre.json) | 공개 | kr |
+| [철도를 바꾼 것은 달리는 힘만이 아니었다](../../content/stories/science/engineering/railway-air-brakes-stopping-train.json) | 공개 | net |
+| [증기기관 — 광산의 물이 공장의 힘으로 이어지기까지](../../content/stories/science/engineering/steam-engine-mine-and-factory.json) | 공개 | net |
+| [자전거 — 앞바퀴가 작아지자 탈 수 있는 사람이 늘었다](../../content/stories/life/housing/safety-bicycle-chain-and-pneumatic-tyre.json) | 공개 | net |
 
 ### 놀이와 취미 — 7편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [레고 블록이 굴러가기 시작한 날](../../content/stories/companies/technology/lego-first-wheels.json) | 공개 | kr |
-| [클라리넷은 한 가지 크기가 아니다](../../content/stories/culture/music/clarinet-many-sizes.json) | 공개 | kr |
-| [하프 줄에는 왜 빨간색이 섞여 있을까](../../content/stories/culture/music/harp-colored-strings.json) | 공개 | kr |
-| [금속으로 만든 플루트는 왜 목관악기일까](../../content/stories/culture/music/metal-flute-woodwind-family.json) | 공개 | kr |
-| [공연 시작 전, 오케스트라는 왜 한 음을 길게 낼까](../../content/stories/culture/music/orchestra-oboe-a.json) | 미승인 | kr |
-| [트롬본 연주자는 왜 팔을 길게 뻗을까](../../content/stories/culture/music/trombone-sliding-notes.json) | 공개 | kr |
-| [축음기 — 한 번 지나간 목소리를 다시 들을 수 있다면](../../content/stories/life/housing/phonograph-groove-and-returning-voice.json) | 공개 | kr |
+| [레고 블록이 굴러가기 시작한 날](../../content/stories/companies/technology/lego-first-wheels.json) | 공개 | net |
+| [클라리넷은 한 가지 크기가 아니다](../../content/stories/culture/music/clarinet-many-sizes.json) | 공개 | net |
+| [하프 줄에는 왜 빨간색이 섞여 있을까](../../content/stories/culture/music/harp-colored-strings.json) | 공개 | net |
+| [금속으로 만든 플루트는 왜 목관악기일까](../../content/stories/culture/music/metal-flute-woodwind-family.json) | 공개 | net |
+| [공연 시작 전, 오케스트라는 왜 한 음을 길게 낼까](../../content/stories/culture/music/orchestra-oboe-a.json) | 미승인 | net |
+| [트롬본 연주자는 왜 팔을 길게 뻗을까](../../content/stories/culture/music/trombone-sliding-notes.json) | 공개 | net |
+| [축음기 — 한 번 지나간 목소리를 다시 들을 수 있다면](../../content/stories/life/housing/phonograph-groove-and-returning-voice.json) | 공개 | net |
 
 ## 생각과 지식
 
@@ -607,20 +607,20 @@
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [데카르트 방법서설 — 무엇을 확실히 안다고 말할 수 있을까](../../content/stories/culture/philosophy/descartes-method-and-doubt.json) | 공개 | kr |
-| [에픽테토스 — 내게 달린 일과 달리지 않은 일](../../content/stories/culture/philosophy/epictetus-what-is-up-to-us.json) | 공개 | kr |
-| [마르쿠스 아우렐리우스 명상록 — 황제도 자신에게 말을 걸었다](../../content/stories/culture/philosophy/marcus-aurelius-meditations.json) | 공개 | kr |
-| [플라톤의 동굴 — 밖으로 나온 사람은 왜 돌아가야 할까](../../content/stories/culture/philosophy/plato-cave-shadows-return-and-learning.json) | 미승인 | kr |
+| [데카르트 방법서설 — 무엇을 확실히 안다고 말할 수 있을까](../../content/stories/culture/philosophy/descartes-method-and-doubt.json) | 공개 | net |
+| [에픽테토스 — 내게 달린 일과 달리지 않은 일](../../content/stories/culture/philosophy/epictetus-what-is-up-to-us.json) | 공개 | net |
+| [마르쿠스 아우렐리우스 명상록 — 황제도 자신에게 말을 걸었다](../../content/stories/culture/philosophy/marcus-aurelius-meditations.json) | 공개 | net |
+| [플라톤의 동굴 — 밖으로 나온 사람은 왜 돌아가야 할까](../../content/stories/culture/philosophy/plato-cave-shadows-return-and-learning.json) | 미승인 | net |
 
 ### 예술을 보는 법 — 5편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [에라스무스의 초상 — 글을 쓰는 손이 얼굴을 설명할 때](../../content/stories/culture/art/holbein-erasmus-writing.json) | 공개 | kr |
-| [체스 말을 어디에 둘지 오래된 사진에 물었다](../../content/stories/culture/art/man-ray-chess-photo-layout.json) | 공개 | kr |
-| [주전자의 이야기는 바닥에도 적혀 있다](../../content/stories/culture/art/silver-kettle-hidden-letters.json) | 공개 | kr |
-| [영화의 마술 — 카메라를 멈추자 사람이 사라졌다](../../content/stories/culture/film/early-cinema-magic-sword-camera-tricks.json) | 공개 | kr |
-| [접시 바닥에서 복 한 글자를 만나다](../../content/stories/life/food/blue-dish-hidden-fortune.json) | 공개 | kr |
+| [에라스무스의 초상 — 글을 쓰는 손이 얼굴을 설명할 때](../../content/stories/culture/art/holbein-erasmus-writing.json) | 공개 | net |
+| [체스 말을 어디에 둘지 오래된 사진에 물었다](../../content/stories/culture/art/man-ray-chess-photo-layout.json) | 공개 | net |
+| [주전자의 이야기는 바닥에도 적혀 있다](../../content/stories/culture/art/silver-kettle-hidden-letters.json) | 공개 | net |
+| [영화의 마술 — 카메라를 멈추자 사람이 사라졌다](../../content/stories/culture/film/early-cinema-magic-sword-camera-tricks.json) | 공개 | net |
+| [접시 바닥에서 복 한 글자를 만나다](../../content/stories/life/food/blue-dish-hidden-fortune.json) | 공개 | net |
 
 ### 책과 이야기의 형식 — 0편
 
@@ -636,17 +636,17 @@
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [옛 베개 사진 옆에는 왜 자가 서 있을까](../../content/stories/culture/art/glass-photo-pillow-ruler.json) | 공개 | kr |
-| [듀이 십진분류 — 책의 자리를 숫자로 찾기까지](../../content/stories/culture/philosophy/dewey-decimal-books-and-shelves.json) | 공개 | kr |
-| [백과전서 — 장인의 손기술은 어떻게 책 속에 들어왔을까](../../content/stories/culture/literature/encyclopedia-workshops-plates-and-editors.json) | 공개 | kr |
-| [사전 — 뜻을 정하기 전에 용례를 모으다](../../content/stories/culture/literature/dictionary-quotations-and-word-histories.json) | 공개 | kr |
+| [옛 베개 사진 옆에는 왜 자가 서 있을까](../../content/stories/culture/art/glass-photo-pillow-ruler.json) | 공개 | net |
+| [듀이 십진분류 — 책의 자리를 숫자로 찾기까지](../../content/stories/culture/philosophy/dewey-decimal-books-and-shelves.json) | 공개 | net |
+| [백과전서 — 장인의 손기술은 어떻게 책 속에 들어왔을까](../../content/stories/culture/literature/encyclopedia-workshops-plates-and-editors.json) | 공개 | net |
+| [사전 — 뜻을 정하기 전에 용례를 모으다](../../content/stories/culture/literature/dictionary-quotations-and-word-histories.json) | 공개 | net |
 | [페니 우편 1840 — 편지는 왜 받는 사람에게 부담이었을까](../../content/stories/history/europe/penny-post-1840-price-prepayment-and-letters.json) | 공개 | net |
 
 ### 사회와 제도의 탄생 — 3편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [흑사병 뒤의 임금 — 일할 사람이 줄자 무엇이 달라졌을까](../../content/stories/finance/money/black-death-labor-and-wages.json) | 공개 | kr |
-| [미라가 이사하려면 누구에게 물어봐야 할까](../../content/stories/history/america/mummy-museum-move.json) | 공개 | kr |
-| [공장의 시계 — 하루의 길이는 누가 정했을까](../../content/stories/history/europe/factory-clock-workday-and-human-time.json) | 공개 | kr |
+| [흑사병 뒤의 임금 — 일할 사람이 줄자 무엇이 달라졌을까](../../content/stories/finance/money/black-death-labor-and-wages.json) | 공개 | net |
+| [미라가 이사하려면 누구에게 물어봐야 할까](../../content/stories/history/america/mummy-museum-move.json) | 공개 | net |
+| [공장의 시계 — 하루의 길이는 누가 정했을까](../../content/stories/history/europe/factory-clock-workday-and-human-time.json) | 공개 | net |
 

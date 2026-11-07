@@ -1,5 +1,5 @@
 {
-  "state": "active_shared_catalog",
+  "state": "active_single_domain_shared_catalog",
   "date": "2026-11-07",
   "count": 421,
   "articles": [
@@ -33,7 +33,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "great-zimbabwe-stone-and-trade",
@@ -65,7 +69,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mozambique-village-cultural-center",
@@ -97,7 +105,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "sofala-port-and-hinterland",
@@ -129,7 +141,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "timbuktu-trade-and-learning",
@@ -161,7 +177,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "cahokia-mound-and-plaza",
@@ -193,7 +213,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "chicago-lion-sports-helmet",
@@ -225,7 +249,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "cusco-roads-and-empire",
@@ -257,7 +285,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "new-york-before-new-amsterdam",
@@ -289,7 +321,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "tenochtitlan-lake-and-city",
@@ -321,7 +357,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "beijing-forbidden-city-gates-and-distance",
@@ -353,7 +393,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "borobudur-stone-stories-and-steps",
@@ -385,7 +429,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "changan-travelers-and-music",
@@ -417,7 +465,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "edo-daimyo-road-and-residence",
@@ -449,7 +501,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "gyeonghoeru-pond-dragon",
@@ -481,7 +537,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "harappa-seal-and-distant-trade",
@@ -513,7 +573,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "kyoto-genji-court-and-snow",
@@ -545,7 +609,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mohenjo-daro-bronze-and-city-life",
@@ -577,7 +645,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "palace-roof-pangolin",
@@ -609,7 +681,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "panjikent-sogdian-merchants-and-mural",
@@ -641,7 +717,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "samarkand-registan-and-learning",
@@ -673,7 +753,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "suzhou-grand-canal-and-city",
@@ -705,7 +789,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "athens-parthenon-and-tribute",
@@ -737,7 +825,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "cordoba-oranges-and-connections",
@@ -769,7 +861,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "istanbul-hagia-sophia-many-times",
@@ -801,7 +897,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "london-great-stink-and-sewers",
@@ -833,7 +933,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pompeii-isis-small-temple",
@@ -865,7 +969,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "rome-arena-crowd",
@@ -897,7 +1005,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "venice-winged-lion",
@@ -929,7 +1041,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "baghdad-round-city-and-books",
@@ -961,7 +1077,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "isfahan-square-and-everyday-life",
@@ -993,7 +1113,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bmw-car-made-across-borders",
@@ -1014,7 +1138,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/bmw-car-made-across-borders/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1025,7 +1149,11 @@
           "subtopic": "공장과 생산"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "ford-moving-assembly",
@@ -1046,7 +1174,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/ford-moving-assembly/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1057,7 +1185,11 @@
           "subtopic": "공장과 생산"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "harley-davidson-riders-and-community",
@@ -1078,7 +1210,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 브랜드와 소비의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/harley-davidson-riders-and-community/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1089,7 +1221,11 @@
           "subtopic": "브랜드와 소비"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "toyota-inventory-and-timing",
@@ -1110,7 +1246,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/toyota-inventory-and-timing/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1121,7 +1257,11 @@
           "subtopic": "공장과 생산"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "away-suitcase-and-travel-book",
@@ -1142,7 +1282,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 브랜드와 소비의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/away-suitcase-and-travel-book/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1153,7 +1293,11 @@
           "subtopic": "브랜드와 소비"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bombas-socks-and-giving",
@@ -1174,7 +1318,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 브랜드와 소비의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/bombas-socks-and-giving/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1185,7 +1329,11 @@
           "subtopic": "브랜드와 소비"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "department-stores-window-shopping",
@@ -1206,7 +1354,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 상업과 유통의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/department-stores-window-shopping/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1217,7 +1365,11 @@
           "subtopic": "상업과 유통"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "patagonia-climbing-gear-and-rock",
@@ -1238,7 +1390,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 브랜드와 소비의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/patagonia-climbing-gear-and-rock/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1249,7 +1401,11 @@
           "subtopic": "브랜드와 소비"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "zappos-circles-and-responsibility",
@@ -1270,7 +1426,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 경영과 조직의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/zappos-circles-and-responsibility/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1281,7 +1437,11 @@
           "subtopic": "경영과 조직"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "east-india-company-trade-and-taxes",
@@ -1302,7 +1462,7 @@
       "editorial_review": true,
       "rationale": "영국·인도 역사와 긴밀하지만 기업의 무역 권한·통치 권력이라는 조직 변화가 중심이므로 kr 우선. 국가별 편집 시 연결 가능.",
       "proposed_url": "https://knowledgewalk.kr/stories/east-india-company-trade-and-taxes/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1313,7 +1473,11 @@
           "subtopic": "상업과 유통"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "netflix-envelope-to-streaming",
@@ -1334,7 +1498,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 상업과 유통의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/netflix-envelope-to-streaming/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1345,7 +1509,11 @@
           "subtopic": "상업과 유통"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pixar-openusd-many-artists",
@@ -1366,7 +1534,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 경영과 조직의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/pixar-openusd-many-artists/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1377,7 +1545,11 @@
           "subtopic": "경영과 조직"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "tass-stencil-posters",
@@ -1409,7 +1581,11 @@
           "subtopic": "브랜드와 소비"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "western-union-pasted-message",
@@ -1430,7 +1606,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/western-union-pasted-message/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1441,7 +1617,11 @@
           "subtopic": "인터넷과 통신"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "airbnb-room-and-neighborhood",
@@ -1462,7 +1642,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 상업과 유통의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/airbnb-room-and-neighborhood/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1473,7 +1653,11 @@
           "subtopic": "상업과 유통"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "amazon-order-and-warehouse",
@@ -1494,7 +1678,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 상업과 유통의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/amazon-order-and-warehouse/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1505,7 +1689,11 @@
           "subtopic": "상업과 유통"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "boxed-bulk-shopping-without-car",
@@ -1526,7 +1714,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 상업과 유통의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/boxed-bulk-shopping-without-car/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1537,7 +1725,11 @@
           "subtopic": "상업과 유통"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "carnegie-steel-chain-and-homestead",
@@ -1558,7 +1750,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 공장과 생산의 변화·원리·역사를 중심으로 한 새 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/carnegie-steel-chain-and-homestead/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1569,7 +1761,11 @@
           "subtopic": "공장과 생산"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "dell-order-before-computer",
@@ -1590,7 +1786,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 공장과 생산의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/dell-order-before-computer/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1601,7 +1797,11 @@
           "subtopic": "공장과 생산"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "kodak-camera-and-lessons",
@@ -1622,7 +1822,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 브랜드와 소비의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/kodak-camera-and-lessons/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1633,7 +1833,11 @@
           "subtopic": "브랜드와 소비"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "lego-first-wheels",
@@ -1654,7 +1858,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 놀이와 취미의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/lego-first-wheels/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1665,7 +1869,11 @@
           "subtopic": "놀이와 취미"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "lego-play-well",
@@ -1686,7 +1894,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 브랜드와 소비의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/lego-play-well/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1697,7 +1905,11 @@
           "subtopic": "브랜드와 소비"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "microsoft-dos-open-archive",
@@ -1718,7 +1930,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 소프트웨어의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/microsoft-dos-open-archive/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1729,7 +1941,11 @@
           "subtopic": "소프트웨어"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "postit-weak-glue-new-use",
@@ -1750,7 +1966,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 창업과 성장의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/postit-weak-glue-new-use/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1761,7 +1977,11 @@
           "subtopic": "창업과 성장"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pullman-town-wages-and-rent",
@@ -1782,7 +2002,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 경영과 조직의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/pullman-town-wages-and-rent/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1793,7 +2013,11 @@
           "subtopic": "경영과 조직"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "sears-catalog-price-and-rural-door",
@@ -1814,7 +2038,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 상업과 유통의 변화·원리·역사를 중심으로 한 새 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/sears-catalog-price-and-rural-door/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1825,7 +2049,11 @@
           "subtopic": "상업과 유통"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "sony-vinyl-records-return",
@@ -1846,7 +2074,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 브랜드와 소비의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/sony-vinyl-records-return/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1857,7 +2085,11 @@
           "subtopic": "브랜드와 소비"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "standard-oil-octopus-and-competition",
@@ -1878,7 +2110,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 경영과 조직의 변화·원리·역사를 중심으로 한 새 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/standard-oil-octopus-and-competition/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1889,7 +2121,11 @@
           "subtopic": "경영과 조직"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "ai-clothing-labels",
@@ -1910,7 +2146,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 인공지능의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/ai-clothing-labels/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1921,7 +2157,11 @@
           "subtopic": "인공지능"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "babbage-jacquard-cards-and-calculation",
@@ -1942,7 +2182,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/babbage-jacquard-cards-and-calculation/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1953,7 +2193,11 @@
           "subtopic": "컴퓨터의 역사"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "engelbart-mouse-demo",
@@ -1974,7 +2218,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/engelbart-mouse-demo/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -1985,7 +2229,11 @@
           "subtopic": "컴퓨터의 역사"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "eniac-changing-problem-and-human-work",
@@ -2006,7 +2254,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·역사를 중심으로 한 새 검토 원고. 에니악의 미국 내 개발과 인간의 작업을 다룬 원고 근거에 따라 미국 역사 목록에도 연결.",
       "proposed_url": "https://knowledgewalk.kr/stories/eniac-changing-problem-and-human-work/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2017,7 +2265,11 @@
           "subtopic": "컴퓨터의 역사"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "linux-shared-kernel",
@@ -2038,7 +2290,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 소프트웨어의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/linux-shared-kernel/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2049,7 +2301,11 @@
           "subtopic": "소프트웨어"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "qr-code-three-corners",
@@ -2070,7 +2326,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/qr-code-three-corners/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2081,7 +2337,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "typewriter-keys-and-office-records",
@@ -2102,7 +2362,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 컴퓨터의 역사의 변화·원리·역사를 중심으로 한 새 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/typewriter-keys-and-office-records/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2113,7 +2373,11 @@
           "subtopic": "컴퓨터의 역사"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "alt-text-image-in-words",
@@ -2134,7 +2398,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 디지털 생활과 보안의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/alt-text-image-in-words/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2145,7 +2409,11 @@
           "subtopic": "디지털 생활과 보안"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "cookies-browser-memory",
@@ -2166,7 +2434,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 디지털 생활과 보안의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/cookies-browser-memory/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2177,7 +2445,11 @@
           "subtopic": "디지털 생활과 보안"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "dns-names-and-addresses",
@@ -2198,7 +2470,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/dns-names-and-addresses/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2209,7 +2481,11 @@
           "subtopic": "인터넷과 통신"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "email-at-sign",
@@ -2230,7 +2506,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/email-at-sign/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2241,7 +2517,11 @@
           "subtopic": "인터넷과 통신"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "http-404-410",
@@ -2262,7 +2542,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/http-404-410/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2273,7 +2553,11 @@
           "subtopic": "인터넷과 통신"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "https-small-s-and-connection",
@@ -2294,7 +2578,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 디지털 생활과 보안의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/https-small-s-and-connection/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2305,7 +2589,11 @@
           "subtopic": "디지털 생활과 보안"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "morse-wire-signals-and-distance",
@@ -2326,7 +2614,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/morse-wire-signals-and-distance/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2337,7 +2625,11 @@
           "subtopic": "인터넷과 통신"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "web-links-shared-knowledge",
@@ -2358,7 +2650,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/web-links-shared-knowledge/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2369,7 +2661,11 @@
           "subtopic": "인터넷과 통신"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "wifi-connected-without-internet",
@@ -2390,7 +2686,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/wifi-connected-without-internet/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2401,7 +2697,11 @@
           "subtopic": "인터넷과 통신"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "csv-comma-inside-a-cell",
@@ -2422,7 +2722,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/csv-comma-inside-a-cell/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2433,7 +2733,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "python-comedy-name",
@@ -2454,7 +2758,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 소프트웨어의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/python-comedy-name/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2465,7 +2769,11 @@
           "subtopic": "소프트웨어"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "computer-time-repeated-hour",
@@ -2486,7 +2794,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 디지털 생활과 보안의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/computer-time-repeated-hour/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2497,7 +2805,11 @@
           "subtopic": "디지털 생활과 보안"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "css-same-words-different-page",
@@ -2518,7 +2830,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 소프트웨어의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/css-same-words-different-page/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2529,7 +2841,11 @@
           "subtopic": "소프트웨어"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "emoji-number-tags",
@@ -2550,7 +2866,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/emoji-number-tags/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2561,7 +2877,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "git-saving-many-versions",
@@ -2582,7 +2902,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 소프트웨어의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/git-saving-many-versions/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2593,7 +2913,11 @@
           "subtopic": "소프트웨어"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "jpeg-small-photo-file",
@@ -2614,7 +2938,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/jpeg-small-photo-file/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2625,7 +2949,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "ocr-picture-to-searchable-text",
@@ -2646,7 +2974,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/ocr-picture-to-searchable-text/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2657,7 +2985,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "png-transparent-background",
@@ -2678,7 +3010,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/png-transparent-background/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2689,7 +3021,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "sqlite-small-database",
@@ -2710,7 +3046,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/sqlite-small-database/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2721,7 +3057,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "svg-shapes-not-fixed-pixels",
@@ -2742,7 +3082,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/svg-shapes-not-fixed-pixels/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2753,7 +3093,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "unicode-letters-shared-numbers",
@@ -2774,7 +3118,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/unicode-letters-shared-numbers/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2785,7 +3129,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "zip-files-and-repetition",
@@ -2806,7 +3154,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/zip-files-and-repetition/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -2817,7 +3165,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "building-repair-letter",
@@ -2849,7 +3201,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "chicago-floating-stair-detail",
@@ -2881,7 +3237,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "crystal-palace-greenhouse-and-prefabrication",
@@ -2913,7 +3273,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "japan-phoenix-wood-panels",
@@ -2945,7 +3309,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bayeux-embroidery-comet-and-story",
@@ -2977,7 +3345,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "botticelli-venus-shell-wind-shore",
@@ -3009,7 +3381,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bulgaria-magura-human-figures",
@@ -3041,7 +3417,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "chardin-grace-before-meal",
@@ -3073,7 +3453,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "david-recamier-empty-space",
@@ -3105,7 +3489,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "dokseodang-gathering",
@@ -3137,7 +3525,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "el-greco-painting-journey",
@@ -3169,7 +3561,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "fragonard-music-lesson",
@@ -3201,7 +3597,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "gericault-medusa-distant-ship",
@@ -3233,7 +3633,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "glass-photo-pillow-ruler",
@@ -3254,7 +3658,7 @@
       "editorial_review": true,
       "rationale": "베개 자체보다 유리건판 사진·측정 자·기록 방식이 중심이므로 kr의 기록과 지식 전달에 배치.",
       "proposed_url": "https://knowledgewalk.kr/stories/glass-photo-pillow-ruler/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -3265,7 +3669,11 @@
           "subtopic": "기록과 지식 전달"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "hokusai-fuji-thirty-six-changing-views",
@@ -3297,7 +3705,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "holbein-erasmus-writing",
@@ -3318,7 +3730,7 @@
       "editorial_review": true,
       "rationale": "현 원고는 초상화의 자세·독법이 중심이고 국가 맥락은 약함. 독일 화가·네덜란드 인물·스위스 활동을 추정해 국가를 강제하지 않고 kr의 감상법으로 배치.",
       "proposed_url": "https://knowledgewalk.kr/stories/holbein-erasmus-writing/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -3329,7 +3741,11 @@
           "subtopic": "예술을 보는 법"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "inkstone-water-dropper",
@@ -3361,7 +3777,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "italy-print-painting-proposal",
@@ -3393,7 +3813,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "japan-fierce-temple-guardian",
@@ -3425,7 +3849,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "jingdezhen-blue-white-porcelain-sea",
@@ -3457,7 +3885,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "las-meninas-painter-mirror-and-viewer",
@@ -3489,7 +3921,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "leonardo-life-of-observation",
@@ -3521,7 +3957,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "man-ray-chess-photo-layout",
@@ -3542,7 +3982,7 @@
       "editorial_review": true,
       "rationale": "국가보다 사진을 활용한 전시·감상 방식이 중심이므로 kr에 배치.",
       "proposed_url": "https://knowledgewalk.kr/stories/man-ray-chess-photo-layout/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -3553,7 +3993,11 @@
           "subtopic": "예술을 보는 법"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "millet-gleaners-harvest",
@@ -3585,7 +4029,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mona-lisa-looking-guide",
@@ -3617,7 +4065,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "raphael-belle-jardiniere",
@@ -3649,7 +4101,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "rembrandt-emmaus-light",
@@ -3681,7 +4137,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "rembrandt-life-self-portraits",
@@ -3713,7 +4173,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "silver-kettle-hidden-letters",
@@ -3734,7 +4198,7 @@
       "editorial_review": true,
       "rationale": "소장 기관의 위치만으로 제작국을 정할 수 없음. 현재 원고의 중심인 명문·물건을 관찰하는 방법에 따라 kr로 배치.",
       "proposed_url": "https://knowledgewalk.kr/stories/silver-kettle-hidden-letters/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -3745,7 +4209,11 @@
           "subtopic": "예술을 보는 법"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "titian-man-with-glove",
@@ -3777,7 +4245,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "van-eyck-rolin-window",
@@ -3809,7 +4281,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "van-gogh-life-and-letters",
@@ -3841,7 +4317,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "vermeer-lacemaker-looking-guide",
@@ -3873,7 +4353,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "vigee-lebrun-mother-daughter",
@@ -3905,7 +4389,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "watteau-cythera-pilgrimage",
@@ -3937,7 +4425,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "early-cinema-magic-sword-camera-tricks",
@@ -3958,7 +4450,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 예술을 보는 법의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/early-cinema-magic-sword-camera-tricks/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -3969,7 +4461,11 @@
           "subtopic": "예술을 보는 법"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "alice-language-and-rules",
@@ -4001,7 +4497,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "book-owner-seal",
@@ -4033,7 +4533,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "christmas-carol-scrooge-change",
@@ -4065,7 +4569,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "diamond-sutra-868-print-and-gift",
@@ -4097,7 +4605,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "don-quixote-windmills-and-sancho",
@@ -4129,7 +4641,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "dorian-gray-portrait-and-conscience",
@@ -4161,7 +4677,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "eighty-days-time-and-travel",
@@ -4193,7 +4713,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "frankenstein-creator-and-creature",
@@ -4225,7 +4749,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "gift-magi-watch-chain-and-combs",
@@ -4257,7 +4785,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "great-expectations-pip-secret-benefactor",
@@ -4289,7 +4821,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "gulliver-travels-size-and-satire",
@@ -4321,7 +4857,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "jane-austen-life-and-writing",
@@ -4353,7 +4893,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "jane-eyre-love-and-own-voice",
@@ -4385,7 +4929,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "jekyll-hyde-door-and-responsibility",
@@ -4417,7 +4965,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "les-miserables-reading-guide",
@@ -4449,7 +5001,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "little-women-four-sisters-different-futures",
@@ -4481,7 +5037,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "monte-cristo-revenge-and-hope",
@@ -4513,7 +5073,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "okakura-book-tea-room-and-attention",
@@ -4545,7 +5109,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "oz-wizard-road-and-home",
@@ -4577,7 +5145,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "poem-plaque-raised-letters",
@@ -4609,7 +5181,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pride-prejudice-first-impressions",
@@ -4641,7 +5217,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "robinson-crusoe-tools-footprint-friday",
@@ -4673,7 +5253,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "secret-garden-key-and-shared-work",
@@ -4705,7 +5289,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "sherlock-red-headed-league",
@@ -4737,7 +5325,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "tale-two-cities-carton-and-recalled-life",
@@ -4769,7 +5361,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "treasure-island-trust-and-map",
@@ -4801,7 +5397,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "aida-triumphal-march-private-grief",
@@ -4833,7 +5433,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "barber-seville-figaro-letters-disguises",
@@ -4865,7 +5469,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "beethoven-fifth-four-notes",
@@ -4897,7 +5505,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "beethoven-life-and-work",
@@ -4929,7 +5541,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "beethoven-pastoral-five-scenes",
@@ -4961,7 +5577,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "carmen-love-freedom-and-stage",
@@ -4993,7 +5613,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "chopin-life-piano-and-home",
@@ -5025,7 +5649,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "clarinet-many-sizes",
@@ -5046,7 +5674,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 놀이와 취미의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/clarinet-many-sizes/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5057,7 +5685,11 @@
           "subtopic": "놀이와 취미"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "don-giovanni-statue-dinner-and-refusal",
@@ -5089,7 +5721,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "fur-elise-title-and-theme",
@@ -5121,7 +5757,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "goldberg-variations-return",
@@ -5153,7 +5793,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "harp-colored-strings",
@@ -5174,7 +5818,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 놀이와 취미의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/harp-colored-strings/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5185,7 +5829,11 @@
           "subtopic": "놀이와 취미"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "la-traviata-violetta-party-and-silence",
@@ -5217,7 +5865,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "marriage-figaro-countess-susanna-garden",
@@ -5249,7 +5901,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "metal-flute-inlaid-flowers",
@@ -5281,7 +5937,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "metal-flute-woodwind-family",
@@ -5302,7 +5962,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 놀이와 취미의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/metal-flute-woodwind-family/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5313,7 +5973,11 @@
           "subtopic": "놀이와 취미"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "moonlight-sonata-name",
@@ -5345,7 +6009,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mountain-chief-recorded-song",
@@ -5377,7 +6045,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mozart-magic-flute-two-kinds-courage",
@@ -5409,7 +6081,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mozart-turkish-rondo",
@@ -5441,7 +6117,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "orchestra-oboe-a",
@@ -5462,7 +6142,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 놀이와 취미의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/orchestra-oboe-a/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5473,7 +6153,11 @@
           "subtopic": "놀이와 취미"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "schubert-erlking-four-voices",
@@ -5505,7 +6189,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "schubert-trout-clear-water",
@@ -5537,7 +6225,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "schumann-traumerei-memory",
@@ -5569,7 +6261,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "stone-chime-thickness",
@@ -5601,7 +6297,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "trombone-sliding-notes",
@@ -5622,7 +6322,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 놀이와 취미의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/trombone-sliding-notes/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5633,7 +6333,11 @@
           "subtopic": "놀이와 취미"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "vivaldi-four-seasons-spring",
@@ -5665,7 +6369,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "confucius-life-and-learning",
@@ -5697,7 +6405,11 @@
           "subtopic": "철학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "descartes-method-and-doubt",
@@ -5718,7 +6430,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 철학의 질문의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/descartes-method-and-doubt/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5729,7 +6441,11 @@
           "subtopic": "철학의 질문"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "epictetus-what-is-up-to-us",
@@ -5750,7 +6466,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 철학의 질문의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/epictetus-what-is-up-to-us/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5761,7 +6477,11 @@
           "subtopic": "철학의 질문"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "marcus-aurelius-meditations",
@@ -5782,7 +6502,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 철학의 질문의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/marcus-aurelius-meditations/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5793,7 +6513,11 @@
           "subtopic": "철학의 질문"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "plato-cave-shadows-return-and-learning",
@@ -5814,7 +6538,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 철학의 질문의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/plato-cave-shadows-return-and-learning/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5825,7 +6549,11 @@
           "subtopic": "철학의 질문"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "socrates-life-and-questions",
@@ -5857,7 +6585,11 @@
           "subtopic": "철학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "olympia-stadion-games-and-honor",
@@ -5889,7 +6621,11 @@
           "subtopic": "스포츠"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bank-run-lombard-street",
@@ -5910,7 +6646,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/bank-run-lombard-street/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5921,7 +6657,11 @@
           "subtopic": "은행과 신용"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "deposit-insurance-bank-and-safety-net",
@@ -5942,7 +6682,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/deposit-insurance-bank-and-safety-net/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5953,7 +6693,11 @@
           "subtopic": "은행과 신용"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "federal-reserve-1913-regions-and-credit",
@@ -5974,7 +6718,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 은행과 신용의 변화·원리·역사를 중심으로 한 새 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/federal-reserve-1913-regions-and-credit/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -5985,7 +6729,11 @@
           "subtopic": "은행과 신용"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "loan-payment-principal-interest",
@@ -6006,7 +6754,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/loan-payment-principal-interest/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6017,7 +6765,11 @@
           "subtopic": "은행과 신용"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "roosevelt-bank-holiday-and-radio",
@@ -6038,7 +6790,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 은행과 신용의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/roosevelt-bank-holiday-and-radio/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6049,7 +6801,11 @@
           "subtopic": "은행과 신용"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "fintech-ledgers-screens-and-financial-data",
@@ -6070,7 +6826,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 금융과 기술의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/fintech-ledgers-screens-and-financial-data/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6081,7 +6837,11 @@
           "subtopic": "금융과 기술"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "insurance-pool-uncertain-loss",
@@ -6102,7 +6862,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 보험과 위험의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/insurance-pool-uncertain-loss/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6113,7 +6873,11 @@
           "subtopic": "보험과 위험"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "lloyds-coffeehouse-shipping-news",
@@ -6134,7 +6898,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 보험과 위험의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/lloyds-coffeehouse-shipping-news/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6145,7 +6909,11 @@
           "subtopic": "보험과 위험"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bond-price-when-interest-rates-rise",
@@ -6166,7 +6934,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 투자와 시장의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/bond-price-when-interest-rates-rise/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6177,7 +6945,11 @@
           "subtopic": "투자와 시장"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "compound-interest-time",
@@ -6198,7 +6970,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 투자와 시장의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/compound-interest-time/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6209,7 +6981,11 @@
           "subtopic": "투자와 시장"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "diversification-baskets-and-common-weather",
@@ -6230,7 +7006,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 투자와 시장의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/diversification-baskets-and-common-weather/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6241,7 +7017,11 @@
           "subtopic": "투자와 시장"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "south-sea-bubble-promise-and-shares",
@@ -6262,7 +7042,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 투자와 시장의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/south-sea-bubble-promise-and-shares/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6273,7 +7053,11 @@
           "subtopic": "투자와 시장"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "troy-ounce-weight",
@@ -6294,7 +7078,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 돈과 화폐의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/troy-ounce-weight/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6305,7 +7089,11 @@
           "subtopic": "돈과 화폐"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "virginia-company-shares-and-colony",
@@ -6326,7 +7114,7 @@
       "editorial_review": true,
       "rationale": "식민지의 역사적 피해와 배경을 보존하되 주식·자금 조달이 글의 중심이므로 kr 우선.",
       "proposed_url": "https://knowledgewalk.kr/stories/virginia-company-shares-and-colony/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6337,7 +7125,11 @@
           "subtopic": "투자와 시장"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "athens-owl-silver-coin",
@@ -6369,7 +7161,11 @@
           "subtopic": "돈과 화폐"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "banknote-plate-fifty-yang",
@@ -6401,7 +7197,11 @@
           "subtopic": "돈과 화폐"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "black-death-labor-and-wages",
@@ -6422,7 +7222,7 @@
       "editorial_review": true,
       "rationale": "전염병 뒤 노동·임금·제도가 바뀌는 과정을 중심으로 kr 배치. 유럽 역사 페이지에서 연결 가능.",
       "proposed_url": "https://knowledgewalk.kr/stories/black-death-labor-and-wages/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6433,7 +7233,11 @@
           "subtopic": "사회와 제도의 탄생"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "coin-ridged-edge",
@@ -6454,7 +7258,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 돈과 화폐의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/coin-ridged-edge/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6465,7 +7269,11 @@
           "subtopic": "돈과 화폐"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "gold-silver-debate-debt-and-prices",
@@ -6486,7 +7294,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 돈과 화폐의 변화·원리·역사를 중심으로 한 새 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/gold-silver-debate-debt-and-prices/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6497,7 +7305,11 @@
           "subtopic": "돈과 화폐"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "inflation-price-tag-and-purchasing-power",
@@ -6518,7 +7330,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 돈과 화폐의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/inflation-price-tag-and-purchasing-power/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6529,7 +7341,11 @@
           "subtopic": "돈과 화폐"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "john-law-paper-money-and-mississippi",
@@ -6550,7 +7366,7 @@
       "editorial_review": true,
       "rationale": "프랑스의 사례를 사용하지만 화폐·신용과 기대의 작동이 중심이므로 kr 우선.",
       "proposed_url": "https://knowledgewalk.kr/stories/john-law-paper-money-and-mississippi/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6561,7 +7377,11 @@
           "subtopic": "돈과 화폐"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "kublai-paper-money-and-seal",
@@ -6593,7 +7413,11 @@
           "subtopic": "돈과 화폐"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mansa-musa-gold-and-cairo",
@@ -6625,7 +7449,11 @@
           "subtopic": "돈과 화폐"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "rosetta-stone-three-scripts",
@@ -6657,7 +7485,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "taghaza-salt-caravan-and-labor",
@@ -6689,7 +7521,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "apollo-bootprint-close-up",
@@ -6710,7 +7546,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 우주와 천문의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/apollo-bootprint-close-up/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6721,7 +7557,11 @@
           "subtopic": "우주와 천문"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "arpanet-first-node",
@@ -6742,7 +7582,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 인터넷과 통신의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/arpanet-first-node/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6753,7 +7593,11 @@
           "subtopic": "인터넷과 통신"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "boston-tea-tax-and-harbor",
@@ -6785,7 +7629,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "canada-dog-travois",
@@ -6817,7 +7665,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "canadian-pacific-railway-workers-and-belonging",
@@ -6849,7 +7701,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "franklin-printer-club-and-library",
@@ -6881,7 +7737,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "inca-quipu-knots-and-records",
@@ -6913,7 +7773,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mummy-museum-move",
@@ -6934,7 +7798,7 @@
       "editorial_review": true,
       "rationale": "특정 국가의 고대사보다 박물관의 이송·관리라는 제도적 질문이 중심이므로 kr에 배치.",
       "proposed_url": "https://knowledgewalk.kr/stories/mummy-museum-move/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -6945,7 +7809,11 @@
           "subtopic": "사회와 제도의 탄생"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "oracle-bones-questions-and-written-traces",
@@ -6977,7 +7845,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "qin-terracotta-army-faces-and-afterlife",
@@ -7009,7 +7881,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "zheng-he-gifts-and-indian-ocean",
@@ -7041,7 +7917,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "british-calendar-eleven-days",
@@ -7073,7 +7953,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "factory-clock-workday-and-human-time",
@@ -7094,7 +7978,7 @@
       "editorial_review": true,
       "rationale": "공장의 특정 국가보다 노동시간과 생활 제도의 변화가 중심이므로 kr 배치.",
       "proposed_url": "https://knowledgewalk.kr/stories/factory-clock-workday-and-human-time/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -7105,7 +7989,11 @@
           "subtopic": "사회와 제도의 탄생"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "luther-pamphlets-and-reformation",
@@ -7137,7 +8025,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "magna-carta-king-and-written-promise",
@@ -7169,7 +8061,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "newton-mint-work",
@@ -7201,7 +8097,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "nightingale-air-and-observation",
@@ -7222,7 +8122,7 @@
       "editorial_review": true,
       "rationale": "영국 인물의 국적보다 관찰과 간호 환경 개선이라는 지식의 발전을 중심으로 kr 배치.",
       "proposed_url": "https://knowledgewalk.kr/stories/nightingale-air-and-observation/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -7233,7 +8133,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pepys-fire-and-buried-cheese",
@@ -7265,7 +8169,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pliny-vesuvius-pine-cloud-two-letters",
@@ -7297,7 +8205,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "clock-little-door-case",
@@ -7318,7 +8230,7 @@
       "editorial_review": true,
       "rationale": "제작국 근거가 부족하므로 한국 소장품이라는 이유만으로 한국 역사로 분류하지 않음. 보관 도구의 구조 중심으로 kr 배치.",
       "proposed_url": "https://knowledgewalk.kr/stories/clock-little-door-case/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -7329,7 +8241,11 @@
           "subtopic": "집과 생활 도구"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "horn-bow-missing-string",
@@ -7361,7 +8277,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "palace-rank-stones",
@@ -7393,7 +8313,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "passport-three-languages",
@@ -7425,7 +8349,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "persian-couriers-and-relay-stations",
@@ -7457,7 +8385,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "suez-canal-shortcut-and-power",
@@ -7489,7 +8421,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "crane-embroidered-badge",
@@ -7521,7 +8457,11 @@
           "subtopic": "옷과 재료"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "henna-paste-and-stain",
@@ -7553,7 +8493,11 @@
           "subtopic": "옷과 재료"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "princess-crescent-comb",
@@ -7585,7 +8529,11 @@
           "subtopic": "옷과 재료"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "scent-bead-norigae",
@@ -7617,7 +8565,11 @@
           "subtopic": "옷과 재료"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "amaterasu-cave-laughter-and-mirror",
@@ -7649,7 +8601,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "anansi-wisdom-pot-and-son",
@@ -7681,7 +8637,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "christmas-pudding-sixpence",
@@ -7713,7 +8673,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "daedalus-icarus-wings-and-middle-path",
@@ -7745,7 +8709,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "demeter-persephone-seed-and-return",
@@ -7777,7 +8745,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "fionn-salmon-wisdom-and-teacher",
@@ -7809,7 +8781,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "hamelin-pied-piper-unpaid-promise",
@@ -7841,7 +8817,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "isis-osiris-chest-and-search",
@@ -7873,7 +8853,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "maui-snaring-sun-kapa-days",
@@ -7905,7 +8889,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "momotaro-dumplings-and-companions",
@@ -7937,7 +8925,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "odysseus-cyclops-nobody-real-name",
@@ -7969,7 +8961,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "orpheus-eurydice-last-look",
@@ -8001,7 +8997,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pandora-jar-hope-under-lid",
@@ -8033,7 +9033,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pygmalion-ivory-statue-and-living-person",
@@ -8065,7 +9069,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "raven-boy-light-fragments-and-night",
@@ -8097,7 +9105,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "sampo-forging-plenty-and-fragments",
@@ -8129,7 +9141,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "savitri-words-along-yamas-road",
@@ -8161,7 +9177,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "thor-thrym-bridal-veil-and-hammer",
@@ -8193,7 +9213,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "urashima-taro-box-and-lost-time",
@@ -8225,7 +9249,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "victorian-paper-lace-valentine",
@@ -8257,7 +9285,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "zal-simurgh-white-hair-and-feather",
@@ -8289,7 +9321,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "blue-dish-hidden-fortune",
@@ -8310,7 +9346,7 @@
       "editorial_review": true,
       "rationale": "소장 기관만으로 제작국을 단정하지 않음. 복자와 무늬를 읽는 감상 중심으로 kr에 배치.",
       "proposed_url": "https://knowledgewalk.kr/stories/blue-dish-hidden-fortune/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -8321,7 +9357,11 @@
           "subtopic": "예술을 보는 법"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "coffeehouse-news-and-conversation",
@@ -8353,7 +9393,11 @@
           "subtopic": "식탁과 식품 보존"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "dasik-sweets-frame",
@@ -8385,7 +9429,11 @@
           "subtopic": "식탁과 식품 보존"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "embroidered-spoon-pouch",
@@ -8417,7 +9465,11 @@
           "subtopic": "식탁과 식품 보존"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mexico-tortilla-grinding-stone",
@@ -8449,7 +9501,11 @@
           "subtopic": "식탁과 식품 보존"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "popcorn-little-explosion",
@@ -8470,7 +9526,7 @@
       "editorial_review": true,
       "rationale": "특정 지역의 음식 풍습보다 곡물이 터지는 조리 과정이 중심이므로 kr 배치.",
       "proposed_url": "https://knowledgewalk.kr/stories/popcorn-little-explosion/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -8481,7 +9537,11 @@
           "subtopic": "식탁과 식품 보존"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "refrigerated-railcars-food-distance-and-time",
@@ -8502,7 +9562,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 식탁과 식품 보존의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/refrigerated-railcars-food-distance-and-time/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -8513,7 +9573,11 @@
           "subtopic": "식탁과 식품 보존"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "three-sisters-garden",
@@ -8545,7 +9609,11 @@
           "subtopic": "식탁과 식품 보존"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "zongzi-leaf-parcel",
@@ -8577,7 +9645,11 @@
           "subtopic": "식탁과 식품 보존"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "brazier-animal-feet",
@@ -8609,7 +9681,11 @@
           "subtopic": "집과 생활 도구"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "jordan-moving-tent",
@@ -8641,7 +9717,11 @@
           "subtopic": "집과 생활 도구"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "kabyle-house-shared-roof",
@@ -8673,7 +9753,11 @@
           "subtopic": "집과 생활 도구"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "lock-green-knot",
@@ -8705,7 +9789,11 @@
           "subtopic": "집과 생활 도구"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "maehwa-portable-toilet",
@@ -8737,7 +9825,11 @@
           "subtopic": "집과 생활 도구"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "red-comb-chest-turtle",
@@ -8769,7 +9861,11 @@
           "subtopic": "집과 생활 도구"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "safety-elevator-building-height-and-trust",
@@ -8790,7 +9886,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 집과 생활 도구의 변화·원리·역사를 중심으로 한 새 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/safety-elevator-building-height-and-trust/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -8801,7 +9897,11 @@
           "subtopic": "집과 생활 도구"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "darwin-life-of-observation",
@@ -8822,7 +9922,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/darwin-life-of-observation/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -8833,7 +9933,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "elephant-ear-fan",
@@ -8854,7 +9958,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 생명과 인체의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/elephant-ear-fan/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -8865,7 +9969,11 @@
           "subtopic": "생명과 인체"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "flamingo-pink-feathers",
@@ -8886,7 +9994,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 생명과 인체의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/flamingo-pink-feathers/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -8897,7 +10005,11 @@
           "subtopic": "생명과 인체"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "gecko-feet-small-forces",
@@ -8918,7 +10030,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 생명과 인체의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/gecko-feet-small-forces/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -8929,7 +10041,11 @@
           "subtopic": "생명과 인체"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "hooke-cork-small-rooms",
@@ -8950,7 +10066,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/hooke-cork-small-rooms/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -8961,7 +10077,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "jenner-cowpox-and-vaccination-history",
@@ -8982,7 +10102,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/jenner-cowpox-and-vaccination-history/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -8993,7 +10113,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "john-snow-pump-and-evidence",
@@ -9014,7 +10138,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/john-snow-pump-and-evidence/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9025,7 +10149,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mendel-peas-and-returning-traits",
@@ -9046,7 +10174,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/mendel-peas-and-returning-traits/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9057,7 +10185,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pasteur-swan-neck-air-and-dust",
@@ -9078,7 +10210,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/pasteur-swan-neck-air-and-dust/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9089,7 +10221,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "penicillin-mold-to-medicine-team",
@@ -9110,7 +10246,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·역사를 중심으로 한 새 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/penicillin-mold-to-medicine-team/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9121,7 +10257,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "red-panda-tail",
@@ -9142,7 +10282,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 생명과 인체의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/red-panda-tail/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9153,7 +10293,11 @@
           "subtopic": "생명과 인체"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "semmelweis-handwashing-and-hospital-wards",
@@ -9174,7 +10318,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·역사를 중심으로 한 새 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/semmelweis-handwashing-and-hospital-wards/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9185,7 +10329,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "faraday-candle-lecture-and-matter",
@@ -9206,7 +10354,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 물질과 에너지의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/faraday-candle-lecture-and-matter/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9217,7 +10365,11 @@
           "subtopic": "물질과 에너지"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mendeleev-empty-spaces-and-elements",
@@ -9238,7 +10390,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/mendeleev-empty-spaces-and-elements/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9249,7 +10401,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "soap-water-and-oily-plate",
@@ -9270,7 +10426,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 물질과 에너지의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/soap-water-and-oily-plate/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9281,7 +10437,11 @@
           "subtopic": "물질과 에너지"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "earth-map-for-globe",
@@ -9302,7 +10462,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 우주와 천문의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/earth-map-for-globe/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9313,7 +10473,11 @@
           "subtopic": "우주와 천문"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "tides-moon-and-changing-shore",
@@ -9334,7 +10498,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 우주와 천문의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/tides-moon-and-changing-shore/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9345,7 +10509,11 @@
           "subtopic": "우주와 천문"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bowl-sundial",
@@ -9377,7 +10545,11 @@
           "subtopic": "물질과 에너지"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "discovery-panel-labels",
@@ -9398,7 +10570,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 우주와 천문의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/discovery-panel-labels/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9409,7 +10581,11 @@
           "subtopic": "우주와 천문"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "railway-air-brakes-stopping-train",
@@ -9430,7 +10606,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 이동과 운송의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/railway-air-brakes-stopping-train/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9441,7 +10617,11 @@
           "subtopic": "이동과 운송"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "steam-engine-mine-and-factory",
@@ -9462,7 +10642,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 이동과 운송의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/steam-engine-mine-and-factory/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9473,7 +10653,11 @@
           "subtopic": "이동과 운송"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "voyager-grand-tour-old-spacecraft-new-tricks",
@@ -9494,7 +10678,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 우주와 천문의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/voyager-grand-tour-old-spacecraft-new-tricks/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9505,7 +10689,11 @@
           "subtopic": "우주와 천문"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "water-clock-floating-turtle",
@@ -9537,7 +10725,11 @@
           "subtopic": "물질과 에너지"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "a4-fold-same-shape",
@@ -9558,7 +10750,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 수학과 측정의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/a4-fold-same-shape/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9569,7 +10761,11 @@
           "subtopic": "수학과 측정"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "braille-six-dots",
@@ -9590,7 +10786,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 수학과 측정의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/braille-six-dots/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9601,7 +10797,11 @@
           "subtopic": "수학과 측정"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "eratosthenes-shadow-earth-circumference",
@@ -9622,7 +10822,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 수학과 측정의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/eratosthenes-shadow-earth-circumference/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9633,7 +10833,11 @@
           "subtopic": "수학과 측정"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "boiling-water-mountain-pressure",
@@ -9654,7 +10858,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 물질과 에너지의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/boiling-water-mountain-pressure/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9665,7 +10869,11 @@
           "subtopic": "물질과 에너지"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "caroline-herschel-comet-notebook-and-salary",
@@ -9686,7 +10894,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/caroline-herschel-comet-notebook-and-salary/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9697,7 +10905,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "galileo-telescope-changed-sky",
@@ -9718,7 +10930,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/galileo-telescope-changed-sky/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9729,7 +10941,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "henrietta-leavitt-star-rhythm-distance",
@@ -9750,7 +10966,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/henrietta-leavitt-star-rhythm-distance/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9761,7 +10977,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "ice-floats-lake-freezes-from-top",
@@ -9782,7 +11002,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 물질과 에너지의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/ice-floats-lake-freezes-from-top/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9793,7 +11013,11 @@
           "subtopic": "물질과 에너지"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "kepler-mars-observations-and-ellipse",
@@ -9814,7 +11038,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/kepler-mars-observations-and-ellipse/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9825,7 +11049,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "magnetic-penny",
@@ -9846,7 +11074,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 물질과 에너지의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/magnetic-penny/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9857,7 +11085,11 @@
           "subtopic": "물질과 에너지"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "marie-curie-life-and-discovery",
@@ -9878,7 +11110,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/marie-curie-life-and-discovery/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9889,7 +11121,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "newton-prism-white-light-colours",
@@ -9910,7 +11146,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 과학자의 발견의 변화·원리·사례가 중심인 글.",
       "proposed_url": "https://knowledgewalk.kr/stories/newton-prism-white-light-colours/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -9921,7 +11157,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "star-map-carved-again",
@@ -9953,7 +11193,11 @@
           "subtopic": "물질과 에너지"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "taj-mahal-marble-memory",
@@ -9985,7 +11229,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "eiffel-tower-iron-and-exhibition",
@@ -10017,7 +11265,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "alhambra-water-and-stories",
@@ -10049,7 +11301,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bremen-old-animals-and-new-home",
@@ -10081,7 +11337,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pinocchio-schoolbook-and-responsibility",
@@ -10113,7 +11373,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "notre-dame-novel-and-misunderstood-love",
@@ -10145,7 +11409,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "liberty-lazarus-and-harbor-poem",
@@ -10177,7 +11445,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "rio-1808-court-crosses-atlantic",
@@ -10209,7 +11481,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "abu-simbel-temple-and-rescue",
@@ -10241,7 +11517,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mecca-pilgrimage-and-city",
@@ -10273,7 +11553,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "canterbury-pilgrims-and-pardoners-gold",
@@ -10305,7 +11589,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "gogol-overcoat-clerk-and-city",
@@ -10337,7 +11625,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "sleepy-hollow-story-and-rumor",
@@ -10369,7 +11661,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "madame-bovary-desire-and-credit",
@@ -10401,7 +11697,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "persepolis-fire-and-clay-records",
@@ -10433,7 +11733,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "piri-reis-map-and-shared-seas",
@@ -10465,7 +11769,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "palenque-glyphs-and-city-memory",
@@ -10497,7 +11805,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "angkor-wat-temple-and-changing-faith",
@@ -10529,7 +11841,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "sydney-cove-1788-fleet-and-shore",
@@ -10561,7 +11877,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "quebec-1608-river-and-fur-trade",
@@ -10593,7 +11913,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "singer-sewing-machine-and-installments",
@@ -10614,7 +11938,7 @@
       "editorial_review": false,
       "rationale": "국가 소개보다 상업과 유통의 기술·제도·변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/singer-sewing-machine-and-installments/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -10625,7 +11949,11 @@
           "subtopic": "상업과 유통"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mccormick-reaper-and-harvest-window",
@@ -10646,7 +11974,7 @@
       "editorial_review": false,
       "rationale": "국가 소개보다 공장과 생산의 기술·제도·변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/mccormick-reaper-and-harvest-window/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -10657,7 +11985,11 @@
           "subtopic": "공장과 생산"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "atlantic-cable-failures-and-connection",
@@ -10678,7 +12010,7 @@
       "editorial_review": false,
       "rationale": "국가 소개보다 인터넷과 통신의 기술·제도·변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/atlantic-cable-failures-and-connection/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -10689,7 +12021,11 @@
           "subtopic": "인터넷과 통신"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bank-england-1694-government-credit",
@@ -10710,7 +12046,7 @@
       "editorial_review": false,
       "rationale": "국가 소개보다 은행과 신용의 기술·제도·변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/bank-england-1694-government-credit/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -10721,7 +12057,11 @@
           "subtopic": "은행과 신용"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bretton-woods-1944-money-rules",
@@ -10742,7 +12082,7 @@
       "editorial_review": false,
       "rationale": "국가 소개보다 돈과 화폐의 기술·제도·변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/bretton-woods-1944-money-rules/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -10753,7 +12093,11 @@
           "subtopic": "돈과 화폐"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "roentgen-xray-shadow-and-diagnosis",
@@ -10774,7 +12118,7 @@
       "editorial_review": false,
       "rationale": "국가 소개보다 과학자의 발견의 기술·제도·변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/roentgen-xray-shadow-and-diagnosis/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -10785,7 +12129,11 @@
           "subtopic": "과학자의 발견"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "harvey-heart-blood-and-quantity",
@@ -10806,7 +12154,7 @@
       "editorial_review": false,
       "rationale": "국가 소개보다 생명과 인체의 기술·제도·변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/harvey-heart-blood-and-quantity/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -10817,7 +12165,11 @@
           "subtopic": "생명과 인체"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "dewar-vacuum-flask-and-heat",
@@ -10838,7 +12190,7 @@
       "editorial_review": false,
       "rationale": "국가 소개보다 집과 생활 도구의 기술·제도·변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/dewar-vacuum-flask-and-heat/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -10849,7 +12201,11 @@
           "subtopic": "집과 생활 도구"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "phonograph-groove-and-returning-voice",
@@ -10870,7 +12226,7 @@
       "editorial_review": false,
       "rationale": "국가 소개보다 놀이와 취미의 기술·제도·변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/phonograph-groove-and-returning-voice/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -10881,7 +12237,11 @@
           "subtopic": "놀이와 취미"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "dewey-decimal-books-and-shelves",
@@ -10902,7 +12262,7 @@
       "editorial_review": false,
       "rationale": "국가 소개보다 기록과 지식 전달의 기술·제도·변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/dewey-decimal-books-and-shelves/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -10913,7 +12273,11 @@
           "subtopic": "기록과 지식 전달"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "hamlet-ghost-proof-and-revenge",
@@ -10945,7 +12309,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "faust-first-part-gretchen-and-desire",
@@ -10977,7 +12345,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "moby-dick-ishmael-ahab-and-sea",
@@ -11009,7 +12381,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "little-mermaid-voice-and-soul",
@@ -11041,7 +12417,11 @@
           "subtopic": "신화와 민속"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "delacroix-liberty-1830-and-barricade",
@@ -11073,7 +12453,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "surrender-breda-keys-and-victory",
@@ -11105,7 +12489,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "pompeii-79-ash-and-everyday-city",
@@ -11137,7 +12525,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "nara-todaiji-buddha-and-state",
@@ -11169,7 +12561,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "dunhuang-caves-paintings-and-donors",
@@ -11201,7 +12597,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "karnak-columns-light-and-growing-temple",
@@ -11233,7 +12633,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "romeo-juliet-names-and-missed-letter",
@@ -11265,7 +12669,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "cherry-orchard-auction-and-firs",
@@ -11297,7 +12705,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "great-gatsby-green-light-and-past",
@@ -11329,7 +12741,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "joyce-dead-song-snow-and-memory",
@@ -11361,7 +12777,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "michelangelo-david-marble-and-republic",
@@ -11393,7 +12813,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "samothrace-nike-wind-and-prow",
@@ -11425,7 +12849,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "great-wall-gates-and-political-choices",
@@ -11457,7 +12885,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "ise-shrine-rebuilding-and-inherited-craft",
@@ -11489,7 +12921,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "rostam-sohrab-token-and-recognition",
@@ -11521,7 +12957,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "fez-markets-water-and-travelers-view",
@@ -11553,7 +12993,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "macbeth-prophecy-and-borrowed-crown",
@@ -11585,7 +13029,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "antigone-burial-law-and-listening",
@@ -11617,7 +13065,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "tolstoy-pahom-land-and-sunset",
@@ -11649,7 +13101,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bach-brandenburg-dedication-and-voices",
@@ -11681,7 +13137,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "rembrandt-night-watch-light-and-company",
@@ -11713,7 +13173,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "lisbon-1755-earthquake-and-new-streets",
@@ -11745,7 +13209,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "japanese-theatre-revolving-stage-and-labor",
@@ -11777,7 +13245,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "petra-siq-facade-and-local-knowledge",
@@ -11809,7 +13281,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "dujiangyan-irrigation-and-maintenance",
@@ -11841,7 +13317,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "brooklyn-bridge-caissons-and-shared-work",
@@ -11873,7 +13353,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "boulton-watt-fuel-savings-business",
@@ -11894,7 +13378,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 경영과 조직의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/boulton-watt-fuel-savings-business/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -11905,7 +13389,11 @@
           "subtopic": "경영과 조직"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "linotype-matrices-and-newspaper-time",
@@ -11926,7 +13414,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 공장과 생산의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/linotype-matrices-and-newspaper-time/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -11937,7 +13425,11 @@
           "subtopic": "공장과 생산"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "tcp-byte-stream-and-retransmission",
@@ -11958,7 +13450,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 인터넷과 통신의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/tcp-byte-stream-and-retransmission/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -11969,7 +13461,11 @@
           "subtopic": "인터넷과 통신"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "gnu-manifesto-sharing-and-conditions",
@@ -11990,7 +13486,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 소프트웨어의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/gnu-manifesto-sharing-and-conditions/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12001,7 +13497,11 @@
           "subtopic": "소프트웨어"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "clearing-house-cheques-and-net-balances",
@@ -12022,7 +13522,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 금융과 기술의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/clearing-house-cheques-and-net-balances/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12033,7 +13533,11 @@
           "subtopic": "금융과 기술"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "overend-gurney-1866-reputation-and-losses",
@@ -12054,7 +13558,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 은행과 신용의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/overend-gurney-1866-reputation-and-losses/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12065,7 +13569,11 @@
           "subtopic": "은행과 신용"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "joule-paddles-work-and-heat",
@@ -12086,7 +13594,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 물질과 에너지의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/joule-paddles-work-and-heat/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12097,7 +13605,11 @@
           "subtopic": "물질과 에너지"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "spectroscope-dark-lines-and-elements",
@@ -12118,7 +13630,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 우주와 천문의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/spectroscope-dark-lines-and-elements/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12129,7 +13641,11 @@
           "subtopic": "우주와 천문"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "safety-bicycle-chain-and-pneumatic-tyre",
@@ -12150,7 +13666,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 이동과 운송의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/safety-bicycle-chain-and-pneumatic-tyre/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12161,7 +13677,11 @@
           "subtopic": "이동과 운송"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "encyclopedia-workshops-plates-and-editors",
@@ -12182,7 +13702,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 기록과 지식 전달의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/encyclopedia-workshops-plates-and-editors/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12193,7 +13713,11 @@
           "subtopic": "기록과 지식 전달"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "edison-lighting-network-beyond-bulb",
@@ -12214,7 +13738,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 창업과 성장의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/edison-lighting-network-beyond-bulb/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12225,7 +13749,11 @@
           "subtopic": "창업과 성장"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bessemer-converter-air-and-steel-production",
@@ -12246,7 +13774,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 공장과 생산의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/bessemer-converter-air-and-steel-production/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12257,7 +13785,11 @@
           "subtopic": "공장과 생산"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "crc-checksum-detecting-changed-data",
@@ -12278,7 +13810,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 데이터와 기록의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/crc-checksum-detecting-changed-data/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12289,7 +13821,11 @@
           "subtopic": "데이터와 기록"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "markdown-readable-source-and-commonmark",
@@ -12310,7 +13846,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 소프트웨어의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/markdown-readable-source-and-commonmark/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12321,7 +13857,11 @@
           "subtopic": "소프트웨어"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "ruthwell-savings-bank-small-deposits",
@@ -12342,7 +13882,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 은행과 신용의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/ruthwell-savings-bank-small-deposits/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12353,7 +13893,11 @@
           "subtopic": "은행과 신용"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "barometer-pressure-trends-and-weather",
@@ -12374,7 +13918,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 수학과 측정의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/barometer-pressure-trends-and-weather/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12385,7 +13929,11 @@
           "subtopic": "수학과 측정"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "lavoisier-metals-air-and-balanced-mass",
@@ -12406,7 +13954,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 물질과 에너지의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/lavoisier-metals-air-and-balanced-mass/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12417,7 +13965,11 @@
           "subtopic": "물질과 에너지"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "appert-bottles-heat-and-preserving-food",
@@ -12438,7 +13990,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 식탁과 식품 보존의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/appert-bottles-heat-and-preserving-food/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12449,7 +14001,11 @@
           "subtopic": "식탁과 식품 보존"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "cream-separator-centrifuge-and-dairy-work",
@@ -12470,7 +14026,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 식탁과 식품 보존의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/cream-separator-centrifuge-and-dairy-work/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12481,7 +14037,11 @@
           "subtopic": "식탁과 식품 보존"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "dictionary-quotations-and-word-histories",
@@ -12502,7 +14062,7 @@
       "editorial_review": false,
       "rationale": "특정 국가의 소개보다 기록과 지식 전달의 기술·제도·작업 변화 과정을 중심으로 한 검토 원고.",
       "proposed_url": "https://knowledgewalk.kr/stories/dictionary-quotations-and-word-histories/index.html",
-      "canonical_domain": "kr",
+      "canonical_domain": "net",
       "publish_sites": [
         "net",
         "kr"
@@ -12513,7 +14073,11 @@
           "subtopic": "기록과 지식 전달"
         }
       ],
-      "country_topic": null
+      "country_topic": null,
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "midsummer-lovers-magic-and-artisans",
@@ -12545,7 +14109,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "metamorphosis-gregor-door-and-family",
@@ -12577,7 +14145,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "gogol-nose-rank-and-recognition",
@@ -12609,7 +14181,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "fidelio-leonore-prison-and-chorus",
@@ -12641,7 +14217,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "goya-third-may-lantern-and-facing-men",
@@ -12673,7 +14253,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "vermeer-milkmaid-light-and-pouring",
@@ -12705,7 +14289,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "chichen-itza-pyramid-cenote-and-plazas",
@@ -12737,7 +14325,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "sanchi-stupa-gates-and-circling-path",
@@ -12769,7 +14361,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "machu-picchu-terraces-stone-and-landscape",
@@ -12801,7 +14397,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "topkapi-courts-gates-and-government",
@@ -12833,7 +14433,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "silas-marner-gold-child-and-neighbors",
@@ -12865,7 +14469,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "queen-spades-three-cards-and-obsession",
@@ -12897,7 +14505,11 @@
           "subtopic": "문학"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "freischutz-wolfs-glen-and-final-shot",
@@ -12929,7 +14541,11 @@
           "subtopic": "음악"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "sistine-ceiling-adam-and-painted-architecture",
@@ -12961,7 +14577,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "vulcan-forge-apollo-and-interrupted-work",
@@ -12993,7 +14613,11 @@
           "subtopic": "미술"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "mont-saint-michel-tides-abbey-and-stacked-rooms",
@@ -13025,7 +14649,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "ajanta-caves-prayer-halls-painting-and-monks",
@@ -13057,7 +14685,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "osaka-mills-mint-and-port-city",
@@ -13089,7 +14721,11 @@
           "subtopic": "도시의 변화"
         }
       ],
-      "country_topic": "도시"
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "china-wheelbarrows-chengdu-roads-and-loads",
@@ -13121,7 +14757,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "생활"
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "bahia-palace-courtyards-water-and-craft",
@@ -13153,7 +14793,11 @@
           "subtopic": "건축"
         }
       ],
-      "country_topic": "문화"
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "penny-post-1840-price-prepayment-and-letters",
@@ -13189,7 +14833,11 @@
           "subtopic": "기록과 지식 전달"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "versailles-1789-women-bread-and-royal-move",
@@ -13221,7 +14869,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "canossa-1077-penance-princes-and-power",
@@ -13253,7 +14905,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "perry-1853-black-ships-and-negotiated-ports",
@@ -13285,7 +14941,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "china-examinations-cells-books-and-office",
@@ -13317,7 +14977,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "asoka-edicts-kalinga-and-public-morality",
@@ -13349,7 +15013,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "ellis-island-inspection-manifests-and-families",
@@ -13381,7 +15049,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "brazil-1822-independence-crown-and-unequal-freedom",
@@ -13413,7 +15085,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "amarna-akhenaten-capital-sun-and-afterlife",
@@ -13445,7 +15121,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     },
     {
       "id": "constantinople-1453-walls-sea-and-new-capital",
@@ -13477,7 +15157,11 @@
           "subtopic": "역사와 제도"
         }
       ],
-      "country_topic": "역사"
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
     }
   ]
 }

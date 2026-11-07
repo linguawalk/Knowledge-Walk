@@ -25,7 +25,7 @@ class DomainTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.result=domains.build()
-        cls.net=ROOT/'_site';cls.kr=ROOT/'_kr-site'
+        cls.net=ROOT/'_site';cls.kr=cls.net/'knowledge'
         cls.originals={s['id']:s for s in domains.load_stories()}
 
     def test_shared_search_catalogs_are_complete_and_identical(self):
@@ -35,11 +35,11 @@ class DomainTests(unittest.TestCase):
         self.assertEqual(net,{s['id'] for s in self.originals.values() if domains.publishable(s)})
         self.assertIn('venice-winged-lion',net);self.assertIn('ford-moving-assembly',kr)
 
-    def test_kr_is_self_contained_and_has_correct_canonicals(self):
+    def test_subject_view_has_correct_net_canonicals_and_internal_assets(self):
         for path in self.kr.rglob('*.html'):
             text=path.read_text();self.assertNotIn('개편 미리보기',text)
             relative=path.relative_to(self.kr).as_posix()
-            expected='https://knowledgewalk.kr/'+relative
+            expected='https://knowledgewalk.net/knowledge/'+relative
             if relative.startswith('stories/'):
                 rows=domains.read_json(ROOT/'config/proposals/net-kr-story-placement.json')['articles']
                 row=next(r for r in rows if r['id']==path.parent.name)
@@ -50,12 +50,12 @@ class DomainTests(unittest.TestCase):
                 u=urlsplit(url)
                 if u.scheme or u.netloc:continue
                 target=(path.parent/unquote(u.path)).resolve() if u.path else path.resolve()
-                self.assertTrue(target.is_relative_to(self.kr),url)
+                self.assertTrue(target.is_relative_to(self.net),url)
                 self.assertTrue(target.is_file(),(path,url))
                 if u.fragment and target.suffix=='.html':
                     other=Links();other.feed(target.read_text());self.assertIn(unquote(u.fragment),other.ids,(path,url))
         self.assertFalse((self.kr/'CNAME').exists())
-        self.assertIn('DirectoryIndex index.html', (self.kr/'.htaccess').read_text())
+        self.assertFalse((ROOT/'_kr-site').exists())
 
     def test_old_kr_article_links_now_render_full_shared_body(self):
         for sid in self.result['kr_included']:
@@ -92,7 +92,8 @@ class DomainTests(unittest.TestCase):
         sitemap=(self.net/'sitemap.xml').read_text()
         self.assertIn('https://knowledgewalk.net/stories/fur-elise-title-and-theme/index.html',sitemap)
         self.assertNotIn('https://knowledgewalk.net/knowledge/stories/fur-elise-title-and-theme/index.html',sitemap)
-        self.assertIn('https://knowledgewalk.net/knowledge/stories/crc-checksum-detecting-changed-data/index.html',sitemap)
+        self.assertIn('https://knowledgewalk.net/stories/crc-checksum-detecting-changed-data/index.html',sitemap)
+        self.assertNotIn('https://knowledgewalk.net/knowledge/stories/',sitemap)
 
     def test_no_unapproved_story_in_either_site(self):
         for s in self.originals.values():
@@ -102,16 +103,17 @@ class DomainTests(unittest.TestCase):
                 for suffix in ['.jpg','.png','.webp']:
                     self.assertFalse((output/'media'/(s['id']+suffix)).exists())
 
-    def test_kr_live_setting_switches_to_real_domain_without_touching_dns(self):
+    def test_single_domain_ignores_legacy_external_domain_flag(self):
         cfg=domains.read_json(ROOT/'config/deployment.json');cfg['kr_live']=True
         taxonomy=domains.read_json(ROOT/'config/proposals/net-kr-taxonomy.json')
         rows=domains.read_json(ROOT/'config/proposals/net-kr-story-placement.json')['articles']
         cats,stories=domains.prepare('net',taxonomy,rows,self.originals)
         site=domains.DomainSite('net',cats,stories,taxonomy,cfg);site.home()
-        self.assertIn('href="https://knowledgewalk.kr/"',site.files['index.html'])
+        self.assertIn('href="https://knowledgewalk.net/knowledge/"',site.files['index.html'])
+        self.assertNotIn('https://knowledgewalk.kr/',site.files['index.html'])
         self.assertNotIn('개편 미리보기',site.files['index.html'])
 
-    def test_live_kr_uses_same_canonical_for_general_story_on_both_sites(self):
+    def test_single_domain_keeps_general_story_canonical_on_net(self):
         cfg=domains.read_json(ROOT/'config/deployment.json');cfg['kr_live']=True
         tax=domains.read_json(ROOT/'config/proposals/net-kr-taxonomy.json')
         rows=domains.read_json(ROOT/'config/proposals/net-kr-story-placement.json')['articles']
@@ -121,7 +123,14 @@ class DomainTests(unittest.TestCase):
             story=next(s for s in stories if s['id']=='crc-checksum-detecting-changed-data')
             site.story(story)
             page=site.files[site.story_path(story)]
-            self.assertIn('rel="canonical" href="https://knowledgewalk.kr/stories/'+story['id']+'/index.html"',page)
+            self.assertIn('rel="canonical" href="https://knowledgewalk.net/stories/'+story['id']+'/index.html"',page)
+
+    def test_single_domain_has_no_external_kr_links_or_upload_artifact(self):
+        for path in self.net.rglob('*.html'):
+            parser=Links();parser.feed(path.read_text())
+            self.assertFalse(any(url.startswith('https://knowledgewalk.kr/') for url in parser.urls),path)
+        self.assertFalse((ROOT/'.github/workflows/hostinger-kr.yml').exists())
+        self.assertNotIn('Save independent kr site',(ROOT/'.github/workflows/pages.yml').read_text())
 
     def test_hostinger_zip_puts_site_at_archive_root(self):
         with tempfile.TemporaryDirectory() as tmp:

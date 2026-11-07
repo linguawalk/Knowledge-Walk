@@ -56,13 +56,13 @@ class DomainSite(SplitSite):
         if page == '404.html':
             text=text.replace('</head>','<meta name="robots" content="noindex,follow"></head>',1)
         canonical='https://knowledgewalk.'+self.domain+'/'+page
-        if self.bridge:canonical='https://knowledgewalk.net/'+self.settings['temporary_kr_path']+'/'+page
+        if self.bridge or (self.settings.get('single_domain') and self.domain=='kr'):canonical='https://knowledgewalk.net/'+self.settings['temporary_kr_path']+'/'+page
         story=self.article_lookup.get(page) if article else None
         if story and self.taxonomy.get('shared_catalog'):
             canonical=canonical_story_url(story, self.settings)
         text=text.replace('</head>',f'<link rel="canonical" href="{esc(canonical)}"></head>',1)
         net_base='https://knowledgewalk.net/'
-        kr_base='https://knowledgewalk.kr/' if self.settings['kr_live'] else net_base+self.settings['temporary_kr_path']+'/'
+        kr_base='https://knowledgewalk.kr/' if self.settings['kr_live'] and not self.settings.get('single_domain') else net_base+self.settings['temporary_kr_path']+'/'
         other=(net_base if self.domain=='kr' else kr_base)+(self.story_path(story) if story else '')
         if story and self.taxonomy.get('shared_catalog'):
             row=story['placement']; paths=[]
@@ -76,7 +76,7 @@ class DomainSite(SplitSite):
                 paths.append(f'<a href="{esc(kr_base+path)}">{esc(topic["subtopic"])} 서가 ↗</a>')
             nav='<nav class="reading-paths" aria-label="국가와 분야로 읽기">'+''.join(paths)+'</nav>'
             text=text.replace('<div class="reading-actions">',nav+'<div class="reading-actions">',1)
-        label='국가와 이야기' if self.domain=='kr' else '발견과 지식'
+        label='국가별 보기' if self.domain=='kr' else '분야별 보기'
         switch=f'<a class="site-switch" href="{other}">{label} ↗</a>'
         text=text.replace('<button class="menu-button"',switch+'<button class="menu-button"',1)
         text=text.replace('<small>© 2026 KnowledgeWalk</small>',switch+'<small>© 2026 KnowledgeWalk</small>')
@@ -87,7 +87,7 @@ def canonical_story_url(story, settings):
     row=story.get('placement', story)
     owner=row.get('canonical_domain', row.get('proposed_domain','knowledgewalk.net').split('.')[-1])
     base='https://knowledgewalk.net/'
-    if owner=='kr':
+    if owner=='kr' and not settings.get('single_domain'):
         base='https://knowledgewalk.kr/' if settings['kr_live'] else base+settings['temporary_kr_path']+'/'
     return base+'stories/'+story['id']+'/index.html'
 
@@ -113,7 +113,8 @@ def write_site(destination,files,site):
 def build(sync_root=False):
     settings=read_json(ROOT/'config/deployment.json')
     require(settings['mode']=='split','Split mode is not active')
-    require(settings['temporary_kr_path']=='knowledge','Unexpected temporary route')
+    require(settings['temporary_kr_path']=='knowledge','Unexpected subject route')
+    single=settings.get('single_domain',False)
     taxonomy=read_json(ROOT/'config/proposals/net-kr-taxonomy.json')
     rows=read_json(ROOT/'config/proposals/net-kr-story-placement.json')['articles']
     stories=load_stories();legacy_categories=read_json(ROOT/'config/categories.json');validate(legacy_categories,stories)
@@ -124,8 +125,9 @@ def build(sync_root=False):
         files[domain]=sites[domain].render()
         sites[domain].layout('404.html','찾는 이야기가 보이지 않아요','다른 이야기에서 다시 시작해 보세요.','<section class="container empty-state"><h1>찾는 이야기가 보이지 않아요.</h1><a href="index.html">첫 화면으로 ↗</a></section>')
         files[domain]=sites[domain].files
-        files[domain]['sitemap.xml']='<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>https://knowledgewalk.'+domain+'/'+name+'</loc></url>' for name in files[domain] if name.endswith('.html') and name!='404.html' and (name not in sites[domain].article_lookup or not taxonomy.get('shared_catalog') or canonical_story_url(sites[domain].article_lookup[name],settings)=='https://knowledgewalk.'+domain+'/'+name))+'</urlset>'
-        files[domain]['robots.txt']='User-agent: *\nAllow: /\nSitemap: https://knowledgewalk.'+domain+'/sitemap.xml\n'
+        sitemap_base='https://knowledgewalk.net/knowledge/' if single and domain=='kr' else 'https://knowledgewalk.'+domain+'/'
+        files[domain]['sitemap.xml']='<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+sitemap_base+name+'</loc></url>' for name in files[domain] if name.endswith('.html') and name!='404.html' and (name not in sites[domain].article_lookup or not taxonomy.get('shared_catalog') or canonical_story_url(sites[domain].article_lookup[name],settings)==sitemap_base+name))+'</urlset>'
+        files[domain]['robots.txt']='User-agent: *\nAllow: /\nSitemap: '+sitemap_base+'sitemap.xml\n'
     netids={s['id'] for s in sites['net'].stories};krids={s['id'] for s in sites['kr'].stories}
     shared=taxonomy.get('shared_catalog',False)
     if shared:
@@ -162,8 +164,9 @@ def build(sync_root=False):
     for folder in [ROOT/'_site',ROOT/'_kr-site']:
         require(not folder.is_symlink(),'Output directory cannot be a symlink')
         if folder.exists():shutil.rmtree(folder)
-    write_site(ROOT/'_site',files['net'],sites['net']);write_site(ROOT/'_kr-site',files['kr'],sites['kr'])
-    if not settings['kr_live']:
+    write_site(ROOT/'_site',files['net'],sites['net'])
+    if not single:write_site(ROOT/'_kr-site',files['kr'],sites['kr'])
+    if single or not settings['kr_live']:
         kr=sites['kr'];bridge=DomainSite('kr',kr.categories,kr.stories,taxonomy,settings,bridge=True)
         bridge_files=bridge.render()
         write_site(ROOT/'_site/knowledge',bridge_files,bridge)
@@ -173,8 +176,9 @@ def build(sync_root=False):
     # Keep old preview URLs functional; their media refer to the original net root.
     for s in sites['kr'].stories:
         path=ROOT/'_site'/Site.image_path(sites['kr'],s);path.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(ROOT/s['image']['file'],path)
-    (ROOT/'_kr-site/.htaccess').write_text('DirectoryIndex index.html index.php\nErrorDocument 404 /404.html\n')
-    (ROOT/'_kr-site/knowledgewalk-deployment.json').write_text(json.dumps({'site':'knowledgewalk.kr','stories':len(krids),'ids':sorted(krids)},ensure_ascii=False))
+    if not single:
+        (ROOT/'_kr-site/.htaccess').write_text('DirectoryIndex index.html index.php\nErrorDocument 404 /404.html\n')
+        (ROOT/'_kr-site/knowledgewalk-deployment.json').write_text(json.dumps({'site':'knowledgewalk.kr','stories':len(krids),'ids':sorted(krids)},ensure_ascii=False))
     if sync_root:
         for source in (ROOT/'_site').rglob('*'):
             if source.is_file():
@@ -184,7 +188,7 @@ def build(sync_root=False):
         allowed.add('collections')
         excluded=sorted(p.name+('/*' if p.is_dir() else '') for p in ROOT.iterdir() if p.name not in allowed|{'_config.yml','CNAME'})
         (ROOT/'_config.yml').write_text(json.dumps({'exclude':excluded},indent=2)+'\n')
-    return dict(mode='split',pages=sum(1 for p in (ROOT/'_site').rglob('*.html')),included=sorted(netids|krids),net_included=sorted(netids),kr_included=sorted(krids),excluded=len(stories)-len(netids|krids),output=str(ROOT/'_site'),kr_output=str(ROOT/'_kr-site'),kr_live=settings['kr_live'])
+    return dict(mode='split',pages=sum(1 for p in (ROOT/'_site').rglob('*.html')),included=sorted(netids|krids),net_included=sorted(netids),kr_included=sorted(krids),excluded=len(stories)-len(netids|krids),output=str(ROOT/'_site'),kr_output=None if single else str(ROOT/'_kr-site'),kr_live=False if single else settings['kr_live'],single_domain=single)
 
 
 def package_kr():
