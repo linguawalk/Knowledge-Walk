@@ -23,5 +23,13 @@
   "original_content_unchanged": true,
   "local_tests_passed": 54,
   "responsive_search_checks": 42,
-  "deployment_status": "pending_net_deployment"
+  "deployment_status": "net_and_temporary_subject_live_verified",
+  "pages_run_id": 42356772470,
+  "validation_run_id": 42356773085,
+  "verified_at": "2026-11-07",
+  "live_responses_verified": 40,
+  "live_net_catalog_stories": 408,
+  "live_subject_catalog_stories": 408,
+  "independent_kr_artifact_locally_verified": true,
+  "publication_commit": "cc0cbdb8f7e79c6d0991a0b733aed9110c2016da"
 }
