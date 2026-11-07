@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-28",
-  "configuration_check_run_id": 40499823121,
+  "checked_at": "2026-11-07",
+  "configuration_check_run_id": 42358844836,
   "configuration_check_status": "success",
   "schedule_utc": null,
   "schedule_local": null,
-  "target_daily_drafts": 30,
+  "target_daily_drafts": 20,
   "enabled": false,
   "api_key_configured": false,
   "automatic_publication": false,
@@ -13,7 +13,7 @@
   "live_generation_active": false,
   "review_branch": "drafts/review-queue",
   "local_tests_passed": 32,
-  "evidence": "GitHub job step outcomes confirm missing-key diagnostic succeeded and paid generation step was skipped.",
+  "evidence": "GitHub dry-run42358844836: missing-key diagnostic success; paid research/generation skipped. No schedule trigger is registered.",
   "plan_status": "cancelled_by_user",
-  "cancellation_note": "사용자가 자동 제작 계획을 철회했습니다. 요청 시 수동 제작만 진행합니다. 예약 트리거를 제거했습니다."
+  "cancellation_note": "2026-11-07 사용자가 별도 API 방식임을 확인한 후 매일20편 자동 제작을 중단했습니다. 준비 중인 코드 변경은 되돌렸으며 유료 호출과 예약 등록은 없었습니다."
 }

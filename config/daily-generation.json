@@ -2,7 +2,7 @@
   "enabled": false,
   "timezone": "Asia/Seoul",
   "local_start_time": "09:00",
-  "daily_count": 30,
+  "daily_count": 20,
   "reserve_topics": 10,
   "text_model": "gpt-4.1",
   "image_model": "gpt-image-1",
@@ -51,6 +51,6 @@
     "git"
   ],
   "publication_policy": "draft_only_human_approval_required",
-  "activation_note": "2026-10-28 사용자 요청으로 자동 제작 계획 철회. 요청받을 때만 수동 제작. 기존 요청은 재활성화 승인으로 사용하지 않음.",
+  "activation_note": "2026-11-07 사용자 요청으로 별도 API를 사용하는 매일20편 자동 제작 계획을 중단. 유료 API 호출과 예약 실행은 하지 않음. 향후 이 채팅에서 제작 요청을 받을 때만 수동 제작하고 게시 신호가 있을 때만 공개. 재활성화에는 새로운 명시적 요청이 필요.",
   "max_planning_output_tokens": 12000
 }
