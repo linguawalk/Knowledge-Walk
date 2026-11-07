@@ -9,8 +9,10 @@ from build_site import ROOT, Site, esc, load_stories, publishable, read_json, re
 
 DEST = ROOT / 'collections/site-redesign'
 REGION_IDS = ['asia-oceania', 'europe', 'americas', 'middle-east-africa']
-TOPIC_IDS = ['industry', 'digital', 'finance', 'science', 'everyday-inventions', 'ideas']
+TOPIC_IDS = ['history-cities', 'arts', 'industry', 'digital', 'finance', 'science', 'everyday-inventions', 'ideas']
 INTRO = {
+    '역사와 도시': '사건과 제도, 도시의 변화를 따라 역사를 읽습니다.',
+    '문화와 예술': '문학과 음악, 미술과 건축에서 오래 남는 이야기를 만납니다.',
     '아시아대양주': '오랜 문명과 오늘의 생활 사이, 익숙하면서도 새로운 이야기를 만납니다.',
     '유럽': '광장의 조각부터 소설과 음악까지, 장소에 남은 이야기를 따라갑니다.',
     '아메리카': '도시와 사람, 전승과 변화가 만나는 대륙을 읽습니다.',
@@ -25,13 +27,14 @@ INTRO = {
 
 
 def prepare(domain, taxonomy, placements, originals):
-    rows = [r for r in placements if r['proposed_domain'] == 'knowledgewalk.' + domain]
-    required = set(originals)
-    require({r['id'] for r in placements} == required, 'Placement coverage differs from canonical stories')
+    shared = taxonomy.get('shared_catalog', False)
+    rows = [r for r in placements if domain in r.get('publish_sites', [])] if shared else [r for r in placements if r['proposed_domain'] == 'knowledgewalk.' + domain]
+    require({r['id'] for r in placements} == set(originals), 'Placement coverage differs from canonical stories')
     require(len({r['id'] for r in placements}) == len(placements), 'Duplicate placements')
     categories = []
     definitions = taxonomy['net' if domain == 'net' else 'kr']
     ids = REGION_IDS if domain == 'net' else TOPIC_IDS
+    require(len(ids) == len(definitions), 'Taxonomy IDs differ from definitions')
     lookup = {}
     for cid, (title, children) in zip(ids, definitions.items()):
         children = list(children)
@@ -42,16 +45,34 @@ def prepare(domain, taxonomy, placements, originals):
             children += ['지역에 걸친 이야기']
         categories.append(dict(id=cid, title=title, label=title, intro=INTRO[title], children=children))
         lookup[title] = cid
+    if shared and domain == 'net':
+        categories.append(dict(id='common', title='공통 교양', label='공통 교양', intro='국가의 경계를 넘어 만나는 발견과 생각, 생활의 이야기입니다.', children=['교양과 발견']))
     mapped = []
     for row in rows:
         original = originals[row['id']]
-        # Approval is always evaluated from current canonical data, never from a saved plan flag.
         if not publishable(original):
             continue
         story = copy.deepcopy(original)
-        story['category'] = lookup[row['region'] if domain == 'net' else row['topic']]
-        story['subcategory'] = (row['country'] or '지역에 걸친 이야기') if domain == 'net' else row['subtopic']
-        story['placement'] = row
+        placement = copy.deepcopy(row)
+        if shared:
+            require(row.get('canonical_domain') in ['net', 'kr'], 'Invalid canonical domain')
+            require(set(row['publish_sites']) == {'net', 'kr'}, 'Shared story must appear on both sites')
+            require(bool(row.get('kr_topics')), 'Missing subject classification')
+            for topic in row['kr_topics']:
+                require(topic['subtopic'] in taxonomy['kr'].get(topic['topic'], []), 'Invalid subject classification')
+            if domain == 'net':
+                story['category'] = lookup[row['region']] if row.get('region') else 'common'
+                story['subcategory'] = (row['country'] or '지역에 걸친 이야기') if row.get('region') else '교양과 발견'
+                placement['topic'] = row.get('country_topic') or '교양'
+            else:
+                topic = row['kr_topics'][0]
+                story['category'] = lookup[topic['topic']]
+                story['subcategory'] = topic['subtopic']
+                story['search_categories'] = list(dict.fromkeys(lookup[t['topic']] for t in row['kr_topics']))
+        else:
+            story['category'] = lookup[row['region'] if domain == 'net' else row['topic']]
+            story['subcategory'] = (row['country'] or '지역에 걸친 이야기') if domain == 'net' else row['subtopic']
+        story['placement'] = placement
         mapped.append(story)
     return categories, mapped
 
@@ -88,7 +109,9 @@ class SplitSite(Site):
         markup = markup.replace('분야 보기', '메뉴 보기').replace('aria-label="주요 분야"', 'aria-label="주요 메뉴"')
         markup = markup.replace('Knowledge<span>Walk</span><i', f'Knowledge<span>Walk</span><small class="brand-section">{self.brand_label}</small><i')
         if self.domain == 'net':
+            markup = re.sub(r'<details class="nav-group[^"]*"><summary>공통 교양.*?</details>', '', markup, flags=re.S)
             for c in self.categories:
+                if c['id'] == 'common': continue
                 extras = [ch for ch in c['children'] if ch not in self.taxonomy['net'][c['title']] and ch != '지역에 걸친 이야기']
                 for child in extras:
                     # Extra-country pages remain accessible through the regional hub, not a sprawling top menu.
@@ -113,17 +136,24 @@ class SplitSite(Site):
                 f'<div class="feature-caption"><div><p class="eyebrow">{esc(story["subcategory"])}</p>'
                 f'<h2>{esc(story["title"])}</h2></div><span class="round-arrow" aria-hidden="true">↗</span></div></a>')
 
+    def in_category(self, story, cid):
+        if self.domain == 'kr' and self.taxonomy.get('shared_catalog'):
+            title=self.category_map[cid]['title']
+            return any(t['topic']==title for t in story['placement']['kr_topics'])
+        return story['category']==cid
+
     def home(self):
         page = 'index.html'
         is_net = self.domain == 'net'
         heading = '한 국가를 만나면,<br>이야기가 시작됩니다.' if is_net else '세상을 바꾼 발견,<br>그 시작을 읽습니다.'
         description = ('도시의 광장, 오래된 작품, 일상에 남은 풍습.<br>국가를 따라 걷고, 이야기로 조금 더 가까워집니다.' if is_net else
-                       '기업과 컴퓨터, 돈과 과학, 매일 쓰는 물건까지.<br>오늘의 세상이 만들어진 과정을 이야기로 만납니다.')
+                       '역사와 도시, 문학과 음악에서 기업과 과학까지.<br>궁금한 분야를 따라 같은 이야기를 새롭게 만납니다.')
         candidates = ['venice-winged-lion', 'mona-lisa-looking-guide'] if is_net else ['ford-moving-assembly', 'lloyds-coffeehouse-shipping-news']
         feature_story = next((s for sid in candidates for s in self.stories if s['id'] == sid), self.stories[0])
         fields = ''
         for n, c in enumerate(self.categories, 1):
-            subset = [s for s in self.stories if s['category'] == c['id']]
+            if c['id'] == 'common': continue
+            subset = [s for s in self.stories if self.in_category(s,c['id'])]
             names = self.taxonomy['net'][c['title']] if is_net else c['children']
             fields += (f'<a class="field-card" href="{self.link(page, self.category_path(c["id"]))}">'
                        f'<div class="field-top"><span>{n:02d}</span><span aria-hidden="true">↗</span></div>'
@@ -133,8 +163,8 @@ class SplitSite(Site):
         shelves = []
         for n in range(3):
             for c in self.categories:
-                subset = [s for s in self.stories if s['category'] == c['id'] and s != feature_story]
-                if len(subset) > n:
+                subset = [s for s in self.stories if self.in_category(s,c['id']) and s != feature_story]
+                if len(subset) > n and subset[n]["id"] not in {s["id"] for s in shelves}:
                     shelves.append(subset[n])
         storycards = ''.join(self.card(page, s) for s in shelves[:9])
         jump_name = '지역과 국가 둘러보기' if is_net else '궁금한 주제 둘러보기'
@@ -142,10 +172,29 @@ class SplitSite(Site):
 <div class="intro-strip"><div class="container"><span>{len(self.stories)}편의 이야기</span><p>읽는 즐거움에, 믿을 만한 근거를 더합니다.</p><span aria-hidden="true">✳</span></div></div>
 <section id="fields" class="container fields-section"><div class="section-heading"><div><p class="eyebrow">FOLLOW YOUR CURIOSITY</p><h2>{jump_name}</h2></div></div><div class="field-grid split-fields">{fields}</div><div class="library-shortcuts"><a class="button" href="library.html">전체 이야기 서가 ↗</a><a class="text-link" href="reading.html">내 읽기 목록 ↗</a></div></section>
 <section class="container story-shelf"><div class="section-heading"><div><p class="eyebrow">A LITTLE FURTHER</p><h2>오늘, 이 이야기부터</h2></div><a class="text-link" href="search.html">모든 이야기 ↗</a></div><div class="story-grid">{storycards}</div></section>'''
+        if is_net and self.taxonomy.get('shared_catalog'):
+            body = body.replace('<div class="library-shortcuts">', '<div class="library-shortcuts"><a class="text-link" href="categories/common/index.html">공통 교양 ↗</a>', 1)
+        if not is_net:
+            body = body.replace('<div class="library-shortcuts">', '<div class="library-shortcuts"><a class="text-link" href="categories/arts/음악/index.html">음악 이야기 ↗</a>', 1)
         self.layout(page, self.brand_label, re.sub('<[^>]+>', ' ', description), body)
 
     def category(self, category, child=None):
         if self.domain == 'kr':
+            if self.taxonomy.get('shared_catalog'):
+                originals = self.stories
+                selected = []
+                for story in originals:
+                    matches = [t for t in story['placement']['kr_topics'] if t['topic'] == category['title'] and (child is None or t['subtopic'] == child)]
+                    if matches:
+                        item = dict(story, category=category['id'], subcategory=matches[0]['subtopic'])
+                        selected.append(item)
+                try:
+                    self.stories = selected
+                    return super().category(category, child)
+                finally:
+                    self.stories = originals
+            return super().category(category, child)
+        if category['id'] == 'common':
             return super().category(category, child)
         cid = category['id']
         page = self.category_path(cid, child)

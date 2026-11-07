@@ -5,5 +5,6 @@
   "kr_live": false,
   "temporary_kr_path": "knowledge",
   "kr_hosting": "existing_hostinger",
-  "note": "kr 업로드·실제 접속 확인 전에는 net의 knowledge 경로로 연결하여 기존 글의 접근을 유지합니다."
+  "note": "하나의 승인 원고를 국가별 net과 분야별 kr에서 공유. 실제 kr 검증 전에는 /knowledge/ 경로로 분야별 사이트를 제공.",
+  "catalog_mode": "shared"
 }

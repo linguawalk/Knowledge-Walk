@@ -357,7 +357,7 @@ class Site:
         index = []
         for s in self.stories:
             index.append({"id": s["id"], "title": s["title"], "summary": s["summary"], "category": s["category"],
-                          "category_title": self.category_map[s["category"]]["title"], "subcategory": s["subcategory"],
+                          "category_title": self.category_map[s["category"]]["title"], "subcategory": s["subcategory"], "categories": s.get("search_categories", [s["category"]]),
                           "url": self.story_path(s), "image": self.image_path(s), "alt": s["image"]["alt"],
                           "text": " ".join([s["title"], s["subtitle"], s["summary"], s["subcategory"], self.category_map[s["category"]]["label"]] + [p for b in s["body"] for p in b["paragraphs"]])})
         self.files["search-index.json"] = json.dumps(index, ensure_ascii=False, separators=(",", ":")) + "\n"

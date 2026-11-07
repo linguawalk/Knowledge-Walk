@@ -36,9 +36,10 @@ class SplitTests(unittest.TestCase):
             for name,body in site.render().items():
                 cls.pages[Path(domain)/name]=body
 
-    def test_disjoint_complete_publication(self):
+    def test_shared_complete_publication(self):
         ids=[s['id'] for site in self.sites.values() for s in site.stories]
-        self.assertEqual(len(ids),len(set(ids)))
+        self.assertEqual(len(ids),2*len(set(ids)))
+        self.assertEqual({s['id'] for s in self.sites['net'].stories},{s['id'] for s in self.sites['kr'].stories})
         self.assertEqual(set(ids),{s['id'] for s in self.originals.values() if split.publishable(s)})
         for site in self.sites.values():
             for story in site.stories:

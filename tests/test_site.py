@@ -120,7 +120,7 @@ class SiteTests(unittest.TestCase):
         pending = [s for s in stories if not builder.publishable(s)]
         index = builder.read_json(output / "search-index.json")
         deployment = ROOT / 'config/deployment.json'
-        if deployment.exists() and builder.read_json(deployment).get('mode') == 'split':
+        if deployment.exists() and builder.read_json(deployment).get('mode') == 'split' and builder.read_json(deployment).get('catalog_mode') != 'shared':
             placements = builder.read_json(ROOT / 'config/proposals/net-kr-story-placement.json')['articles']
             net_ids = {r['id'] for r in placements if r['proposed_domain'] == 'knowledgewalk.net'}
             self.assertEqual({s['id'] for s in index}, {s['id'] for s in approved} & net_ids)

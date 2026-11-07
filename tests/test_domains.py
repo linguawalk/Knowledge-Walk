@@ -28,17 +28,23 @@ class DomainTests(unittest.TestCase):
         cls.net=ROOT/'_site';cls.kr=ROOT/'_kr-site'
         cls.originals={s['id']:s for s in domains.load_stories()}
 
-    def test_search_ownership_is_complete_and_disjoint(self):
+    def test_shared_search_catalogs_are_complete_and_identical(self):
         net={s['id'] for s in domains.read_json(self.net/'search-index.json')}
         kr={s['id'] for s in domains.read_json(self.kr/'search-index.json')}
-        self.assertFalse(net&kr)
-        self.assertEqual(net|kr,{s['id'] for s in self.originals.values() if domains.publishable(s)})
+        self.assertEqual(net,kr)
+        self.assertEqual(net,{s['id'] for s in self.originals.values() if domains.publishable(s)})
         self.assertIn('venice-winged-lion',net);self.assertIn('ford-moving-assembly',kr)
 
     def test_kr_is_self_contained_and_has_correct_canonicals(self):
         for path in self.kr.rglob('*.html'):
             text=path.read_text();self.assertNotIn('개편 미리보기',text)
-            self.assertIn('https://knowledgewalk.kr/'+path.relative_to(self.kr).as_posix(),text)
+            relative=path.relative_to(self.kr).as_posix()
+            expected='https://knowledgewalk.kr/'+relative
+            if relative.startswith('stories/'):
+                rows=domains.read_json(ROOT/'config/proposals/net-kr-story-placement.json')['articles']
+                row=next(r for r in rows if r['id']==path.parent.name)
+                expected=domains.canonical_story_url({'id':row['id'],'placement':row},domains.read_json(ROOT/'config/deployment.json'))
+            self.assertIn('rel="canonical" href="'+expected+'"',text)
             parser=Links();parser.feed(text)
             for url in parser.urls:
                 u=urlsplit(url)
@@ -51,14 +57,42 @@ class DomainTests(unittest.TestCase):
         self.assertFalse((self.kr/'CNAME').exists())
         self.assertIn('DirectoryIndex index.html', (self.kr/'.htaccess').read_text())
 
-    def test_old_kr_article_links_preserve_fragment_and_have_readable_fallback(self):
+    def test_old_kr_article_links_now_render_full_shared_body(self):
         for sid in self.result['kr_included']:
             page=(self.net/'stories'/sid/'index.html').read_text()
-            self.assertIn('location.search+location.hash',page)
-            self.assertIn('../../knowledge/stories/'+sid+'/index.html',page)
-            self.assertIn('<a href=',page)
+            self.assertIn('<article class="reading-page">',page)
+            self.assertNotIn('location.replace',page)
             self.assertTrue((self.net/'knowledge/stories'/sid/'index.html').is_file())
+            original=self.originals[sid]
+            self.assertEqual(page.count('class="section-number"'),sum(bool(b.get('heading')) for b in original['body']))
         self.assertIn('https://knowledgewalk.net/stories/venice-winged-lion/index.html', (self.net/'stories/venice-winged-lion/index.html').read_text())
+
+    def test_country_and_music_share_one_article_and_canonical(self):
+        sid='fur-elise-title-and-theme'
+        self.assertIn(sid,(self.kr/'categories/arts/음악/index.html').read_text())
+        self.assertIn(sid,(self.net/'categories/europe/독일/index.html').read_text())
+        for output in [self.net,self.kr,self.net/'knowledge']:
+            page=(output/'stories'/sid/'index.html').read_text()
+            self.assertEqual(page.count('rel="canonical"'),1)
+            self.assertIn('rel="canonical" href="https://knowledgewalk.net/stories/'+sid+'/index.html"',page)
+            self.assertIn('국가와 분야로 읽기',page)
+        crc='crc-checksum-detecting-changed-data'
+        self.assertIn(crc,(self.net/'categories/common/index.html').read_text())
+        for path in self.net.glob('categories/*/*/index.html'):
+            if path.relative_to(self.net).parts[1] in ['asia-oceania','europe','americas','middle-east-africa']:self.assertNotIn('data-story-id="'+crc+'"',path.read_text())
+
+    def test_secondary_subject_membership_and_canonical_sitemap(self):
+        sid='penny-post-1840-price-prepayment-and-letters'
+        for path in ['categories/history-cities/역사와-제도/index.html','categories/ideas/기록과-지식-전달/index.html']:
+            page=(self.kr/path).read_text()
+            self.assertEqual(page.count('data-story-id="'+sid+'"'),1)
+        index=domains.read_json(self.kr/'search-index.json')
+        self.assertEqual(set(next(s for s in index if s['id']==sid)['categories']),{'history-cities','ideas'})
+        self.assertFalse((self.net/'knowledge/media').exists())
+        sitemap=(self.net/'sitemap.xml').read_text()
+        self.assertIn('https://knowledgewalk.net/stories/fur-elise-title-and-theme/index.html',sitemap)
+        self.assertNotIn('https://knowledgewalk.net/knowledge/stories/fur-elise-title-and-theme/index.html',sitemap)
+        self.assertIn('https://knowledgewalk.net/knowledge/stories/crc-checksum-detecting-changed-data/index.html',sitemap)
 
     def test_no_unapproved_story_in_either_site(self):
         for s in self.originals.values():
@@ -76,6 +110,18 @@ class DomainTests(unittest.TestCase):
         site=domains.DomainSite('net',cats,stories,taxonomy,cfg);site.home()
         self.assertIn('href="https://knowledgewalk.kr/"',site.files['index.html'])
         self.assertNotIn('개편 미리보기',site.files['index.html'])
+
+    def test_live_kr_uses_same_canonical_for_general_story_on_both_sites(self):
+        cfg=domains.read_json(ROOT/'config/deployment.json');cfg['kr_live']=True
+        tax=domains.read_json(ROOT/'config/proposals/net-kr-taxonomy.json')
+        rows=domains.read_json(ROOT/'config/proposals/net-kr-story-placement.json')['articles']
+        for domain in ['net','kr']:
+            cats,stories=domains.prepare(domain,tax,rows,self.originals)
+            site=domains.DomainSite(domain,cats,stories,tax,cfg)
+            story=next(s for s in stories if s['id']=='crc-checksum-detecting-changed-data')
+            site.story(story)
+            page=site.files[site.story_path(story)]
+            self.assertIn('rel="canonical" href="https://knowledgewalk.kr/stories/'+story['id']+'/index.html"',page)
 
     def test_hostinger_zip_puts_site_at_archive_root(self):
         with tempfile.TemporaryDirectory() as tmp:

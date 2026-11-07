@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-07",
+  "release": {
+    "id": "shared-catalog-activation-20261107",
+    "date": "2026-11-07",
+    "user_request": "이 방식으로 홈페이지를 적용해 주세요",
+    "catalog_mode": "shared",
+    "originals": 421,
+    "approved_logical_stories": 408,
+    "net_catalog_stories": 408,
+    "subject_catalog_stories": 408,
+    "unpublished_excluded": 13,
+    "country_listed_stories": 252,
+    "common_stories": 156,
+    "canonical_owners": {
+      "net": 251,
+      "kr": 157
+    },
+    "net_url": "https://knowledgewalk.net/",
+    "subject_url": "https://knowledgewalk.net/knowledge/",
+    "kr_live": false,
+    "hostinger_check_run_id": 42355887498,
+    "hostinger_exit_code": 2,
+    "hostinger_blocker": "HOSTINGER_FTP_PASSWORD GitHub secret 미등록. 연결 검사 실패, 업로드 단계 skipped.",
+    "original_content_unchanged": true,
+    "local_tests_passed": 54,
+    "responsive_search_checks": 42,
+    "deployment_status": "pending_net_deployment"
+  },
+  "browser_checks": [
+    {
+      "path": "index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/categories/arts/음악/index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "stories/fur-elise-title-and-theme/index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/stories/fur-elise-title-and-theme/index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "stories/crc-checksum-detecting-changed-data/index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/stories/crc-checksum-detecting-changed-data/index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "categories/common/index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/categories/history-cities/역사와-제도/index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "_kr-site/stories/fur-elise-title-and-theme/index.html",
+      "width": 1440,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "search.html",
+      "width": 1440,
+      "query": "엘리제를",
+      "found": "fur-elise-title-and-theme"
+    },
+    {
+      "path": "knowledge/search.html",
+      "width": 1440,
+      "query": "엘리제를",
+      "found": "fur-elise-title-and-theme"
+    },
+    {
+      "path": "knowledge/search.html",
+      "width": 1440,
+      "query": "페니 우편",
+      "category": "ideas",
+      "found_secondary": true
+    },
+    {
+      "path": "index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/categories/arts/음악/index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "stories/fur-elise-title-and-theme/index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/stories/fur-elise-title-and-theme/index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "stories/crc-checksum-detecting-changed-data/index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/stories/crc-checksum-detecting-changed-data/index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "categories/common/index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/categories/history-cities/역사와-제도/index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "_kr-site/stories/fur-elise-title-and-theme/index.html",
+      "width": 1024,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "search.html",
+      "width": 1024,
+      "query": "엘리제를",
+      "found": "fur-elise-title-and-theme"
+    },
+    {
+      "path": "knowledge/search.html",
+      "width": 1024,
+      "query": "엘리제를",
+      "found": "fur-elise-title-and-theme"
+    },
+    {
+      "path": "knowledge/search.html",
+      "width": 1024,
+      "query": "페니 우편",
+      "category": "ideas",
+      "found_secondary": true
+    },
+    {
+      "path": "index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/categories/arts/음악/index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "stories/fur-elise-title-and-theme/index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/stories/fur-elise-title-and-theme/index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "stories/crc-checksum-detecting-changed-data/index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/stories/crc-checksum-detecting-changed-data/index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "categories/common/index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "knowledge/categories/history-cities/역사와-제도/index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "_kr-site/stories/fur-elise-title-and-theme/index.html",
+      "width": 390,
+      "overflow": false,
+      "status": 200
+    },
+    {
+      "path": "search.html",
+      "width": 390,
+      "query": "엘리제를",
+      "found": "fur-elise-title-and-theme"
+    },
+    {
+      "path": "knowledge/search.html",
+      "width": 390,
+      "query": "엘리제를",
+      "found": "fur-elise-title-and-theme"
+    },
+    {
+      "path": "knowledge/search.html",
+      "width": 390,
+      "query": "페니 우편",
+      "category": "ideas",
+      "found_secondary": true
+    }
+  ],
+  "source_policy": "같은 원고ID와 원문·이미지·출처를 사용하며 신규 원고나 새 게시 승인은 추가하지 않음.",
+  "representative_examples": [
+    "fur-elise-title-and-theme",
+    "crc-checksum-detecting-changed-data",
+    "penny-post-1840-price-prepayment-and-letters"
+  ]
+}

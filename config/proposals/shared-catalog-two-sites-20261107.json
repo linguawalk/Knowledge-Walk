@@ -1,8 +1,8 @@
 {
-  "state": "proposal_only_not_applied",
+  "state": "active_shared_catalog",
   "date": "2026-11-07",
   "purpose": "하나의 원고를 net 국가별·kr 분야별 서가와 양쪽 본문으로 제공하는 검토안",
-  "active_deployment_unchanged": true,
+  "active_deployment_unchanged": false,
   "net_country_content_labels": [
     "역사",
     "도시",
@@ -60,5 +60,6 @@
     ],
     "canonical_domain": "kr",
     "canonical_url_policy": "실제 kr 연결 전에는 현재 도달 가능한 임시 주제 경로를 유지. 실제kr 전환은 별도 검증 후 시행."
-  }
+  },
+  "actual_kr_live": false
 }

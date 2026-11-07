@@ -144,7 +144,7 @@ async function initializeSearch() {
     // Create DOM nodes instead of interpolating content or search queries into HTML.
     function render() {
       const tokens = normalize(input.value).split(/\s+/).filter(Boolean);
-      const matching = items.filter(item => (!filter.value || item.category === filter.value)
+      const matching = items.filter(item => (!filter.value || (item.categories || [item.category]).includes(filter.value))
         && tokens.every(token => normalize(`${item.text} ${item.category_title}`).includes(token)));
       results.replaceChildren();
       matching.forEach(item => {

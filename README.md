@@ -2,7 +2,7 @@
 
 역사를 중심으로 돈·도시·문화·과학에 얽힌 이야기를 쉽고 깊이 읽는 사이트입니다. WordPress와 별도 데이터베이스 없이, 콘텐츠 파일에서 HTML을 생성합니다. 작업 범위는 `linguawalk/Knowledge-Walk` 한 저장소입니다.
 
-현재 공개 홈페이지는 `https://knowledgewalk.net/`입니다. 국가 중심 net 251편과 임시 주제 사이트 157편을 공개합니다. [도메인 전환 기록](docs/domain-migration.md)을 확인할 수 있습니다.
+현재 공개 홈페이지는 `https://knowledgewalk.net/`입니다. 승인 원고 408편을 국가별 net과 분야별 사이트에서 함께 제공합니다. 분야별 사이트는 실제 kr 연결 전까지 `/knowledge/`에서 이용합니다. [도메인 전환 기록](docs/domain-migration.md)을 확인할 수 있습니다.
 
 자동 제작 계획은 2026-10-28 사용자 요청으로 철회했습니다. 예약 실행을 제거했으며 앞으로는 채팅에서 요청할 때 제작하고 사용자 검토 후 게시합니다. [현재 방침](docs/daily-generation.md)
 
@@ -206,7 +206,7 @@ python3 tests/browser_check.py
 
 ## net·kr 분리 게시
 
-현재 공개 생성은 `config/deployment.json`의 분리 모드를 따릅니다. net은 국가 중심 251편, kr은 주제 중심 157편입니다. 두 사이트는 같은 원고 저장소에서 독립 게시본으로 생성됩니다. kr은 기존 Hostinger 업로드 연결 전이며, 그동안 주제 사이트는 net의 `/knowledge/`에서 읽을 수 있습니다. [게시 구성·Hostinger 반영·주소 보존 안내](docs/domain-split-publication.md)를 참고합니다.
+현재 공개 생성은 하나의 승인 원고를 두 탐색 방식으로 제공하는 공통 콘텐츠 모드입니다. net은 국가별, kr은 분야별로 각각 408편을 보여 줍니다. 원문·이미지·출처는 한 번만 관리하며 글별 대표주소는 유지합니다. 실제 kr 연결 전에는 분야별 사이트를 net의 `/knowledge/`에서 제공합니다. [게시 구성·Hostinger 반영·주소 보존 안내](docs/domain-split-publication.md)를 참고합니다.
 
 [net 새 이야기 10편 — 정원과 조각, 길 위의 역사](docs/review/batch-20261106-ten-net-gardens-statues-and-crossroads.md)을 검토용으로 준비했습니다. 결말을 포함한 문학 5편과 조각 2편·유산과 도시 3편이며, 본문 약 2,300자와 번호 소제목 7개를 유지했습니다. 이 묶음은 후속 게시 요청으로 승인해 공개했습니다.
 
@@ -224,4 +224,4 @@ python3 tests/browser_check.py
 
 [net 역사 이야기 10편 — 편지와 성문, 제국의 변화](docs/review/batch-20261107-ten-net-history-letters-gates-and-empires.md)을 새 검토용으로 준비했습니다. 10편 모두 역사이며 본문 약 2,300~2,450자·번호 소제목 7개와 기존 별도 바로가기를 유지합니다. 이 묶음은 후속 홈페이지 게시 요청으로 승인했습니다.
 
-[국가별·분야별 공통 콘텐츠 운영안](docs/planning/shared-catalog-two-sites-20261107.md)을 검토용으로 정리했습니다. 두 사이트에 같은 원고를 제공하는 구조는 아직 운영에 적용하지 않았습니다.
+[국가별·분야별 공통 콘텐츠 운영안](docs/planning/shared-catalog-two-sites-20261107.md)을 검토용으로 정리했습니다. 사용자의 적용 요청으로 국가별·분야별 공통 콘텐츠 구조를 반영했습니다. 실제 kr 도메인 연결은 Hostinger 인증 설정이 남아 있습니다.
