@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-07",
+  "batch": "20261107-ten-net-history-letters-gates-and-empires",
+  "status": "review_only",
+  "stories": [
+    {
+      "id": "penny-post-1840-price-prepayment-and-letters",
+      "body_characters": 2447,
+      "numbered_sections": 7
+    },
+    {
+      "id": "versailles-1789-women-bread-and-royal-move",
+      "body_characters": 2432,
+      "numbered_sections": 7
+    },
+    {
+      "id": "canossa-1077-penance-princes-and-power",
+      "body_characters": 2413,
+      "numbered_sections": 7
+    },
+    {
+      "id": "perry-1853-black-ships-and-negotiated-ports",
+      "body_characters": 2440,
+      "numbered_sections": 7
+    },
+    {
+      "id": "china-examinations-cells-books-and-office",
+      "body_characters": 2368,
+      "numbered_sections": 7
+    },
+    {
+      "id": "asoka-edicts-kalinga-and-public-morality",
+      "body_characters": 2373,
+      "numbered_sections": 7
+    },
+    {
+      "id": "ellis-island-inspection-manifests-and-families",
+      "body_characters": 2363,
+      "numbered_sections": 7
+    },
+    {
+      "id": "brazil-1822-independence-crown-and-unequal-freedom",
+      "body_characters": 2356,
+      "numbered_sections": 7
+    },
+    {
+      "id": "amarna-akhenaten-capital-sun-and-afterlife",
+      "body_characters": 2369,
+      "numbered_sections": 7
+    },
+    {
+      "id": "constantinople-1453-walls-sea-and-new-capital",
+      "body_characters": 2307,
+      "numbered_sections": 7
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-0.txt",
+      "status": 200,
+      "bytes": 773197
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-the-World_35461/master/35461-8.txt",
+      "status": 200,
+      "bytes": 758896
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-the-World_35461/master/35461-h/images/img-166.jpg",
+      "status": 200,
+      "bytes": 42265
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+      "status": 200,
+      "bytes": 1504314
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Brazil-today-and-tomorrow_73851/master/73851-0.txt",
+      "status": 200,
+      "bytes": 607483
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Hinduism-and-Buddhism-An-Historical-Sketch-Vol.-1_15255/master/15255-0.txt",
+      "status": 200,
+      "bytes": 1092455
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/History-of-Egypt-Chald-a-Syria-Babylonia-and-Assyria-Volume-5--of-12-_17325/master/17325-8.txt",
+      "status": 200,
+      "bytes": 554472
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/History-of-Egypt-Chald-a-Syria-Babylonia-and-Assyria-Volume-5--of-12-_17325/master/17325-h/images/098.jpg",
+      "status": 200,
+      "bytes": 104819
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Immigration-b-A-world-movement-and-its-American-significance_73074/master/73074-0.txt",
+      "status": 200,
+      "bytes": 842775
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Medieval-Europe_6369/master/6369.txt",
+      "status": 200,
+      "bytes": 332778
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Awakening-of-China_15125/master/15125-8.txt",
+      "status": 200,
+      "bytes": 520408
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Destruction-of-the-Greek-Empire-and-the-Story-of-the-Capture-of-Constantinople-by-the-Tur__58119/master/58119-0.txt",
+      "status": 200,
+      "bytes": 1153451
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Destruction-of-the-Greek-Empire-and-the-Story-of-the-Capture-of-Constantinople-by-the-Tur__58119/master/58119-h/images/i_240b.jpg",
+      "status": 200,
+      "bytes": 89366
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-French-Revolution--A-History_1301/master/1301.txt",
+      "status": 200,
+      "bytes": 1903708
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Japan-expedition-Japan-and-around-the-world-An-account-of-three-visits-to-the-Japanese-em__60403/master/60403-0.txt",
+      "status": 200,
+      "bytes": 594530
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Japan-expedition-Japan-and-around-the-world-An-account-of-three-visits-to-the-Japanese-em__60403/master/60403-h/images/i_259f.jpg",
+      "status": 200,
+      "bytes": 82763
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Life-of-Sir-Rowland-Hill-and-the-History-of-Penny-Postage-Vol-I-of-2_59390/master/59390-0.txt",
+      "status": 200,
+      "bytes": 1152561
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Life-of-Sir-Rowland-Hill-and-the-History-of-Penny-Postage-Vol-I-of-2_59390/master/59390-h/images/plate6.jpg",
+      "status": 200,
+      "bytes": 58502
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Middle-Kingdom-Volume-I-of-2-A-Survey-of-the-Geography-Government-Literature-Social-Life-__57868/master/57868-0.txt",
+      "status": 200,
+      "bytes": 2057381
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Middle-Kingdom-Volume-I-of-2-A-Survey-of-the-Geography-Government-Literature-Social-Life-__57868/master/57868-h/images/zill_f550a.jpg",
+      "status": 200,
+      "bytes": 38990
+    }
+  ],
+  "browser_checks": [
+    {
+      "id": "penny-post-1840-price-prepayment-and-letters",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "versailles-1789-women-bread-and-royal-move",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "canossa-1077-penance-princes-and-power",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "perry-1853-black-ships-and-negotiated-ports",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "china-examinations-cells-books-and-office",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "asoka-edicts-kalinga-and-public-morality",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "ellis-island-inspection-manifests-and-families",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "brazil-1822-independence-crown-and-unequal-freedom",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "amarna-akhenaten-capital-sun-and-afterlife",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "constantinople-1453-walls-sea-and-new-capital",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "penny-post-1840-price-prepayment-and-letters",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "versailles-1789-women-bread-and-royal-move",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "canossa-1077-penance-princes-and-power",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "perry-1853-black-ships-and-negotiated-ports",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "china-examinations-cells-books-and-office",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "asoka-edicts-kalinga-and-public-morality",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "ellis-island-inspection-manifests-and-families",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "brazil-1822-independence-crown-and-unequal-freedom",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "amarna-akhenaten-capital-sun-and-afterlife",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "constantinople-1453-walls-sea-and-new-capital",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    }
+  ],
+  "tests_passed": 51,
+  "images_visually_checked": 10,
+  "public_counts": {
+    "net": 241,
+    "temporary_kr": 157
+  },
+  "language_category_removal": {
+    "labels": [
+      "역사",
+      "도시",
+      "문화",
+      "생활"
+    ],
+    "language_topic_story_count": 0,
+    "pages_run_id": 42325226796,
+    "validation_run_id": 42325227527,
+    "live_verified": true,
+    "country_page_checks": [
+      {
+        "path": "categories/europe/그리스/index.html",
+        "status": 200,
+        "sha256": "ea9cae8e9b9f159ac24e5f80184711711d72ea4bdb554c5bf2c57ac71673e061"
+      },
+      {
+        "path": "categories/europe/오스트리아/index.html",
+        "status": 200,
+        "sha256": "a4f6dbd6be7d91a9fa07092b4eb221c2b72dcffaa5108a1ff2e71a50642a952a"
+      },
+      {
+        "path": "categories/europe/벨기에/index.html",
+        "status": 200,
+        "sha256": "e2b02f849dd637cf9034e36340bcba94c32ebc9cc7bac686e75eccaf95ced11a"
+      },
+      {
+        "path": "categories/europe/프랑스/index.html",
+        "status": 200,
+        "sha256": "7ff3c5f503521f4eb3405475b01ffd5246c63b897357e1f5c5fdadce6bd5035d"
+      },
+      {
+        "path": "categories/europe/체코/index.html",
+        "status": 200,
+        "sha256": "d89d90f62e0cf0262fb9b4c511d745e926a9eb2089211fca15b04e23b2105bde"
+      },
+      {
+        "path": "categories/europe/핀란드/index.html",
+        "status": 200,
+        "sha256": "b329de05be84a3e2d3ddd5a87d6e26444836b3e8b7afcb965d845f8c963ca44e"
+      },
+      {
+        "path": "categories/europe/독일/index.html",
+        "status": 200,
+        "sha256": "34ca505b783e5a2edc6c19ff1ab772f87e26ac17aa0b05a1a77f294d0901511c"
+      },
+      {
+        "path": "categories/europe/이탈리아/index.html",
+        "status": 200,
+        "sha256": "7902b6e885e508b4796b1fa3e6836cd161bd1dc2e581b01b226cfe47387ebc9a"
+      },
+      {
+        "path": "categories/europe/영국/index.html",
+        "status": 200,
+        "sha256": "f83fa9ff02a19b0fa6027bdd792d1cd6638bfaedd9247a2d67fad63ffc4a216e"
+      },
+      {
+        "path": "categories/europe/네덜란드/index.html",
+        "status": 200,
+        "sha256": "64a27e4b387ecd1d2ae3cb055d8af571bc8d3b6ad706c241152a3eb067f96f73"
+      },
+      {
+        "path": "categories/europe/지역에-걸친-이야기/index.html",
+        "status": 200,
+        "sha256": "d8673ea803c988c52619e78cd165c759fd7a6ff2654907c8b07374f6e3bdefa6"
+      },
+      {
+        "path": "categories/europe/스페인/index.html",
+        "status": 200,
+        "sha256": "90dcc6181302d1e69ebebb08e3a9b8f9dd1e0c583566e728b3df9ba99ad4bce9"
+      },
+      {
+        "path": "categories/europe/포르투갈/index.html",
+        "status": 200,
+        "sha256": "3a87deaa67ff5df5db41b3702a22c89f055b07b8ac519d5989cc9d438eb76700"
+      },
+      {
+        "path": "categories/europe/러시아/index.html",
+        "status": 200,
+        "sha256": "65c7a584d056bc4e900fd7d5de8ba83e43cc17017ae89e46f4ba4cf50e7f8fb8"
+      },
+      {
+        "path": "categories/europe/아일랜드/index.html",
+        "status": 200,
+        "sha256": "eb058740efefe3b55d19b3a086a6f44ff05174ae501ab845ef6e4472e7827e6a"
+      },
+      {
+        "path": "categories/europe/덴마크/index.html",
+        "status": 200,
+        "sha256": "91dbf7981daef4cf6b3242c48af046e172c74df5ca0aaefcc155633712da833b"
+      },
+      {
+        "path": "categories/europe/폴란드/index.html",
+        "status": 200,
+        "sha256": "ac57675ac6f727feeb5b914a392a099b420f042d18ba793e3b90aac92c611b5c"
+      },
+      {
+        "path": "categories/europe/불가리아/index.html",
+        "status": 200,
+        "sha256": "cf6f839d8914c16755e8570e9631437b44bf2f4ff103f0bb0f2a3ec21c147da0"
+      },
+      {
+        "path": "categories/americas/미국/index.html",
+        "status": 200,
+        "sha256": "c2891443a40304db1bb0087e71cb2b740c5f8abf1a2ec29cbaeae6399d65a7bc"
+      },
+      {
+        "path": "categories/americas/캐나다/index.html",
+        "status": 200,
+        "sha256": "f010713a91c137dbdc0c27bcbe1fe0575a0475110382f0f900fc4229da6ed05c"
+      },
+      {
+        "path": "categories/americas/지역에-걸친-이야기/index.html",
+        "status": 200,
+        "sha256": "53d39741ee9478464645a3a31952c56dfc39a94a01931fa31e3c99a9e426fa4e"
+      },
+      {
+        "path": "categories/americas/멕시코/index.html",
+        "status": 200,
+        "sha256": "0b65fa6faf64dd7f4ec4816a59d00f30e1f961f4aa87f11a4bec011925a73004"
+      },
+      {
+        "path": "categories/americas/페루/index.html",
+        "status": 200,
+        "sha256": "e68ddd83964bf55ed82b427bcf18f1b3de6f870d273f988b4a142b49e1f5ec85"
+      },
+      {
+        "path": "categories/americas/브라질/index.html",
+        "status": 200,
+        "sha256": "0dcda0d817b75b12f58bc8e08d5a5ed6fb5b766184ac4aa7070e908fd1ddbb65"
+      },
+      {
+        "path": "categories/asia-oceania/캄보디아/index.html",
+        "status": 200,
+        "sha256": "83c410b597878ef501640ca9b576c1ea0756e8f8cc2c6e9e35e21433dde35b4b"
+      },
+      {
+        "path": "categories/asia-oceania/파키스탄/index.html",
+        "status": 200,
+        "sha256": "32c709113af7ed8e6e07d847afa7d54abcf480b4983a67c8615471799048a625"
+      },
+      {
+        "path": "categories/asia-oceania/중국/index.html",
+        "status": 200,
+        "sha256": "c148f6af29105d4d18294acf9224c62b711e5d7ba0266b080ed602803b72576f"
+      },
+      {
+        "path": "categories/asia-oceania/일본/index.html",
+        "status": 200,
+        "sha256": "403d32da9c89508650ec63db5a0dedb0bfe3ca1af1a0a3818f04ba370f6b4412"
+      },
+      {
+        "path": "categories/asia-oceania/우즈베키스탄/index.html",
+        "status": 200,
+        "sha256": "a727fcefe5945a6e3a237149bf89ac1bb0f23b77020615921eb540e9ff55ce3e"
+      },
+      {
+        "path": "categories/asia-oceania/지역에-걸친-이야기/index.html",
+        "status": 200,
+        "sha256": "5e4a9a909b10f86e589656d8a48306f1894383789a488ae5db9d069d7d24574d"
+      },
+      {
+        "path": "categories/asia-oceania/타지키스탄/index.html",
+        "status": 200,
+        "sha256": "c4201f0434a6e861080eeef4e13a748e5e04a85f9b46d9b989346eb7b9cf0a67"
+      },
+      {
+        "path": "categories/asia-oceania/인도네시아/index.html",
+        "status": 200,
+        "sha256": "9a88177ac23ab3f6192c5bd552533f6c5d6d73933fd024afe202af48be814b82"
+      },
+      {
+        "path": "categories/asia-oceania/한국/index.html",
+        "status": 200,
+        "sha256": "d3491a0aefe5a09fde193aeb4b33e1413c4c35493d577b7ab10dc158abe6fa2c"
+      },
+      {
+        "path": "categories/asia-oceania/인도/index.html",
+        "status": 200,
+        "sha256": "04189852174359440b479f55dd94c7a4e1fa9b44fa75c5cac8f6e6fceddace20"
+      },
+      {
+        "path": "categories/asia-oceania/호주/index.html",
+        "status": 200,
+        "sha256": "9607792e3072c915f2eb11ca4c318654b9805f4266e7632b8234b54b59cfe70d"
+      },
+      {
+        "path": "categories/middle-east-africa/알제리/index.html",
+        "status": 200,
+        "sha256": "5ba72e04e593067421da096ffa5545e79b76e438f6fb62ef62f1e2fd920e7651"
+      },
+      {
+        "path": "categories/middle-east-africa/이집트/index.html",
+        "status": 200,
+        "sha256": "5c5126558ea6356fc6aaca67e899e9d020c318cecfc8d42d689eaff5652314cd"
+      },
+      {
+        "path": "categories/middle-east-africa/튀르키예/index.html",
+        "status": 200,
+        "sha256": "bcbc6a651f625438fc4e8a067454d5e2d5d0f0726ac2b0808b814d67dc1c8962"
+      },
+      {
+        "path": "categories/middle-east-africa/사우디아라비아/index.html",
+        "status": 200,
+        "sha256": "de6e45e205c7e14202d866140ce369c535893250d0caca8f0c492a9f131ca1d4"
+      },
+      {
+        "path": "categories/middle-east-africa/모잠비크/index.html",
+        "status": 200,
+        "sha256": "4e361e877bb89602947e8e31a341efa7afecd20bb8af91fd181d72eccabc8ef1"
+      },
+      {
+        "path": "categories/middle-east-africa/말리/index.html",
+        "status": 200,
+        "sha256": "9f3833678ca4df92e262d877b7e61467e09ee084facc63c4cadfc850467048cc"
+      },
+      {
+        "path": "categories/middle-east-africa/모로코/index.html",
+        "status": 200,
+        "sha256": "d3603eaa2b44d6b7e72e199c6bd2d94d162f56a22d90e3e2c0d49692701aa917"
+      },
+      {
+        "path": "categories/middle-east-africa/지역에-걸친-이야기/index.html",
+        "status": 200,
+        "sha256": "82d1566d6e60d527ddda85ce5b91852a4aa5d540ff33506c6a613d71ab2971b4"
+      },
+      {
+        "path": "categories/middle-east-africa/이란/index.html",
+        "status": 200,
+        "sha256": "d5b366ba7b365be7211ce5fa4d2606f67429c76d8f541b30f1f8dd08b5e89618"
+      },
+      {
+        "path": "categories/middle-east-africa/요르단/index.html",
+        "status": 200,
+        "sha256": "9909ba396d8489f67ffe0008bb3c128922cbb97f17cce6f4a2d95acb4430fef9"
+      },
+      {
+        "path": "categories/middle-east-africa/짐바브웨/index.html",
+        "status": 200,
+        "sha256": "aca8d4a5940cf760eed4d7b001d5df7b6a4ec950bb3efff6f5eec301c60666df"
+      },
+      {
+        "path": "categories/middle-east-africa/이라크/index.html",
+        "status": 200,
+        "sha256": "2ffe025743c9db25308f82e6dea3ea40e95e1b947304d1047e2440d74369b3e5"
+      }
+    ]
+  },
+  "unavailable_web_sources": [
+    [
+      "asoka",
+      "https://www.accesstoinsight.org/lib/authors/dhammika/wheel386.html",
+      "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    ],
+    [
+      "ellis",
+      "https://www.nps.gov/elis/learn/historyculture/index.htm",
+      "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    ],
+    [
+      "perry",
+      "https://history.state.gov/milestones/1830-1860/opening-to-japan",
+      "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    ],
+    [
+      "egypt",
+      "https://www.metmuseum.org/essays/hatshepsut",
+      "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    ],
+    [
+      "versailles",
+      "https://en.chateauversailles.fr/discover/history/key-dates/versailles-and-french-revolution",
+      "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    ],
+    [
+      "post",
+      "https://www.postalmuseum.org/collections/highlights/the-penny-black/",
+      "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    ],
+    [
+      "canossa",
+      "https://sourcebooks.fordham.edu/source/g7-canossa.asp",
+      "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    ]
+  ],
+  "unavailable_source_policy": "403으로 접근하지 못한 웹페이지는 읽은 출처로 인용하지 않았습니다. 실제 접근 가능한 GITenberg 원문·도판을 대조했습니다."
+}

@@ -13,6 +13,10 @@
   "country_pages_checked": 47,
   "net_stories": 241,
   "kr_stories": 157,
-  "deployment_status": "pending",
-  "note": "현재 생성되지 않는 미승인 국가 키프로스의 예전 생성 페이지 2개도 제거해 오래된 언어 필터와 미승인 국가 노출을 정리함."
+  "deployment_status": "live_verified",
+  "note": "현재 생성되지 않는 미승인 국가 키프로스의 예전 생성 페이지 2개도 제거해 오래된 언어 필터와 미승인 국가 노출을 정리함.",
+  "pages_run_id": 42325226796,
+  "validation_run_id": 42325227527,
+  "live_country_pages_checked": 47,
+  "verified_at": "2026-11-07"
 }

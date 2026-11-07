@@ -1,0 +1,28 @@
+{
+  "id": "20261107-ten-net-history-letters-gates-and-empires",
+  "title": "net 역사 이야기 10편 — 편지와 성문, 제국의 변화",
+  "story_ids": [
+    "penny-post-1840-price-prepayment-and-letters",
+    "versailles-1789-women-bread-and-royal-move",
+    "canossa-1077-penance-princes-and-power",
+    "perry-1853-black-ships-and-negotiated-ports",
+    "china-examinations-cells-books-and-office",
+    "asoka-edicts-kalinga-and-public-morality",
+    "ellis-island-inspection-manifests-and-families",
+    "brazil-1822-independence-crown-and-unequal-freedom",
+    "amarna-akhenaten-capital-sun-and-afterlife",
+    "constantinople-1453-walls-sea-and-new-capital"
+  ],
+  "countries": {
+    "penny-post-1840-price-prepayment-and-letters": "영국",
+    "versailles-1789-women-bread-and-royal-move": "프랑스",
+    "canossa-1077-penance-princes-and-power": "독일",
+    "perry-1853-black-ships-and-negotiated-ports": "일본",
+    "china-examinations-cells-books-and-office": "중국",
+    "asoka-edicts-kalinga-and-public-morality": "인도",
+    "ellis-island-inspection-manifests-and-families": "미국",
+    "brazil-1822-independence-crown-and-unequal-freedom": "브라질",
+    "amarna-akhenaten-capital-sun-and-afterlife": "이집트",
+    "constantinople-1453-walls-sea-and-new-capital": "튀르키예"
+  }
+}
