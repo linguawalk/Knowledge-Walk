@@ -31,5 +31,7 @@
   "live_net_catalog_stories": 408,
   "live_subject_catalog_stories": 408,
   "independent_kr_artifact_locally_verified": true,
-  "publication_commit": "cc0cbdb8f7e79c6d0991a0b733aed9110c2016da"
+  "publication_commit": "cc0cbdb8f7e79c6d0991a0b733aed9110c2016da",
+  "superseded_by": "net-only-activation-20261107",
+  "prior_kr_connection_request": "cancelled_by_user"
 }

@@ -18,5 +18,12 @@
   "supersedes": "shared-catalog-activation-20261107",
   "local_tests_passed": 55,
   "responsive_search_checks": 39,
-  "deployment_status": "pending"
+  "deployment_status": "live_verified",
+  "verified_at": "2026-11-07",
+  "pages_run_id": 42357541620,
+  "validation_run_id": 42357542301,
+  "validation_status_at_verification": "in_progress",
+  "publication_commit": "0d3557373a225597160a669e623ef3325c2d1e23",
+  "live_responses_verified": 40,
+  "live_catalog_stories": 408
 }

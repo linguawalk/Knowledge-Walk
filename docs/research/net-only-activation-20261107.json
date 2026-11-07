@@ -19,7 +19,14 @@
     "supersedes": "shared-catalog-activation-20261107",
     "local_tests_passed": 55,
     "responsive_search_checks": 39,
-    "deployment_status": "pending"
+    "deployment_status": "live_verified",
+    "verified_at": "2026-11-07",
+    "pages_run_id": 42357541620,
+    "validation_run_id": 42357542301,
+    "validation_status_at_verification": "in_progress",
+    "publication_commit": "0d3557373a225597160a669e623ef3325c2d1e23",
+    "live_responses_verified": 40,
+    "live_catalog_stories": 408
   },
   "browser_checks": [
     {
@@ -258,6 +265,248 @@
       "query": "페니 우편",
       "category": "ideas",
       "found_secondary": true
+    }
+  ],
+  "live_checks": [
+    {
+      "path": "categories/americas/미국/index.html",
+      "status": 200,
+      "bytes": 24447,
+      "sha256": "ce0321aaf7fd4357d742a988025d5db399b4bdd16931ada6d3c0e564da429850"
+    },
+    {
+      "path": "categories/common/index.html",
+      "status": 200,
+      "bytes": 138734,
+      "sha256": "17c656e8de64d456365c583d6f8822630feb7e16ed9d9e923d338e8643e6b59c"
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "status": 200,
+      "bytes": 19251,
+      "sha256": "174c01099461a2a0cd5c1be01317e2d37fbabf0ed4831ce78e8e839fb6c668d3"
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 16314,
+      "sha256": "c08ebe6bf134818491f8ce7e53a6235175517d78cb0a345dbd3c6e725084c571"
+    },
+    {
+      "path": "knowledge/categories/arts/문학/index.html",
+      "status": 200,
+      "bytes": 47696,
+      "sha256": "b23d7bd4b5c3e21c66fdea71542959aa4d1299066a7d39ca12fe112cbf3878e1"
+    },
+    {
+      "path": "knowledge/categories/arts/음악/index.html",
+      "status": 200,
+      "bytes": 27950,
+      "sha256": "c10092fca34077cc78be8c0ca42f084fa0eaf0e67aebd3a2db8f915580f808d1"
+    },
+    {
+      "path": "knowledge/categories/history-cities/역사와-제도/index.html",
+      "status": 200,
+      "bytes": 37758,
+      "sha256": "03900206cb1d295133b67f895e72dc9543123408605c738f64b7a33aa9ecfbd0"
+    },
+    {
+      "path": "knowledge/categories/ideas/기록과-지식-전달/index.html",
+      "status": 200,
+      "bytes": 12773,
+      "sha256": "15e95d3b0322e98a2ab87d9f57df32c2e3de4fe36ffba214d0d6500197c417c6"
+    },
+    {
+      "path": "knowledge/index.html",
+      "status": 200,
+      "bytes": 20537,
+      "sha256": "0a64c63145de30fded065d1fad9b39a115a161d50237333ce7efaab3023b5ede"
+    },
+    {
+      "path": "knowledge/library.html",
+      "status": 200,
+      "bytes": 113944,
+      "sha256": "3e19d4dfee64c31c527233e251c82536370d9d1cce646692d2c38086ec61b478"
+    },
+    {
+      "path": "knowledge/reading.html",
+      "status": 200,
+      "bytes": 352140,
+      "sha256": "175344aeebd862451362a39cb80492a5a883b8d9207dfc7faa44c2c0eaeefa89"
+    },
+    {
+      "path": "knowledge/search-index.json",
+      "status": 200,
+      "bytes": 2712763,
+      "sha256": "21b898bcfbe1daf24038e10da923d61f598570c253662c27b8adb1c62fd1261e"
+    },
+    {
+      "path": "knowledge/stories/compound-interest-time/index.html",
+      "status": 200,
+      "bytes": 18635,
+      "sha256": "e58db676168e5bcaee737408bec49cee8c417da4f65351d9e2c84370cd2e2166"
+    },
+    {
+      "path": "knowledge/stories/constantinople-1453-walls-sea-and-new-capital/index.html",
+      "status": 200,
+      "bytes": 18843,
+      "sha256": "7e3eff749e34cc4269333029b535e8f6726df636200c8cfdb11bccd008a66837"
+    },
+    {
+      "path": "knowledge/stories/crc-checksum-detecting-changed-data/index.html",
+      "status": 200,
+      "bytes": 18125,
+      "sha256": "c3dd0fc7a5b823314ab3d2db3ac0231f33e1b25ae0ddd447908a9c6baea2cc09"
+    },
+    {
+      "path": "knowledge/stories/eniac-changing-problem-and-human-work/index.html",
+      "status": 200,
+      "bytes": 18735,
+      "sha256": "1a157cf2ebf00ae15b3fc9240272cef0065bf64b3203e856c881a08afa0aedc8"
+    },
+    {
+      "path": "knowledge/stories/fur-elise-title-and-theme/index.html",
+      "status": 200,
+      "bytes": 18434,
+      "sha256": "001ff7d940d754a64c59475d3f96a3ddec21ee035c082782e8d77bab078ac174"
+    },
+    {
+      "path": "knowledge/stories/mona-lisa-looking-guide/index.html",
+      "status": 200,
+      "bytes": 20058,
+      "sha256": "3cf1d46d857e64ddff035eb185ed14e2c21af85f6a4b6c458da18588113031dd"
+    },
+    {
+      "path": "knowledge/stories/penny-post-1840-price-prepayment-and-letters/index.html",
+      "status": 200,
+      "bytes": 19368,
+      "sha256": "5f0b2b902d21c96af4069fb96f53f69addcf1613bece215870db214393a1914d"
+    },
+    {
+      "path": "knowledge/stories/taj-mahal-marble-memory/index.html",
+      "status": 200,
+      "bytes": 18405,
+      "sha256": "39a1ce3651889c2907083c99e472c4e1e6f22b3d3fb1bea859127d70a80a6e04"
+    },
+    {
+      "path": "library.html",
+      "status": 200,
+      "bytes": 111439,
+      "sha256": "a57bd79892cc639b87cf7764229f015cf7a26c7975ac79a0780d1d294f99ba79"
+    },
+    {
+      "path": "media/compound-interest-time.png",
+      "status": 200,
+      "bytes": 2654240,
+      "sha256": "5dbbdb9c9b593083918e2d38eed47dc5f8ce246fcf39ea907e38e75074fdfac1"
+    },
+    {
+      "path": "media/constantinople-1453-walls-sea-and-new-capital.jpg",
+      "status": 200,
+      "bytes": 89366,
+      "sha256": "e71d48dc3b790235459eefc471fd6aa30d05a38b0545c458aa5a20eb4290f45f"
+    },
+    {
+      "path": "media/crc-checksum-detecting-changed-data.png",
+      "status": 200,
+      "bytes": 3024141,
+      "sha256": "ed260e23a3a620838d3f27de890eb78d719b9ba613b2f9e6de345a51ef1f5c14"
+    },
+    {
+      "path": "media/eniac-changing-problem-and-human-work.png",
+      "status": 200,
+      "bytes": 3324013,
+      "sha256": "34f570153c964da695171e552545e2d84f5770e5c3e8cf3de910e625eafd6fb6"
+    },
+    {
+      "path": "media/fur-elise-title-and-theme-scene-20261030.png",
+      "status": 200,
+      "bytes": 3031123,
+      "sha256": "bfb9ee1ac6858fea2e33fb9b14d867104a6aeacc23c62e44ce4ee0f27fc49a0a"
+    },
+    {
+      "path": "media/mona-lisa-looking-guide.jpg",
+      "status": 200,
+      "bytes": 307288,
+      "sha256": "d8965049a0a79c73890a8bc5392c12e614e35dcfe5f88bf7504ead9dc1585711"
+    },
+    {
+      "path": "media/penny-post-1840-price-prepayment-and-letters.jpg",
+      "status": 200,
+      "bytes": 58502,
+      "sha256": "c4a329ae4764606ce46998693b8fe0513621e14e7d566c21d02c75530657bb81"
+    },
+    {
+      "path": "media/taj-mahal-marble-memory.jpg",
+      "status": 200,
+      "bytes": 127794,
+      "sha256": "a7680c80f771c31677bd3916599b642e97ce6d87ebf30b29bff53ccea2557748"
+    },
+    {
+      "path": "reading.html",
+      "status": 200,
+      "bytes": 349307,
+      "sha256": "908e2adc5c7b757ca238d90cccd1d114696c2f3da8a4644519ef07e37752ba9a"
+    },
+    {
+      "path": "search-index.json",
+      "status": 200,
+      "bytes": 2704671,
+      "sha256": "c401599721bead3565f4c5de6616618fad82b9238a3d02a8f04d5dea9144a75f"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "bytes": 59219,
+      "sha256": "34cd8891deefeb04e3d3834a0639bef06b7ea3a014345014557043f93f5a842f"
+    },
+    {
+      "path": "stories/compound-interest-time/index.html",
+      "status": 200,
+      "bytes": 16181,
+      "sha256": "2f8ebf34ba5cf0eea1d472cc55f688e2e72af1648117014fe31afad749b1c3c9"
+    },
+    {
+      "path": "stories/constantinople-1453-walls-sea-and-new-capital/index.html",
+      "status": 200,
+      "bytes": 16395,
+      "sha256": "a5abc01178cd0c605e0d855f73a060f62dc6849e9d8bb3236f065e9f4b2ddf8e"
+    },
+    {
+      "path": "stories/crc-checksum-detecting-changed-data/index.html",
+      "status": 200,
+      "bytes": 15638,
+      "sha256": "fb649c2b61ff8db6ac067063ed389065697474907062d32daea5721d83bc4b66"
+    },
+    {
+      "path": "stories/eniac-changing-problem-and-human-work/index.html",
+      "status": 200,
+      "bytes": 16209,
+      "sha256": "34effc215c9c0bd8cd80941be7cca88f6635c283426066f38a3b45feea709e94"
+    },
+    {
+      "path": "stories/fur-elise-title-and-theme/index.html",
+      "status": 200,
+      "bytes": 15976,
+      "sha256": "d68cdfeea356d6f531bb036c413eef54734b2a02d50e4ec834224af3252fe77b"
+    },
+    {
+      "path": "stories/mona-lisa-looking-guide/index.html",
+      "status": 200,
+      "bytes": 17627,
+      "sha256": "5bb0f087b157647436f650482c0fd58d221791a75f3ee5d9e4ab7028c5e81609"
+    },
+    {
+      "path": "stories/penny-post-1840-price-prepayment-and-letters/index.html",
+      "status": 200,
+      "bytes": 16827,
+      "sha256": "cec661fb3f87599e44173e631cba09b206d5c1a0a9a1ede65785626fee79b5aa"
+    },
+    {
+      "path": "stories/taj-mahal-marble-memory/index.html",
+      "status": 200,
+      "bytes": 15909,
+      "sha256": "166cc341182de221524873b3c1bfcf2ada848e0394e0f4b92606c751b910c9eb"
     }
   ]
 }
