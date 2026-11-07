@@ -98,7 +98,9 @@
     "source_url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-the-World_35461/master/35461-h/images/img-166.jpg",
     "license": "Public Domain · 저작권 만료 작품 및 역사 출판 자료"
   },
-  "status": "review",
-  "publication_ready": false,
-  "source_review": "verified"
+  "status": "approved",
+  "publication_ready": true,
+  "source_review": "verified",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-07"
 }

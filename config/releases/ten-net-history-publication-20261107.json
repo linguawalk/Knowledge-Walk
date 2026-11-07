@@ -1,0 +1,26 @@
+{
+  "id": "ten-net-history-publication-20261107",
+  "user_request": "홈페이지 게시",
+  "approved_at": "2026-11-07",
+  "story_ids": [
+    "penny-post-1840-price-prepayment-and-letters",
+    "versailles-1789-women-bread-and-royal-move",
+    "canossa-1077-penance-princes-and-power",
+    "perry-1853-black-ships-and-negotiated-ports",
+    "china-examinations-cells-books-and-office",
+    "asoka-edicts-kalinga-and-public-morality",
+    "ellis-island-inspection-manifests-and-families",
+    "brazil-1822-independence-crown-and-unequal-freedom",
+    "amarna-akhenaten-capital-sun-and-afterlife",
+    "constantinople-1453-walls-sea-and-new-capital"
+  ],
+  "net_stories": 251,
+  "kr_stories": 157,
+  "public_collection_url": "https://knowledgewalk.net/collections/20261107-ten-net-history-letters-gates-and-empires/index.html",
+  "kr_domain_connected": false,
+  "deployment_status": "pending",
+  "numbered_sections_per_story": 7,
+  "numbered_toc_per_story": 7,
+  "local_tests_passed": 51,
+  "local_browser_checks": 20
+}

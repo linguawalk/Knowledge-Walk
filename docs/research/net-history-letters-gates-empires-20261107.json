@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "batch": "20261107-ten-net-history-letters-gates-and-empires",
-  "status": "review_only",
+  "status": "approved_for_publication",
   "stories": [
     {
       "id": "penny-post-1840-price-prepayment-and-letters",
@@ -321,7 +321,7 @@
   "tests_passed": 51,
   "images_visually_checked": 10,
   "public_counts": {
-    "net": 241,
+    "net": 251,
     "temporary_kr": 157
   },
   "language_category_removal": {
@@ -610,5 +610,6 @@
       "<urlopen error Tunnel connection failed: 403 Forbidden>"
     ]
   ],
-  "unavailable_source_policy": "403으로 접근하지 못한 웹페이지는 읽은 출처로 인용하지 않았습니다. 실제 접근 가능한 GITenberg 원문·도판을 대조했습니다."
+  "unavailable_source_policy": "403으로 접근하지 못한 웹페이지는 읽은 출처로 인용하지 않았습니다. 실제 접근 가능한 GITenberg 원문·도판을 대조했습니다.",
+  "approved_at": "2026-11-07"
 }

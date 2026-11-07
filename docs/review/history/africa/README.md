@@ -4,6 +4,6 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
-| [아마르나 — 태양을 위한 수도는 왜 오래가지 못했을까](amarna-akhenaten-capital-sun-and-afterlife.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [아마르나 — 태양을 위한 수도는 왜 오래가지 못했을까](amarna-akhenaten-capital-sun-and-afterlife.md) | 자료 대조·공개 게시 승인 완료 |
 | [로제타석 — 왜 같은 말을 세 가지 문자로 새겼을까](rosetta-stone-three-scripts.md) | 자료 대조·공개 게시 승인 완료 |
 | [타가자 — 사막에서 소금은 왜 먼 길을 떠났을까](taghaza-salt-caravan-and-labor.md) | 자료 대조·공개 게시 승인 완료 |

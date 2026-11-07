@@ -1,0 +1,64 @@
+{
+  "state": "proposal_only_not_applied",
+  "date": "2026-11-07",
+  "purpose": "하나의 원고를 net 국가별·kr 분야별 서가와 양쪽 본문으로 제공하는 검토안",
+  "active_deployment_unchanged": true,
+  "net_country_content_labels": [
+    "역사",
+    "도시",
+    "문화",
+    "생활"
+  ],
+  "proposed_kr_top_topics": [
+    "역사와 도시",
+    "문화와 예술",
+    "기업과 산업",
+    "컴퓨터와 디지털",
+    "돈과 금융",
+    "과학과 발견",
+    "생활을 바꾼 물건과 기술",
+    "생각과 지식"
+  ],
+  "same_source_files": true,
+  "public_logical_stories": 408,
+  "unpublished_stories": 13,
+  "sample": {
+    "id": "fur-elise-title-and-theme",
+    "countries": [
+      "독일"
+    ],
+    "topics": [
+      {
+        "topic": "문화와 예술",
+        "subtopic": "음악"
+      }
+    ],
+    "publish_to": [
+      "net",
+      "kr"
+    ],
+    "canonical_domain": "net",
+    "canonical_url": "https://knowledgewalk.net/stories/fur-elise-title-and-theme/index.html",
+    "kr_copy_canonical_matches_net": true
+  },
+  "general_story_sample": {
+    "id": "crc-checksum-detecting-changed-data",
+    "countries": [],
+    "topics": [
+      {
+        "topic": "컴퓨터와 디지털",
+        "subtopic": "데이터와 기록"
+      }
+    ],
+    "publish_to": [
+      "net",
+      "kr"
+    ],
+    "net_discovery": [
+      "전체 이야기",
+      "검색"
+    ],
+    "canonical_domain": "kr",
+    "canonical_url_policy": "실제 kr 연결 전에는 현재 도달 가능한 임시 주제 경로를 유지. 실제kr 전환은 별도 검증 후 시행."
+  }
+}

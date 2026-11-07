@@ -1,10 +1,10 @@
 # net 국가별 원고 배치표
 
-2026-11-07 기준. 공개 net 241편과 미게시 원고 18편을 포함했습니다. 새 검토 원고는 사용자의 게시 요청 후 공개합니다. 국가 명칭은 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않습니다.
+2026-11-07 기준. 공개 net 251편과 미게시 원고 8편을 포함했습니다. 새 검토 원고는 사용자의 게시 요청 후 공개합니다. 국가 명칭은 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않습니다.
 
 ## 아시아대양주
 
-### 중국 — 16편 (게시 중 15편)
+### 중국 — 16편 (게시 중 16편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -23,7 +23,7 @@
 | [만리장성 — 벽이 있어도 역사는 문을 통해 움직였다](../../content/stories/history/asia/great-wall-gates-and-political-choices.json) | 게시 중 | 역사 | 중국의 구체적인 작품·유적·도시 기록을 중심으로 한 역사 이야기. |
 | [두장옌 — 오래된 물길은 누가 계속 열어 두었을까](../../content/stories/cities/asia/dujiangyan-irrigation-and-maintenance.json) | 게시 중 | 도시 | 중국의 구체적인 작품·도시·문화 기록을 중심으로 한 도시 이야기. |
 | [중국의 외바퀴수레 — 바퀴 하나로 좁은 길을 잇다](../../content/stories/history/asia/china-wheelbarrows-chengdu-roads-and-loads.json) | 게시 중 | 생활 | 중국의 구체적인 작품·유적·도시·생활의 역사 맥락으로 단독 배치. |
-| [중국의 과거제 — 작은 칸에서 치른 시험은 누구에게 길을 열었을까](../../content/stories/history/asia/china-examinations-cells-books-and-office.json) | 미게시 · verified | 역사 | 중국의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
+| [중국의 과거제 — 작은 칸에서 치른 시험은 누구에게 길을 열었을까](../../content/stories/history/asia/china-examinations-cells-books-and-office.json) | 게시 중 | 역사 | 중국의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
 
 ### 인도네시아 — 1편 (게시 중 1편)
 
@@ -31,7 +31,7 @@
 |---|---|---|---|
 | [보로부두르 — 돌에 새긴 이야기를 따라 걷다](../../content/stories/cities/asia/borobudur-stone-stories-and-steps.json) | 게시 중 | 도시 | 인도네시아의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
-### 일본 — 14편 (게시 중 13편)
+### 일본 — 14편 (게시 중 14편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -48,7 +48,7 @@
 | [이세 신궁 — 새로 지은 건물에 오래된 시간이 남는 법](../../content/stories/culture/architecture/ise-shrine-rebuilding-and-inherited-craft.json) | 게시 중 | 문화 | 일본의 구체적인 작품·유적·도시 기록을 중심으로 한 문화 이야기. |
 | [일본의 회전무대 — 집 한 채가 돌아가면 다음 장면이 열린다](../../content/stories/culture/architecture/japanese-theatre-revolving-stage-and-labor.json) | 게시 중 | 문화 | 일본의 구체적인 작품·도시·문화 기록을 중심으로 한 문화 이야기. |
 | [오사카 — 성의 사진 옆에 방직공장이 실린 이유](../../content/stories/cities/asia/osaka-mills-mint-and-port-city.json) | 게시 중 | 도시 | 일본의 구체적인 작품·유적·도시·생활의 역사 맥락으로 단독 배치. |
-| [페리의 흑선 — 배가 도착했다고 모든 항구가 열린 것은 아니다](../../content/stories/history/asia/perry-1853-black-ships-and-negotiated-ports.json) | 미게시 · verified | 역사 | 일본의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
+| [페리의 흑선 — 배가 도착했다고 모든 항구가 열린 것은 아니다](../../content/stories/history/asia/perry-1853-black-ships-and-negotiated-ports.json) | 게시 중 | 역사 | 일본의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
 
 ### 한국 — 25편 (게시 중 24편)
 
@@ -99,7 +99,7 @@
 |---|---|---|---|
 | [사마르칸트 — 푸른 광장에 장인과 학자가 모이다](../../content/stories/cities/asia/samarkand-registan-and-learning.json) | 게시 중 | 도시 | 우즈베키스탄의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 
-### 인도 — 5편 (게시 중 4편)
+### 인도 — 5편 (게시 중 5편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -107,7 +107,7 @@
 | [타지마할 — 하얀 무덤에 담긴 사랑과 제국](../../content/stories/cities/asia/taj-mahal-marble-memory.json) | 게시 중 | 도시 | 인도의 특정 장소·작품·역사적 사건을 중심으로 한 도시 이야기. |
 | [산치 대탑 — 들어가는 대신 주위를 도는 건축](../../content/stories/culture/architecture/sanchi-stupa-gates-and-circling-path.json) | 게시 중 | 문화 | 인도의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 | [아잔타 석굴 — 바위를 파서 빛과 이야기를 담다](../../content/stories/culture/architecture/ajanta-caves-prayer-halls-painting-and-monks.json) | 게시 중 | 문화 | 인도의 구체적인 작품·유적·도시·생활의 역사 맥락으로 단독 배치. |
-| [아소카의 칙령 — 정복한 왕은 왜 후회를 돌에 새겼을까](../../content/stories/history/asia/asoka-edicts-kalinga-and-public-morality.json) | 미게시 · verified | 역사 | 인도의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
+| [아소카의 칙령 — 정복한 왕은 왜 후회를 돌에 새겼을까](../../content/stories/history/asia/asoka-edicts-kalinga-and-public-morality.json) | 게시 중 | 역사 | 인도의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
 
 ### 캄보디아 — 1편 (게시 중 1편)
 
@@ -151,7 +151,7 @@
 | [고야의 1808년 5월 3일 — 불빛은 누구의 얼굴을 비추는가](../../content/stories/culture/art/goya-third-may-lantern-and-facing-men.json) | 게시 중 | 문화 | 스페인의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 | [불카누스의 대장간 — 신의 소식이 망치질을 멈춘 순간](../../content/stories/culture/art/vulcan-forge-apollo-and-interrupted-work.json) | 게시 중 | 문화 | 스페인의 구체적인 작품·유적·도시·생활의 역사 맥락으로 단독 배치. |
 
-### 영국 — 30편 (게시 중 26편)
+### 영국 — 30편 (게시 중 27편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -184,7 +184,7 @@
 | [맥베스 — 예언은 누구의 손으로 현실이 되었을까](../../content/stories/culture/literature/macbeth-prophecy-and-borrowed-crown.json) | 게시 중 | 문화 | 스코틀랜드를 무대로 한 셰익스피어 작품이며 기존 영문학 분류에 따라 영국에 단독 배치. |
 | [한여름 밤의 꿈 — 사랑은 숲에서 누구의 마음이 되었을까](../../content/stories/culture/literature/midsummer-lovers-magic-and-artisans.json) | 게시 중 | 문화 | 아테네 배경과 구분해 셰익스피어의 영문학 작품을 읽는 맥락으로 영국에 단독 배치. |
 | [사일러스 마너 — 잃어버린 금화 대신 아이가 들어온 밤](../../content/stories/culture/literature/silas-marner-gold-child-and-neighbors.json) | 게시 중 | 문화 | 영국의 구체적인 작품·유적·도시·생활의 역사 맥락으로 단독 배치. |
-| [페니 우편 1840 — 편지는 왜 받는 사람에게 부담이었을까](../../content/stories/history/europe/penny-post-1840-price-prepayment-and-letters.json) | 미게시 · verified | 역사 | 영국의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
+| [페니 우편 1840 — 편지는 왜 받는 사람에게 부담이었을까](../../content/stories/history/europe/penny-post-1840-price-prepayment-and-letters.json) | 게시 중 | 역사 | 영국의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
 
 ### 이탈리아 — 18편 (게시 중 18편)
 
@@ -220,7 +220,7 @@
 | [고골의 코 — 얼굴에서 사라진 코가 나보다 높은 관리라면](../../content/stories/culture/literature/gogol-nose-rank-and-recognition.json) | 게시 중 | 문화 | 러시아의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 | [스페이드의 여왕 — 확실한 세 장을 알면 삶도 이길 수 있을까](../../content/stories/culture/literature/queen-spades-three-cards-and-obsession.json) | 게시 중 | 문화 | 러시아의 구체적인 작품·유적·도시·생활의 역사 맥락으로 단독 배치. |
 
-### 프랑스 — 18편 (게시 중 17편)
+### 프랑스 — 18편 (게시 중 18편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -241,7 +241,7 @@
 | [보바리 부인 — 꿈꾸던 삶은 왜 빚이 되었을까](../../content/stories/culture/literature/madame-bovary-desire-and-credit.json) | 게시 중 | 문화 | 프랑스의 구체적인 작품·유적·기록·도시사를 다룬 문화 이야기. |
 | [민중을 이끄는 자유의 여신 — 삼색기 아래의 1830년](../../content/stories/culture/art/delacroix-liberty-1830-and-barricade.json) | 게시 중 | 문화 | 프랑스의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 | [몽생미셸 — 작은 바위 위에 수도원의 하루를 쌓다](../../content/stories/culture/architecture/mont-saint-michel-tides-abbey-and-stacked-rooms.json) | 게시 중 | 문화 | 프랑스의 구체적인 작품·유적·도시·생활의 역사 맥락으로 단독 배치. |
-| [베르사유 여성 행진 — 빵을 구하던 사람들이 왕을 움직이다](../../content/stories/history/europe/versailles-1789-women-bread-and-royal-move.json) | 미게시 · verified | 역사 | 프랑스의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
+| [베르사유 여성 행진 — 빵을 구하던 사람들이 왕을 움직이다](../../content/stories/history/europe/versailles-1789-women-bread-and-royal-move.json) | 게시 중 | 역사 | 프랑스의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
 
 ### 불가리아 — 1편 (게시 중 1편)
 
@@ -274,7 +274,7 @@
 | [피온 — 지혜의 연어는 누구의 몫이었을까](../../content/stories/life/folks/fionn-salmon-wisdom-and-teacher.json) | 게시 중 | 문화 | 아일랜드의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [조이스의 「죽은 사람들」 — 노래 한 곡이 저녁을 바꾸다](../../content/stories/culture/literature/joyce-dead-song-snow-and-memory.json) | 게시 중 | 문화 | 아일랜드의 구체적인 작품·유적·도시 기록을 중심으로 한 문화 이야기. |
 
-### 독일 — 15편 (게시 중 14편)
+### 독일 — 15편 (게시 중 15편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -292,7 +292,7 @@
 | [브란덴부르크 협주곡 — 같은 이름 아래 여섯 가지 합주가 모인 이유](../../content/stories/culture/music/bach-brandenburg-dedication-and-voices.json) | 게시 중 | 문화 | 독일의 구체적인 작품·도시·문화 기록을 중심으로 한 문화 이야기. |
 | [피델리오 — 베토벤의 오페라에서 문이 열리는 순간](../../content/stories/culture/music/fidelio-leonore-prison-and-chorus.json) | 게시 중 | 문화 | 스페인 배경과 구분해 베토벤의 독일어 오페라를 듣는 맥락으로 독일에 단독 배치. |
 | [마탄의 사수 — 마지막 탄환은 누구의 뜻대로 날아갈까](../../content/stories/culture/music/freischutz-wolfs-glen-and-final-shot.json) | 게시 중 | 문화 | 보헤미아 배경과 구분해 베버의 독일어 오페라와 독일 낭만주의 음악이라는 중심 맥락으로 독일에 단독 배치. |
-| [카노사 1077 — 성문 앞의 왕은 정말 모든 것을 잃었을까](../../content/stories/history/europe/canossa-1077-penance-princes-and-power.json) | 미게시 · verified | 역사 | 현재 이탈리아의 카노사 성을 배경으로 하지만1077년 독일 왕권·제후 정치와 서임권 갈등이라는 중심 맥락으로 독일에 단독 배치. 당시 왕과 이후 황제 칭호를 구분. |
+| [카노사 1077 — 성문 앞의 왕은 정말 모든 것을 잃었을까](../../content/stories/history/europe/canossa-1077-penance-princes-and-power.json) | 게시 중 | 역사 | 현재 이탈리아의 카노사 성을 배경으로 하지만1077년 독일 왕권·제후 정치와 서임권 갈등이라는 중심 맥락으로 독일에 단독 배치. 당시 왕과 이후 황제 칭호를 구분. |
 
 ### 폴란드 — 1편 (게시 중 1편)
 
@@ -351,7 +351,7 @@
 
 ## 아메리카
 
-### 미국 — 20편 (게시 중 19편)
+### 미국 — 20편 (게시 중 20편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -374,7 +374,7 @@
 | [모비 딕 — 한 선장의 복수가 배 전체의 운명이 될 때](../../content/stories/culture/literature/moby-dick-ishmael-ahab-and-sea.json) | 게시 중 | 문화 | 미국의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
 | [위대한 개츠비 — 초록 불빛 너머에는 무엇이 있었을까](../../content/stories/culture/literature/great-gatsby-green-light-and-past.json) | 게시 중 | 문화 | 미국의 구체적인 작품·유적·도시 기록을 중심으로 한 문화 이야기. |
 | [브루클린 다리 — 물 위의 길을 만들기 위해 물 아래로 내려가다](../../content/stories/cities/americas/brooklyn-bridge-caissons-and-shared-work.json) | 게시 중 | 도시 | 미국의 구체적인 작품·도시·문화 기록을 중심으로 한 도시 이야기. |
-| [엘리스섬 — 자유의 여신상 다음에는 질문이 기다렸다](../../content/stories/history/america/ellis-island-inspection-manifests-and-families.json) | 미게시 · verified | 역사 | 미국의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
+| [엘리스섬 — 자유의 여신상 다음에는 질문이 기다렸다](../../content/stories/history/america/ellis-island-inspection-manifests-and-families.json) | 게시 중 | 역사 | 미국의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
 
 ### 페루 — 3편 (게시 중 3편)
 
@@ -401,16 +401,16 @@
 | [캐나다 철도 — 나라를 잇던 선로 위에는 누가 있었을까](../../content/stories/history/america/canadian-pacific-railway-workers-and-belonging.json) | 게시 중 | 역사 | 캐나다의 철도 건설·이주노동·소속의 역사 중심. 기업 운영 원리만을 다룬 글과 구분. |
 | [퀘벡 1608 — 강가의 작은 거처는 어떻게 교역의 중심이 되었을까](../../content/stories/cities/americas/quebec-1608-river-and-fur-trade.json) | 게시 중 | 도시 | 캐나다의 구체적인 작품·유적·기록·도시사를 다룬 도시 이야기. |
 
-### 브라질 — 2편 (게시 중 1편)
+### 브라질 — 2편 (게시 중 2편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [1808년 리우 — 유럽의 왕실이 식민지로 건너오다](../../content/stories/history/america/rio-1808-court-crosses-atlantic.json) | 게시 중 | 역사 | 브라질의 특정 장소·작품·역사적 사건을 중심으로 한 역사 이야기. |
-| [브라질 1822 — 독립했는데 왜 황제가 생겼을까](../../content/stories/history/america/brazil-1822-independence-crown-and-unequal-freedom.json) | 미게시 · verified | 역사 | 브라질의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
+| [브라질 1822 — 독립했는데 왜 황제가 생겼을까](../../content/stories/history/america/brazil-1822-independence-crown-and-unequal-freedom.json) | 게시 중 | 역사 | 브라질의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
 
 ## 중동아프리카
 
-### 이집트 — 7편 (게시 중 6편)
+### 이집트 — 7편 (게시 중 7편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
@@ -420,7 +420,7 @@
 | [이시스 — 사라진 오시리스를 찾아 나선 길](../../content/stories/life/folks/isis-osiris-chest-and-search.json) | 게시 중 | 문화 | 이집트의 문화라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [아부심벨 — 왕의 얼굴을 새긴 절벽을 왜 옮겼을까](../../content/stories/culture/architecture/abu-simbel-temple-and-rescue.json) | 게시 중 | 문화 | 이집트의 특정 장소·작품·역사적 사건을 중심으로 한 문화 이야기. |
 | [카르나크 신전 — 돌기둥의 숲은 어떻게 커졌을까](../../content/stories/culture/architecture/karnak-columns-light-and-growing-temple.json) | 게시 중 | 문화 | 이집트의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
-| [아마르나 — 태양을 위한 수도는 왜 오래가지 못했을까](../../content/stories/history/africa/amarna-akhenaten-capital-sun-and-afterlife.json) | 미게시 · verified | 역사 | 이집트의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
+| [아마르나 — 태양을 위한 수도는 왜 오래가지 못했을까](../../content/stories/history/africa/amarna-akhenaten-capital-sun-and-afterlife.json) | 게시 중 | 역사 | 이집트의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
 
 ### 짐바브웨 — 1편 (게시 중 1편)
 
@@ -443,14 +443,14 @@
 | [만사 무사 — 순례길의 금은 왜 카이로에 흔적을 남겼을까](../../content/stories/finance/money/mansa-musa-gold-and-cairo.json) | 게시 중 | 역사 | 말리 통치자와 순례를 중심으로 배치하되 이집트 카이로에서의 사건을 함께 설명. |
 | [타가자 — 사막에서 소금은 왜 먼 길을 떠났을까](../../content/stories/history/africa/taghaza-salt-caravan-and-labor.json) | 게시 중 | 역사 | 현재 말리의 타가자를 탐색 기준으로 사용. 사하라 교역과 노동은 여러 지역을 잇는 역사임을 명시. |
 
-### 튀르키예 — 4편 (게시 중 3편)
+### 튀르키예 — 4편 (게시 중 4편)
 
 | 제목·원고 | 현재 상태 | 분류 | 배치 이유 |
 |---|---|---|---|
 | [아야 소피아 — 큰 지붕 아래 여러 시대가 머물다](../../content/stories/cities/europe/istanbul-hagia-sophia-many-times.json) | 게시 중 | 도시 | 튀르키예의 도시라는 구체적 장소·문화 맥락을 중심으로 한 글. |
 | [피리 레이스의 지도 — 오스만의 종이 위에 아메리카가 나타나다](../../content/stories/culture/art/piri-reis-map-and-shared-seas.json) | 게시 중 | 문화 | 튀르키예의 구체적인 작품·유적·기록·도시사를 다룬 문화 이야기. |
 | [톱카프 궁전 — 문을 지날 때 제국의 일은 어떻게 나뉘었을까](../../content/stories/culture/architecture/topkapi-courts-gates-and-government.json) | 게시 중 | 문화 | 튀르키예의 구체적인 작품·유적·문화 기록을 중심으로 한 문화 이야기. |
-| [콘스탄티노폴리스 1453 — 성벽을 넘은 뒤에도 도시는 이어졌다](../../content/stories/history/middle-east/constantinople-1453-walls-sea-and-new-capital.json) | 미게시 · verified | 역사 | 튀르키예의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
+| [콘스탄티노폴리스 1453 — 성벽을 넘은 뒤에도 도시는 이어졌다](../../content/stories/history/middle-east/constantinople-1453-walls-sea-and-new-capital.json) | 게시 중 | 역사 | 튀르키예의 구체적 역사 사건과 제도의 변화에 초점을 두어 net 역사에 단독 배치. |
 
 ### 이라크 — 1편 (게시 중 1편)
 

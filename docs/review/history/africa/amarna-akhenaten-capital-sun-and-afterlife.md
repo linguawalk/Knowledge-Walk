@@ -4,7 +4,7 @@
 
 History · Africa
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![아케나톤과 왕비가 고위 관리를 보상하는 실제 유물 장면에 근거한 역사 도판](../../../../content/images/amarna-akhenaten-capital-sun-and-afterlife.jpg)
 

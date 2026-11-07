@@ -4,7 +4,7 @@
 
 History · America
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![1822년 브라질 독립을 둘러싼 소식과 문서의 전달을 연상하는 상상 삽화](../../../../content/images/brazil-1822-independence-crown-and-unequal-freedom.png)
 
