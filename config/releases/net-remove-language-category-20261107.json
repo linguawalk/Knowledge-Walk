@@ -1,0 +1,18 @@
+{
+  "id": "net-remove-language-category-20261107",
+  "user_request": "net 새 글 10개, 언어 카테고리 제거, 역사 중심",
+  "date": "2026-11-07",
+  "country_content_labels": [
+    "역사",
+    "도시",
+    "문화",
+    "생활"
+  ],
+  "language_topic_story_count": 0,
+  "local_tests_passed": 51,
+  "country_pages_checked": 47,
+  "net_stories": 241,
+  "kr_stories": 157,
+  "deployment_status": "pending",
+  "note": "현재 생성되지 않는 미승인 국가 키프로스의 예전 생성 페이지 2개도 제거해 오래된 언어 필터와 미승인 국가 노출을 정리함."
+}
