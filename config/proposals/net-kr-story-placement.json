@@ -1,7 +1,7 @@
 {
   "state": "active_single_domain_shared_catalog",
   "date": "2026-11-08",
-  "count": 431,
+  "count": 441,
   "articles": [
     {
       "id": "alexandria-museion-and-books",
@@ -15522,6 +15522,402 @@
       "editorial_review": false,
       "rationale": "이라크의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
       "proposed_url": "https://knowledgewalk.net/stories/hammurabi-stele-status-evidence-and-royal-justice/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "사회와 제도의 탄생"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "britain-1689-rights-crown-and-parliament",
+      "title": "명예혁명 — 왕을 바꾸면 권력의 규칙도 바뀔까",
+      "source_path": "content/stories/history/europe/britain-1689-rights-crown-and-parliament.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "영국",
+      "country": "영국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "영국의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/britain-1689-rights-crown-and-parliament/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "사회와 제도의 탄생"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "napoleonic-code-1804-property-family-and-equality",
+      "title": "나폴레옹 법전 — 같은 법을 쓴다는 것은 모두가 평등하다는 뜻일까",
+      "source_path": "content/stories/history/europe/napoleonic-code-1804-property-family-and-equality.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "프랑스",
+      "country": "프랑스",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "프랑스의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/napoleonic-code-1804-property-family-and-equality/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "사회와 제도의 탄생"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "gutenberg-1450s-type-capital-and-bookmaking",
+      "title": "구텐베르크의 인쇄 — 글자를 찍으려면 활자 말고 무엇이 필요했을까",
+      "source_path": "content/stories/history/europe/gutenberg-1450s-type-capital-and-bookmaking.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "독일",
+      "country": "독일",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "독일의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/gutenberg-1450s-type-capital-and-bookmaking/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "기록과 지식 전달"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "transcontinental-railroad-1869-labor-land-and-link",
+      "title": "미국 대륙횡단철도 — 마지막 못 아래에는 누구의 일이 있었을까",
+      "source_path": "content/stories/history/america/transcontinental-railroad-1869-labor-land-and-link.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "미국",
+      "country": "미국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "미국의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/transcontinental-railroad-1869-labor-land-and-link/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생활을 바꾼 물건과 기술",
+          "subtopic": "이동과 운송"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "iwakura-mission-learning-and-treaty-limits",
+      "title": "이와쿠라 사절단 — 조약은 못 고쳤는데 무엇을 가져왔을까",
+      "source_path": "content/stories/history/asia/iwakura-mission-learning-and-treaty-limits.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아대양주",
+      "country_group": "일본",
+      "country": "일본",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "일본의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/iwakura-mission-learning-and-treaty-limits/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "교육과 배움"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "taiping-war-nanjing-local-armies-and-civilian-life",
+      "title": "태평천국 — 새 세상을 약속한 전쟁은 무엇을 바꾸었을까",
+      "source_path": "content/stories/history/asia/taiping-war-nanjing-local-armies-and-civilian-life.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아대양주",
+      "country_group": "중국",
+      "country": "중국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "중국의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/taiping-war-nanjing-local-armies-and-civilian-life/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "decembrists-1825-oath-constitution-and-exile",
+      "title": "데카브리스트 — 황제에게 맹세하는 날 왜 광장에 모였을까",
+      "source_path": "content/stories/history/europe/decembrists-1825-oath-constitution-and-exile.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "러시아",
+      "country": "러시아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "러시아의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/decembrists-1825-oath-constitution-and-exile/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "사회와 제도의 탄생"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "cadiz-1812-sovereignty-faith-and-atlantic-empire",
+      "title": "카디스 헌법 — 왕이 없는 동안 주권은 누구에게 있었을까",
+      "source_path": "content/stories/history/europe/cadiz-1812-sovereignty-faith-and-atlantic-empire.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "스페인",
+      "country": "스페인",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "스페인의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/cadiz-1812-sovereignty-faith-and-atlantic-empire/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "사회와 제도의 탄생"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "mexico-1821-iguala-independence-and-monarchy",
+      "title": "멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까",
+      "source_path": "content/stories/history/america/mexico-1821-iguala-independence-and-monarchy.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "멕시코",
+      "country": "멕시코",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "멕시코의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/mexico-1821-iguala-independence-and-monarchy/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "사회와 제도의 탄생"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "australia-1901-federation-states-and-exclusions",
+      "title": "호주 1901 — 여섯 식민지는 무엇을 함께 하기로 했을까",
+      "source_path": "content/stories/history/asia/australia-1901-federation-states-and-exclusions.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아대양주",
+      "country_group": "호주",
+      "country": "호주",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "호주의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/australia-1901-federation-states-and-exclusions/index.html",
       "canonical_domain": "net",
       "publish_sites": [
         "net",

@@ -1,10 +1,10 @@
 # 분야별 공통 원고 서가
 
-2026-11-08. net의 /knowledge/에서 원본431편 중 승인418편을 제공합니다. 한 글은 관련 분야 여러 곳에 연결될 수 있습니다. 미승인 원고는 아래 검토 목록에만 포함합니다.
+2026-11-08. net의 /knowledge/에서 원본441편 중 승인418편을 제공합니다. 한 글은 관련 분야 여러 곳에 연결될 수 있습니다. 미승인 원고는 아래 검토 목록에만 포함합니다.
 
 ## 역사와 도시
 
-### 역사와 제도 — 45편
+### 역사와 제도 — 55편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
@@ -53,6 +53,16 @@
 | [인도 1857 — 병사들의 봉기는 왜 통치자를 바꾸었을까](../../content/stories/history/asia/india-1857-rebellion-company-and-crown.json) | 공개 | net |
 | [가리발디의 천인대 — 붉은 셔츠는 어떻게 왕국의 지도를 바꾸었을까](../../content/stories/history/europe/garibaldi-1860-thousand-monarchy-and-unification.json) | 공개 | net |
 | [함무라비 법전 — 돌에 새긴 정의는 누구에게 같았을까](../../content/stories/history/middle-east/hammurabi-stele-status-evidence-and-royal-justice.json) | 공개 | net |
+| [명예혁명 — 왕을 바꾸면 권력의 규칙도 바뀔까](../../content/stories/history/europe/britain-1689-rights-crown-and-parliament.json) | 미승인 | net |
+| [나폴레옹 법전 — 같은 법을 쓴다는 것은 모두가 평등하다는 뜻일까](../../content/stories/history/europe/napoleonic-code-1804-property-family-and-equality.json) | 미승인 | net |
+| [구텐베르크의 인쇄 — 글자를 찍으려면 활자 말고 무엇이 필요했을까](../../content/stories/history/europe/gutenberg-1450s-type-capital-and-bookmaking.json) | 미승인 | net |
+| [미국 대륙횡단철도 — 마지막 못 아래에는 누구의 일이 있었을까](../../content/stories/history/america/transcontinental-railroad-1869-labor-land-and-link.json) | 미승인 | net |
+| [이와쿠라 사절단 — 조약은 못 고쳤는데 무엇을 가져왔을까](../../content/stories/history/asia/iwakura-mission-learning-and-treaty-limits.json) | 미승인 | net |
+| [태평천국 — 새 세상을 약속한 전쟁은 무엇을 바꾸었을까](../../content/stories/history/asia/taiping-war-nanjing-local-armies-and-civilian-life.json) | 미승인 | net |
+| [데카브리스트 — 황제에게 맹세하는 날 왜 광장에 모였을까](../../content/stories/history/europe/decembrists-1825-oath-constitution-and-exile.json) | 미승인 | net |
+| [카디스 헌법 — 왕이 없는 동안 주권은 누구에게 있었을까](../../content/stories/history/europe/cadiz-1812-sovereignty-faith-and-atlantic-empire.json) | 미승인 | net |
+| [멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까](../../content/stories/history/america/mexico-1821-iguala-independence-and-monarchy.json) | 미승인 | net |
+| [호주 1901 — 여섯 식민지는 무엇을 함께 하기로 했을까](../../content/stories/history/asia/australia-1901-federation-states-and-exclusions.json) | 미승인 | net |
 
 ### 도시의 변화 — 46편
 
@@ -592,7 +602,7 @@
 | [엘리베이터 — 위로 가는 힘보다 멈출 수 있다는 믿음](../../content/stories/life/housing/safety-elevator-building-height-and-trust.json) | 공개 | net |
 | [보온병 — 차가운 실험을 지키던 병이 생활로 들어오다](../../content/stories/life/housing/dewar-vacuum-flask-and-heat.json) | 공개 | net |
 
-### 이동과 운송 — 4편
+### 이동과 운송 — 5편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
@@ -600,6 +610,7 @@
 | [증기기관 — 광산의 물이 공장의 힘으로 이어지기까지](../../content/stories/science/engineering/steam-engine-mine-and-factory.json) | 공개 | net |
 | [자전거 — 앞바퀴가 작아지자 탈 수 있는 사람이 늘었다](../../content/stories/life/housing/safety-bicycle-chain-and-pneumatic-tyre.json) | 공개 | net |
 | [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](../../content/stories/history/america/erie-canal-1825-locks-tolls-and-new-york.json) | 공개 | net |
+| [미국 대륙횡단철도 — 마지막 못 아래에는 누구의 일이 있었을까](../../content/stories/history/america/transcontinental-railroad-1869-labor-land-and-link.json) | 미승인 | net |
 
 ### 놀이와 취미 — 7편
 
@@ -639,13 +650,14 @@
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
 
-### 교육과 배움 — 1편
+### 교육과 배움 — 2편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
 | [총리아문 — 청의 외교는 왜 번역하는 관청이 필요했을까](../../content/stories/history/asia/zongli-yamen-1861-translation-and-diplomacy.json) | 공개 | net |
+| [이와쿠라 사절단 — 조약은 못 고쳤는데 무엇을 가져왔을까](../../content/stories/history/asia/iwakura-mission-learning-and-treaty-limits.json) | 미승인 | net |
 
-### 기록과 지식 전달 — 6편
+### 기록과 지식 전달 — 7편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
@@ -655,8 +667,9 @@
 | [사전 — 뜻을 정하기 전에 용례를 모으다](../../content/stories/culture/literature/dictionary-quotations-and-word-histories.json) | 공개 | net |
 | [페니 우편 1840 — 편지는 왜 받는 사람에게 부담이었을까](../../content/stories/history/europe/penny-post-1840-price-prepayment-and-letters.json) | 공개 | net |
 | [둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까](../../content/stories/history/europe/domesday-1086-land-testimony-and-power.json) | 공개 | net |
+| [구텐베르크의 인쇄 — 글자를 찍으려면 활자 말고 무엇이 필요했을까](../../content/stories/history/europe/gutenberg-1450s-type-capital-and-bookmaking.json) | 미승인 | net |
 
-### 사회와 제도의 탄생 — 4편
+### 사회와 제도의 탄생 — 10편
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
@@ -664,4 +677,10 @@
 | [미라가 이사하려면 누구에게 물어봐야 할까](../../content/stories/history/america/mummy-museum-move.json) | 공개 | net |
 | [공장의 시계 — 하루의 길이는 누가 정했을까](../../content/stories/history/europe/factory-clock-workday-and-human-time.json) | 공개 | net |
 | [함무라비 법전 — 돌에 새긴 정의는 누구에게 같았을까](../../content/stories/history/middle-east/hammurabi-stele-status-evidence-and-royal-justice.json) | 공개 | net |
+| [명예혁명 — 왕을 바꾸면 권력의 규칙도 바뀔까](../../content/stories/history/europe/britain-1689-rights-crown-and-parliament.json) | 미승인 | net |
+| [나폴레옹 법전 — 같은 법을 쓴다는 것은 모두가 평등하다는 뜻일까](../../content/stories/history/europe/napoleonic-code-1804-property-family-and-equality.json) | 미승인 | net |
+| [데카브리스트 — 황제에게 맹세하는 날 왜 광장에 모였을까](../../content/stories/history/europe/decembrists-1825-oath-constitution-and-exile.json) | 미승인 | net |
+| [카디스 헌법 — 왕이 없는 동안 주권은 누구에게 있었을까](../../content/stories/history/europe/cadiz-1812-sovereignty-faith-and-atlantic-empire.json) | 미승인 | net |
+| [멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까](../../content/stories/history/america/mexico-1821-iguala-independence-and-monarchy.json) | 미승인 | net |
+| [호주 1901 — 여섯 식민지는 무엇을 함께 하기로 했을까](../../content/stories/history/asia/australia-1901-federation-states-and-exclusions.json) | 미승인 | net |
 

@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-08",
+  "request": "홈페이지 게시 및 새 글 10개",
+  "published_batch": "20261108-ten-history-records-trade-and-new-states",
+  "story_ids": [
+    "domesday-1086-land-testimony-and-power",
+    "hanseatic-league-towns-kontors-and-privileges",
+    "bastille-1789-gunpowder-rumor-and-symbol",
+    "erie-canal-1825-locks-tolls-and-new-york",
+    "canada-1867-confederation-provinces-and-exclusions",
+    "japan-1871-domains-prefectures-and-central-power",
+    "zongli-yamen-1861-translation-and-diplomacy",
+    "india-1857-rebellion-company-and-crown",
+    "garibaldi-1860-thousand-monarchy-and-unification",
+    "hammurabi-stele-status-evidence-and-royal-justice"
+  ],
+  "public_unique_stories": 418,
+  "country_view_stories": 418,
+  "subject_view_stories": 418,
+  "domain": "knowledgewalk.net",
+  "pages_run": 42471706504,
+  "pages_conclusion": "success",
+  "validation_run": 42471706233,
+  "validation_conclusion": "success",
+  "local_tests": 55,
+  "local_tests_passed": true,
+  "numbered_headings_and_separate_toc_per_story": 7,
+  "live_responses": [
+    {
+      "path": "categories/americas/미국/index.html",
+      "status": 200,
+      "bytes": 25302,
+      "sha256": "094696bd918941511b9f587f97742a68f3a4356451e65237012cce22b8c3edfa"
+    },
+    {
+      "path": "categories/common/index.html",
+      "status": 200,
+      "bytes": 138734,
+      "sha256": "17c656e8de64d456365c583d6f8822630feb7e16ed9d9e923d338e8643e6b59c"
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "status": 200,
+      "bytes": 20151,
+      "sha256": "19d8d81209ff628f4a9f6dc63f4965fc0ca00fea7e009fe2ba6b112c12553eea"
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 16313,
+      "sha256": "1717df053a0ca9ac82d26ad90fcd04b1276cd13485af6daff9f4509284e85305"
+    },
+    {
+      "path": "knowledge/categories/arts/문학/index.html",
+      "status": 200,
+      "bytes": 47696,
+      "sha256": "b23d7bd4b5c3e21c66fdea71542959aa4d1299066a7d39ca12fe112cbf3878e1"
+    },
+    {
+      "path": "knowledge/categories/arts/음악/index.html",
+      "status": 200,
+      "bytes": 27950,
+      "sha256": "c10092fca34077cc78be8c0ca42f084fa0eaf0e67aebd3a2db8f915580f808d1"
+    },
+    {
+      "path": "knowledge/categories/history-cities/역사와-제도/index.html",
+      "status": 200,
+      "bytes": 46903,
+      "sha256": "2939d0466a48a5a614d23b43c9b756e3c92a4266401802dc30b8ced8366dcec1"
+    },
+    {
+      "path": "knowledge/categories/ideas/기록과-지식-전달/index.html",
+      "status": 200,
+      "bytes": 13679,
+      "sha256": "a5ab105b462ea5e42de689213b0f3c9d4d122bbe46fa07db99278948e7a3081f"
+    },
+    {
+      "path": "knowledge/index.html",
+      "status": 200,
+      "bytes": 20530,
+      "sha256": "13a040ead0bf8ee07f07e66861e48fb01ca160b58448166edc2a56a28b82da19"
+    },
+    {
+      "path": "knowledge/library.html",
+      "status": 200,
+      "bytes": 116742,
+      "sha256": "3ddfef6afe036a3d186155b06ff944f8a96015fcdf210d890e68243aa0f44738"
+    },
+    {
+      "path": "knowledge/reading.html",
+      "status": 200,
+      "bytes": 361105,
+      "sha256": "70e9a521076e9eb39c0ec205c5ef1cb3b0e4c82187010733f881d30b6e15303b"
+    },
+    {
+      "path": "knowledge/search-index.json",
+      "status": 200,
+      "bytes": 2781915,
+      "sha256": "e31dd3056934cf842263a197866606f1db4ea55033780a0c50e541df500b6c50"
+    },
+    {
+      "path": "knowledge/stories/bastille-1789-gunpowder-rumor-and-symbol/index.html",
+      "status": 200,
+      "bytes": 18745,
+      "sha256": "f7446cdf5fa53d819f8334fb1acdb20bf1390bc943bac5c527beae8dc3481210"
+    },
+    {
+      "path": "knowledge/stories/canada-1867-confederation-provinces-and-exclusions/index.html",
+      "status": 200,
+      "bytes": 19179,
+      "sha256": "c72c034ec252fbe9c962bb009fa8287032f10ca49d6f74f25ea96ae8ebaff2cd"
+    },
+    {
+      "path": "knowledge/stories/domesday-1086-land-testimony-and-power/index.html",
+      "status": 200,
+      "bytes": 18908,
+      "sha256": "052f54e140b4264051519130539a30767b0032fdc0c363a978a22dd025154691"
+    },
+    {
+      "path": "knowledge/stories/erie-canal-1825-locks-tolls-and-new-york/index.html",
+      "status": 200,
+      "bytes": 19051,
+      "sha256": "a8dccbf388bbd7025c4018c4002964c8fb06d9b0bfeebbe471f02108975b4b96"
+    },
+    {
+      "path": "knowledge/stories/garibaldi-1860-thousand-monarchy-and-unification/index.html",
+      "status": 200,
+      "bytes": 18710,
+      "sha256": "06e20feef7393a2599f9c7caed4f6eb436196ec3ecaafa01dd194c73d0e517e7"
+    },
+    {
+      "path": "knowledge/stories/hammurabi-stele-status-evidence-and-royal-justice/index.html",
+      "status": 200,
+      "bytes": 19555,
+      "sha256": "31cf14f32874b36908a518fb0146c63d5bff4614169b2809d680f03e7878cd37"
+    },
+    {
+      "path": "knowledge/stories/hanseatic-league-towns-kontors-and-privileges/index.html",
+      "status": 200,
+      "bytes": 19381,
+      "sha256": "40085f4658fdfe7ed30c6157c146eabfe276526dc98b3e2f7c4aa14fdff97ab6"
+    },
+    {
+      "path": "knowledge/stories/india-1857-rebellion-company-and-crown/index.html",
+      "status": 200,
+      "bytes": 18719,
+      "sha256": "a1efbbf210c9afb1efd59c1b061e93f94e4488a508beee72e5e59256c30b5683"
+    },
+    {
+      "path": "knowledge/stories/japan-1871-domains-prefectures-and-central-power/index.html",
+      "status": 200,
+      "bytes": 18879,
+      "sha256": "4edd540990befff578a9c8545b430d20fdbcbcab9ebec28663aba9a6e546ce49"
+    },
+    {
+      "path": "knowledge/stories/zongli-yamen-1861-translation-and-diplomacy/index.html",
+      "status": 200,
+      "bytes": 19074,
+      "sha256": "93532155ad695e6df9341b0e4b4031ea54abce871108dfefd3421725cc58b4bd"
+    },
+    {
+      "path": "library.html",
+      "status": 200,
+      "bytes": 114237,
+      "sha256": "8771fd832dcd68f6a8e3c8b335ad134cdbcb17da752946dc584783bcdc4596ee"
+    },
+    {
+      "path": "media/bastille-1789-gunpowder-rumor-and-symbol.png",
+      "status": 200,
+      "bytes": 3065492,
+      "sha256": "165f5289753acc9a0512fa2b1cfa089fd1503fdca79f885b91290f426faf6d76"
+    },
+    {
+      "path": "media/canada-1867-confederation-provinces-and-exclusions.jpg",
+      "status": 200,
+      "bytes": 48782,
+      "sha256": "1fe4ab81a10eb7ab4ba72a03ae21630faf88982810f9ffec822ef4aebff082ae"
+    },
+    {
+      "path": "media/domesday-1086-land-testimony-and-power.png",
+      "status": 200,
+      "bytes": 3044385,
+      "sha256": "67f1d03f5cfc6d01eef0f0a96a327abc1374aa4767d6a9c842569b687ca3691d"
+    },
+    {
+      "path": "media/erie-canal-1825-locks-tolls-and-new-york.jpg",
+      "status": 200,
+      "bytes": 305460,
+      "sha256": "4f7dbdaa0713af8647f92a5cf4e6ce297a16422bd12728f809721b51542d2b67"
+    },
+    {
+      "path": "media/garibaldi-1860-thousand-monarchy-and-unification.jpg",
+      "status": 200,
+      "bytes": 8968,
+      "sha256": "f6896b1de0e70d0ecbec80ae5b3cd92b5577002e1238e0a71b3f3587d41e16c5"
+    },
+    {
+      "path": "media/hammurabi-stele-status-evidence-and-royal-justice.jpg",
+      "status": 200,
+      "bytes": 66452,
+      "sha256": "47e2fe7444f39529cce6fcd2b42fe3647668bdb28786e299d4e8e01e38ae215c"
+    },
+    {
+      "path": "media/hanseatic-league-towns-kontors-and-privileges.jpg",
+      "status": 200,
+      "bytes": 96359,
+      "sha256": "2d5c5dfc43d5d2a7e8d6580d0c986ce9c8b630763cad9b1eb98650a01f14b52a"
+    },
+    {
+      "path": "media/india-1857-rebellion-company-and-crown.png",
+      "status": 200,
+      "bytes": 3049278,
+      "sha256": "aea4ab613a7d52bcec3c0a8534071b19d86d6b594b118f9186b8ce6240e87359"
+    },
+    {
+      "path": "media/japan-1871-domains-prefectures-and-central-power.jpg",
+      "status": 200,
+      "bytes": 177618,
+      "sha256": "e8f343cb608786f1144539f7b07ba1c5109319c05c57c975859e64a3b381603f"
+    },
+    {
+      "path": "media/zongli-yamen-1861-translation-and-diplomacy.png",
+      "status": 200,
+      "bytes": 2865885,
+      "sha256": "6962b87a73b6f441427e16327e96233abe63b31148d265523d8eb6ef1c654ded"
+    },
+    {
+      "path": "reading.html",
+      "status": 200,
+      "bytes": 358217,
+      "sha256": "6149b29c07328a61dab0a329d9e1c3394e28b1b512ac4275e08bd6b2be36201c"
+    },
+    {
+      "path": "search-index.json",
+      "status": 200,
+      "bytes": 2773394,
+      "sha256": "d58cff2c58385a055a02b54f72d163c2d7c096db2d69e6b43885367b48b1a47f"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "bytes": 60578,
+      "sha256": "31fe3380f766a4a2b38341453eb43108a772f1546d0237f36695c6c3e363a00f"
+    },
+    {
+      "path": "stories/bastille-1789-gunpowder-rumor-and-symbol/index.html",
+      "status": 200,
+      "bytes": 16222,
+      "sha256": "a67485a88e3d6debf8b005acafbc2ebf97ef2d5c1e3c418c7885042477a0d4a2"
+    },
+    {
+      "path": "stories/canada-1867-confederation-provinces-and-exclusions/index.html",
+      "status": 200,
+      "bytes": 16671,
+      "sha256": "f0aea8496bcdb49cdac0c54459f902f3fced9173f9d41cf0b0adf5c14473663c"
+    },
+    {
+      "path": "stories/domesday-1086-land-testimony-and-power/index.html",
+      "status": 200,
+      "bytes": 16370,
+      "sha256": "8ac1d231387d671f6084459edd1b0146798c891d8d6a61d1996de6e1c345ec73"
+    },
+    {
+      "path": "stories/erie-canal-1825-locks-tolls-and-new-york/index.html",
+      "status": 200,
+      "bytes": 16531,
+      "sha256": "65dfc17f5be68e1f1690d1b24164e75167d49b7723318b870152d105f6f10843"
+    },
+    {
+      "path": "stories/garibaldi-1860-thousand-monarchy-and-unification/index.html",
+      "status": 200,
+      "bytes": 16199,
+      "sha256": "f85dcc6904f5a36dc5a5877492ae7e05498c0dc1cdcca4328b0f46589f02073e"
+    },
+    {
+      "path": "stories/hammurabi-stele-status-evidence-and-royal-justice/index.html",
+      "status": 200,
+      "bytes": 17089,
+      "sha256": "daea6ef6d5d55a309e6cae51054a8cacf5ff762d3f93e2e837e60f67daed2e20"
+    },
+    {
+      "path": "stories/hanseatic-league-towns-kontors-and-privileges/index.html",
+      "status": 200,
+      "bytes": 16840,
+      "sha256": "e114554eef9a5548c03a5c514980c4289ab79ff8fa0a2dcbcdaaf83952724944"
+    },
+    {
+      "path": "stories/india-1857-rebellion-company-and-crown/index.html",
+      "status": 200,
+      "bytes": 16223,
+      "sha256": "2b9eef09ba61fb03febe475006c4ab6a44c829dce72d68712788b31773db4639"
+    },
+    {
+      "path": "stories/japan-1871-domains-prefectures-and-central-power/index.html",
+      "status": 200,
+      "bytes": 16380,
+      "sha256": "a71737a5fdf7464edaf7071859e6500b70b48f17b43685e91b1dcdf3e84012ef"
+    },
+    {
+      "path": "stories/zongli-yamen-1861-translation-and-diplomacy/index.html",
+      "status": 200,
+      "bytes": 16578,
+      "sha256": "9b469ed34503f9d2cadac6b8238f9c51a3ed1f5f6f92f23f55cd0fcf7b1b2d25"
+    }
+  ]
+}

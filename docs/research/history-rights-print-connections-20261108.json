@@ -1,0 +1,470 @@
+{
+  "date": "2026-11-08",
+  "user_request": "새 글 10개",
+  "publication_authorized": false,
+  "batch_id": "20261108-ten-history-rights-print-and-connections",
+  "canonical_domain": "knowledgewalk.net",
+  "navigation_views": [
+    "countries",
+    "subjects"
+  ],
+  "total_originals": 441,
+  "public_unique_stories": 418,
+  "public_view_counts": {
+    "countries": 418,
+    "subjects": 418
+  },
+  "unpublished": 23,
+  "source_verified_unpublished": 20,
+  "new_story_metrics": [
+    {
+      "id": "britain-1689-rights-crown-and-parliament",
+      "body_characters": 2346,
+      "numbered_sections": 7
+    },
+    {
+      "id": "napoleonic-code-1804-property-family-and-equality",
+      "body_characters": 2422,
+      "numbered_sections": 7
+    },
+    {
+      "id": "gutenberg-1450s-type-capital-and-bookmaking",
+      "body_characters": 2442,
+      "numbered_sections": 7
+    },
+    {
+      "id": "transcontinental-railroad-1869-labor-land-and-link",
+      "body_characters": 2454,
+      "numbered_sections": 7
+    },
+    {
+      "id": "iwakura-mission-learning-and-treaty-limits",
+      "body_characters": 2421,
+      "numbered_sections": 7
+    },
+    {
+      "id": "taiping-war-nanjing-local-armies-and-civilian-life",
+      "body_characters": 2487,
+      "numbered_sections": 7
+    },
+    {
+      "id": "decembrists-1825-oath-constitution-and-exile",
+      "body_characters": 2468,
+      "numbered_sections": 7
+    },
+    {
+      "id": "cadiz-1812-sovereignty-faith-and-atlantic-empire",
+      "body_characters": 2368,
+      "numbered_sections": 7
+    },
+    {
+      "id": "mexico-1821-iguala-independence-and-monarchy",
+      "body_characters": 2361,
+      "numbered_sections": 7
+    },
+    {
+      "id": "australia-1901-federation-states-and-exclusions",
+      "body_characters": 2352,
+      "numbered_sections": 7
+    }
+  ],
+  "source_checks": [
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-0.txt",
+      "status": 200,
+      "bytes": 773197,
+      "sha256": "8fd08db998d9c2b32438a8592de324e8042bb66b66f893b470b7645cdf450bba"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-History-of-Spainespa-ola-of-Rafael-Altamira_40646/master/40646-0.txt",
+      "status": 200,
+      "bytes": 1306306,
+      "sha256": "a6de7794c31a9c06f3cb817856b2443c4ca67982cb0d48ccd9c4ded7906d3055"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-Russia_16930/master/16930-8.txt",
+      "status": 200,
+      "bytes": 381815,
+      "sha256": "c864cc7a312fc01bdb52dfcf5041fcde5e269d4e0d6a5f6e7d43f85fd01bb2f2"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Source-Book-of-Australian-History_15337/master/15337-0.txt",
+      "status": 200,
+      "bytes": 519735,
+      "sha256": "14ad3dd7521b390a582b92e4d9786aaa3188b9839381c067d34b7d80569b0841"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Source-Book-of-Australian-History_15337/master/15337-h/images/map.png",
+      "status": 200,
+      "bytes": 233531,
+      "sha256": "452e128d691cf44522d3840887ebb861627fe568bca3d1c5d2c93c432f127138"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+      "status": 200,
+      "bytes": 1504314,
+      "sha256": "c426e5c9b04347678798667a8816ec5d2d95be9ea059b98e1a317fabd6c4f306"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-h/images/image84.jpg",
+      "status": 200,
+      "bytes": 81056,
+      "sha256": "870bb0c348d6059fc20a8535e3ccfb9d2a8afc162b3eea736e10beefd0ebf14a"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/China-and-the-Manchus_2156/master/2156-8.txt",
+      "status": 200,
+      "bytes": 216409,
+      "sha256": "0ad41136c56e210771f01e1ea3ec0a80a10282bef50fac9422ddcb00e44f278f"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Mexico-and-Her-People-of-To-day-An-Account-of-the-Customs-Characteristics-Amusements-History-__60135/master/60135-0.txt",
+      "status": 200,
+      "bytes": 644784,
+      "sha256": "e1b9388113dd796eaee33262ac2f9029f6eb9bfd711c71bbcd0398fa36a21c3d"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Invention-of-Printing-A-Collection-of-Facts-and-Opinions-Descriptive-of-Early-Prints-and-__51034/master/51034-0.txt",
+      "status": 200,
+      "bytes": 1223009,
+      "sha256": "0a70465510b92febcb93f2b6b97dc74fe33be0c61ad63b363da6fc9b6866eab7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Invention-of-Printing-A-Collection-of-Facts-and-Opinions-Descriptive-of-Early-Prints-and-__51034/master/51034-h/images/i428.png",
+      "status": 200,
+      "bytes": 94221,
+      "sha256": "1358e65078642df1b6c0117d8f2ed4cf3eb2ceffb3489915073e046e44d1dc42"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Overland-Route-to-the-Road-of-a-Thousand-Wonders-The-Route-of-the-Union-Pacific-The-South__51849/master/51849-0.txt",
+      "status": 200,
+      "bytes": 117505,
+      "sha256": "3a89b788f200c7e6556c31ef72615f0ecd37776653ffb2fbb61a1ee0cefdc937"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Overland-Route-to-the-Road-of-a-Thousand-Wonders-The-Route-of-the-Union-Pacific-The-South__51849/master/51849-h/images/p64.jpg",
+      "status": 200,
+      "bytes": 136689,
+      "sha256": "21e1795385b2f6fe24cf8d5d680cf5ffdd4a2aa6b3867f2cb24ac6a1e4630916"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Railroad-Builders--A-Chronicle-of-the-Welding-of-the-States_3036/master/3036.txt",
+      "status": 200,
+      "bytes": 318267,
+      "sha256": "a2d4471e527703f78dd43627cdef7f4e3b7a8a5f65fcd52014a6852520b749b8"
+    }
+  ],
+  "source_method": "Read downloaded historical-book texts and image captions from GITenberg mirrors. Unreachable institutional pages and Wikipedia were not cited as read. Older interpretations, chronology and colonial bias were distinguished from factual descriptions.",
+  "images": {
+    "historical_artwork": 2,
+    "historical_map": 1,
+    "historical_photo": 1,
+    "ai_illustration": 6,
+    "visual_review": "All10 inspected in contact sheet; source images copied without editing; later paintings and explanatory scenes labelled."
+  },
+  "browser_checks": [
+    {
+      "id": "britain-1689-rights-crown-and-parliament",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "napoleonic-code-1804-property-family-and-equality",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "gutenberg-1450s-type-capital-and-bookmaking",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "transcontinental-railroad-1869-labor-land-and-link",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "iwakura-mission-learning-and-treaty-limits",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "taiping-war-nanjing-local-armies-and-civilian-life",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "decembrists-1825-oath-constitution-and-exile",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "cadiz-1812-sovereignty-faith-and-atlantic-empire",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "mexico-1821-iguala-independence-and-monarchy",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "australia-1901-federation-states-and-exclusions",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "britain-1689-rights-crown-and-parliament",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "napoleonic-code-1804-property-family-and-equality",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "gutenberg-1450s-type-capital-and-bookmaking",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "transcontinental-railroad-1869-labor-land-and-link",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "iwakura-mission-learning-and-treaty-limits",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "taiping-war-nanjing-local-armies-and-civilian-life",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "decembrists-1825-oath-constitution-and-exile",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "cadiz-1812-sovereignty-faith-and-atlantic-empire",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "mexico-1821-iguala-independence-and-monarchy",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "australia-1901-federation-states-and-exclusions",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    }
+  ],
+  "test_suite": {
+    "command": "python3 -m unittest discover -s tests",
+    "tests": 55,
+    "passed": true
+  },
+  "draft_exclusion_checks": [
+    {
+      "id": "britain-1689-rights-crown-and-parliament",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "napoleonic-code-1804-property-family-and-equality",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "gutenberg-1450s-type-capital-and-bookmaking",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "transcontinental-railroad-1869-labor-land-and-link",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "iwakura-mission-learning-and-treaty-limits",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "taiping-war-nanjing-local-armies-and-civilian-life",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "decembrists-1825-oath-constitution-and-exile",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "cadiz-1812-sovereignty-faith-and-atlantic-empire",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "mexico-1821-iguala-independence-and-monarchy",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "australia-1901-federation-states-and-exclusions",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    }
+  ],
+  "public_navigation_unchanged": true,
+  "preexisting_placement_rows_unchanged": true,
+  "automatic_generation_enabled": false,
+  "final_image_files": [
+    {
+      "id": "britain-1689-rights-crown-and-parliament",
+      "file": "content/images/britain-1689-rights-crown-and-parliament.png",
+      "sha256": "286c9c82113bcc8d8ec64ed540f63db7e68ca55a145eb599cfa53dcae0cbc8a9",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "napoleonic-code-1804-property-family-and-equality",
+      "file": "content/images/napoleonic-code-1804-property-family-and-equality.jpg",
+      "sha256": "870bb0c348d6059fc20a8535e3ccfb9d2a8afc162b3eea736e10beefd0ebf14a",
+      "width": 400,
+      "height": 497,
+      "type": "artwork"
+    },
+    {
+      "id": "gutenberg-1450s-type-capital-and-bookmaking",
+      "file": "content/images/gutenberg-1450s-type-capital-and-bookmaking.png",
+      "sha256": "1358e65078642df1b6c0117d8f2ed4cf3eb2ceffb3489915073e046e44d1dc42",
+      "width": 456,
+      "height": 798,
+      "type": "artwork"
+    },
+    {
+      "id": "transcontinental-railroad-1869-labor-land-and-link",
+      "file": "content/images/transcontinental-railroad-1869-labor-land-and-link.jpg",
+      "sha256": "21e1795385b2f6fe24cf8d5d680cf5ffdd4a2aa6b3867f2cb24ac6a1e4630916",
+      "width": 748,
+      "height": 600,
+      "type": "photo"
+    },
+    {
+      "id": "iwakura-mission-learning-and-treaty-limits",
+      "file": "content/images/iwakura-mission-learning-and-treaty-limits.png",
+      "sha256": "99268f755ebc7c7af38993b249f1e7c5dbe77a1cbda869c8d9b67b94d75d50df",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "taiping-war-nanjing-local-armies-and-civilian-life",
+      "file": "content/images/taiping-war-nanjing-local-armies-and-civilian-life.png",
+      "sha256": "b686f36856026dfd569a313608b37d453379e8321a4a972649e56ace2b0b6a19",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "decembrists-1825-oath-constitution-and-exile",
+      "file": "content/images/decembrists-1825-oath-constitution-and-exile.png",
+      "sha256": "37889de6f638bc33cfd6a8431d6b31d5066104c6db3896fae009cb389c728b19",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "cadiz-1812-sovereignty-faith-and-atlantic-empire",
+      "file": "content/images/cadiz-1812-sovereignty-faith-and-atlantic-empire.png",
+      "sha256": "fa04eb5d2c409a4fa0d3917c4547cd398e7503ea85717a34fdaf4765f39e1094",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "mexico-1821-iguala-independence-and-monarchy",
+      "file": "content/images/mexico-1821-iguala-independence-and-monarchy.png",
+      "sha256": "8f69940159584bca7bd6fe456c13a23271bf3994957527305fb7d4bc06643e1e",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "australia-1901-federation-states-and-exclusions",
+      "file": "content/images/australia-1901-federation-states-and-exclusions.png",
+      "sha256": "452e128d691cf44522d3840887ebb861627fe568bca3d1c5d2c93c432f127138",
+      "width": 1200,
+      "height": 918,
+      "type": "artwork"
+    }
+  ],
+  "image_correction": "1825 Russia illustration: removed later monument/domed cathedral/triumphal architecture; corrected background visually rechecked."
+}

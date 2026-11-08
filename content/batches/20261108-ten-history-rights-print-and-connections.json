@@ -1,0 +1,28 @@
+{
+  "id": "20261108-ten-history-rights-print-and-connections",
+  "title": "역사 이야기10편 — 권리와 인쇄, 국가를 잇는 길",
+  "story_ids": [
+    "britain-1689-rights-crown-and-parliament",
+    "napoleonic-code-1804-property-family-and-equality",
+    "gutenberg-1450s-type-capital-and-bookmaking",
+    "transcontinental-railroad-1869-labor-land-and-link",
+    "iwakura-mission-learning-and-treaty-limits",
+    "taiping-war-nanjing-local-armies-and-civilian-life",
+    "decembrists-1825-oath-constitution-and-exile",
+    "cadiz-1812-sovereignty-faith-and-atlantic-empire",
+    "mexico-1821-iguala-independence-and-monarchy",
+    "australia-1901-federation-states-and-exclusions"
+  ],
+  "countries": {
+    "britain-1689-rights-crown-and-parliament": "영국",
+    "napoleonic-code-1804-property-family-and-equality": "프랑스",
+    "gutenberg-1450s-type-capital-and-bookmaking": "독일",
+    "transcontinental-railroad-1869-labor-land-and-link": "미국",
+    "iwakura-mission-learning-and-treaty-limits": "일본",
+    "taiping-war-nanjing-local-armies-and-civilian-life": "중국",
+    "decembrists-1825-oath-constitution-and-exile": "러시아",
+    "cadiz-1812-sovereignty-faith-and-atlantic-empire": "스페인",
+    "mexico-1821-iguala-independence-and-monarchy": "멕시코",
+    "australia-1901-federation-states-and-exclusions": "호주"
+  }
+}
