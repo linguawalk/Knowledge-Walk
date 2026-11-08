@@ -1,6 +1,6 @@
 # 분야별 공통 원고 서가
 
-2026-11-08. net의 /knowledge/에서 원본431편 중 승인408편을 제공합니다. 한 글은 관련 분야 여러 곳에 연결될 수 있습니다. 미승인 원고는 아래 검토 목록에만 포함합니다.
+2026-11-08. net의 /knowledge/에서 원본431편 중 승인418편을 제공합니다. 한 글은 관련 분야 여러 곳에 연결될 수 있습니다. 미승인 원고는 아래 검토 목록에만 포함합니다.
 
 ## 역사와 도시
 
@@ -43,16 +43,16 @@
 | [브라질 1822 — 독립했는데 왜 황제가 생겼을까](../../content/stories/history/america/brazil-1822-independence-crown-and-unequal-freedom.json) | 공개 | net |
 | [아마르나 — 태양을 위한 수도는 왜 오래가지 못했을까](../../content/stories/history/africa/amarna-akhenaten-capital-sun-and-afterlife.json) | 공개 | net |
 | [콘스탄티노폴리스 1453 — 성벽을 넘은 뒤에도 도시는 이어졌다](../../content/stories/history/middle-east/constantinople-1453-walls-sea-and-new-capital.json) | 공개 | net |
-| [둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까](../../content/stories/history/europe/domesday-1086-land-testimony-and-power.json) | 미승인 | net |
-| [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](../../content/stories/history/europe/hanseatic-league-towns-kontors-and-privileges.json) | 미승인 | net |
-| [바스티유 1789 — 감옥보다 화약이 먼저 필요했던 날](../../content/stories/history/europe/bastille-1789-gunpowder-rumor-and-symbol.json) | 미승인 | net |
-| [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](../../content/stories/history/america/erie-canal-1825-locks-tolls-and-new-york.json) | 미승인 | net |
-| [캐나다 1867 — 하나의 국가가 된다는 데에는 무엇이 필요했을까](../../content/stories/history/america/canada-1867-confederation-provinces-and-exclusions.json) | 미승인 | net |
-| [폐번치현 — 영주의 땅은 어떻게 중앙정부의 지도가 되었을까](../../content/stories/history/asia/japan-1871-domains-prefectures-and-central-power.json) | 미승인 | net |
-| [총리아문 — 청의 외교는 왜 번역하는 관청이 필요했을까](../../content/stories/history/asia/zongli-yamen-1861-translation-and-diplomacy.json) | 미승인 | net |
-| [인도 1857 — 병사들의 봉기는 왜 통치자를 바꾸었을까](../../content/stories/history/asia/india-1857-rebellion-company-and-crown.json) | 미승인 | net |
-| [가리발디의 천인대 — 붉은 셔츠는 어떻게 왕국의 지도를 바꾸었을까](../../content/stories/history/europe/garibaldi-1860-thousand-monarchy-and-unification.json) | 미승인 | net |
-| [함무라비 법전 — 돌에 새긴 정의는 누구에게 같았을까](../../content/stories/history/middle-east/hammurabi-stele-status-evidence-and-royal-justice.json) | 미승인 | net |
+| [둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까](../../content/stories/history/europe/domesday-1086-land-testimony-and-power.json) | 공개 | net |
+| [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](../../content/stories/history/europe/hanseatic-league-towns-kontors-and-privileges.json) | 공개 | net |
+| [바스티유 1789 — 감옥보다 화약이 먼저 필요했던 날](../../content/stories/history/europe/bastille-1789-gunpowder-rumor-and-symbol.json) | 공개 | net |
+| [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](../../content/stories/history/america/erie-canal-1825-locks-tolls-and-new-york.json) | 공개 | net |
+| [캐나다 1867 — 하나의 국가가 된다는 데에는 무엇이 필요했을까](../../content/stories/history/america/canada-1867-confederation-provinces-and-exclusions.json) | 공개 | net |
+| [폐번치현 — 영주의 땅은 어떻게 중앙정부의 지도가 되었을까](../../content/stories/history/asia/japan-1871-domains-prefectures-and-central-power.json) | 공개 | net |
+| [총리아문 — 청의 외교는 왜 번역하는 관청이 필요했을까](../../content/stories/history/asia/zongli-yamen-1861-translation-and-diplomacy.json) | 공개 | net |
+| [인도 1857 — 병사들의 봉기는 왜 통치자를 바꾸었을까](../../content/stories/history/asia/india-1857-rebellion-company-and-crown.json) | 공개 | net |
+| [가리발디의 천인대 — 붉은 셔츠는 어떻게 왕국의 지도를 바꾸었을까](../../content/stories/history/europe/garibaldi-1860-thousand-monarchy-and-unification.json) | 공개 | net |
+| [함무라비 법전 — 돌에 새긴 정의는 누구에게 같았을까](../../content/stories/history/middle-east/hammurabi-stele-status-evidence-and-royal-justice.json) | 공개 | net |
 
 ### 도시의 변화 — 46편
 
@@ -345,7 +345,7 @@
 | [박스드 — 차 없이도 창고형 쇼핑을 할 수 있을까](../../content/stories/companies/technology/boxed-bulk-shopping-without-car.json) | 공개 | net |
 | [시어스 — 시골집 식탁에 백화점 한 권이 도착했다](../../content/stories/companies/technology/sears-catalog-price-and-rural-door.json) | 공개 | net |
 | [싱어 — 재봉틀은 어떻게 집 안으로 들어왔을까](../../content/stories/companies/technology/singer-sewing-machine-and-installments.json) | 공개 | net |
-| [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](../../content/stories/history/europe/hanseatic-league-towns-kontors-and-privileges.json) | 미승인 | net |
+| [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](../../content/stories/history/europe/hanseatic-league-towns-kontors-and-privileges.json) | 공개 | net |
 
 ### 브랜드와 소비 — 8편
 
@@ -599,7 +599,7 @@
 | [철도를 바꾼 것은 달리는 힘만이 아니었다](../../content/stories/science/engineering/railway-air-brakes-stopping-train.json) | 공개 | net |
 | [증기기관 — 광산의 물이 공장의 힘으로 이어지기까지](../../content/stories/science/engineering/steam-engine-mine-and-factory.json) | 공개 | net |
 | [자전거 — 앞바퀴가 작아지자 탈 수 있는 사람이 늘었다](../../content/stories/life/housing/safety-bicycle-chain-and-pneumatic-tyre.json) | 공개 | net |
-| [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](../../content/stories/history/america/erie-canal-1825-locks-tolls-and-new-york.json) | 미승인 | net |
+| [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](../../content/stories/history/america/erie-canal-1825-locks-tolls-and-new-york.json) | 공개 | net |
 
 ### 놀이와 취미 — 7편
 
@@ -643,7 +643,7 @@
 
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
-| [총리아문 — 청의 외교는 왜 번역하는 관청이 필요했을까](../../content/stories/history/asia/zongli-yamen-1861-translation-and-diplomacy.json) | 미승인 | net |
+| [총리아문 — 청의 외교는 왜 번역하는 관청이 필요했을까](../../content/stories/history/asia/zongli-yamen-1861-translation-and-diplomacy.json) | 공개 | net |
 
 ### 기록과 지식 전달 — 6편
 
@@ -654,7 +654,7 @@
 | [백과전서 — 장인의 손기술은 어떻게 책 속에 들어왔을까](../../content/stories/culture/literature/encyclopedia-workshops-plates-and-editors.json) | 공개 | net |
 | [사전 — 뜻을 정하기 전에 용례를 모으다](../../content/stories/culture/literature/dictionary-quotations-and-word-histories.json) | 공개 | net |
 | [페니 우편 1840 — 편지는 왜 받는 사람에게 부담이었을까](../../content/stories/history/europe/penny-post-1840-price-prepayment-and-letters.json) | 공개 | net |
-| [둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까](../../content/stories/history/europe/domesday-1086-land-testimony-and-power.json) | 미승인 | net |
+| [둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까](../../content/stories/history/europe/domesday-1086-land-testimony-and-power.json) | 공개 | net |
 
 ### 사회와 제도의 탄생 — 4편
 
@@ -663,5 +663,5 @@
 | [흑사병 뒤의 임금 — 일할 사람이 줄자 무엇이 달라졌을까](../../content/stories/finance/money/black-death-labor-and-wages.json) | 공개 | net |
 | [미라가 이사하려면 누구에게 물어봐야 할까](../../content/stories/history/america/mummy-museum-move.json) | 공개 | net |
 | [공장의 시계 — 하루의 길이는 누가 정했을까](../../content/stories/history/europe/factory-clock-workday-and-human-time.json) | 공개 | net |
-| [함무라비 법전 — 돌에 새긴 정의는 누구에게 같았을까](../../content/stories/history/middle-east/hammurabi-stele-status-evidence-and-royal-justice.json) | 미승인 | net |
+| [함무라비 법전 — 돌에 새긴 정의는 누구에게 같았을까](../../content/stories/history/middle-east/hammurabi-stele-status-evidence-and-royal-justice.json) | 공개 | net |
 

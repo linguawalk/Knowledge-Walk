@@ -4,7 +4,7 @@
 
 History · Asia
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![산조 사네토미와 가쓰 가이슈의 인물 모습을 실은 역사 출판 도판](../../../../content/images/japan-1871-domains-prefectures-and-central-power.jpg)
 

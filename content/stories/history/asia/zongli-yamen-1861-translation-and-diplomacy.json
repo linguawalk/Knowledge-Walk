@@ -96,7 +96,9 @@
     "label": "AI 역사 장면 삽화",
     "credit": "AI 역사 이해용 상상 삽화 · 당시 사진이나 실제 인물의 초상, 특정 장면과 건물의 정확한 복원이 아닙니다."
   },
-  "status": "review",
-  "publication_ready": false,
-  "source_review": "verified"
+  "status": "approved",
+  "publication_ready": true,
+  "source_review": "verified",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 및 새 글10개 요청",
+  "approved_at": "2026-11-08"
 }

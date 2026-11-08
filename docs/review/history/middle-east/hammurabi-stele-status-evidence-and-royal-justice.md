@@ -4,7 +4,7 @@
 
 History · Middle East
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![함무라비 법전 비석 위쪽의 샤마시와 왕 부조를 재현한 역사 도판](../../../../content/images/hammurabi-stele-status-evidence-and-royal-justice.jpg)
 

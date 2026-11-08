@@ -1,6 +1,6 @@
 # 국가별 공통 원고 서가
 
-2026-11-08. net 전체 원고431편·공개408편입니다. 국가가 없는 글은 공통 교양으로 제공하며 억지로 국가를 부여하지 않습니다. 미승인 원고는 검토 목록에만 포함합니다.
+2026-11-08. net 전체 원고431편·공개418편입니다. 국가가 없는 글은 공통 교양으로 제공하며 억지로 국가를 부여하지 않습니다. 미승인 원고는 검토 목록에만 포함합니다.
 
 ## 아시아대양주
 
@@ -24,7 +24,7 @@
 | [두장옌 — 오래된 물길은 누가 계속 열어 두었을까](../../content/stories/cities/asia/dujiangyan-irrigation-and-maintenance.json) | 공개 | net |
 | [중국의 외바퀴수레 — 바퀴 하나로 좁은 길을 잇다](../../content/stories/history/asia/china-wheelbarrows-chengdu-roads-and-loads.json) | 공개 | net |
 | [중국의 과거제 — 작은 칸에서 치른 시험은 누구에게 길을 열었을까](../../content/stories/history/asia/china-examinations-cells-books-and-office.json) | 공개 | net |
-| [총리아문 — 청의 외교는 왜 번역하는 관청이 필요했을까](../../content/stories/history/asia/zongli-yamen-1861-translation-and-diplomacy.json) | 미승인 | net |
+| [총리아문 — 청의 외교는 왜 번역하는 관청이 필요했을까](../../content/stories/history/asia/zongli-yamen-1861-translation-and-diplomacy.json) | 공개 | net |
 
 ### 인도네시아 — 1편
 
@@ -50,7 +50,7 @@
 | [일본의 회전무대 — 집 한 채가 돌아가면 다음 장면이 열린다](../../content/stories/culture/architecture/japanese-theatre-revolving-stage-and-labor.json) | 공개 | net |
 | [오사카 — 성의 사진 옆에 방직공장이 실린 이유](../../content/stories/cities/asia/osaka-mills-mint-and-port-city.json) | 공개 | net |
 | [페리의 흑선 — 배가 도착했다고 모든 항구가 열린 것은 아니다](../../content/stories/history/asia/perry-1853-black-ships-and-negotiated-ports.json) | 공개 | net |
-| [폐번치현 — 영주의 땅은 어떻게 중앙정부의 지도가 되었을까](../../content/stories/history/asia/japan-1871-domains-prefectures-and-central-power.json) | 미승인 | net |
+| [폐번치현 — 영주의 땅은 어떻게 중앙정부의 지도가 되었을까](../../content/stories/history/asia/japan-1871-domains-prefectures-and-central-power.json) | 공개 | net |
 
 ### 한국 — 25편
 
@@ -110,7 +110,7 @@
 | [산치 대탑 — 들어가는 대신 주위를 도는 건축](../../content/stories/culture/architecture/sanchi-stupa-gates-and-circling-path.json) | 공개 | net |
 | [아잔타 석굴 — 바위를 파서 빛과 이야기를 담다](../../content/stories/culture/architecture/ajanta-caves-prayer-halls-painting-and-monks.json) | 공개 | net |
 | [아소카의 칙령 — 정복한 왕은 왜 후회를 돌에 새겼을까](../../content/stories/history/asia/asoka-edicts-kalinga-and-public-morality.json) | 공개 | net |
-| [인도 1857 — 병사들의 봉기는 왜 통치자를 바꾸었을까](../../content/stories/history/asia/india-1857-rebellion-company-and-crown.json) | 미승인 | net |
+| [인도 1857 — 병사들의 봉기는 왜 통치자를 바꾸었을까](../../content/stories/history/asia/india-1857-rebellion-company-and-crown.json) | 공개 | net |
 
 ### 캄보디아 — 1편
 
@@ -188,7 +188,7 @@
 | [한여름 밤의 꿈 — 사랑은 숲에서 누구의 마음이 되었을까](../../content/stories/culture/literature/midsummer-lovers-magic-and-artisans.json) | 공개 | net |
 | [사일러스 마너 — 잃어버린 금화 대신 아이가 들어온 밤](../../content/stories/culture/literature/silas-marner-gold-child-and-neighbors.json) | 공개 | net |
 | [페니 우편 1840 — 편지는 왜 받는 사람에게 부담이었을까](../../content/stories/history/europe/penny-post-1840-price-prepayment-and-letters.json) | 공개 | net |
-| [둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까](../../content/stories/history/europe/domesday-1086-land-testimony-and-power.json) | 미승인 | net |
+| [둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까](../../content/stories/history/europe/domesday-1086-land-testimony-and-power.json) | 공개 | net |
 
 ### 이탈리아 — 19편
 
@@ -212,7 +212,7 @@
 | [폼페이 — 화산재 아래에서 도시의 일상이 나타나다](../../content/stories/cities/europe/pompeii-79-ash-and-everyday-city.json) | 공개 | net |
 | [미켈란젤로의 다비드 — 돌 속의 청년은 무엇을 기다릴까](../../content/stories/culture/art/michelangelo-david-marble-and-republic.json) | 공개 | net |
 | [시스티나 천장화 — 두 손가락 사이에는 천장 전체가 있다](../../content/stories/culture/art/sistine-ceiling-adam-and-painted-architecture.json) | 공개 | net |
-| [가리발디의 천인대 — 붉은 셔츠는 어떻게 왕국의 지도를 바꾸었을까](../../content/stories/history/europe/garibaldi-1860-thousand-monarchy-and-unification.json) | 미승인 | net |
+| [가리발디의 천인대 — 붉은 셔츠는 어떻게 왕국의 지도를 바꾸었을까](../../content/stories/history/europe/garibaldi-1860-thousand-monarchy-and-unification.json) | 공개 | net |
 
 ### 러시아 — 6편
 
@@ -247,7 +247,7 @@
 | [민중을 이끄는 자유의 여신 — 삼색기 아래의 1830년](../../content/stories/culture/art/delacroix-liberty-1830-and-barricade.json) | 공개 | net |
 | [몽생미셸 — 작은 바위 위에 수도원의 하루를 쌓다](../../content/stories/culture/architecture/mont-saint-michel-tides-abbey-and-stacked-rooms.json) | 공개 | net |
 | [베르사유 여성 행진 — 빵을 구하던 사람들이 왕을 움직이다](../../content/stories/history/europe/versailles-1789-women-bread-and-royal-move.json) | 공개 | net |
-| [바스티유 1789 — 감옥보다 화약이 먼저 필요했던 날](../../content/stories/history/europe/bastille-1789-gunpowder-rumor-and-symbol.json) | 미승인 | net |
+| [바스티유 1789 — 감옥보다 화약이 먼저 필요했던 날](../../content/stories/history/europe/bastille-1789-gunpowder-rumor-and-symbol.json) | 공개 | net |
 
 ### 불가리아 — 1편
 
@@ -299,7 +299,7 @@
 | [피델리오 — 베토벤의 오페라에서 문이 열리는 순간](../../content/stories/culture/music/fidelio-leonore-prison-and-chorus.json) | 공개 | net |
 | [마탄의 사수 — 마지막 탄환은 누구의 뜻대로 날아갈까](../../content/stories/culture/music/freischutz-wolfs-glen-and-final-shot.json) | 공개 | net |
 | [카노사 1077 — 성문 앞의 왕은 정말 모든 것을 잃었을까](../../content/stories/history/europe/canossa-1077-penance-princes-and-power.json) | 공개 | net |
-| [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](../../content/stories/history/europe/hanseatic-league-towns-kontors-and-privileges.json) | 미승인 | net |
+| [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](../../content/stories/history/europe/hanseatic-league-towns-kontors-and-privileges.json) | 공개 | net |
 
 ### 폴란드 — 1편
 
@@ -381,7 +381,7 @@
 | [위대한 개츠비 — 초록 불빛 너머에는 무엇이 있었을까](../../content/stories/culture/literature/great-gatsby-green-light-and-past.json) | 공개 | net |
 | [브루클린 다리 — 물 위의 길을 만들기 위해 물 아래로 내려가다](../../content/stories/cities/americas/brooklyn-bridge-caissons-and-shared-work.json) | 공개 | net |
 | [엘리스섬 — 자유의 여신상 다음에는 질문이 기다렸다](../../content/stories/history/america/ellis-island-inspection-manifests-and-families.json) | 공개 | net |
-| [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](../../content/stories/history/america/erie-canal-1825-locks-tolls-and-new-york.json) | 미승인 | net |
+| [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](../../content/stories/history/america/erie-canal-1825-locks-tolls-and-new-york.json) | 공개 | net |
 
 ### 페루 — 3편
 
@@ -407,7 +407,7 @@
 | [바퀴 없이 짐을 옮기던 긴 두 개의 막대](../../content/stories/history/america/canada-dog-travois.json) | 공개 | net |
 | [캐나다 철도 — 나라를 잇던 선로 위에는 누가 있었을까](../../content/stories/history/america/canadian-pacific-railway-workers-and-belonging.json) | 공개 | net |
 | [퀘벡 1608 — 강가의 작은 거처는 어떻게 교역의 중심이 되었을까](../../content/stories/cities/americas/quebec-1608-river-and-fur-trade.json) | 공개 | net |
-| [캐나다 1867 — 하나의 국가가 된다는 데에는 무엇이 필요했을까](../../content/stories/history/america/canada-1867-confederation-provinces-and-exclusions.json) | 미승인 | net |
+| [캐나다 1867 — 하나의 국가가 된다는 데에는 무엇이 필요했을까](../../content/stories/history/america/canada-1867-confederation-provinces-and-exclusions.json) | 공개 | net |
 
 ### 브라질 — 2편
 
@@ -465,7 +465,7 @@
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
 | [바그다드 — 둥근 도시 바깥으로 이야기가 자라다](../../content/stories/cities/middle-east/baghdad-round-city-and-books.json) | 공개 | net |
-| [함무라비 법전 — 돌에 새긴 정의는 누구에게 같았을까](../../content/stories/history/middle-east/hammurabi-stele-status-evidence-and-royal-justice.json) | 미승인 | net |
+| [함무라비 법전 — 돌에 새긴 정의는 누구에게 같았을까](../../content/stories/history/middle-east/hammurabi-stele-status-evidence-and-royal-justice.json) | 공개 | net |
 
 ### 이란 — 5편
 

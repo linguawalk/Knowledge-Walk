@@ -4,7 +4,7 @@
 
 History · America
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![로버트 해리스의 연방 지도자 그림을 재현한 역사 출판 도판](../../../../content/images/canada-1867-confederation-provinces-and-exclusions.jpg)
 
