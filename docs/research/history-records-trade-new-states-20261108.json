@@ -1,0 +1,416 @@
+{
+  "date": "2026-11-08",
+  "user_request": "새 글 10개",
+  "publication_authorized": false,
+  "batch_id": "20261108-ten-history-records-trade-and-new-states",
+  "canonical_domain": "knowledgewalk.net",
+  "navigation_views": [
+    "countries",
+    "subjects"
+  ],
+  "total_originals": 431,
+  "public_unique_stories": 408,
+  "public_view_counts": {
+    "countries": 408,
+    "subjects": 408
+  },
+  "unpublished": 23,
+  "source_verified_unpublished": 20,
+  "new_story_metrics": [
+    {
+      "id": "domesday-1086-land-testimony-and-power",
+      "body_characters": 2494,
+      "numbered_sections": 7
+    },
+    {
+      "id": "hanseatic-league-towns-kontors-and-privileges",
+      "body_characters": 2498,
+      "numbered_sections": 7
+    },
+    {
+      "id": "bastille-1789-gunpowder-rumor-and-symbol",
+      "body_characters": 2495,
+      "numbered_sections": 7
+    },
+    {
+      "id": "erie-canal-1825-locks-tolls-and-new-york",
+      "body_characters": 2405,
+      "numbered_sections": 7
+    },
+    {
+      "id": "canada-1867-confederation-provinces-and-exclusions",
+      "body_characters": 2435,
+      "numbered_sections": 7
+    },
+    {
+      "id": "japan-1871-domains-prefectures-and-central-power",
+      "body_characters": 2390,
+      "numbered_sections": 7
+    },
+    {
+      "id": "zongli-yamen-1861-translation-and-diplomacy",
+      "body_characters": 2417,
+      "numbered_sections": 7
+    },
+    {
+      "id": "india-1857-rebellion-company-and-crown",
+      "body_characters": 2385,
+      "numbered_sections": 7
+    },
+    {
+      "id": "garibaldi-1860-thousand-monarchy-and-unification",
+      "body_characters": 2316,
+      "numbered_sections": 7
+    },
+    {
+      "id": "hammurabi-stele-status-evidence-and-royal-justice",
+      "body_characters": 2365,
+      "numbered_sections": 7
+    }
+  ],
+  "source_checks": [
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-0.txt",
+      "status": 200,
+      "bytes": 773197,
+      "sha256": "8fd08db998d9c2b32438a8592de324e8042bb66b66f893b470b7645cdf450bba"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-h/images/i_116f.jpg",
+      "status": 200,
+      "bytes": 177618,
+      "sha256": "e8f343cb608786f1144539f7b07ba1c5109319c05c57c975859e64a3b381603f"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-History-of-Babylon-From-the-Foundation-of-the-Monarchy-to-the-Persian-Conquest-History-of-B__56667/master/56667-0.txt",
+      "status": 200,
+      "bytes": 763116,
+      "sha256": "8adf934f0b0fabaf3825ecc9de3aed998855f26a54a654898cb07fb1322c68cb"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-History-of-Babylon-From-the-Foundation-of-the-Monarchy-to-the-Persian-Conquest-History-of-B__56667/master/56667-h/images/king_plate_11_144.jpg",
+      "status": 200,
+      "bytes": 66452,
+      "sha256": "47e2fe7444f39529cce6fcd2b42fe3647668bdb28786e299d4e8e01e38ae215c"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/China-and-the-Manchus_2156/master/2156-8.txt",
+      "status": 200,
+      "bytes": 216409,
+      "sha256": "0ad41136c56e210771f01e1ea3ec0a80a10282bef50fac9422ddcb00e44f278f"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Domesday-Book-and-BeyondThree-Essays-in-the-Early-History-of-England_43255/master/43255-0.txt",
+      "status": 200,
+      "bytes": 1490649,
+      "sha256": "5f8c41c33837955e6c8e6cf124b9a512b37775d04c6ed6277fc5baeae694663a"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Forty-one-years-in-IndiaFrom-Subaltern-To-Commander-In-Chief_16528/master/16528-8.txt",
+      "status": 200,
+      "bytes": 1843821,
+      "sha256": "faf7ae91018e9715fb1edbbd172e313d1e2759bf7081a6a84d4a79f5f89799ac"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Historic-Highways-of-America--Vol.-14-The-Great-American-Canals--Volume-II-The-Erie-Canal-_41008/master/41008-8.txt",
+      "status": 200,
+      "bytes": 251230,
+      "sha256": "a464160c15cf46cdebcfb467b00cc85458b34c5399312f92ec9b3cb8e51db29d"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Historic-Highways-of-America--Vol.-14-The-Great-American-Canals--Volume-II-The-Erie-Canal-_41008/master/41008-h/images/ill117.jpg",
+      "status": 200,
+      "bytes": 305460,
+      "sha256": "4f7dbdaa0713af8647f92a5cf4e6ce297a16422bd12728f809721b51542d2b67"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Awakening-of-China_15125/master/15125-8.txt",
+      "status": 200,
+      "bytes": 520408,
+      "sha256": "06e7766929dd6c45b36da1458f81d61a10091e339df27c7e5d6c47fae3b5f272"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Fathers-of-ConfederationA-Chronicle-of-the-Birth-of-the-Dominion_29972/master/29972-8.txt",
+      "status": 200,
+      "bytes": 268110,
+      "sha256": "e15118967d7ab5dd784a4a4977e05334dc6c3f814a2c69448ca1b6ac5e5bf0cc"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Fathers-of-ConfederationA-Chronicle-of-the-Birth-of-the-Dominion_29972/master/29972-h/images/img-front.jpg",
+      "status": 200,
+      "bytes": 48782,
+      "sha256": "1fe4ab81a10eb7ab4ba72a03ae21630faf88982810f9ffec822ef4aebff082ae"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-French-Revolution--A-History_1301/master/1301.txt",
+      "status": 200,
+      "bytes": 1903708,
+      "sha256": "4963d54c7f5f8bd83b70425f8a25d5df403f00bd20eb2527929da0e99059da80"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Hansa-Towns_39664/master/39664-8.txt",
+      "status": 200,
+      "bytes": 562931,
+      "sha256": "14e2d2c672ffb17aa5e697dd4b0bb86ddbc87cbb183e0c82f6e1c1593c4a65cc"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Hansa-Towns_39664/master/39664-h/images/illo110.jpg",
+      "status": 200,
+      "bytes": 96359,
+      "sha256": "2d5c5dfc43d5d2a7e8d6580d0c986ce9c8b630763cad9b1eb98650a01f14b52a"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Liberation-of-Italy-1815-1870_14078/master/14078-8.txt",
+      "status": 200,
+      "bytes": 776881,
+      "sha256": "39fb2a42f4cfc11aa6ec7b8b41de18177680ad9fd6987302f7a0fce7160b92cb"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Liberation-of-Italy-1815-1870_14078/master/14078-h/images/image1.jpg",
+      "status": 200,
+      "bytes": 8968,
+      "sha256": "f6896b1de0e70d0ecbec80ae5b3cd92b5577002e1238e0a71b3f3587d41e16c5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Oldest-Code-of-Laws-in-the-WorldB.C.-2285-2242_17150/master/17150.txt",
+      "status": 200,
+      "bytes": 122752,
+      "sha256": "1a7589088f9b2078a2ebbc55434211ca6d510bb5b70e47a1670b5699818ca542"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Story-of-the-Indian-Mutiny_65351/master/65351-0.txt",
+      "status": 200,
+      "bytes": 326174,
+      "sha256": "e9d927b8df32e3ea4bef19cea6a5b2f498998a1a2a1226dfa02ecfe73a75a390"
+    }
+  ],
+  "source_method": "Read downloaded historical-book texts and image captions from GITenberg mirrors. Unreachable institutional pages and Wikipedia were not cited as read. Older interpretations, chronology and colonial bias were distinguished from factual descriptions.",
+  "images": {
+    "historical_artwork": 5,
+    "historical_photo": 1,
+    "ai_illustration": 4,
+    "visual_review": "All10 inspected in contact sheet; source images copied without editing; later paintings and explanatory scenes labelled."
+  },
+  "browser_checks": [
+    {
+      "id": "domesday-1086-land-testimony-and-power",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "hanseatic-league-towns-kontors-and-privileges",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "bastille-1789-gunpowder-rumor-and-symbol",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "erie-canal-1825-locks-tolls-and-new-york",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "canada-1867-confederation-provinces-and-exclusions",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "japan-1871-domains-prefectures-and-central-power",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "zongli-yamen-1861-translation-and-diplomacy",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "india-1857-rebellion-company-and-crown",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "garibaldi-1860-thousand-monarchy-and-unification",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "hammurabi-stele-status-evidence-and-royal-justice",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "domesday-1086-land-testimony-and-power",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "hanseatic-league-towns-kontors-and-privileges",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "bastille-1789-gunpowder-rumor-and-symbol",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "erie-canal-1825-locks-tolls-and-new-york",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "canada-1867-confederation-provinces-and-exclusions",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "japan-1871-domains-prefectures-and-central-power",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "zongli-yamen-1861-translation-and-diplomacy",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "india-1857-rebellion-company-and-crown",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "garibaldi-1860-thousand-monarchy-and-unification",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "hammurabi-stele-status-evidence-and-royal-justice",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    }
+  ],
+  "test_suite": {
+    "command": "python3 -m unittest discover -s tests",
+    "tests": 55,
+    "passed": true
+  },
+  "draft_exclusion_checks": [
+    {
+      "id": "domesday-1086-land-testimony-and-power",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "hanseatic-league-towns-kontors-and-privileges",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "bastille-1789-gunpowder-rumor-and-symbol",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "erie-canal-1825-locks-tolls-and-new-york",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "canada-1867-confederation-provinces-and-exclusions",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "japan-1871-domains-prefectures-and-central-power",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "zongli-yamen-1861-translation-and-diplomacy",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "india-1857-rebellion-company-and-crown",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "garibaldi-1860-thousand-monarchy-and-unification",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "hammurabi-stele-status-evidence-and-royal-justice",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    }
+  ],
+  "public_navigation_unchanged": true,
+  "preexisting_placement_rows_unchanged": true,
+  "automatic_generation_enabled": false
+}

@@ -1,7 +1,7 @@
 {
   "state": "active_single_domain_shared_catalog",
-  "date": "2026-11-07",
-  "count": 421,
+  "date": "2026-11-08",
+  "count": 431,
   "articles": [
     {
       "id": "alexandria-museion-and-books",
@@ -15155,6 +15155,386 @@
         {
           "topic": "역사와 도시",
           "subtopic": "역사와 제도"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "domesday-1086-land-testimony-and-power",
+      "title": "둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까",
+      "source_path": "content/stories/history/europe/domesday-1086-land-testimony-and-power.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "영국",
+      "country": "영국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "영국의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/domesday-1086-land-testimony-and-power/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "기록과 지식 전달"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "hanseatic-league-towns-kontors-and-privileges",
+      "title": "한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까",
+      "source_path": "content/stories/history/europe/hanseatic-league-towns-kontors-and-privileges.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "독일",
+      "country": "독일",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "독일의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/hanseatic-league-towns-kontors-and-privileges/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "기업과 산업",
+          "subtopic": "상업과 유통"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "bastille-1789-gunpowder-rumor-and-symbol",
+      "title": "바스티유 1789 — 감옥보다 화약이 먼저 필요했던 날",
+      "source_path": "content/stories/history/europe/bastille-1789-gunpowder-rumor-and-symbol.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "프랑스",
+      "country": "프랑스",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "프랑스의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/bastille-1789-gunpowder-rumor-and-symbol/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "erie-canal-1825-locks-tolls-and-new-york",
+      "title": "에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길",
+      "source_path": "content/stories/history/america/erie-canal-1825-locks-tolls-and-new-york.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "미국",
+      "country": "미국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "미국의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/erie-canal-1825-locks-tolls-and-new-york/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생활을 바꾼 물건과 기술",
+          "subtopic": "이동과 운송"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "canada-1867-confederation-provinces-and-exclusions",
+      "title": "캐나다 1867 — 하나의 국가가 된다는 데에는 무엇이 필요했을까",
+      "source_path": "content/stories/history/america/canada-1867-confederation-provinces-and-exclusions.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "캐나다",
+      "country": "캐나다",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "캐나다의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/canada-1867-confederation-provinces-and-exclusions/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "japan-1871-domains-prefectures-and-central-power",
+      "title": "폐번치현 — 영주의 땅은 어떻게 중앙정부의 지도가 되었을까",
+      "source_path": "content/stories/history/asia/japan-1871-domains-prefectures-and-central-power.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아대양주",
+      "country_group": "일본",
+      "country": "일본",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "일본의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/japan-1871-domains-prefectures-and-central-power/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "zongli-yamen-1861-translation-and-diplomacy",
+      "title": "총리아문 — 청의 외교는 왜 번역하는 관청이 필요했을까",
+      "source_path": "content/stories/history/asia/zongli-yamen-1861-translation-and-diplomacy.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아대양주",
+      "country_group": "중국",
+      "country": "중국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "중국의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/zongli-yamen-1861-translation-and-diplomacy/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "교육과 배움"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "india-1857-rebellion-company-and-crown",
+      "title": "인도 1857 — 병사들의 봉기는 왜 통치자를 바꾸었을까",
+      "source_path": "content/stories/history/asia/india-1857-rebellion-company-and-crown.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아대양주",
+      "country_group": "인도",
+      "country": "인도",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "인도의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/india-1857-rebellion-company-and-crown/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "garibaldi-1860-thousand-monarchy-and-unification",
+      "title": "가리발디의 천인대 — 붉은 셔츠는 어떻게 왕국의 지도를 바꾸었을까",
+      "source_path": "content/stories/history/europe/garibaldi-1860-thousand-monarchy-and-unification.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "이탈리아",
+      "country": "이탈리아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "이탈리아의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/garibaldi-1860-thousand-monarchy-and-unification/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "hammurabi-stele-status-evidence-and-royal-justice",
+      "title": "함무라비 법전 — 돌에 새긴 정의는 누구에게 같았을까",
+      "source_path": "content/stories/history/middle-east/hammurabi-stele-status-evidence-and-royal-justice.json",
+      "old_category": "history",
+      "old_subcategory": "Middle East",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "중동아프리카",
+      "country_group": "기타 국가",
+      "country": "이라크",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "이라크의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/hammurabi-stele-status-evidence-and-royal-justice/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "사회와 제도의 탄생"
         }
       ],
       "country_topic": "역사",

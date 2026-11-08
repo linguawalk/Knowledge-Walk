@@ -1,0 +1,28 @@
+{
+  "id": "20261108-ten-history-records-trade-and-new-states",
+  "title": "역사 이야기 10편 — 기록과 교역, 국가를 바꾼 선택",
+  "story_ids": [
+    "domesday-1086-land-testimony-and-power",
+    "hanseatic-league-towns-kontors-and-privileges",
+    "bastille-1789-gunpowder-rumor-and-symbol",
+    "erie-canal-1825-locks-tolls-and-new-york",
+    "canada-1867-confederation-provinces-and-exclusions",
+    "japan-1871-domains-prefectures-and-central-power",
+    "zongli-yamen-1861-translation-and-diplomacy",
+    "india-1857-rebellion-company-and-crown",
+    "garibaldi-1860-thousand-monarchy-and-unification",
+    "hammurabi-stele-status-evidence-and-royal-justice"
+  ],
+  "countries": {
+    "domesday-1086-land-testimony-and-power": "영국",
+    "hanseatic-league-towns-kontors-and-privileges": "독일",
+    "bastille-1789-gunpowder-rumor-and-symbol": "프랑스",
+    "erie-canal-1825-locks-tolls-and-new-york": "미국",
+    "canada-1867-confederation-provinces-and-exclusions": "캐나다",
+    "japan-1871-domains-prefectures-and-central-power": "일본",
+    "zongli-yamen-1861-translation-and-diplomacy": "중국",
+    "india-1857-rebellion-company-and-crown": "인도",
+    "garibaldi-1860-thousand-monarchy-and-unification": "이탈리아",
+    "hammurabi-stele-status-evidence-and-royal-justice": "이라크"
+  }
+}
