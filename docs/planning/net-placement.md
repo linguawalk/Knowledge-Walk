@@ -1,6 +1,6 @@
 # 국가별 공통 원고 서가
 
-2026-11-08. net 전체 원고441편·공개418편입니다. 국가가 없는 글은 공통 교양으로 제공하며 억지로 국가를 부여하지 않습니다. 미승인 원고는 검토 목록에만 포함합니다.
+2026-11-08. net 전체 원고441편·공개428편입니다. 국가가 없는 글은 공통 교양으로 제공하며 억지로 국가를 부여하지 않습니다. 미승인 원고는 검토 목록에만 포함합니다.
 
 ## 아시아대양주
 
@@ -25,7 +25,7 @@
 | [중국의 외바퀴수레 — 바퀴 하나로 좁은 길을 잇다](../../content/stories/history/asia/china-wheelbarrows-chengdu-roads-and-loads.json) | 공개 | net |
 | [중국의 과거제 — 작은 칸에서 치른 시험은 누구에게 길을 열었을까](../../content/stories/history/asia/china-examinations-cells-books-and-office.json) | 공개 | net |
 | [총리아문 — 청의 외교는 왜 번역하는 관청이 필요했을까](../../content/stories/history/asia/zongli-yamen-1861-translation-and-diplomacy.json) | 공개 | net |
-| [태평천국 — 새 세상을 약속한 전쟁은 무엇을 바꾸었을까](../../content/stories/history/asia/taiping-war-nanjing-local-armies-and-civilian-life.json) | 미승인 | net |
+| [태평천국 — 새 세상을 약속한 전쟁은 무엇을 바꾸었을까](../../content/stories/history/asia/taiping-war-nanjing-local-armies-and-civilian-life.json) | 공개 | net |
 
 ### 인도네시아 — 1편
 
@@ -52,7 +52,7 @@
 | [오사카 — 성의 사진 옆에 방직공장이 실린 이유](../../content/stories/cities/asia/osaka-mills-mint-and-port-city.json) | 공개 | net |
 | [페리의 흑선 — 배가 도착했다고 모든 항구가 열린 것은 아니다](../../content/stories/history/asia/perry-1853-black-ships-and-negotiated-ports.json) | 공개 | net |
 | [폐번치현 — 영주의 땅은 어떻게 중앙정부의 지도가 되었을까](../../content/stories/history/asia/japan-1871-domains-prefectures-and-central-power.json) | 공개 | net |
-| [이와쿠라 사절단 — 조약은 못 고쳤는데 무엇을 가져왔을까](../../content/stories/history/asia/iwakura-mission-learning-and-treaty-limits.json) | 미승인 | net |
+| [이와쿠라 사절단 — 조약은 못 고쳤는데 무엇을 가져왔을까](../../content/stories/history/asia/iwakura-mission-learning-and-treaty-limits.json) | 공개 | net |
 
 ### 한국 — 25편
 
@@ -125,7 +125,7 @@
 | 원고 | 승인 상태 | 대표주소 도메인 |
 |---|---|---|
 | [시드니 코브 1788 — 배가 도착했다고 역사가 시작된 것은 아니다](../../content/stories/cities/asia/sydney-cove-1788-fleet-and-shore.json) | 공개 | net |
-| [호주 1901 — 여섯 식민지는 무엇을 함께 하기로 했을까](../../content/stories/history/asia/australia-1901-federation-states-and-exclusions.json) | 미승인 | net |
+| [호주 1901 — 여섯 식민지는 무엇을 함께 하기로 했을까](../../content/stories/history/asia/australia-1901-federation-states-and-exclusions.json) | 공개 | net |
 
 ## 유럽
 
@@ -156,7 +156,7 @@
 | [브레다의 항복 — 승리보다 먼저 보이는 두 사람의 손](../../content/stories/culture/art/surrender-breda-keys-and-victory.json) | 공개 | net |
 | [고야의 1808년 5월 3일 — 불빛은 누구의 얼굴을 비추는가](../../content/stories/culture/art/goya-third-may-lantern-and-facing-men.json) | 공개 | net |
 | [불카누스의 대장간 — 신의 소식이 망치질을 멈춘 순간](../../content/stories/culture/art/vulcan-forge-apollo-and-interrupted-work.json) | 공개 | net |
-| [카디스 헌법 — 왕이 없는 동안 주권은 누구에게 있었을까](../../content/stories/history/europe/cadiz-1812-sovereignty-faith-and-atlantic-empire.json) | 미승인 | net |
+| [카디스 헌법 — 왕이 없는 동안 주권은 누구에게 있었을까](../../content/stories/history/europe/cadiz-1812-sovereignty-faith-and-atlantic-empire.json) | 공개 | net |
 
 ### 영국 — 32편
 
@@ -193,7 +193,7 @@
 | [사일러스 마너 — 잃어버린 금화 대신 아이가 들어온 밤](../../content/stories/culture/literature/silas-marner-gold-child-and-neighbors.json) | 공개 | net |
 | [페니 우편 1840 — 편지는 왜 받는 사람에게 부담이었을까](../../content/stories/history/europe/penny-post-1840-price-prepayment-and-letters.json) | 공개 | net |
 | [둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까](../../content/stories/history/europe/domesday-1086-land-testimony-and-power.json) | 공개 | net |
-| [명예혁명 — 왕을 바꾸면 권력의 규칙도 바뀔까](../../content/stories/history/europe/britain-1689-rights-crown-and-parliament.json) | 미승인 | net |
+| [명예혁명 — 왕을 바꾸면 권력의 규칙도 바뀔까](../../content/stories/history/europe/britain-1689-rights-crown-and-parliament.json) | 공개 | net |
 
 ### 이탈리아 — 19편
 
@@ -229,7 +229,7 @@
 | [사람에게는 얼마만큼의 땅이 필요한가 — 해가 지기 전에 돌아와야 했던 사람](../../content/stories/culture/literature/tolstoy-pahom-land-and-sunset.json) | 공개 | net |
 | [고골의 코 — 얼굴에서 사라진 코가 나보다 높은 관리라면](../../content/stories/culture/literature/gogol-nose-rank-and-recognition.json) | 공개 | net |
 | [스페이드의 여왕 — 확실한 세 장을 알면 삶도 이길 수 있을까](../../content/stories/culture/literature/queen-spades-three-cards-and-obsession.json) | 공개 | net |
-| [데카브리스트 — 황제에게 맹세하는 날 왜 광장에 모였을까](../../content/stories/history/europe/decembrists-1825-oath-constitution-and-exile.json) | 미승인 | net |
+| [데카브리스트 — 황제에게 맹세하는 날 왜 광장에 모였을까](../../content/stories/history/europe/decembrists-1825-oath-constitution-and-exile.json) | 공개 | net |
 
 ### 프랑스 — 20편
 
@@ -254,7 +254,7 @@
 | [몽생미셸 — 작은 바위 위에 수도원의 하루를 쌓다](../../content/stories/culture/architecture/mont-saint-michel-tides-abbey-and-stacked-rooms.json) | 공개 | net |
 | [베르사유 여성 행진 — 빵을 구하던 사람들이 왕을 움직이다](../../content/stories/history/europe/versailles-1789-women-bread-and-royal-move.json) | 공개 | net |
 | [바스티유 1789 — 감옥보다 화약이 먼저 필요했던 날](../../content/stories/history/europe/bastille-1789-gunpowder-rumor-and-symbol.json) | 공개 | net |
-| [나폴레옹 법전 — 같은 법을 쓴다는 것은 모두가 평등하다는 뜻일까](../../content/stories/history/europe/napoleonic-code-1804-property-family-and-equality.json) | 미승인 | net |
+| [나폴레옹 법전 — 같은 법을 쓴다는 것은 모두가 평등하다는 뜻일까](../../content/stories/history/europe/napoleonic-code-1804-property-family-and-equality.json) | 공개 | net |
 
 ### 불가리아 — 1편
 
@@ -307,7 +307,7 @@
 | [마탄의 사수 — 마지막 탄환은 누구의 뜻대로 날아갈까](../../content/stories/culture/music/freischutz-wolfs-glen-and-final-shot.json) | 공개 | net |
 | [카노사 1077 — 성문 앞의 왕은 정말 모든 것을 잃었을까](../../content/stories/history/europe/canossa-1077-penance-princes-and-power.json) | 공개 | net |
 | [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](../../content/stories/history/europe/hanseatic-league-towns-kontors-and-privileges.json) | 공개 | net |
-| [구텐베르크의 인쇄 — 글자를 찍으려면 활자 말고 무엇이 필요했을까](../../content/stories/history/europe/gutenberg-1450s-type-capital-and-bookmaking.json) | 미승인 | net |
+| [구텐베르크의 인쇄 — 글자를 찍으려면 활자 말고 무엇이 필요했을까](../../content/stories/history/europe/gutenberg-1450s-type-capital-and-bookmaking.json) | 공개 | net |
 
 ### 폴란드 — 1편
 
@@ -390,7 +390,7 @@
 | [브루클린 다리 — 물 위의 길을 만들기 위해 물 아래로 내려가다](../../content/stories/cities/americas/brooklyn-bridge-caissons-and-shared-work.json) | 공개 | net |
 | [엘리스섬 — 자유의 여신상 다음에는 질문이 기다렸다](../../content/stories/history/america/ellis-island-inspection-manifests-and-families.json) | 공개 | net |
 | [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](../../content/stories/history/america/erie-canal-1825-locks-tolls-and-new-york.json) | 공개 | net |
-| [미국 대륙횡단철도 — 마지막 못 아래에는 누구의 일이 있었을까](../../content/stories/history/america/transcontinental-railroad-1869-labor-land-and-link.json) | 미승인 | net |
+| [미국 대륙횡단철도 — 마지막 못 아래에는 누구의 일이 있었을까](../../content/stories/history/america/transcontinental-railroad-1869-labor-land-and-link.json) | 공개 | net |
 
 ### 페루 — 3편
 
@@ -408,7 +408,7 @@
 | [토르티야 앞에는 돌 두 개가 있었다](../../content/stories/life/food/mexico-tortilla-grinding-stone.json) | 공개 | net |
 | [팔렝케 — 마야의 글자는 어떻게 도시의 역사가 되었을까](../../content/stories/cities/americas/palenque-glyphs-and-city-memory.json) | 공개 | net |
 | [치첸이트사 — 피라미드 옆에는 우물과 길이 있었다](../../content/stories/cities/americas/chichen-itza-pyramid-cenote-and-plazas.json) | 공개 | net |
-| [멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까](../../content/stories/history/america/mexico-1821-iguala-independence-and-monarchy.json) | 미승인 | net |
+| [멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까](../../content/stories/history/america/mexico-1821-iguala-independence-and-monarchy.json) | 공개 | net |
 
 ### 캐나다 — 4편
 

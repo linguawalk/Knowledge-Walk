@@ -15,7 +15,7 @@
 | [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](erie-canal-1825-locks-tolls-and-new-york.md) | 자료 대조·공개 게시 승인 완료 |
 | [벤저민 프랭클린 — 인쇄공은 왜 함께 읽을 책을 모았을까](franklin-printer-club-and-library.md) | 자료 대조·공개 게시 승인 완료 |
 | [키푸 — 잉카는 매듭으로 무엇을 기록했을까](inca-quipu-knots-and-records.md) | 자료 대조·공개 게시 승인 완료 |
-| [멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까](mexico-1821-iguala-independence-and-monarchy.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까](mexico-1821-iguala-independence-and-monarchy.md) | 자료 대조·공개 게시 승인 완료 |
 | [미라가 이사하려면 누구에게 물어봐야 할까](mummy-museum-move.md) | 자료 대조·공개 게시 승인 완료 |
 | [1808년 리우 — 유럽의 왕실이 식민지로 건너오다](rio-1808-court-crosses-atlantic.md) | 자료 대조·공개 게시 승인 완료 |
-| [미국 대륙횡단철도 — 마지막 못 아래에는 누구의 일이 있었을까](transcontinental-railroad-1869-labor-land-and-link.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [미국 대륙횡단철도 — 마지막 못 아래에는 누구의 일이 있었을까](transcontinental-railroad-1869-labor-land-and-link.md) | 자료 대조·공개 게시 승인 완료 |

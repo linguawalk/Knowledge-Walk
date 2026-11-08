@@ -4,7 +4,7 @@
 
 History · America
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![20세기 초 여행 안내서에 실린 눈 덮인 미국 서부 산악 철도 사진](../../../../content/images/transcontinental-railroad-1869-labor-land-and-link.jpg)
 

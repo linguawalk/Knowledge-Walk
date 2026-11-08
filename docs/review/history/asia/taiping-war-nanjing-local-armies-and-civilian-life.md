@@ -4,7 +4,7 @@
 
 History · Asia
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![태평천국 전쟁 시기 강변에서 짐과 함께 기다리는 주민들을 상상한 삽화](../../../../content/images/taiping-war-nanjing-local-armies-and-civilian-life.png)
 
