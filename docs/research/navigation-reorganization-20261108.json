@@ -238,5 +238,612 @@
     "publication_link_and_snapshot_tests": 2,
     "passed": true
   },
-  "versioned_assets": "site.js, site.css and split.css use ?v=navigation-2 to refresh returning readers"
+  "versioned_assets": "site.js, site.css and split.css use ?v=navigation-2 to refresh returning readers",
+  "deployment_runs": {
+    "pages": {
+      "id": 42491701642,
+      "conclusion": "success",
+      "headSha": "4646318304e1fd63693fe07131e350973fc89d3f",
+      "status": "completed"
+    },
+    "validation": {
+      "id": 42491702675,
+      "conclusion": "success",
+      "headSha": "4646318304e1fd63693fe07131e350973fc89d3f",
+      "status": "completed"
+    }
+  },
+  "ci_validation": {
+    "discovered_test_cases": 64,
+    "workflow_passed": true,
+    "verification_method": "GitHub run status; test inventory from the same unittest discovery command"
+  },
+  "live_responses": [
+    {
+      "path": "categories/africa/index.html",
+      "status": 200,
+      "bytes": 31428,
+      "sha256": "38cc1eda41273eb1d3b8016b34780e0fa5106a59cc2f56d2b12bfeb01f7f22c4"
+    },
+    {
+      "path": "categories/africa/이집트/index.html",
+      "status": 200,
+      "bytes": 15945,
+      "sha256": "95d1daf60f37a555a1eaf7447464254d91d69e349d195b3597c2e17563d2b3b0"
+    },
+    {
+      "path": "categories/americas/index.html",
+      "status": 200,
+      "bytes": 66193,
+      "sha256": "ee953e6e643c9ec181a1c9932fb2d3e71039131c9897bc3159750025f3caf6d9"
+    },
+    {
+      "path": "categories/americas/남아메리카/index.html",
+      "status": 200,
+      "bytes": 15057,
+      "sha256": "6818dd6b9c8534a06026428017c640251eaf1fcfc29fa6b20a782c312142d255"
+    },
+    {
+      "path": "categories/americas/멕시코/index.html",
+      "status": 200,
+      "bytes": 13217,
+      "sha256": "0aedfc113179ccb619d81d1ee7421a6f135c22716c9363af6d6a631a8f381f95"
+    },
+    {
+      "path": "categories/americas/북아메리카/index.html",
+      "status": 200,
+      "bytes": 57659,
+      "sha256": "c05b5e02cfdbe399186ace23f9b207086ad732ce414e17aaefefacb05ac4e469"
+    },
+    {
+      "path": "categories/americas/중앙아메리카/index.html",
+      "status": 200,
+      "bytes": 5455,
+      "sha256": "d85a774c35e1a110ecc397dad3b484d105fdbedbb6f072c80cf65a1dcfd761d8"
+    },
+    {
+      "path": "categories/asia-oceania/일본/index.html",
+      "status": 200,
+      "bytes": 28940,
+      "sha256": "913e4c5a2ef82e7a8bcc2da0788278801ef4eb04615af6f9ab16f6e0acfc2e15"
+    },
+    {
+      "path": "categories/asia/index.html",
+      "status": 200,
+      "bytes": 127695,
+      "sha256": "1336e392562884e8d6baf36d901f4ed27b6def948a051640d84b2439a042b215"
+    },
+    {
+      "path": "categories/asia/남아시아/index.html",
+      "status": 200,
+      "bytes": 19145,
+      "sha256": "f4f58df305969176da6b1e7709032fba9f9ac42a77d79370916103e49a882b24"
+    },
+    {
+      "path": "categories/asia/동남아시아/index.html",
+      "status": 200,
+      "bytes": 9571,
+      "sha256": "f99de620402140e86f940488d8a9cc41d818d9945bb3bc59f133cc94d46e6d55"
+    },
+    {
+      "path": "categories/asia/동아시아/index.html",
+      "status": 200,
+      "bytes": 86595,
+      "sha256": "882029d25c5b7a24a1ddcda50e39f69fac9303802c0c10eaa0eeb093ee495180"
+    },
+    {
+      "path": "categories/asia/서아시아/index.html",
+      "status": 200,
+      "bytes": 28983,
+      "sha256": "6fa4e76f394f7bffebef1e8309793f778879bea4e866c608d2a4a623cf541819"
+    },
+    {
+      "path": "categories/asia/이란/index.html",
+      "status": 200,
+      "bytes": 14588,
+      "sha256": "955ae35b6ee26b3f7dee0a80fa9a54c3dead9d430706c35323e9ccd9852de77c"
+    },
+    {
+      "path": "categories/asia/일본/index.html",
+      "status": 200,
+      "bytes": 30762,
+      "sha256": "8818379a70edb76d98fd46c600fb2a3bb4122e60332a5605be029afc8e0f19bc"
+    },
+    {
+      "path": "categories/asia/중앙아시아/index.html",
+      "status": 200,
+      "bytes": 9716,
+      "sha256": "5a01f8bacfd03442f6cec5a685e5eba4fafd355e76f8c7080617365d4834be3c"
+    },
+    {
+      "path": "categories/asia/튀르키예/index.html",
+      "status": 200,
+      "bytes": 11944,
+      "sha256": "a25792a67e5fb5d439f676e26fce42a7cacb522078c74cc16942ba48fd8ef02f"
+    },
+    {
+      "path": "categories/common/index.html",
+      "status": 200,
+      "bytes": 203309,
+      "sha256": "18acbc56817c10b67421ac79b3f6aa3bfa4cb340f1013a7b0ec3c7cda4f81fd1"
+    },
+    {
+      "path": "categories/europe/index.html",
+      "status": 200,
+      "bytes": 200825,
+      "sha256": "33154fc7f9e06a478c23c23b75758b793d34dfb1b577da6c976db901f78ef2ee"
+    },
+    {
+      "path": "categories/europe/남유럽/index.html",
+      "status": 200,
+      "bytes": 58406,
+      "sha256": "697d15c59e63ee268e7a8db0918f1e79ee77a30a6fb5ab58598bac84c07b8ccd"
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "status": 200,
+      "bytes": 30930,
+      "sha256": "05025f75881beb2310bc31c39d847ce58d544ca7ad2de10d83e9ce1a0f9e207e"
+    },
+    {
+      "path": "categories/europe/동유럽/index.html",
+      "status": 200,
+      "bytes": 24735,
+      "sha256": "268417697ad7d3261da6eb2d11e0e0a7c5653a648a53e2bd30bd0b4eb670a77a"
+    },
+    {
+      "path": "categories/europe/북유럽/index.html",
+      "status": 200,
+      "bytes": 10884,
+      "sha256": "890aa28021b780f13a6d171a4bf8d2777e307a0c6708043873553c012f730412"
+    },
+    {
+      "path": "categories/europe/서유럽/index.html",
+      "status": 200,
+      "bytes": 95135,
+      "sha256": "43f29b4f80069965903e49a64c153c5e1778bf76d22884b95aeb9399110c7128"
+    },
+    {
+      "path": "categories/europe/영국/index.html",
+      "status": 200,
+      "bytes": 52414,
+      "sha256": "e90a0dfaa7801a787882707270b99fe868ac3ff7f37463d887211c48bcff1383"
+    },
+    {
+      "path": "categories/europe/중부유럽/index.html",
+      "status": 200,
+      "bytes": 38258,
+      "sha256": "58aa1a8a947f22b22e700476f777c4739f3e0fcb8611dfb214c1e202e8e7341a"
+    },
+    {
+      "path": "categories/europe/튀르키예/index.html",
+      "status": 200,
+      "bytes": 10543,
+      "sha256": "e47ad49bb80ec47606e71c29fdf614c8dbed15a81da4c8ca35542e6204f5a2e2"
+    },
+    {
+      "path": "categories/history/europe/index.html",
+      "status": 200,
+      "bytes": 26588,
+      "sha256": "a2d60c66921ea7ee2955d6a0cca5f99cbb233aefa9091e3ad351cef348413a4d"
+    },
+    {
+      "path": "categories/middle-east-africa/이란/index.html",
+      "status": 200,
+      "bytes": 14091,
+      "sha256": "6177b3bf501e2b3298d366f0dbcd0d8bd1fc65f291dc6d6b6d1fa5e5fc77da75"
+    },
+    {
+      "path": "categories/oceania/index.html",
+      "status": 200,
+      "bytes": 9270,
+      "sha256": "a1beaba7b1770bd6e54ae1138791d5ece6f968b8e7071b3b3d56dcfe3bbe1e85"
+    },
+    {
+      "path": "categories/oceania/호주/index.html",
+      "status": 200,
+      "bytes": 9043,
+      "sha256": "3bdd1ddc4bec42675ac69aaa666a2a7545f3479f1b8c8f918925b3f8c4f18faf"
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 20369,
+      "sha256": "3e81624bbe566f7f92422989303702f23fd6b970ff8f5ad1bb6e0495c7f10375"
+    },
+    {
+      "path": "knowledge/categories/arts/index.html",
+      "status": 200,
+      "bytes": 217125,
+      "sha256": "067665efc28848b0817b8afce023ea986923fb43a2c2b5ad9ff5b3e5d5fa50d7"
+    },
+    {
+      "path": "knowledge/categories/arts/건축/index.html",
+      "status": 200,
+      "bytes": 29369,
+      "sha256": "4653058190cadb50daf8fae1b5559151d630ca738dcd9ac36e88e1863c9b299e"
+    },
+    {
+      "path": "knowledge/categories/arts/문학/index.html",
+      "status": 200,
+      "bytes": 66891,
+      "sha256": "1e38d454cb46329b74bfa42522a01e7f39ca02c055a11eeeb1c3c0a4d363e8ee"
+    },
+    {
+      "path": "knowledge/categories/arts/미술/index.html",
+      "status": 200,
+      "bytes": 70450,
+      "sha256": "24911861bf6f1a4ba8872668067076f64691748b6993763e51f31f6427c751c5"
+    },
+    {
+      "path": "knowledge/categories/arts/음악/index.html",
+      "status": 200,
+      "bytes": 38310,
+      "sha256": "c89c6a03a82e5d45cfe963674cd6ab80493993c1dec6adf966c6d64df1fd7b23"
+    },
+    {
+      "path": "knowledge/categories/cities-society/index.html",
+      "status": 200,
+      "bytes": 87612,
+      "sha256": "b948b77e9fedcc4a186ed27a61b1462cd766da97281efde0668f0f44926b05cd"
+    },
+    {
+      "path": "knowledge/categories/cities-society/교통과-기반시설/index.html",
+      "status": 200,
+      "bytes": 21748,
+      "sha256": "3c6607e7e2aaa8d33708068d3f9720d84beea3e617ca562c1e015a910907769d"
+    },
+    {
+      "path": "knowledge/categories/economy/index.html",
+      "status": 200,
+      "bytes": 93156,
+      "sha256": "f2a83ab4930b16d3b5dcc24a5e357346f4b296e8d04c070f981f09d0a833ec1b"
+    },
+    {
+      "path": "knowledge/categories/economy/무역과-시장/index.html",
+      "status": 200,
+      "bytes": 40159,
+      "sha256": "ab184a60bd9f8f1c5ca8c63bd0126270bfa215625a6723550c8c9de3bdeb41f0"
+    },
+    {
+      "path": "knowledge/categories/history-cities/역사와-제도/index.html",
+      "status": 200,
+      "bytes": 98206,
+      "sha256": "91148c74c4616db974c5d61875424be31b9cb72822e0ccf8793a483aca82a553"
+    },
+    {
+      "path": "knowledge/categories/history/index.html",
+      "status": 200,
+      "bytes": 71563,
+      "sha256": "4119bc5520785898d34e4d6a1c84d1110d85eac4164580ad0d523d83b2baa49f"
+    },
+    {
+      "path": "knowledge/categories/ideas/index.html",
+      "status": 200,
+      "bytes": 45370,
+      "sha256": "93db6f752d16c11934e3eb22cda13b578f493100424cc54328da577c64bb6340"
+    },
+    {
+      "path": "knowledge/categories/ideas/책과-지식의-전파/index.html",
+      "status": 200,
+      "bytes": 16116,
+      "sha256": "8d3d3c6a601566f3232ca88cc75309462bb226f4959ff52dcd2f4ebe9ada5531"
+    },
+    {
+      "path": "knowledge/categories/science/index.html",
+      "status": 200,
+      "bytes": 61740,
+      "sha256": "4704928b48a852adeeeec0e8f97500a4c91d314487d5e24fa04e50163a1b94e8"
+    },
+    {
+      "path": "knowledge/categories/science/생명과-의학/index.html",
+      "status": 200,
+      "bytes": 27554,
+      "sha256": "2d3376d0ac3a06d5ba25f4c591e82e9822aff80f5d830ac456013dde4a3d9b64"
+    },
+    {
+      "path": "knowledge/categories/technology/index.html",
+      "status": 200,
+      "bytes": 87133,
+      "sha256": "75ed295a1598b187f15c01022403da89cbe4c491fb01e7406b51f45fb1ba20ad"
+    },
+    {
+      "path": "knowledge/index.html",
+      "status": 200,
+      "bytes": 23622,
+      "sha256": "9003e72dd8c7ad33d0a22c32f63eea82b5e148ac10d8169029bf2de3bd178f2a"
+    },
+    {
+      "path": "knowledge/library.html",
+      "status": 200,
+      "bytes": 595036,
+      "sha256": "a656644345b7db26dbd5b43bae0236c34d0561b72d7c77ad9a0d656d6a2e21e3"
+    },
+    {
+      "path": "knowledge/reading.html",
+      "status": 200,
+      "bytes": 592867,
+      "sha256": "2b8cf581c154be3249ff356a5282d665f2e27d44997006391c8ad78d1ca77e1e"
+    },
+    {
+      "path": "knowledge/search-index.js",
+      "status": 200,
+      "bytes": 5599072,
+      "sha256": "a22860e5f9d4bc56f5f4165ca467b3574813623c683ef8857dc357327c4fecd0"
+    },
+    {
+      "path": "knowledge/search-index.json",
+      "status": 200,
+      "bytes": 3050854,
+      "sha256": "54efd9a0fa0afcbfab5577660ca50c8ac63a89ce95040c69b200d4d69db316d3"
+    },
+    {
+      "path": "knowledge/site-assets/site.js",
+      "status": 200,
+      "bytes": 11929,
+      "sha256": "38d500743d2517a77be207bf7d6a1de2f5931a925d47f99ec5357afb7b43fe07"
+    },
+    {
+      "path": "knowledge/site-assets/split.css",
+      "status": 200,
+      "bytes": 5012,
+      "sha256": "b18f21fe7b96c8fa04e1fb4d4977bc091986ac71dc9954471b694f170cc5b1ed"
+    },
+    {
+      "path": "knowledge/stories/constantinople-1453-walls-sea-and-new-capital/index.html",
+      "status": 200,
+      "bytes": 18268,
+      "sha256": "13e512dc893daaea5febe1ce7259b6b2bc579ee10df9b919e924a3ea2d2df099"
+    },
+    {
+      "path": "knowledge/stories/corn-laws-1846-bread-trade-and-political-cost/index.html",
+      "status": 200,
+      "bytes": 18739,
+      "sha256": "52bfcc88865b0456358ba5d6ad1c101a18f4e05b4fedcba42e00ca214e6084b4"
+    },
+    {
+      "path": "knowledge/stories/crc-checksum-detecting-changed-data/index.html",
+      "status": 200,
+      "bytes": 17638,
+      "sha256": "6632a0d5decbd8360a5d040e193ac56d6cd876a46621e6666423733906018f36"
+    },
+    {
+      "path": "knowledge/stories/darwin-life-of-observation/index.html",
+      "status": 200,
+      "bytes": 18343,
+      "sha256": "631667de470a600ea37a7471abaa985f35d049f3aa5666008818084eb6e5ea0e"
+    },
+    {
+      "path": "knowledge/stories/ellis-island-inspection-manifests-and-families/index.html",
+      "status": 200,
+      "bytes": 17984,
+      "sha256": "cb69632ec5d444a070b2bb681f5df0baf544bfe8212433325a7b38256c67e259"
+    },
+    {
+      "path": "knowledge/stories/fur-elise-title-and-theme/index.html",
+      "status": 200,
+      "bytes": 18047,
+      "sha256": "37faaa0070300bb4345e9ee5db5732f21a5ae2e36ae0c8a88816672329ad2abf"
+    },
+    {
+      "path": "knowledge/stories/hudsons-bay-company-1670-charter-rivers-and-trade/index.html",
+      "status": 200,
+      "bytes": 18856,
+      "sha256": "771eddeb478170cc52dbd531e5dd3ef658b69f3f4016149ca141667c44b7bd23"
+    },
+    {
+      "path": "knowledge/stories/japan-1889-constitution-sovereignty-and-voting/index.html",
+      "status": 200,
+      "bytes": 18509,
+      "sha256": "6b7a8f4191a605fcf6e8d88365531726edd51360ca876e42820c9e1f56d91c79"
+    },
+    {
+      "path": "knowledge/stories/qin-terracotta-army-faces-and-afterlife/index.html",
+      "status": 200,
+      "bytes": 17791,
+      "sha256": "24a0482b5b5ccd93e98006666728da3352414bc6bbcf40f619c5b37da206a327"
+    },
+    {
+      "path": "library.html",
+      "status": 200,
+      "bytes": 587455,
+      "sha256": "8e9a85ba4d268fdc7c513eb23ac9492c292dcac0e7b2b6c5936d36bdab5f53a8"
+    },
+    {
+      "path": "media/constantinople-1453-walls-sea-and-new-capital.jpg",
+      "status": 200,
+      "bytes": 89366,
+      "sha256": "e71d48dc3b790235459eefc471fd6aa30d05a38b0545c458aa5a20eb4290f45f"
+    },
+    {
+      "path": "media/corn-laws-1846-bread-trade-and-political-cost.png",
+      "status": 200,
+      "bytes": 3101116,
+      "sha256": "347360ba82a2e9734280dc8bbea40099ed99899f9ab0d52fecab7b3cf9e64c4d"
+    },
+    {
+      "path": "media/crc-checksum-detecting-changed-data.png",
+      "status": 200,
+      "bytes": 3024141,
+      "sha256": "ed260e23a3a620838d3f27de890eb78d719b9ba613b2f9e6de345a51ef1f5c14"
+    },
+    {
+      "path": "media/darwin-life-of-observation.png",
+      "status": 200,
+      "bytes": 3028970,
+      "sha256": "f0f38bfeef89e9b68b37ef9d81fa04685bfc1b4bfc21b4faadb5ab92edeae80c"
+    },
+    {
+      "path": "media/ellis-island-inspection-manifests-and-families.png",
+      "status": 200,
+      "bytes": 2816335,
+      "sha256": "7805013d3a2cd19c2bc721598edce2425037193960ef42c6cf60c10f0adac6fe"
+    },
+    {
+      "path": "media/fur-elise-title-and-theme-scene-20261030.png",
+      "status": 200,
+      "bytes": 3031123,
+      "sha256": "bfb9ee1ac6858fea2e33fb9b14d867104a6aeacc23c62e44ce4ee0f27fc49a0a"
+    },
+    {
+      "path": "media/hudsons-bay-company-1670-charter-rivers-and-trade.png",
+      "status": 200,
+      "bytes": 163547,
+      "sha256": "24cf77c232ca1dbd9c07e824be775edad48eee790d048e830d505a8072516bec"
+    },
+    {
+      "path": "media/japan-1889-constitution-sovereignty-and-voting.jpg",
+      "status": 200,
+      "bytes": 185327,
+      "sha256": "9ace31b3fa338a729dc90d5184ad77c7de68d09641b276ffddcda218af314c40"
+    },
+    {
+      "path": "media/qin-terracotta-army-faces-and-afterlife.jpg",
+      "status": 200,
+      "bytes": 121473,
+      "sha256": "6417a63e9c6b69aa9396a325ff04fe850cb23e973c885285fc306c92de5bed38"
+    },
+    {
+      "path": "reading.html",
+      "status": 200,
+      "bytes": 585289,
+      "sha256": "2d1e499d875429776b246b20e03f2b1ecdbdc187db14e2238bcb68783f55e8c8"
+    },
+    {
+      "path": "search-index.js",
+      "status": 200,
+      "bytes": 5580396,
+      "sha256": "ea8e453734cba2fe5753e7d7ac8ba10703bb6bd5a54c57456a18a8ce9cbaefdf"
+    },
+    {
+      "path": "search-index.json",
+      "status": 200,
+      "bytes": 3040124,
+      "sha256": "366c94af5e11d2c5571116ef8ff20a873054a93dbda95705dd2a15048ea57df1"
+    },
+    {
+      "path": "site-assets/site.css",
+      "status": 200,
+      "bytes": 22573,
+      "sha256": "153a6ace705d6b64299a2478966fb0e8a2bab87839bf7b9a84da6f518248dd78"
+    },
+    {
+      "path": "site-assets/site.js",
+      "status": 200,
+      "bytes": 11929,
+      "sha256": "38d500743d2517a77be207bf7d6a1de2f5931a925d47f99ec5357afb7b43fe07"
+    },
+    {
+      "path": "site-assets/split.css",
+      "status": 200,
+      "bytes": 5012,
+      "sha256": "b18f21fe7b96c8fa04e1fb4d4977bc091986ac71dc9954471b694f170cc5b1ed"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "bytes": 63935,
+      "sha256": "a5333b0ed3ceb231978420c2b61b7cd6ff2f8d4af4e120f535b46513dad7594a"
+    },
+    {
+      "path": "stories/constantinople-1453-walls-sea-and-new-capital/index.html",
+      "status": 200,
+      "bytes": 16073,
+      "sha256": "bde653e73ae08059ec1bce9b50b769d104bc25f9697f41afe538a43b81aa88f5"
+    },
+    {
+      "path": "stories/corn-laws-1846-bread-trade-and-political-cost/index.html",
+      "status": 200,
+      "bytes": 16478,
+      "sha256": "135b65168452b08f6b2fbd4430ebff4203c7d12f2870faeab841e44716e7f5dc"
+    },
+    {
+      "path": "stories/crc-checksum-detecting-changed-data/index.html",
+      "status": 200,
+      "bytes": 15291,
+      "sha256": "c63c5125fc2eadf66af9b4d46ca0b3831531e6a3d206cb5bbcc3aa55cc8c68ee"
+    },
+    {
+      "path": "stories/darwin-life-of-observation/index.html",
+      "status": 200,
+      "bytes": 16056,
+      "sha256": "dbacb88fbdfa797654b12957a36a25f57e9e5f16fff7ee50e7eca5a040f7356c"
+    },
+    {
+      "path": "stories/ellis-island-inspection-manifests-and-families/index.html",
+      "status": 200,
+      "bytes": 15746,
+      "sha256": "99e4ddc176b9dca203404a7e1fa7e94ba932ef2cc81683c34a2084669bd10422"
+    },
+    {
+      "path": "stories/fur-elise-title-and-theme/index.html",
+      "status": 200,
+      "bytes": 15863,
+      "sha256": "afb4ab63f9b3a94d1f77aa629ef7f83af42e68fc2ded60b34d6ceea9716ff22d"
+    },
+    {
+      "path": "stories/hudsons-bay-company-1670-charter-rivers-and-trade/index.html",
+      "status": 200,
+      "bytes": 16642,
+      "sha256": "fc72d0c84358e4e61e9691dac556b0e37de91347fced20def49c449739b7a6a4"
+    },
+    {
+      "path": "stories/japan-1889-constitution-sovereignty-and-voting/index.html",
+      "status": 200,
+      "bytes": 16296,
+      "sha256": "16746fa9d978f2126f71ca73b777f879511c1ae60b9cd61ed4a669807a87c374"
+    },
+    {
+      "path": "stories/qin-terracotta-army-faces-and-afterlife/index.html",
+      "status": 200,
+      "bytes": 15563,
+      "sha256": "f3a0393f9a3a45e888ac3c229804b1f8824e645470690960830ca8fce4e99091"
+    },
+    {
+      "path": "site-assets/site.js?v=navigation-2",
+      "status": 200,
+      "bytes": 11929,
+      "sha256": "38d500743d2517a77be207bf7d6a1de2f5931a925d47f99ec5357afb7b43fe07"
+    },
+    {
+      "path": "site-assets/site.css?v=navigation-2",
+      "status": 200,
+      "bytes": 22573,
+      "sha256": "153a6ace705d6b64299a2478966fb0e8a2bab87839bf7b9a84da6f518248dd78"
+    },
+    {
+      "path": "site-assets/split.css?v=navigation-2",
+      "status": 200,
+      "bytes": 5012,
+      "sha256": "b18f21fe7b96c8fa04e1fb4d4977bc091986ac71dc9954471b694f170cc5b1ed"
+    },
+    {
+      "path": "knowledge/site-assets/site.js?v=navigation-2",
+      "status": 200,
+      "bytes": 11929,
+      "sha256": "38d500743d2517a77be207bf7d6a1de2f5931a925d47f99ec5357afb7b43fe07"
+    },
+    {
+      "path": "knowledge/site-assets/site.css?v=navigation-2",
+      "status": 200,
+      "bytes": 22573,
+      "sha256": "153a6ace705d6b64299a2478966fb0e8a2bab87839bf7b9a84da6f518248dd78"
+    },
+    {
+      "path": "knowledge/site-assets/split.css?v=navigation-2",
+      "status": 200,
+      "bytes": 5012,
+      "sha256": "b18f21fe7b96c8fa04e1fb4d4977bc091986ac71dc9954471b694f170cc5b1ed"
+    }
+  ],
+  "live_browser": {
+    "passed": true,
+    "tls_note": "Chromium runner lacks the local proxy CA; strict HTTPS identity and bytes were verified separately by Python for96 responses.",
+    "checks": [
+      "live European region navigation",
+      "live mobile literary genre filter",
+      "live mobile overflow"
+    ]
+  },
+  "published": true
 }
