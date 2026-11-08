@@ -1,0 +1,28 @@
+{
+  "id": "20261108-ten-history-markets-freedom-and-city-crises",
+  "title": "역사 이야기10편 — 시장과 자유, 도시의 위기",
+  "story_ids": [
+    "corn-laws-1846-bread-trade-and-political-cost",
+    "zollverein-1834-customs-revenue-and-prussian-power",
+    "france-1875-third-republic-laws-and-compromise",
+    "russia-1861-emancipation-land-and-redemption",
+    "japan-1889-constitution-sovereignty-and-voting",
+    "hudsons-bay-company-1670-charter-rivers-and-trade",
+    "boxer-crisis-1900-local-conflict-and-foreign-intervention",
+    "brazil-1888-abolition-freedom-and-land",
+    "san-francisco-1906-earthquake-water-and-rebuilding",
+    "iran-1891-tobacco-concession-boycott-and-debt"
+  ],
+  "countries": {
+    "corn-laws-1846-bread-trade-and-political-cost": "영국",
+    "zollverein-1834-customs-revenue-and-prussian-power": "독일",
+    "france-1875-third-republic-laws-and-compromise": "프랑스",
+    "russia-1861-emancipation-land-and-redemption": "러시아",
+    "japan-1889-constitution-sovereignty-and-voting": "일본",
+    "hudsons-bay-company-1670-charter-rivers-and-trade": "캐나다",
+    "boxer-crisis-1900-local-conflict-and-foreign-intervention": "중국",
+    "brazil-1888-abolition-freedom-and-land": "브라질",
+    "san-francisco-1906-earthquake-water-and-rebuilding": "미국",
+    "iran-1891-tobacco-concession-boycott-and-debt": "이란"
+  }
+}

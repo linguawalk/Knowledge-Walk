@@ -1,0 +1,475 @@
+{
+  "date": "2026-11-08",
+  "user_request": "새 글 10개",
+  "publication_authorized": false,
+  "batch_id": "20261108-ten-history-markets-freedom-and-city-crises",
+  "canonical_domain": "knowledgewalk.net",
+  "navigation_views": [
+    "countries",
+    "subjects"
+  ],
+  "total_originals": 451,
+  "public_unique_stories": 428,
+  "public_view_counts": {
+    "countries": 428,
+    "subjects": 428
+  },
+  "unpublished": 23,
+  "source_verified_unpublished": 20,
+  "new_story_metrics": [
+    {
+      "id": "corn-laws-1846-bread-trade-and-political-cost",
+      "body_characters": 2451,
+      "numbered_sections": 7
+    },
+    {
+      "id": "zollverein-1834-customs-revenue-and-prussian-power",
+      "body_characters": 2444,
+      "numbered_sections": 7
+    },
+    {
+      "id": "france-1875-third-republic-laws-and-compromise",
+      "body_characters": 2463,
+      "numbered_sections": 7
+    },
+    {
+      "id": "russia-1861-emancipation-land-and-redemption",
+      "body_characters": 2450,
+      "numbered_sections": 7
+    },
+    {
+      "id": "japan-1889-constitution-sovereignty-and-voting",
+      "body_characters": 2395,
+      "numbered_sections": 7
+    },
+    {
+      "id": "hudsons-bay-company-1670-charter-rivers-and-trade",
+      "body_characters": 2435,
+      "numbered_sections": 7
+    },
+    {
+      "id": "boxer-crisis-1900-local-conflict-and-foreign-intervention",
+      "body_characters": 2434,
+      "numbered_sections": 7
+    },
+    {
+      "id": "brazil-1888-abolition-freedom-and-land",
+      "body_characters": 2452,
+      "numbered_sections": 7
+    },
+    {
+      "id": "san-francisco-1906-earthquake-water-and-rebuilding",
+      "body_characters": 2345,
+      "numbered_sections": 7
+    },
+    {
+      "id": "iran-1891-tobacco-concession-boycott-and-debt",
+      "body_characters": 2493,
+      "numbered_sections": 7
+    }
+  ],
+  "source_checks": [
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-0.txt",
+      "status": 200,
+      "bytes": 773197,
+      "sha256": "8fd08db998d9c2b32438a8592de324e8042bb66b66f893b470b7645cdf450bba"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-h/images/i_336f.jpg",
+      "status": 200,
+      "bytes": 185327,
+      "sha256": "9ace31b3fa338a729dc90d5184ad77c7de68d09641b276ffddcda218af314c40"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-Russia_16930/master/16930-8.txt",
+      "status": 200,
+      "bytes": 381815,
+      "sha256": "c864cc7a312fc01bdb52dfcf5041fcde5e269d4e0d6a5f6e7d43f85fd01bb2f2"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+      "status": 200,
+      "bytes": 1504314,
+      "sha256": "c426e5c9b04347678798667a8816ec5d2d95be9ea059b98e1a317fabd6c4f306"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-Industrial-and-Social-History-of-England_21660/master/21660-8.txt",
+      "status": 200,
+      "bytes": 588035,
+      "sha256": "d5692da89de0212744d4a7969342291ca35c19260daff417223f3af5e5860f53"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Brazil-today-and-tomorrow_73851/master/73851-0.txt",
+      "status": 200,
+      "bytes": 607483,
+      "sha256": "5c06101fc1283df649102566c7f5d426160c7770b16c5327c07b12eb585b638e"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Brazil-today-and-tomorrow_73851/master/73851-h/images/i_223.jpg",
+      "status": 200,
+      "bytes": 202230,
+      "sha256": "3de77c96e4f84d1d7abb0032ea854c11b1a84d5fc7960f5d8aacaff1851ddf0f"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/China-and-the-Manchus_2156/master/2156-8.txt",
+      "status": 200,
+      "bytes": 216409,
+      "sha256": "0ad41136c56e210771f01e1ea3ec0a80a10282bef50fac9422ddcb00e44f278f"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Complete-Story-of-the-San-Francisco-Horror_26380/master/26380-8.txt",
+      "status": 200,
+      "bytes": 716226,
+      "sha256": "88fa41d039394b020e2abe5e11255238e369fdb931a4735fff925bd0c498359d"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Complete-Story-of-the-San-Francisco-Horror_26380/master/26380-h/images/cssfh10.jpg",
+      "status": 200,
+      "bytes": 54398,
+      "sha256": "8e2182a5fae9ad9145f5ad8041a3bac9fca75a4f091cc59b4c343bf6bd61db92"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/Persia-Revisited_13064/master/13064-8.txt",
+      "status": 200,
+      "bytes": 265040,
+      "sha256": "f70a1f85eb1656a18bc564f4709292076203565357c65940c95eca00a6fb050d"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The--Adventurers-of-England--on-Hudson-BayA-Chronicle-of-the-Fur-Trade-in-the-North--Volume-1__30377/master/30377-8.txt",
+      "status": 200,
+      "bytes": 184731,
+      "sha256": "7a2f6307fc2fb68d690320395200bcbdf04d92725fd13bab9fb5299973804815"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The--Adventurers-of-England--on-Hudson-BayA-Chronicle-of-the-Fur-Trade-in-the-North--Volume-1__30377/master/30377-h/images/058a.png",
+      "status": 200,
+      "bytes": 163547,
+      "sha256": "24cf77c232ca1dbd9c07e824be775edad48eee790d048e830d505a8072516bec"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Awakening-of-China_15125/master/15125-8.txt",
+      "status": 200,
+      "bytes": 520408,
+      "sha256": "06e7766929dd6c45b36da1458f81d61a10091e339df27c7e5d6c47fae3b5f272"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GITenberg/The-San-Francisco-Calamity-by-Earthquake-and-Fire_1560/master/1560-0.txt",
+      "status": 200,
+      "bytes": 751172,
+      "sha256": "4f001abb09f44aa630059d2325de55bd8f88d8304fa21ce97322d57e0fa3213c"
+    }
+  ],
+  "source_method": "Read downloaded historical-book texts and image captions from GITenberg mirrors. Unreachable institutional pages and Wikipedia were not cited as read. Older interpretations, chronology and colonial bias were distinguished from factual descriptions.",
+  "images": {
+    "historical_artwork": 1,
+    "historical_photo": 3,
+    "ai_illustration": 6,
+    "visual_review": "All10 inspected in contact sheet; source images copied without editing; later paintings and explanatory scenes labelled."
+  },
+  "browser_checks": [
+    {
+      "id": "corn-laws-1846-bread-trade-and-political-cost",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "zollverein-1834-customs-revenue-and-prussian-power",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "france-1875-third-republic-laws-and-compromise",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "russia-1861-emancipation-land-and-redemption",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "japan-1889-constitution-sovereignty-and-voting",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "hudsons-bay-company-1670-charter-rivers-and-trade",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "boxer-crisis-1900-local-conflict-and-foreign-intervention",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "brazil-1888-abolition-freedom-and-land",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "san-francisco-1906-earthquake-water-and-rebuilding",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "iran-1891-tobacco-concession-boycott-and-debt",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "corn-laws-1846-bread-trade-and-political-cost",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "zollverein-1834-customs-revenue-and-prussian-power",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "france-1875-third-republic-laws-and-compromise",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "russia-1861-emancipation-land-and-redemption",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "japan-1889-constitution-sovereignty-and-voting",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "hudsons-bay-company-1670-charter-rivers-and-trade",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "boxer-crisis-1900-local-conflict-and-foreign-intervention",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "brazil-1888-abolition-freedom-and-land",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "san-francisco-1906-earthquake-water-and-rebuilding",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    },
+    {
+      "id": "iran-1891-tobacco-concession-boycott-and-debt",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": "loaded",
+      "overflow": false
+    }
+  ],
+  "test_suite": {
+    "command": "python3 -m unittest discover -s tests",
+    "tests": 55,
+    "passed": true
+  },
+  "draft_exclusion_checks": [
+    {
+      "id": "corn-laws-1846-bread-trade-and-political-cost",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "zollverein-1834-customs-revenue-and-prussian-power",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "france-1875-third-republic-laws-and-compromise",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "russia-1861-emancipation-land-and-redemption",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "japan-1889-constitution-sovereignty-and-voting",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "hudsons-bay-company-1670-charter-rivers-and-trade",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "boxer-crisis-1900-local-conflict-and-foreign-intervention",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "brazil-1888-abolition-freedom-and-land",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "san-francisco-1906-earthquake-water-and-rebuilding",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    },
+    {
+      "id": "iran-1891-tobacco-concession-boycott-and-debt",
+      "review_only": true,
+      "excluded_from_public_paths_and_search": true
+    }
+  ],
+  "public_navigation_unchanged": true,
+  "preexisting_placement_rows_unchanged": true,
+  "automatic_generation_enabled": false,
+  "final_image_files": [
+    {
+      "id": "corn-laws-1846-bread-trade-and-political-cost",
+      "file": "content/images/corn-laws-1846-bread-trade-and-political-cost.png",
+      "sha256": "347360ba82a2e9734280dc8bbea40099ed99899f9ab0d52fecab7b3cf9e64c4d",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "zollverein-1834-customs-revenue-and-prussian-power",
+      "file": "content/images/zollverein-1834-customs-revenue-and-prussian-power.png",
+      "sha256": "74b8746a056648dd8c7c62d373e32348914e8abe2ae00f89084ce866d294381d",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "france-1875-third-republic-laws-and-compromise",
+      "file": "content/images/france-1875-third-republic-laws-and-compromise.png",
+      "sha256": "1c458d23a286fb97f97d3516d3e6b6990e8fead25464043ddc7f37212570334c",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "russia-1861-emancipation-land-and-redemption",
+      "file": "content/images/russia-1861-emancipation-land-and-redemption.png",
+      "sha256": "1a48d42a91dde1c2851d16e55ff9eb98d5d11ddeab31c5ee1c44444697f75708",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "japan-1889-constitution-sovereignty-and-voting",
+      "file": "content/images/japan-1889-constitution-sovereignty-and-voting.jpg",
+      "sha256": "9ace31b3fa338a729dc90d5184ad77c7de68d09641b276ffddcda218af314c40",
+      "width": 1857,
+      "height": 3112,
+      "type": "artwork"
+    },
+    {
+      "id": "hudsons-bay-company-1670-charter-rivers-and-trade",
+      "file": "content/images/hudsons-bay-company-1670-charter-rivers-and-trade.png",
+      "sha256": "24cf77c232ca1dbd9c07e824be775edad48eee790d048e830d505a8072516bec",
+      "width": 1000,
+      "height": 596,
+      "type": "photo"
+    },
+    {
+      "id": "boxer-crisis-1900-local-conflict-and-foreign-intervention",
+      "file": "content/images/boxer-crisis-1900-local-conflict-and-foreign-intervention.png",
+      "sha256": "e77c830d9c87ec797dab75feb4ef8ee6967c7c54a51613d7f4b37ff18d9d6910",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    },
+    {
+      "id": "brazil-1888-abolition-freedom-and-land",
+      "file": "content/images/brazil-1888-abolition-freedom-and-land.jpg",
+      "sha256": "3de77c96e4f84d1d7abb0032ea854c11b1a84d5fc7960f5d8aacaff1851ddf0f",
+      "width": 678,
+      "height": 928,
+      "type": "photo"
+    },
+    {
+      "id": "san-francisco-1906-earthquake-water-and-rebuilding",
+      "file": "content/images/san-francisco-1906-earthquake-water-and-rebuilding.jpg",
+      "sha256": "8e2182a5fae9ad9145f5ad8041a3bac9fca75a4f091cc59b4c343bf6bd61db92",
+      "width": 600,
+      "height": 424,
+      "type": "photo"
+    },
+    {
+      "id": "iran-1891-tobacco-concession-boycott-and-debt",
+      "file": "content/images/iran-1891-tobacco-concession-boycott-and-debt.png",
+      "sha256": "0a9270bb1c3c6b13fab84b08de08d240b9d3b660de73124898e67fc73832a33a",
+      "width": 1536,
+      "height": 1024,
+      "type": "ai_illustration"
+    }
+  ],
+  "image_correction": "Removed unrequested infographic/thought-bubble overlays from German customs and Russian emancipation illustrations; revised simple scenes visually rechecked before final browser run."
+}

@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-08",
+  "request": "홈페이지 게시 및 새 글10개",
+  "published_batch": "20261108-ten-history-rights-print-and-connections",
+  "story_ids": [
+    "britain-1689-rights-crown-and-parliament",
+    "napoleonic-code-1804-property-family-and-equality",
+    "gutenberg-1450s-type-capital-and-bookmaking",
+    "transcontinental-railroad-1869-labor-land-and-link",
+    "iwakura-mission-learning-and-treaty-limits",
+    "taiping-war-nanjing-local-armies-and-civilian-life",
+    "decembrists-1825-oath-constitution-and-exile",
+    "cadiz-1812-sovereignty-faith-and-atlantic-empire",
+    "mexico-1821-iguala-independence-and-monarchy",
+    "australia-1901-federation-states-and-exclusions"
+  ],
+  "public_unique_stories": 428,
+  "country_view_stories": 428,
+  "subject_view_stories": 428,
+  "domain": "knowledgewalk.net",
+  "pages_run": 42473692984,
+  "pages_conclusion": "success",
+  "validation_run": 42473692636,
+  "validation_conclusion": "success",
+  "local_tests": 55,
+  "local_tests_passed": true,
+  "numbered_headings_and_separate_toc_per_story": 7,
+  "live_responses": [
+    {
+      "path": "categories/americas/미국/index.html",
+      "status": 200,
+      "bytes": 26232,
+      "sha256": "51b8af71f55b6ce149ce97bad3e19145d6933f35fbac726e1a29371d824939c8"
+    },
+    {
+      "path": "categories/common/index.html",
+      "status": 200,
+      "bytes": 138734,
+      "sha256": "17c656e8de64d456365c583d6f8822630feb7e16ed9d9e923d338e8643e6b59c"
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "status": 200,
+      "bytes": 21069,
+      "sha256": "d05d37edf49360a60d77d587b068a9ae8b72c57a1537a16b595e721e46faeb52"
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 16313,
+      "sha256": "e5dc42c753d313b232f7012a923320a27edc5d6344753d1e76a34cbc834b6f7a"
+    },
+    {
+      "path": "knowledge/categories/arts/문학/index.html",
+      "status": 200,
+      "bytes": 47696,
+      "sha256": "b23d7bd4b5c3e21c66fdea71542959aa4d1299066a7d39ca12fe112cbf3878e1"
+    },
+    {
+      "path": "knowledge/categories/arts/음악/index.html",
+      "status": 200,
+      "bytes": 27950,
+      "sha256": "c10092fca34077cc78be8c0ca42f084fa0eaf0e67aebd3a2db8f915580f808d1"
+    },
+    {
+      "path": "knowledge/categories/history-cities/역사와-제도/index.html",
+      "status": 200,
+      "bytes": 56112,
+      "sha256": "728ec9cda731e86310029e6be21cded2c71206aaa3f9d225fd6d2c65e718cabc"
+    },
+    {
+      "path": "knowledge/categories/ideas/기록과-지식-전달/index.html",
+      "status": 200,
+      "bytes": 14617,
+      "sha256": "6b1a24942b6e530c6a5cf89d9be0a114640bf417236b20281c55d0c29444895b"
+    },
+    {
+      "path": "knowledge/index.html",
+      "status": 200,
+      "bytes": 20543,
+      "sha256": "522aefc5f2f4598edd53cb5b70e6107683e0e60eda68c822692378198f48f6a7"
+    },
+    {
+      "path": "knowledge/library.html",
+      "status": 200,
+      "bytes": 119595,
+      "sha256": "dfbad2a3eca193fa499d816039cc7bb39e3f030ea048098809877c86ed2fe895"
+    },
+    {
+      "path": "knowledge/reading.html",
+      "status": 200,
+      "bytes": 370134,
+      "sha256": "c363f749c3b735b5611770c857e5a96535ce29fdee78f6ac40cb2e95fc0c6d8f"
+    },
+    {
+      "path": "knowledge/search-index.json",
+      "status": 200,
+      "bytes": 2851161,
+      "sha256": "fc29141175ad29aa455b7ce1f0808968f628cd073ef4661b153ff3c9397e26ca"
+    },
+    {
+      "path": "knowledge/stories/australia-1901-federation-states-and-exclusions/index.html",
+      "status": 200,
+      "bytes": 19127,
+      "sha256": "f48fbcad03f7ab2bc4597d4b7784a77e027e3621815eacf956010ff2690f267a"
+    },
+    {
+      "path": "knowledge/stories/britain-1689-rights-crown-and-parliament/index.html",
+      "status": 200,
+      "bytes": 18529,
+      "sha256": "56d05d52c787f882f51e7b41ec15a92cdc1c70a0bccaafabec05f140a462c1e8"
+    },
+    {
+      "path": "knowledge/stories/cadiz-1812-sovereignty-faith-and-atlantic-empire/index.html",
+      "status": 200,
+      "bytes": 18752,
+      "sha256": "9627895f0bcfb78b397604c34c69374815476dc26984586356b34ae4a41ef499"
+    },
+    {
+      "path": "knowledge/stories/decembrists-1825-oath-constitution-and-exile/index.html",
+      "status": 200,
+      "bytes": 18881,
+      "sha256": "5fd494c4f5910f1493e9af470089472e32ac59ee5036109c76221a2b0df43923"
+    },
+    {
+      "path": "knowledge/stories/gutenberg-1450s-type-capital-and-bookmaking/index.html",
+      "status": 200,
+      "bytes": 19452,
+      "sha256": "a8ffd9bcfc8d339f951f8da5adde0c533bed74e55b9232bfad0859df49663b12"
+    },
+    {
+      "path": "knowledge/stories/iwakura-mission-learning-and-treaty-limits/index.html",
+      "status": 200,
+      "bytes": 18909,
+      "sha256": "fb71fb12e384aabb3490cb8d581c160201577005704b58135f854a422878a0ca"
+    },
+    {
+      "path": "knowledge/stories/mexico-1821-iguala-independence-and-monarchy/index.html",
+      "status": 200,
+      "bytes": 19134,
+      "sha256": "0931e8cf466d865444d9534410f2bf7a81b59d891e9d5699e9cf307224f6fd30"
+    },
+    {
+      "path": "knowledge/stories/napoleonic-code-1804-property-family-and-equality/index.html",
+      "status": 200,
+      "bytes": 19273,
+      "sha256": "918d92fac1c24b9602d79a609f2455d1bcd4a5b125e2d29ee716c3f54d4edc0e"
+    },
+    {
+      "path": "knowledge/stories/taiping-war-nanjing-local-armies-and-civilian-life/index.html",
+      "status": 200,
+      "bytes": 18924,
+      "sha256": "f52d57bb7ae7bccb0545229b1c60758e9145118b800e1fc6ed9af2adca63096d"
+    },
+    {
+      "path": "knowledge/stories/transcontinental-railroad-1869-labor-land-and-link/index.html",
+      "status": 200,
+      "bytes": 19924,
+      "sha256": "fc4f07f26d7e2200c3a06ae5d40b430a37fa921afadbc47940f061e16c6f2940"
+    },
+    {
+      "path": "library.html",
+      "status": 200,
+      "bytes": 117090,
+      "sha256": "2a7de4747d41651e7a90c90e123833353f456caca74ef0c0e2d2bc4e213c68d8"
+    },
+    {
+      "path": "media/australia-1901-federation-states-and-exclusions.png",
+      "status": 200,
+      "bytes": 233531,
+      "sha256": "452e128d691cf44522d3840887ebb861627fe568bca3d1c5d2c93c432f127138"
+    },
+    {
+      "path": "media/britain-1689-rights-crown-and-parliament.png",
+      "status": 200,
+      "bytes": 2660678,
+      "sha256": "286c9c82113bcc8d8ec64ed540f63db7e68ca55a145eb599cfa53dcae0cbc8a9"
+    },
+    {
+      "path": "media/cadiz-1812-sovereignty-faith-and-atlantic-empire.png",
+      "status": 200,
+      "bytes": 2749069,
+      "sha256": "fa04eb5d2c409a4fa0d3917c4547cd398e7503ea85717a34fdaf4765f39e1094"
+    },
+    {
+      "path": "media/decembrists-1825-oath-constitution-and-exile.png",
+      "status": 200,
+      "bytes": 2621400,
+      "sha256": "37889de6f638bc33cfd6a8431d6b31d5066104c6db3896fae009cb389c728b19"
+    },
+    {
+      "path": "media/gutenberg-1450s-type-capital-and-bookmaking.png",
+      "status": 200,
+      "bytes": 94221,
+      "sha256": "1358e65078642df1b6c0117d8f2ed4cf3eb2ceffb3489915073e046e44d1dc42"
+    },
+    {
+      "path": "media/iwakura-mission-learning-and-treaty-limits.png",
+      "status": 200,
+      "bytes": 2977455,
+      "sha256": "99268f755ebc7c7af38993b249f1e7c5dbe77a1cbda869c8d9b67b94d75d50df"
+    },
+    {
+      "path": "media/mexico-1821-iguala-independence-and-monarchy.png",
+      "status": 200,
+      "bytes": 2978861,
+      "sha256": "8f69940159584bca7bd6fe456c13a23271bf3994957527305fb7d4bc06643e1e"
+    },
+    {
+      "path": "media/napoleonic-code-1804-property-family-and-equality.jpg",
+      "status": 200,
+      "bytes": 81056,
+      "sha256": "870bb0c348d6059fc20a8535e3ccfb9d2a8afc162b3eea736e10beefd0ebf14a"
+    },
+    {
+      "path": "media/taiping-war-nanjing-local-armies-and-civilian-life.png",
+      "status": 200,
+      "bytes": 2988922,
+      "sha256": "b686f36856026dfd569a313608b37d453379e8321a4a972649e56ace2b0b6a19"
+    },
+    {
+      "path": "media/transcontinental-railroad-1869-labor-land-and-link.jpg",
+      "status": 200,
+      "bytes": 136689,
+      "sha256": "21e1795385b2f6fe24cf8d5d680cf5ffdd4a2aa6b3867f2cb24ac6a1e4630916"
+    },
+    {
+      "path": "reading.html",
+      "status": 200,
+      "bytes": 367176,
+      "sha256": "76d8c7b277000272b7afff8eb0b828b73d4203191598fbb2e39b65fca8b7f228"
+    },
+    {
+      "path": "search-index.json",
+      "status": 200,
+      "bytes": 2842128,
+      "sha256": "a81143fb4957919abd71f4bcf834126cedf01be1396961850ad2ee7f3ab8181a"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "bytes": 61955,
+      "sha256": "d5485c4a1859c3ff99ecd46b949509d04a9b232363add29622a9062b731b5f52"
+    },
+    {
+      "path": "stories/australia-1901-federation-states-and-exclusions/index.html",
+      "status": 200,
+      "bytes": 16628,
+      "sha256": "54d32b7a56152de8fc7c8b4cfab025815d328cbde1042fd3837ec6bbb7c28054"
+    },
+    {
+      "path": "stories/britain-1689-rights-crown-and-parliament/index.html",
+      "status": 200,
+      "bytes": 15991,
+      "sha256": "faa802a28daf06a41a7337de5ba4b58038b8e34855e15aee4477ab57c28fb4cb"
+    },
+    {
+      "path": "stories/cadiz-1812-sovereignty-faith-and-atlantic-empire/index.html",
+      "status": 200,
+      "bytes": 16229,
+      "sha256": "a5693a79175c1302e725550617fee490619164cd3701cca82969cb5b8096d159"
+    },
+    {
+      "path": "stories/decembrists-1825-oath-constitution-and-exile/index.html",
+      "status": 200,
+      "bytes": 16358,
+      "sha256": "8c3b37b6c447f2fe3115eeed90e123276b66c0763bc919481c7067a82d50e9cb"
+    },
+    {
+      "path": "stories/gutenberg-1450s-type-capital-and-bookmaking/index.html",
+      "status": 200,
+      "bytes": 16911,
+      "sha256": "a4540039c8272f194feea83d5a912ff6327b353d630b3e931bdc461e7b1c824e"
+    },
+    {
+      "path": "stories/iwakura-mission-learning-and-treaty-limits/index.html",
+      "status": 200,
+      "bytes": 16413,
+      "sha256": "19f35d9b2bc59c731f15f7776af6e65cae8d6530d90edc6ee52a52441c6b3542"
+    },
+    {
+      "path": "stories/mexico-1821-iguala-independence-and-monarchy/index.html",
+      "status": 200,
+      "bytes": 16629,
+      "sha256": "e55e2639010b13f7050f97f7487636a9397c89a31ae823a6d6d293eae7f52d88"
+    },
+    {
+      "path": "stories/napoleonic-code-1804-property-family-and-equality/index.html",
+      "status": 200,
+      "bytes": 16747,
+      "sha256": "c45687a14b21a900c4c3418f5fa9fec2febf9ad7b49c0e41c90814477d8a0d0f"
+    },
+    {
+      "path": "stories/taiping-war-nanjing-local-armies-and-civilian-life/index.html",
+      "status": 200,
+      "bytes": 16428,
+      "sha256": "d3a0cf16b20d522c634e0d590c6efc5cdd3d325b5cdc568341b9fc37e6fb08eb"
+    },
+    {
+      "path": "stories/transcontinental-railroad-1869-labor-land-and-link/index.html",
+      "status": 200,
+      "bytes": 17404,
+      "sha256": "f0cd67e72b5a1205a27b185be9eb18d0ed44cbb3ef139df4dfd5f62d40bf4235"
+    }
+  ]
+}

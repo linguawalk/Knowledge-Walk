@@ -1,7 +1,7 @@
 {
   "state": "active_single_domain_shared_catalog",
   "date": "2026-11-08",
-  "count": 441,
+  "count": 451,
   "articles": [
     {
       "id": "alexandria-museion-and-books",
@@ -15931,6 +15931,402 @@
         {
           "topic": "생각과 지식",
           "subtopic": "사회와 제도의 탄생"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "corn-laws-1846-bread-trade-and-political-cost",
+      "title": "곡물법 폐지 — 빵값을 둘러싼 논쟁은 왜 정당을 갈라놓았을까",
+      "source_path": "content/stories/history/europe/corn-laws-1846-bread-trade-and-political-cost.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "영국",
+      "country": "영국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "영국의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/corn-laws-1846-bread-trade-and-political-cost/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "기업과 산업",
+          "subtopic": "상업과 유통"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "zollverein-1834-customs-revenue-and-prussian-power",
+      "title": "독일 관세동맹 — 국경을 없애지 않고 장벽을 낮출 수 있었을까",
+      "source_path": "content/stories/history/europe/zollverein-1834-customs-revenue-and-prussian-power.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "독일",
+      "country": "독일",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "독일의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/zollverein-1834-customs-revenue-and-prussian-power/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "기업과 산업",
+          "subtopic": "상업과 유통"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "france-1875-third-republic-laws-and-compromise",
+      "title": "프랑스 제3공화국 — 임시정부는 어떻게 오래가는 제도가 되었을까",
+      "source_path": "content/stories/history/europe/france-1875-third-republic-laws-and-compromise.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "프랑스",
+      "country": "프랑스",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "프랑스의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/france-1875-third-republic-laws-and-compromise/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "russia-1861-emancipation-land-and-redemption",
+      "title": "러시아 농노 해방 — 자유를 얻었는데 왜 땅값을 갚아야 했을까",
+      "source_path": "content/stories/history/europe/russia-1861-emancipation-land-and-redemption.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "러시아",
+      "country": "러시아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "러시아의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/russia-1861-emancipation-land-and-redemption/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "사회와 제도의 탄생"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "japan-1889-constitution-sovereignty-and-voting",
+      "title": "메이지 헌법 — 의회가 생기면 국민이 주권자가 되는 걸까",
+      "source_path": "content/stories/history/asia/japan-1889-constitution-sovereignty-and-voting.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아대양주",
+      "country_group": "일본",
+      "country": "일본",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "일본의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/japan-1889-constitution-sovereignty-and-voting/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "사회와 제도의 탄생"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "hudsons-bay-company-1670-charter-rivers-and-trade",
+      "title": "허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까",
+      "source_path": "content/stories/history/america/hudsons-bay-company-1670-charter-rivers-and-trade.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "캐나다",
+      "country": "캐나다",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "캐나다의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/hudsons-bay-company-1670-charter-rivers-and-trade/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "기업과 산업",
+          "subtopic": "상업과 유통"
+        },
+        {
+          "topic": "기업과 산업",
+          "subtopic": "창업과 성장"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "boxer-crisis-1900-local-conflict-and-foreign-intervention",
+      "title": "의화단 사건 — 마을의 불안은 어떻게 국제적 위기가 되었을까",
+      "source_path": "content/stories/history/asia/boxer-crisis-1900-local-conflict-and-foreign-intervention.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아대양주",
+      "country_group": "중국",
+      "country": "중국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "중국의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/boxer-crisis-1900-local-conflict-and-foreign-intervention/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "brazil-1888-abolition-freedom-and-land",
+      "title": "브라질 1888 — 노예제가 끝난 다음 날 무엇이 달라졌을까",
+      "source_path": "content/stories/history/america/brazil-1888-abolition-freedom-and-land.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "브라질",
+      "country": "브라질",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "브라질의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/brazil-1888-abolition-freedom-and-land/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "사회와 제도의 탄생"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "san-francisco-1906-earthquake-water-and-rebuilding",
+      "title": "샌프란시스코 1906 — 땅이 멈춘 뒤에도 도시는 왜 계속 불탔을까",
+      "source_path": "content/stories/history/america/san-francisco-1906-earthquake-water-and-rebuilding.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "미국",
+      "country": "미국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "미국의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/san-francisco-1906-earthquake-water-and-rebuilding/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "역사와 도시",
+          "subtopic": "도시의 변화"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ]
+    },
+    {
+      "id": "iran-1891-tobacco-concession-boycott-and-debt",
+      "title": "이란 담배 불매운동 — 피우지 않는 행동은 어떻게 왕의 계약을 바꾸었을까",
+      "source_path": "content/stories/history/middle-east/iran-1891-tobacco-concession-boycott-and-debt.json",
+      "old_category": "history",
+      "old_subcategory": "Middle East",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "중동아프리카",
+      "country_group": "이란",
+      "country": "이란",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "이란의 역사적 맥락에 배치하고 관련 분야에서 같은 원고로 연결. 국가는 탐색 위치이며 당대 국적이나 문화의 소유권을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/iran-1891-tobacco-concession-boycott-and-debt/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사와 도시",
+          "subtopic": "역사와 제도"
+        },
+        {
+          "topic": "기업과 산업",
+          "subtopic": "상업과 유통"
         }
       ],
       "country_topic": "역사",
