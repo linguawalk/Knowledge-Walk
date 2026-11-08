@@ -2,7 +2,7 @@
 
 2026-11-07 사용자 후속 요청으로 net 단일 도메인 운영을 적용했습니다. 별도 knowledgewalk.kr 도메인·Hostinger·FTP 설정과 배포는 사용하지 않습니다. 이전 FTP 비밀번호 등록 요청도 더 이상 필요하지 않습니다.
 
-- 국가별 보기: https://knowledgewalk.net/
+- 지역별 보기: https://knowledgewalk.net/
 - 분야별 보기: https://knowledgewalk.net/knowledge/
 - 음악 서가: https://knowledgewalk.net/knowledge/categories/arts/음악/index.html
 
@@ -27,3 +27,5 @@
 2026-11-07 최초 전환 당시 Pages42357541620 배포가 성공했습니다. 국가별·분야별 목록은 같은408편이며 홈페이지·서가·본문·이미지·사이트맵 등 실제 응답40개를 로컬 게시본과 바이트 대조했습니다. 양쪽 본문의 대표주소는 모두 net이며 사이트맵의 글 주소에는 중복 분야별 경로를 넣지 않았습니다. 검사55개·화면/검색39개를 통과했습니다. 별도 kr 연결에 남은 작업은 없습니다.
 
 2026-11-08 최신 게시: 승인 원고438편을 두 탐색 방식에서 제공합니다. Pages42476110925·검증42476111075가 성공했고 실제 응답54개를 대조했습니다. [최신 게시 검증](research/history-markets-freedom-publication-20261108.json)
+
+2026-11-08 재배치: 지역별 메뉴는5개 대륙·13개 하위 지역, 주제별 메뉴는7개 대주제입니다. 기존 본문·국가·주제 목록 주소는 유지하며 분류와 목록 필터를 개편했습니다. [새 구조와 배치 기준](navigation-reorganization-20261108.md)

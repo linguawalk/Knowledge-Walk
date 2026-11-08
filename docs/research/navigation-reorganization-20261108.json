@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-08",
+  "user_request": "이 방식으로 홈페이지를 재 배체해 주세요",
+  "navigation_version": 2,
+  "domain": "knowledgewalk.net",
+  "originals": 451,
+  "public_unique_stories": 438,
+  "excluded_unapproved": 13,
+  "continental_hubs": 5,
+  "regional_hubs": 13,
+  "subject_hubs": 7,
+  "primary_subject_counts": {
+    "생각과 지식": 22,
+    "도시와 사회": 56,
+    "경제·산업·금융": 62,
+    "역사": 43,
+    "기술과 디지털": 57,
+    "문화와 예술": 157,
+    "과학과 발견": 41
+  },
+  "legacy_shelves_preserved": {
+    "net": 53,
+    "kr": 50
+  },
+  "canonical_story_urls_checked": 876,
+  "sitemap_unique_story_urls": 438,
+  "publication_states_unchanged": true,
+  "original_body_image_and_source_files_unchanged": true,
+  "numbered_headings_and_separate_toc_unchanged": true,
+  "reading_history_key": "knowledgewalk.read.v1",
+  "mexico_region": "북아메리카",
+  "russia_default_region": "동유럽",
+  "turkiye_default_region": "서아시아",
+  "empty_central_america": "준비 중; 멕시코를 임의 이동하지 않음",
+  "world_primary_count": 149,
+  "automated_generation_enabled": false,
+  "unit_tests": {
+    "count": 63,
+    "passed": true
+  },
+  "browser": {
+    "pages": [
+      {
+        "width": 1440,
+        "path": "index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "categories/europe/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "categories/europe/서유럽/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "categories/asia/서아시아/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "categories/africa/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "categories/oceania/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "categories/common/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "knowledge/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "knowledge/categories/arts/문학/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "knowledge/categories/arts/미술/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "knowledge/categories/economy/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "library.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "categories/europe/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "categories/europe/서유럽/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "categories/asia/서아시아/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "categories/africa/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "categories/oceania/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "categories/common/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "knowledge/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "knowledge/categories/arts/문학/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "knowledge/categories/arts/미술/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "knowledge/categories/economy/index.html",
+        "overflow": false
+      },
+      {
+        "width": 1200,
+        "path": "library.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "categories/europe/index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "categories/europe/서유럽/index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "categories/asia/서아시아/index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "categories/africa/index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "categories/oceania/index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "categories/common/index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "knowledge/index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "knowledge/categories/arts/문학/index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "knowledge/categories/arts/미술/index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "knowledge/categories/economy/index.html",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "library.html",
+        "overflow": false
+      }
+    ],
+    "functional_checks": [
+      "desktop/mobile menus",
+      "genre filters and empty state/reset",
+      "Mexico north / Central America empty",
+      "scientist field and person search",
+      "article numbered TOC",
+      "shared reading history and canonical"
+    ],
+    "javascript_errors": []
+  },
+  "placement_sha256": "6b60afc867313f5e12e6ed1bcf5aaf00073a0acf6bb805813804ec1c039dc85d",
+  "taxonomy_sha256": "10fc8f1077f59491c38362d4bf2e40e30b13582f4e3de93c25372a0d50a83c3b"
+}

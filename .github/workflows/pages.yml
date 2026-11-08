@@ -12,6 +12,7 @@ on:
       - 'tools/build_site.py'
       - 'tools/build_domains.py'
       - 'tools/build_split_preview.py'
+      - 'tools/navigation_v2.py'
       - 'tools/templates/**'
       - 'tests/**'
       - 'tools/daily_generation.py'

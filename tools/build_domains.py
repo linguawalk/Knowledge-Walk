@@ -66,17 +66,32 @@ class DomainSite(SplitSite):
         other=(net_base if self.domain=='kr' else kr_base)+(self.story_path(story) if story else '')
         if story and self.taxonomy.get('shared_catalog'):
             row=story['placement']; paths=[]
-            if row.get('region'):
-                region_ids={'아시아대양주':'asia-oceania','유럽':'europe','아메리카':'americas','중동아프리카':'middle-east-africa'}
-                path=self.category_path(region_ids[row['region']],row['country'] or '지역에 걸친 이야기')
-                paths.append(f'<a href="{esc(net_base+path)}">{esc(row["country"] or "지역에 걸친 이야기")}의 이야기 ↗</a>')
-            topic_ids={'역사와 도시':'history-cities','문화와 예술':'arts','기업과 산업':'industry','컴퓨터와 디지털':'digital','돈과 금융':'finance','과학과 발견':'science','생활을 바꾼 물건과 기술':'everyday-inventions','생각과 지식':'ideas'}
+            if self.taxonomy.get('version',1)>=2:
+                for geo in row['geographies']:
+                    cid=self.taxonomy['continent_ids'][geo['continent']]
+                    child=geo.get('country') or geo.get('subregion')
+                    path=self.category_path(cid,child)
+                    label=child or geo['continent']
+                    link=f'<a href="{esc(net_base+path)}">{esc(label)}의 이야기 ↗</a>'
+                    if link not in paths:paths.append(link)
+                if not paths:paths.append(f'<a href="{esc(net_base+self.category_path("common"))}">세계와 교류 ↗</a>')
+                topic_ids=self.taxonomy['topic_ids']
+            else:
+                if row.get('region'):
+                    region_ids={'아시아대양주':'asia-oceania','유럽':'europe','아메리카':'americas','중동아프리카':'middle-east-africa'}
+                    path=self.category_path(region_ids[row['region']],row['country'] or '지역에 걸친 이야기')
+                    paths.append(f'<a href="{esc(net_base+path)}">{esc(row["country"] or "지역에 걸친 이야기")}의 이야기 ↗</a>')
+                topic_ids={'역사와 도시':'history-cities','문화와 예술':'arts','기업과 산업':'industry','컴퓨터와 디지털':'digital','돈과 금융':'finance','과학과 발견':'science','생활을 바꾼 물건과 기술':'everyday-inventions','생각과 지식':'ideas'}
             for topic in row['kr_topics']:
                 path=self.category_path(topic_ids[topic['topic']],topic['subtopic'])
                 paths.append(f'<a href="{esc(kr_base+path)}">{esc(topic["subtopic"])} 서가 ↗</a>')
+            if self.taxonomy.get('version',1)>=2:
+                from urllib.parse import urlencode
+                for person in row.get('people',[]):
+                    paths.append(f'<a class="person-tag" href="{esc(kr_base+"search.html?"+urlencode({"q":person}))}">{esc(person)}</a>')
             nav='<nav class="reading-paths" aria-label="국가와 분야로 읽기">'+''.join(paths)+'</nav>'
             text=text.replace('<div class="reading-actions">',nav+'<div class="reading-actions">',1)
-        label='국가별 보기' if self.domain=='kr' else '분야별 보기'
+        label=('지역별 보기' if self.taxonomy.get('version',1)>=2 else '국가별 보기') if self.domain=='kr' else '분야별 보기'
         switch=f'<a class="site-switch" href="{other}">{label} ↗</a>'
         text=text.replace('<button class="menu-button"',switch+'<button class="menu-button"',1)
         text=text.replace('<small>© 2026 KnowledgeWalk</small>',switch+'<small>© 2026 KnowledgeWalk</small>')
@@ -126,7 +141,7 @@ def build(sync_root=False):
         sites[domain].layout('404.html','찾는 이야기가 보이지 않아요','다른 이야기에서 다시 시작해 보세요.','<section class="container empty-state"><h1>찾는 이야기가 보이지 않아요.</h1><a href="index.html">첫 화면으로 ↗</a></section>')
         files[domain]=sites[domain].files
         sitemap_base='https://knowledgewalk.net/knowledge/' if single and domain=='kr' else 'https://knowledgewalk.'+domain+'/'
-        files[domain]['sitemap.xml']='<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+sitemap_base+name+'</loc></url>' for name in files[domain] if name.endswith('.html') and name!='404.html' and (name not in sites[domain].article_lookup or not taxonomy.get('shared_catalog') or canonical_story_url(sites[domain].article_lookup[name],settings)==sitemap_base+name))+'</urlset>'
+        files[domain]['sitemap.xml']='<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+sitemap_base+name+'</loc></url>' for name in files[domain] if name.endswith('.html') and name!='404.html' and '<meta name="robots" content="noindex,follow">' not in files[domain][name] and (name not in sites[domain].article_lookup or not taxonomy.get('shared_catalog') or canonical_story_url(sites[domain].article_lookup[name],settings)==sitemap_base+name))+'</urlset>'
         files[domain]['robots.txt']='User-agent: *\nAllow: /\nSitemap: '+sitemap_base+'sitemap.xml\n'
     netids={s['id'] for s in sites['net'].stories};krids={s['id'] for s in sites['kr'].stories}
     shared=taxonomy.get('shared_catalog',False)
@@ -171,7 +186,7 @@ def build(sync_root=False):
         bridge_files=bridge.render()
         write_site(ROOT/'_site/knowledge',bridge_files,bridge)
         if shared:
-            urls=''.join('<url><loc>https://knowledgewalk.net/knowledge/'+name+'</loc></url>' for name in bridge_files if name.endswith('.html') and (name not in bridge.article_lookup or canonical_story_url(bridge.article_lookup[name],settings)=='https://knowledgewalk.net/knowledge/'+name))
+            urls=''.join('<url><loc>https://knowledgewalk.net/knowledge/'+name+'</loc></url>' for name in bridge_files if name.endswith('.html') and '<meta name="robots" content="noindex,follow">' not in bridge_files[name] and (name not in bridge.article_lookup or canonical_story_url(bridge.article_lookup[name],settings)=='https://knowledgewalk.net/knowledge/'+name))
             path=ROOT/'_site/sitemap.xml';path.write_text(path.read_text().replace('</urlset>',urls+'</urlset>'))
     # Keep old preview URLs functional; their media refer to the original net root.
     for s in sites['kr'].stories:

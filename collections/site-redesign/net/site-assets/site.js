@@ -139,7 +139,9 @@ async function initializeSearch() {
     }
     const params = new URLSearchParams(location.search);
     input.value = params.get("q") || "";
-    filter.value = params.get("category") || "";
+    const requestedCategory = params.get("category") || "";
+    const aliases = document.body.classList.contains('navigation-v2') ? {industry:'economy',finance:'economy',digital:'technology','everyday-inventions':'technology'} : {};
+    filter.value = [...filter.options].some(option => option.value === requestedCategory) ? requestedCategory : (aliases[requestedCategory] || "");
     const normalize = value => value.normalize("NFKC").toLocaleLowerCase().trim();
     // Create DOM nodes instead of interpolating content or search queries into HTML.
     function render() {
@@ -221,3 +223,36 @@ if (sectionLinks.length) {
   window.addEventListener('load', updateSection);
   updateSection();
 }
+
+// Narrow a shelf without hiding any stories when JavaScript is unavailable.
+document.querySelectorAll('[data-catalog]').forEach(catalog => {
+  const controls = catalog.querySelector('.catalog-controls');
+  const input = controls.querySelector('input[type="search"]');
+  const selects = [...controls.querySelectorAll('select[data-filter]')];
+  const primary = controls.querySelector('[data-primary-topic]');
+  const cards = [...catalog.querySelectorAll('.catalog-results > .story-card')];
+  const status = catalog.querySelector('.catalog-status');
+  const empty = catalog.querySelector('.catalog-empty');
+  const normalize = value => value.normalize('NFKC').toLocaleLowerCase().trim();
+  const values = (card, key) => JSON.parse(card.getAttribute('data-catalog-' + key) || '[]');
+  function update() {
+    const tokens = normalize(input.value).split(/\s+/).filter(Boolean);
+    let visible = 0;
+    cards.forEach(card => {
+      const found = tokens.every(token => normalize(card.dataset.catalogText).includes(token));
+      const selected = selects.every(select => !select.value || values(card, select.dataset.filter).includes(select.value));
+      const representative = !primary?.checked || (card.dataset.catalogPrimary === primary.dataset.primaryTopic
+        && (!primary.dataset.primarySubtopic || card.dataset.catalogPrimarySubtopic === primary.dataset.primarySubtopic));
+      card.hidden = !(found && selected && representative);
+      if (!card.hidden) visible++;
+    });
+    status.textContent = `${visible}편 표시 / 전체 ${cards.length}편`;
+    empty.hidden = visible !== 0;
+  }
+  controls.hidden = false;
+  controls.addEventListener('submit', event => { event.preventDefault(); update(); });
+  controls.addEventListener('input', update);
+  controls.addEventListener('change', update);
+  controls.addEventListener('reset', () => requestAnimationFrame(update));
+  update();
+});

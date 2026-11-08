@@ -8,4 +8,23 @@
 /* Shared catalog: a compact subject row and contextual country/subject paths. */
 .split-kr .header-inner{flex-wrap:wrap}.split-kr .main-nav{flex-basis:100%;order:3;justify-content:space-between;margin-left:0}.reading-paths{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 20px;margin:20px 0;font-size:12px;color:var(--green)}.reading-paths a{text-decoration:underline;text-underline-offset:4px}
 
+/* Region hubs, seven subject shelves and progressive list filters. */
+.navigation-v2 .nav-direct{align-self:center;font-size:13px;white-space:nowrap;text-decoration:none;padding:12px 8px}
+.navigation-v2 .nav-group summary{font-size:13px;white-space:nowrap}
+.navigation-v2 .brand-section{font-size:10px}
+.navigation-v2 .split-fields{grid-template-columns:repeat(3,minmax(0,1fr))}
+.catalog{margin-top:35px;margin-bottom:70px}
+.catalog-controls{display:flex;flex-wrap:wrap;gap:14px;align-items:end;padding:20px;background:#eeeee6;border-radius:12px;margin:20px 0}
+.catalog-controls[hidden]{display:none}
+.catalog-controls label{display:flex;flex-direction:column;gap:7px;font-size:13px;min-width:130px;flex:1}
+.catalog-controls input[type=search],.catalog-controls select{font:inherit;border:1px solid #bfc6b8;border-radius:5px;padding:10px;background:#fff;color:#203b30;width:100%;min-width:0;box-sizing:border-box}
+.catalog-controls .catalog-check{display:flex;flex-direction:row;align-items:center;gap:8px;min-height:40px;min-width:150px}
+.catalog-status{color:#5c6a60;font-size:14px;margin:18px 0}
+.catalog-results>.story-card[hidden]{display:none!important}
+.catalog-empty[hidden]{display:none}
+.legacy-anchor{display:block;scroll-margin-top:110px}
+.person-tag{border-radius:18px;background:#edeede;padding:3px 10px}
+@media(max-width:1150px){.navigation-v2 .nav-direct{align-self:stretch;padding:13px 0;border-bottom:1px solid #dadccd}.navigation-v2 .nav-group summary{font-size:16px}}
+@media(max-width:760px){.navigation-v2 .split-fields{grid-template-columns:1fr}.catalog-controls{padding:16px;gap:12px}.catalog-controls label{min-width:calc(50% - 12px)}.catalog-controls label:first-child{flex-basis:100%}.catalog-controls .catalog-check{flex-basis:100%}.country-tile h2{font-size:21px}}
+
 .site-switch{font-size:12px;white-space:nowrap;text-decoration:underline;text-underline-offset:4px}.header-inner>.site-switch{margin-left:15px}@media(max-width:1150px){.header-inner>.site-switch{display:none}}

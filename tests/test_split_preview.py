@@ -60,14 +60,14 @@ class SplitTests(unittest.TestCase):
         originals = copy.deepcopy(self.originals)
         sample = self.sites['net'].stories[0]
         row = next(r for r in rows if r['id'] == sample['id'])
-        row.update(region='아시아대양주', country_group='기타 국가', country='검토전용국가')
+        row.update(region='아시아', subregion='동아시아', country='검토전용국가', geographies=[{'continent':'아시아','subregion':'동아시아','country':'검토전용국가'}])
         # A saved published flag must not create an unpublished country's menu or sitemap entry.
         originals[sample['id']]['status'] = 'review'
         categories, _ = split.prepare('net', self.taxonomy, rows, originals)
-        self.assertNotIn('검토전용국가', categories[0]['children'])
+        self.assertNotIn('검토전용국가', next(c for c in categories if c['id']=='asia')['children'])
         originals[sample['id']]['status'] = 'approved'
         categories, _ = split.prepare('net', self.taxonomy, rows, originals)
-        self.assertIn('검토전용국가', categories[0]['children'])
+        self.assertIn('검토전용국가', next(c for c in categories if c['id']=='asia')['children'])
 
     def test_every_page_noindex_and_links_resolve(self):
         for name,body in self.pages.items():
@@ -97,7 +97,8 @@ class SplitTests(unittest.TestCase):
 
     def test_country_labels_and_shared_other_buckets(self):
         net=self.sites['net']
-        self.assertIn('기타 국가',self.pages[Path('net')/'categories/europe/index.html'])
+        for region in ['동유럽','서유럽','남유럽','북유럽','중부유럽']:
+            self.assertIn(region,self.pages[Path('net')/'categories/europe/index.html'])
         country=self.pages[Path('net')/'categories/europe/이탈리아/index.html']
         for label in self.taxonomy['country_content_labels']:self.assertIn(label,country)
         import copy
@@ -105,7 +106,7 @@ class SplitTests(unittest.TestCase):
         categories[0]['children'].append('검사전용빈국가')
         empty_site=split.SplitSite('net',categories,net.stories,self.taxonomy)
         empty_site.category(categories[0],'검사전용빈국가')
-        empty=empty_site.files['categories/asia-oceania/검사전용빈국가/index.html']
+        empty=empty_site.files[empty_site.category_path(categories[0]['id'],'검사전용빈국가')]
         self.assertIn('아직 공개된 이야기가 없습니다.',empty)
         self.assertNotIn('8개 분야, 43개',self.pages[Path('kr/library.html')])
 

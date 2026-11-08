@@ -87,13 +87,20 @@ class DomainTests(unittest.TestCase):
             page=(self.kr/path).read_text()
             self.assertEqual(page.count('data-story-id="'+sid+'"'),1)
         index=domains.read_json(self.kr/'search-index.json')
-        self.assertEqual(set(next(s for s in index if s['id']==sid)['categories']),{'history-cities','ideas'})
+        self.assertEqual(set(next(s for s in index if s['id']==sid)['categories']),{'history','ideas'})
         self.assertFalse((self.net/'knowledge/media').exists())
         sitemap=(self.net/'sitemap.xml').read_text()
         self.assertIn('https://knowledgewalk.net/stories/fur-elise-title-and-theme/index.html',sitemap)
         self.assertNotIn('https://knowledgewalk.net/knowledge/stories/fur-elise-title-and-theme/index.html',sitemap)
         self.assertIn('https://knowledgewalk.net/stories/crc-checksum-detecting-changed-data/index.html',sitemap)
         self.assertNotIn('https://knowledgewalk.net/knowledge/stories/',sitemap)
+
+    def test_legacy_shelf_addresses_remain_readable_but_leave_sitemap(self):
+        old='categories/history-cities/역사와-제도/index.html'
+        page=(self.kr/old).read_text()
+        self.assertIn('data-story-id="penny-post-1840-price-prepayment-and-letters"',page)
+        self.assertIn('noindex,follow',page)
+        self.assertNotIn('https://knowledgewalk.net/knowledge/'+old,(self.net/'sitemap.xml').read_text())
 
     def test_no_unapproved_story_in_either_site(self):
         for s in self.originals.values():

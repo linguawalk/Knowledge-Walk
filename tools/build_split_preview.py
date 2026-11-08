@@ -7,6 +7,8 @@ import re
 from pathlib import Path
 from build_site import ROOT, Site, esc, load_stories, publishable, read_json, require, validate
 
+from navigation_v2 import Navigation, enabled as navigation_v2, prepare as prepare_v2
+
 DEST = ROOT / 'collections/site-redesign'
 REGION_IDS = ['asia-oceania', 'europe', 'americas', 'middle-east-africa']
 TOPIC_IDS = ['history-cities', 'arts', 'industry', 'digital', 'finance', 'science', 'everyday-inventions', 'ideas']
@@ -27,6 +29,8 @@ INTRO = {
 
 
 def prepare(domain, taxonomy, placements, originals):
+    if navigation_v2(taxonomy):
+        return prepare_v2(domain,taxonomy,placements,originals)
     shared = taxonomy.get('shared_catalog', False)
     rows = [r for r in placements if domain in r.get('publish_sites', [])] if shared else [r for r in placements if r['proposed_domain'] == 'knowledgewalk.' + domain]
     require({r['id'] for r in placements} == set(originals), 'Placement coverage differs from canonical stories')
@@ -95,6 +99,8 @@ class SplitSite(Site):
         return '../../../' + super().image_path(story)
 
     def layout(self, page, title, description, body, active=None, article=False):
+        if navigation_v2(self.taxonomy):
+            return Navigation.layout(self,page,title,description,body,active,article)
         super().layout(page, title, description, body, active, article)
         markup = self.files[page]
         other = 'kr' if self.domain == 'net' else 'net'
@@ -124,6 +130,8 @@ class SplitSite(Site):
         self.files[page] = markup
 
     def card(self, page, story):
+        if navigation_v2(self.taxonomy):
+            return Navigation.card(self,page,story)
         result = super().card(page, story)
         if self.domain == 'net':
             label = esc(story['placement']['topic'])
@@ -137,12 +145,16 @@ class SplitSite(Site):
                 f'<h2>{esc(story["title"])}</h2></div><span class="round-arrow" aria-hidden="true">↗</span></div></a>')
 
     def in_category(self, story, cid):
+        if navigation_v2(self.taxonomy):
+            return Navigation.in_category(self,story,cid)
         if self.domain == 'kr' and self.taxonomy.get('shared_catalog'):
             title=self.category_map[cid]['title']
             return any(t['topic']==title for t in story['placement']['kr_topics'])
         return story['category']==cid
 
     def home(self):
+        if navigation_v2(self.taxonomy):
+            return Navigation.home(self)
         page = 'index.html'
         is_net = self.domain == 'net'
         heading = '한 국가를 만나면,<br>이야기가 시작됩니다.' if is_net else '세상을 바꾼 발견,<br>그 시작을 읽습니다.'
@@ -179,6 +191,8 @@ class SplitSite(Site):
         self.layout(page, self.brand_label, re.sub('<[^>]+>', ' ', description), body)
 
     def category(self, category, child=None):
+        if navigation_v2(self.taxonomy):
+            return Navigation.category(self,category,child)
         if self.domain == 'kr':
             if self.taxonomy.get('shared_catalog'):
                 originals = self.stories
@@ -229,13 +243,22 @@ class SplitSite(Site):
             top += f'<h2 class="shelf-title">이 지역의 이야기 · {len(subset)}편</h2><div class="story-grid">'+''.join(self.card(page,s) for s in subset)+'</div>'
         self.layout(page, title, category['intro'], '<section class="container category-page">'+top+'</section>',cid)
 
+    def search(self):
+        if navigation_v2(self.taxonomy):
+            return Navigation.search(self)
+        return super().search()
+
     def library(self):
+        if navigation_v2(self.taxonomy):
+            return Navigation.library(self)
         super().library()
         old = f'8개 분야, 43개 소주제에서 한 편씩 골라 읽어 보세요. 현재 이 화면에는 {len(self.stories)}편이 있습니다.'
         new = f'{"지역과 국가" if self.domain == "net" else "주제와 소주제"}별로 정리한 {len(self.stories)}편의 이야기입니다.'
         self.files['library.html'] = self.files['library.html'].replace(old,new).replace('소주제별 서가','전체 이야기 서가')
 
     def render(self):
+        if navigation_v2(self.taxonomy):
+            return Navigation.render(self)
         # Collection manifests refer to the old combined taxonomy, so they are not republished here.
         self.home()
         for c in self.categories:
@@ -276,7 +299,7 @@ def build():
             require((destination/site.image_path(s)).is_file(),f'Missing published image: {s["id"]}')
         counts[domain] = {'stories':len(stories),'html_pages':sum(name.endswith('.html') for name in files)}
     DEST.mkdir(parents=True,exist_ok=True)
-    (DEST/'index.html').write_text('''<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>KnowledgeWalk 개편 미리보기</title><style>body{margin:0;background:#faf8f3;color:#203b30;font-family:system-ui,sans-serif;line-height:1.9}main{max-width:850px;margin:8vh auto;padding:24px}h1{font-size:clamp(30px,5vw,48px);line-height:1.4}section{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px;margin:35px 0}a.card{display:block;border:1px solid #c7cbbc;border-radius:12px;padding:28px;color:inherit;text-decoration:none;background:#fff}a.card:hover{border-color:#203b30}a{color:inherit}small{color:#59675d}h2{margin-top:0}</style></head><body><main><small>KNOWLEDGEWALK · 개편 미리보기</small><h1>국가를 따라 걷고,<br>발견의 이야기를 읽습니다.</h1><p>하나의 KnowledgeWalk, 두 가지 읽는 길을 준비했습니다.<br>현재 홈페이지와 도메인 연결은 그대로 유지됩니다.</p><section><a class="card" href="net/index.html"><h2>국가와 이야기 ↗</h2><p>knowledgewalk.net · 국가별 보기</p><p>아시아대양주 · 유럽 · 아메리카 · 중동아프리카<br>국가별 역사·도시·문화·생활 이야기</p></a><a class="card" href="kr/index.html"><h2>발견과 지식 ↗</h2><p>knowledgewalk.net/knowledge/ · 분야별 보기</p><p>기업 · 컴퓨터 · 금융 · 과학<br>생활을 바꾼 발명과 생각의 역사</p></a></section><p>이미 게시 승인을 받은 글만 담았습니다. 이미지, 출처, 번호 소제목과 옆 바로가기, 읽음 표시를 함께 확인하실 수 있습니다.</p><small>두 화면은 net 안의 국가별·분야별 미리보기입니다. 별도 kr 도메인을 사용하지 않습니다. 미리보기의 읽음 표시와 현재 홈페이지의 읽음 표시는 같은 브라우저에서 공유됩니다.</small><p><a href="../../index.html">현재 홈페이지로 돌아가기 ↗</a></p></main></body></html>''')
+    (DEST/'index.html').write_text('''<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>KnowledgeWalk 개편 미리보기</title><style>body{margin:0;background:#faf8f3;color:#203b30;font-family:system-ui,sans-serif;line-height:1.9}main{max-width:850px;margin:8vh auto;padding:24px}h1{font-size:clamp(30px,5vw,48px);line-height:1.4}section{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px;margin:35px 0}a.card{display:block;border:1px solid #c7cbbc;border-radius:12px;padding:28px;color:inherit;text-decoration:none;background:#fff}a.card:hover{border-color:#203b30}a{color:inherit}small{color:#59675d}h2{margin-top:0}</style></head><body><main><small>KNOWLEDGEWALK · 개편 미리보기</small><h1>국가를 따라 걷고,<br>발견의 이야기를 읽습니다.</h1><p>하나의 KnowledgeWalk, 두 가지 읽는 길을 준비했습니다.<br>현재 홈페이지와 도메인 연결은 그대로 유지됩니다.</p><section><a class="card" href="net/index.html"><h2>국가와 이야기 ↗</h2><p>knowledgewalk.net · 국가별 보기</p><p>유럽 · 아시아 · 아메리카 · 아프리카 · 대양주<br>국가별 역사·도시·문화·생활 이야기</p></a><a class="card" href="kr/index.html"><h2>발견과 지식 ↗</h2><p>knowledgewalk.net/knowledge/ · 분야별 보기</p><p>기업 · 컴퓨터 · 금융 · 과학<br>생활을 바꾼 발명과 생각의 역사</p></a></section><p>이미 게시 승인을 받은 글만 담았습니다. 이미지, 출처, 번호 소제목과 옆 바로가기, 읽음 표시를 함께 확인하실 수 있습니다.</p><small>두 화면은 net 안의 국가별·분야별 미리보기입니다. 별도 kr 도메인을 사용하지 않습니다. 미리보기의 읽음 표시와 현재 홈페이지의 읽음 표시는 같은 브라우저에서 공유됩니다.</small><p><a href="../../index.html">현재 홈페이지로 돌아가기 ↗</a></p></main></body></html>''')
     print(json.dumps(counts,ensure_ascii=False,indent=2))
     return counts
 
