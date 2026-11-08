@@ -4,7 +4,7 @@
 
 History · Asia
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![1900년 무렵 청 말기 주민들이 불안한 소식을 나누는 모습을 상상한 삽화](../../../../content/images/boxer-crisis-1900-local-conflict-and-foreign-intervention.png)
 

@@ -4,7 +4,7 @@
 
 History · Europe
 
-> 자료 대조를 마친 검토용 이야기입니다. 공개 게시 승인은 아직 받지 않았습니다.
+> 출처 대조와 공개 게시 승인을 마친 이야기입니다. 실제 게시 여부는 사이트 배포 상태를 따릅니다.
 
 ![1830년대 독일 지역의 통관 장벽과 상품 마차를 연상하는 삽화](../../../../content/images/zollverein-1834-customs-revenue-and-prussian-power.png)
 

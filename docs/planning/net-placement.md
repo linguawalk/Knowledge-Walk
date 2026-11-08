@@ -1,6 +1,6 @@
 # 국가별 공통 원고 서가
 
-2026-11-08. net 전체 원고451편·공개428편입니다. 국가가 없는 글은 공통 교양으로 제공하며 억지로 국가를 부여하지 않습니다. 미승인 원고는 검토 목록에만 포함합니다.
+2026-11-08. net 전체 원고451편·공개438편입니다. 국가가 없는 글은 공통 교양으로 제공하며 억지로 국가를 부여하지 않습니다. 미승인 원고는 검토 목록에만 포함합니다.
 
 ## 아시아대양주
 
@@ -26,7 +26,7 @@
 | [중국의 과거제 — 작은 칸에서 치른 시험은 누구에게 길을 열었을까](../../content/stories/history/asia/china-examinations-cells-books-and-office.json) | 공개 | net |
 | [총리아문 — 청의 외교는 왜 번역하는 관청이 필요했을까](../../content/stories/history/asia/zongli-yamen-1861-translation-and-diplomacy.json) | 공개 | net |
 | [태평천국 — 새 세상을 약속한 전쟁은 무엇을 바꾸었을까](../../content/stories/history/asia/taiping-war-nanjing-local-armies-and-civilian-life.json) | 공개 | net |
-| [의화단 사건 — 마을의 불안은 어떻게 국제적 위기가 되었을까](../../content/stories/history/asia/boxer-crisis-1900-local-conflict-and-foreign-intervention.json) | 미승인 | net |
+| [의화단 사건 — 마을의 불안은 어떻게 국제적 위기가 되었을까](../../content/stories/history/asia/boxer-crisis-1900-local-conflict-and-foreign-intervention.json) | 공개 | net |
 
 ### 인도네시아 — 1편
 
@@ -54,7 +54,7 @@
 | [페리의 흑선 — 배가 도착했다고 모든 항구가 열린 것은 아니다](../../content/stories/history/asia/perry-1853-black-ships-and-negotiated-ports.json) | 공개 | net |
 | [폐번치현 — 영주의 땅은 어떻게 중앙정부의 지도가 되었을까](../../content/stories/history/asia/japan-1871-domains-prefectures-and-central-power.json) | 공개 | net |
 | [이와쿠라 사절단 — 조약은 못 고쳤는데 무엇을 가져왔을까](../../content/stories/history/asia/iwakura-mission-learning-and-treaty-limits.json) | 공개 | net |
-| [메이지 헌법 — 의회가 생기면 국민이 주권자가 되는 걸까](../../content/stories/history/asia/japan-1889-constitution-sovereignty-and-voting.json) | 미승인 | net |
+| [메이지 헌법 — 의회가 생기면 국민이 주권자가 되는 걸까](../../content/stories/history/asia/japan-1889-constitution-sovereignty-and-voting.json) | 공개 | net |
 
 ### 한국 — 25편
 
@@ -196,7 +196,7 @@
 | [페니 우편 1840 — 편지는 왜 받는 사람에게 부담이었을까](../../content/stories/history/europe/penny-post-1840-price-prepayment-and-letters.json) | 공개 | net |
 | [둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까](../../content/stories/history/europe/domesday-1086-land-testimony-and-power.json) | 공개 | net |
 | [명예혁명 — 왕을 바꾸면 권력의 규칙도 바뀔까](../../content/stories/history/europe/britain-1689-rights-crown-and-parliament.json) | 공개 | net |
-| [곡물법 폐지 — 빵값을 둘러싼 논쟁은 왜 정당을 갈라놓았을까](../../content/stories/history/europe/corn-laws-1846-bread-trade-and-political-cost.json) | 미승인 | net |
+| [곡물법 폐지 — 빵값을 둘러싼 논쟁은 왜 정당을 갈라놓았을까](../../content/stories/history/europe/corn-laws-1846-bread-trade-and-political-cost.json) | 공개 | net |
 
 ### 이탈리아 — 19편
 
@@ -233,7 +233,7 @@
 | [고골의 코 — 얼굴에서 사라진 코가 나보다 높은 관리라면](../../content/stories/culture/literature/gogol-nose-rank-and-recognition.json) | 공개 | net |
 | [스페이드의 여왕 — 확실한 세 장을 알면 삶도 이길 수 있을까](../../content/stories/culture/literature/queen-spades-three-cards-and-obsession.json) | 공개 | net |
 | [데카브리스트 — 황제에게 맹세하는 날 왜 광장에 모였을까](../../content/stories/history/europe/decembrists-1825-oath-constitution-and-exile.json) | 공개 | net |
-| [러시아 농노 해방 — 자유를 얻었는데 왜 땅값을 갚아야 했을까](../../content/stories/history/europe/russia-1861-emancipation-land-and-redemption.json) | 미승인 | net |
+| [러시아 농노 해방 — 자유를 얻었는데 왜 땅값을 갚아야 했을까](../../content/stories/history/europe/russia-1861-emancipation-land-and-redemption.json) | 공개 | net |
 
 ### 프랑스 — 21편
 
@@ -259,7 +259,7 @@
 | [베르사유 여성 행진 — 빵을 구하던 사람들이 왕을 움직이다](../../content/stories/history/europe/versailles-1789-women-bread-and-royal-move.json) | 공개 | net |
 | [바스티유 1789 — 감옥보다 화약이 먼저 필요했던 날](../../content/stories/history/europe/bastille-1789-gunpowder-rumor-and-symbol.json) | 공개 | net |
 | [나폴레옹 법전 — 같은 법을 쓴다는 것은 모두가 평등하다는 뜻일까](../../content/stories/history/europe/napoleonic-code-1804-property-family-and-equality.json) | 공개 | net |
-| [프랑스 제3공화국 — 임시정부는 어떻게 오래가는 제도가 되었을까](../../content/stories/history/europe/france-1875-third-republic-laws-and-compromise.json) | 미승인 | net |
+| [프랑스 제3공화국 — 임시정부는 어떻게 오래가는 제도가 되었을까](../../content/stories/history/europe/france-1875-third-republic-laws-and-compromise.json) | 공개 | net |
 
 ### 불가리아 — 1편
 
@@ -313,7 +313,7 @@
 | [카노사 1077 — 성문 앞의 왕은 정말 모든 것을 잃었을까](../../content/stories/history/europe/canossa-1077-penance-princes-and-power.json) | 공개 | net |
 | [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](../../content/stories/history/europe/hanseatic-league-towns-kontors-and-privileges.json) | 공개 | net |
 | [구텐베르크의 인쇄 — 글자를 찍으려면 활자 말고 무엇이 필요했을까](../../content/stories/history/europe/gutenberg-1450s-type-capital-and-bookmaking.json) | 공개 | net |
-| [독일 관세동맹 — 국경을 없애지 않고 장벽을 낮출 수 있었을까](../../content/stories/history/europe/zollverein-1834-customs-revenue-and-prussian-power.json) | 미승인 | net |
+| [독일 관세동맹 — 국경을 없애지 않고 장벽을 낮출 수 있었을까](../../content/stories/history/europe/zollverein-1834-customs-revenue-and-prussian-power.json) | 공개 | net |
 
 ### 폴란드 — 1편
 
@@ -397,7 +397,7 @@
 | [엘리스섬 — 자유의 여신상 다음에는 질문이 기다렸다](../../content/stories/history/america/ellis-island-inspection-manifests-and-families.json) | 공개 | net |
 | [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](../../content/stories/history/america/erie-canal-1825-locks-tolls-and-new-york.json) | 공개 | net |
 | [미국 대륙횡단철도 — 마지막 못 아래에는 누구의 일이 있었을까](../../content/stories/history/america/transcontinental-railroad-1869-labor-land-and-link.json) | 공개 | net |
-| [샌프란시스코 1906 — 땅이 멈춘 뒤에도 도시는 왜 계속 불탔을까](../../content/stories/history/america/san-francisco-1906-earthquake-water-and-rebuilding.json) | 미승인 | net |
+| [샌프란시스코 1906 — 땅이 멈춘 뒤에도 도시는 왜 계속 불탔을까](../../content/stories/history/america/san-francisco-1906-earthquake-water-and-rebuilding.json) | 공개 | net |
 
 ### 페루 — 3편
 
@@ -425,7 +425,7 @@
 | [캐나다 철도 — 나라를 잇던 선로 위에는 누가 있었을까](../../content/stories/history/america/canadian-pacific-railway-workers-and-belonging.json) | 공개 | net |
 | [퀘벡 1608 — 강가의 작은 거처는 어떻게 교역의 중심이 되었을까](../../content/stories/cities/americas/quebec-1608-river-and-fur-trade.json) | 공개 | net |
 | [캐나다 1867 — 하나의 국가가 된다는 데에는 무엇이 필요했을까](../../content/stories/history/america/canada-1867-confederation-provinces-and-exclusions.json) | 공개 | net |
-| [허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까](../../content/stories/history/america/hudsons-bay-company-1670-charter-rivers-and-trade.json) | 미승인 | net |
+| [허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까](../../content/stories/history/america/hudsons-bay-company-1670-charter-rivers-and-trade.json) | 공개 | net |
 
 ### 브라질 — 3편
 
@@ -433,7 +433,7 @@
 |---|---|---|
 | [1808년 리우 — 유럽의 왕실이 식민지로 건너오다](../../content/stories/history/america/rio-1808-court-crosses-atlantic.json) | 공개 | net |
 | [브라질 1822 — 독립했는데 왜 황제가 생겼을까](../../content/stories/history/america/brazil-1822-independence-crown-and-unequal-freedom.json) | 공개 | net |
-| [브라질 1888 — 노예제가 끝난 다음 날 무엇이 달라졌을까](../../content/stories/history/america/brazil-1888-abolition-freedom-and-land.json) | 미승인 | net |
+| [브라질 1888 — 노예제가 끝난 다음 날 무엇이 달라졌을까](../../content/stories/history/america/brazil-1888-abolition-freedom-and-land.json) | 공개 | net |
 
 ## 중동아프리카
 
@@ -495,7 +495,7 @@
 | [잘과 시무르그 — 흰 머리의 아이를 품은 거대한 새](../../content/stories/life/folks/zal-simurgh-white-hair-and-feather.json) | 공개 | net |
 | [페르세폴리스 — 불탄 궁전에서 살아남은 기록](../../content/stories/cities/middle-east/persepolis-fire-and-clay-records.json) | 공개 | net |
 | [로스탐과 소흐라브 — 서로를 알아보지 못한 부자의 결투](../../content/stories/culture/literature/rostam-sohrab-token-and-recognition.json) | 공개 | net |
-| [이란 담배 불매운동 — 피우지 않는 행동은 어떻게 왕의 계약을 바꾸었을까](../../content/stories/history/middle-east/iran-1891-tobacco-concession-boycott-and-debt.json) | 미승인 | net |
+| [이란 담배 불매운동 — 피우지 않는 행동은 어떻게 왕의 계약을 바꾸었을까](../../content/stories/history/middle-east/iran-1891-tobacco-concession-boycott-and-debt.json) | 공개 | net |
 
 ### 지역에 걸친 이야기 — 2편
 

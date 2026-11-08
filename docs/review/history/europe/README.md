@@ -9,11 +9,11 @@
 | [9월 2일 다음 날이 14일이었던 달력](british-calendar-eleven-days.md) | 자료 대조·공개 게시 승인 완료 |
 | [카디스 헌법 — 왕이 없는 동안 주권은 누구에게 있었을까](cadiz-1812-sovereignty-faith-and-atlantic-empire.md) | 자료 대조·공개 게시 승인 완료 |
 | [카노사 1077 — 성문 앞의 왕은 정말 모든 것을 잃었을까](canossa-1077-penance-princes-and-power.md) | 자료 대조·공개 게시 승인 완료 |
-| [곡물법 폐지 — 빵값을 둘러싼 논쟁은 왜 정당을 갈라놓았을까](corn-laws-1846-bread-trade-and-political-cost.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [곡물법 폐지 — 빵값을 둘러싼 논쟁은 왜 정당을 갈라놓았을까](corn-laws-1846-bread-trade-and-political-cost.md) | 자료 대조·공개 게시 승인 완료 |
 | [데카브리스트 — 황제에게 맹세하는 날 왜 광장에 모였을까](decembrists-1825-oath-constitution-and-exile.md) | 자료 대조·공개 게시 승인 완료 |
 | [둠즈데이 조사 — 왕은 왜 땅과 소의 수를 물었을까](domesday-1086-land-testimony-and-power.md) | 자료 대조·공개 게시 승인 완료 |
 | [공장의 시계 — 하루의 길이는 누가 정했을까](factory-clock-workday-and-human-time.md) | 자료 대조·공개 게시 승인 완료 |
-| [프랑스 제3공화국 — 임시정부는 어떻게 오래가는 제도가 되었을까](france-1875-third-republic-laws-and-compromise.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [프랑스 제3공화국 — 임시정부는 어떻게 오래가는 제도가 되었을까](france-1875-third-republic-laws-and-compromise.md) | 자료 대조·공개 게시 승인 완료 |
 | [가리발디의 천인대 — 붉은 셔츠는 어떻게 왕국의 지도를 바꾸었을까](garibaldi-1860-thousand-monarchy-and-unification.md) | 자료 대조·공개 게시 승인 완료 |
 | [구텐베르크의 인쇄 — 글자를 찍으려면 활자 말고 무엇이 필요했을까](gutenberg-1450s-type-capital-and-bookmaking.md) | 자료 대조·공개 게시 승인 완료 |
 | [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](hanseatic-league-towns-kontors-and-privileges.md) | 자료 대조·공개 게시 승인 완료 |
@@ -25,6 +25,6 @@
 | [페니 우편 1840 — 편지는 왜 받는 사람에게 부담이었을까](penny-post-1840-price-prepayment-and-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [페피스 — 런던이 불탈 때 치즈를 땅에 묻은 이유](pepys-fire-and-buried-cheese.md) | 자료 대조·공개 게시 승인 완료 |
 | [베수비오가 어두워진 날 — 플리니우스의 두 편지](pliny-vesuvius-pine-cloud-two-letters.md) | 자료 대조·공개 게시 승인 완료 |
-| [러시아 농노 해방 — 자유를 얻었는데 왜 땅값을 갚아야 했을까](russia-1861-emancipation-land-and-redemption.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [러시아 농노 해방 — 자유를 얻었는데 왜 땅값을 갚아야 했을까](russia-1861-emancipation-land-and-redemption.md) | 자료 대조·공개 게시 승인 완료 |
 | [베르사유 여성 행진 — 빵을 구하던 사람들이 왕을 움직이다](versailles-1789-women-bread-and-royal-move.md) | 자료 대조·공개 게시 승인 완료 |
-| [독일 관세동맹 — 국경을 없애지 않고 장벽을 낮출 수 있었을까](zollverein-1834-customs-revenue-and-prussian-power.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [독일 관세동맹 — 국경을 없애지 않고 장벽을 낮출 수 있었을까](zollverein-1834-customs-revenue-and-prussian-power.md) | 자료 대조·공개 게시 승인 완료 |

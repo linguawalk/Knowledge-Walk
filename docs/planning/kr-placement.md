@@ -1,6 +1,6 @@
 # 분야별 공통 원고 서가
 
-2026-11-08. net의 /knowledge/에서 원본451편 중 승인428편을 제공합니다. 한 글은 관련 분야 여러 곳에 연결될 수 있습니다. 미승인 원고는 아래 검토 목록에만 포함합니다.
+2026-11-08. net의 /knowledge/에서 원본451편 중 승인438편을 제공합니다. 한 글은 관련 분야 여러 곳에 연결될 수 있습니다. 미승인 원고는 아래 검토 목록에만 포함합니다.
 
 ## 역사와 도시
 
@@ -63,16 +63,16 @@
 | [카디스 헌법 — 왕이 없는 동안 주권은 누구에게 있었을까](../../content/stories/history/europe/cadiz-1812-sovereignty-faith-and-atlantic-empire.json) | 공개 | net |
 | [멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까](../../content/stories/history/america/mexico-1821-iguala-independence-and-monarchy.json) | 공개 | net |
 | [호주 1901 — 여섯 식민지는 무엇을 함께 하기로 했을까](../../content/stories/history/asia/australia-1901-federation-states-and-exclusions.json) | 공개 | net |
-| [곡물법 폐지 — 빵값을 둘러싼 논쟁은 왜 정당을 갈라놓았을까](../../content/stories/history/europe/corn-laws-1846-bread-trade-and-political-cost.json) | 미승인 | net |
-| [독일 관세동맹 — 국경을 없애지 않고 장벽을 낮출 수 있었을까](../../content/stories/history/europe/zollverein-1834-customs-revenue-and-prussian-power.json) | 미승인 | net |
-| [프랑스 제3공화국 — 임시정부는 어떻게 오래가는 제도가 되었을까](../../content/stories/history/europe/france-1875-third-republic-laws-and-compromise.json) | 미승인 | net |
-| [러시아 농노 해방 — 자유를 얻었는데 왜 땅값을 갚아야 했을까](../../content/stories/history/europe/russia-1861-emancipation-land-and-redemption.json) | 미승인 | net |
-| [메이지 헌법 — 의회가 생기면 국민이 주권자가 되는 걸까](../../content/stories/history/asia/japan-1889-constitution-sovereignty-and-voting.json) | 미승인 | net |
-| [허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까](../../content/stories/history/america/hudsons-bay-company-1670-charter-rivers-and-trade.json) | 미승인 | net |
-| [의화단 사건 — 마을의 불안은 어떻게 국제적 위기가 되었을까](../../content/stories/history/asia/boxer-crisis-1900-local-conflict-and-foreign-intervention.json) | 미승인 | net |
-| [브라질 1888 — 노예제가 끝난 다음 날 무엇이 달라졌을까](../../content/stories/history/america/brazil-1888-abolition-freedom-and-land.json) | 미승인 | net |
-| [샌프란시스코 1906 — 땅이 멈춘 뒤에도 도시는 왜 계속 불탔을까](../../content/stories/history/america/san-francisco-1906-earthquake-water-and-rebuilding.json) | 미승인 | net |
-| [이란 담배 불매운동 — 피우지 않는 행동은 어떻게 왕의 계약을 바꾸었을까](../../content/stories/history/middle-east/iran-1891-tobacco-concession-boycott-and-debt.json) | 미승인 | net |
+| [곡물법 폐지 — 빵값을 둘러싼 논쟁은 왜 정당을 갈라놓았을까](../../content/stories/history/europe/corn-laws-1846-bread-trade-and-political-cost.json) | 공개 | net |
+| [독일 관세동맹 — 국경을 없애지 않고 장벽을 낮출 수 있었을까](../../content/stories/history/europe/zollverein-1834-customs-revenue-and-prussian-power.json) | 공개 | net |
+| [프랑스 제3공화국 — 임시정부는 어떻게 오래가는 제도가 되었을까](../../content/stories/history/europe/france-1875-third-republic-laws-and-compromise.json) | 공개 | net |
+| [러시아 농노 해방 — 자유를 얻었는데 왜 땅값을 갚아야 했을까](../../content/stories/history/europe/russia-1861-emancipation-land-and-redemption.json) | 공개 | net |
+| [메이지 헌법 — 의회가 생기면 국민이 주권자가 되는 걸까](../../content/stories/history/asia/japan-1889-constitution-sovereignty-and-voting.json) | 공개 | net |
+| [허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까](../../content/stories/history/america/hudsons-bay-company-1670-charter-rivers-and-trade.json) | 공개 | net |
+| [의화단 사건 — 마을의 불안은 어떻게 국제적 위기가 되었을까](../../content/stories/history/asia/boxer-crisis-1900-local-conflict-and-foreign-intervention.json) | 공개 | net |
+| [브라질 1888 — 노예제가 끝난 다음 날 무엇이 달라졌을까](../../content/stories/history/america/brazil-1888-abolition-freedom-and-land.json) | 공개 | net |
+| [샌프란시스코 1906 — 땅이 멈춘 뒤에도 도시는 왜 계속 불탔을까](../../content/stories/history/america/san-francisco-1906-earthquake-water-and-rebuilding.json) | 공개 | net |
+| [이란 담배 불매운동 — 피우지 않는 행동은 어떻게 왕의 계약을 바꾸었을까](../../content/stories/history/middle-east/iran-1891-tobacco-concession-boycott-and-debt.json) | 공개 | net |
 
 ### 도시의 변화 — 47편
 
@@ -124,7 +124,7 @@
 | [치첸이트사 — 피라미드 옆에는 우물과 길이 있었다](../../content/stories/cities/americas/chichen-itza-pyramid-cenote-and-plazas.json) | 공개 | net |
 | [마추픽추 — 산 위의 도시는 돌담만으로 서 있지 않았다](../../content/stories/cities/americas/machu-picchu-terraces-stone-and-landscape.json) | 공개 | net |
 | [오사카 — 성의 사진 옆에 방직공장이 실린 이유](../../content/stories/cities/asia/osaka-mills-mint-and-port-city.json) | 공개 | net |
-| [샌프란시스코 1906 — 땅이 멈춘 뒤에도 도시는 왜 계속 불탔을까](../../content/stories/history/america/san-francisco-1906-earthquake-water-and-rebuilding.json) | 미승인 | net |
+| [샌프란시스코 1906 — 땅이 멈춘 뒤에도 도시는 왜 계속 불탔을까](../../content/stories/history/america/san-francisco-1906-earthquake-water-and-rebuilding.json) | 공개 | net |
 
 ## 문화와 예술
 
@@ -330,7 +330,7 @@
 |---|---|---|
 | [3M — 잘 붙지 않는 접착제의 쓸모](../../content/stories/companies/technology/postit-weak-glue-new-use.json) | 공개 | net |
 | [전구 다음의 발명 — 에디슨은 왜 전선을 거리로 내보냈을까](../../content/stories/companies/technology/edison-lighting-network-beyond-bulb.json) | 공개 | net |
-| [허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까](../../content/stories/history/america/hudsons-bay-company-1670-charter-rivers-and-trade.json) | 미승인 | net |
+| [허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까](../../content/stories/history/america/hudsons-bay-company-1670-charter-rivers-and-trade.json) | 공개 | net |
 
 ### 경영과 조직 — 5편
 
@@ -368,10 +368,10 @@
 | [시어스 — 시골집 식탁에 백화점 한 권이 도착했다](../../content/stories/companies/technology/sears-catalog-price-and-rural-door.json) | 공개 | net |
 | [싱어 — 재봉틀은 어떻게 집 안으로 들어왔을까](../../content/stories/companies/technology/singer-sewing-machine-and-installments.json) | 공개 | net |
 | [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](../../content/stories/history/europe/hanseatic-league-towns-kontors-and-privileges.json) | 공개 | net |
-| [곡물법 폐지 — 빵값을 둘러싼 논쟁은 왜 정당을 갈라놓았을까](../../content/stories/history/europe/corn-laws-1846-bread-trade-and-political-cost.json) | 미승인 | net |
-| [독일 관세동맹 — 국경을 없애지 않고 장벽을 낮출 수 있었을까](../../content/stories/history/europe/zollverein-1834-customs-revenue-and-prussian-power.json) | 미승인 | net |
-| [허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까](../../content/stories/history/america/hudsons-bay-company-1670-charter-rivers-and-trade.json) | 미승인 | net |
-| [이란 담배 불매운동 — 피우지 않는 행동은 어떻게 왕의 계약을 바꾸었을까](../../content/stories/history/middle-east/iran-1891-tobacco-concession-boycott-and-debt.json) | 미승인 | net |
+| [곡물법 폐지 — 빵값을 둘러싼 논쟁은 왜 정당을 갈라놓았을까](../../content/stories/history/europe/corn-laws-1846-bread-trade-and-political-cost.json) | 공개 | net |
+| [독일 관세동맹 — 국경을 없애지 않고 장벽을 낮출 수 있었을까](../../content/stories/history/europe/zollverein-1834-customs-revenue-and-prussian-power.json) | 공개 | net |
+| [허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까](../../content/stories/history/america/hudsons-bay-company-1670-charter-rivers-and-trade.json) | 공개 | net |
+| [이란 담배 불매운동 — 피우지 않는 행동은 어떻게 왕의 계약을 바꾸었을까](../../content/stories/history/middle-east/iran-1891-tobacco-concession-boycott-and-debt.json) | 공개 | net |
 
 ### 브랜드와 소비 — 8편
 
@@ -699,7 +699,7 @@
 | [카디스 헌법 — 왕이 없는 동안 주권은 누구에게 있었을까](../../content/stories/history/europe/cadiz-1812-sovereignty-faith-and-atlantic-empire.json) | 공개 | net |
 | [멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까](../../content/stories/history/america/mexico-1821-iguala-independence-and-monarchy.json) | 공개 | net |
 | [호주 1901 — 여섯 식민지는 무엇을 함께 하기로 했을까](../../content/stories/history/asia/australia-1901-federation-states-and-exclusions.json) | 공개 | net |
-| [러시아 농노 해방 — 자유를 얻었는데 왜 땅값을 갚아야 했을까](../../content/stories/history/europe/russia-1861-emancipation-land-and-redemption.json) | 미승인 | net |
-| [메이지 헌법 — 의회가 생기면 국민이 주권자가 되는 걸까](../../content/stories/history/asia/japan-1889-constitution-sovereignty-and-voting.json) | 미승인 | net |
-| [브라질 1888 — 노예제가 끝난 다음 날 무엇이 달라졌을까](../../content/stories/history/america/brazil-1888-abolition-freedom-and-land.json) | 미승인 | net |
+| [러시아 농노 해방 — 자유를 얻었는데 왜 땅값을 갚아야 했을까](../../content/stories/history/europe/russia-1861-emancipation-land-and-redemption.json) | 공개 | net |
+| [메이지 헌법 — 의회가 생기면 국민이 주권자가 되는 걸까](../../content/stories/history/asia/japan-1889-constitution-sovereignty-and-voting.json) | 공개 | net |
+| [브라질 1888 — 노예제가 끝난 다음 날 무엇이 달라졌을까](../../content/stories/history/america/brazil-1888-abolition-freedom-and-land.json) | 공개 | net |
 

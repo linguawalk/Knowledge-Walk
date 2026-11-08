@@ -5,10 +5,10 @@
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
-| History | Asia | 16 | 16 | 14 |
-| History | Europe | 24 | 24 | 20 |
-| History | America | 18 | 18 | 15 |
-| History | Middle East | 6 | 6 | 5 |
+| History | Asia | 16 | 16 | 16 |
+| History | Europe | 24 | 24 | 24 |
+| History | America | 18 | 18 | 18 |
+| History | Middle East | 6 | 6 | 6 |
 | History | Africa | 3 | 3 | 3 |
 | Cities | Asia | 16 | 16 | 16 |
 | Cities | Europe | 10 | 10 | 10 |
