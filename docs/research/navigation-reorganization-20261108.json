@@ -232,5 +232,11 @@
     "javascript_errors": []
   },
   "placement_sha256": "6b60afc867313f5e12e6ed1bcf5aaf00073a0acf6bb805813804ec1c039dc85d",
-  "taxonomy_sha256": "10fc8f1077f59491c38362d4bf2e40e30b13582f4e3de93c25372a0d50a83c3b"
+  "taxonomy_sha256": "10fc8f1077f59491c38362d4bf2e40e30b13582f4e3de93c25372a0d50a83c3b",
+  "asset_revision_tests": {
+    "navigation_tests": 8,
+    "publication_link_and_snapshot_tests": 2,
+    "passed": true
+  },
+  "versioned_assets": "site.js, site.css and split.css use ?v=navigation-2 to refresh returning readers"
 }

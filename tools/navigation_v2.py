@@ -106,6 +106,8 @@ class Navigation:
         markup=markup.replace('<body>',f'<body class="split-{self.domain} navigation-v2">{banner}',1)
         markup=markup.replace('</head>',f'<link rel="stylesheet" href="{self.link(page,"site-assets/split.css")}"></head>',1)
         markup=markup.replace('분야 보기','메뉴 보기').replace('Knowledge<span>Walk</span><i',f'Knowledge<span>Walk</span><small class="brand-section">{"지역과 이야기" if self.domain=="net" else "발견과 지식"}</small><i')
+        for asset in ['site.js','site.css','split.css']:
+            markup=markup.replace('site-assets/'+asset+'"','site-assets/'+asset+'?v=navigation-2"')
         self.files[page]=markup
 
     def card(self,page,story):

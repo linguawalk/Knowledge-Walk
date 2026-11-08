@@ -32,6 +32,11 @@ class NavigationTests(unittest.TestCase):
         site.category(americas,'북아메리카')
         self.assertIn('멕시코',site.files[site.category_path('americas','북아메리카')])
 
+    def test_new_menu_loads_versioned_assets_for_returning_readers(self):
+        site=self.sites['net'];site.home();page=site.files['index.html']
+        for asset in ['site.js','site.css','split.css']:
+            self.assertIn('site-assets/'+asset+'?v=navigation-2',page)
+
     def test_subject_primary_counts_cover_each_story_once(self):
         site=self.sites['kr'];counts={c['id']:sum(s['category']==c['id'] for s in site.stories) for c in site.categories}
         self.assertEqual(len(counts),7)
