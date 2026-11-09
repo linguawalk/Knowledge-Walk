@@ -1,0 +1,15 @@
+{
+  "id": "six-local-stories-publication-20261109",
+  "user_request": "홈페이지에 게시해 주세요",
+  "approved_at": "2026-11-09",
+  "story_ids": [
+    "augsburg-water",
+    "lowell-mill-workers",
+    "tomioka-silk",
+    "wayang-kulit",
+    "magic-lantern",
+    "decorated-fans"
+  ],
+  "domain": "knowledgewalk.net",
+  "numbered_sections_per_story": 7
+}

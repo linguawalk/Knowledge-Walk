@@ -70,6 +70,7 @@ class SplitTests(unittest.TestCase):
         self.assertIn('검토전용국가', next(c for c in categories if c['id']=='asia')['children'])
 
     def test_every_page_noindex_and_links_resolve(self):
+        rendered = {(split.DEST / name).resolve(): body for name, body in self.pages.items()}
         for name,body in self.pages.items():
             if name.suffix!='.html':continue
             p=Links();p.feed(body)
@@ -80,9 +81,10 @@ class SplitTests(unittest.TestCase):
                 target=(split.DEST/name.parent/unquote(parts.path)).resolve()
                 if not parts.path: target=(split.DEST/name).resolve()
                 self.assertTrue(target.is_relative_to(ROOT),url)
-                self.assertTrue(target.exists(),(name,url))
+                self.assertTrue(target in rendered or target.exists(),(name,url))
                 if parts.fragment and target.suffix=='.html':
-                    targetbody=target.read_text();tp=Links();tp.feed(targetbody)
+                    targetbody = rendered[target] if target in rendered else target.read_text()
+                    tp=Links();tp.feed(targetbody)
                     self.assertIn(unquote(parts.fragment),tp.ids,(name,url))
 
     def test_article_numbered_toc_and_images(self):

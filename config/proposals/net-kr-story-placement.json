@@ -1,7 +1,7 @@
 {
   "state": "active_single_domain_regional_subject_navigation",
   "date": "2026-11-08",
-  "count": 451,
+  "count": 457,
   "articles": [
     {
       "id": "alexandria-museion-and-books",
@@ -22108,6 +22108,333 @@
         }
       ],
       "facets": [],
+      "people": []
+    },
+    {
+      "id": "augsburg-water",
+      "title": "아우크스부르크는 왜 물길을 둘로 나눴을까",
+      "source_path": "content/stories/cities/europe/augsburg-water.json",
+      "old_category": "cities",
+      "old_subcategory": "Europe",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/augsburg-water/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "독일",
+      "country": "독일",
+      "topic": "도시",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/augsburg-water/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "도시와 사회",
+          "subtopic": "교통과 기반시설"
+        },
+        {
+          "topic": "기술과 디지털",
+          "subtopic": "기계와 동력"
+        }
+      ],
+      "country_topic": "도시",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "도시와 사회",
+        "subtopic": "교통과 기반시설"
+      },
+      "subregion": "중부유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "중부유럽",
+          "country": "독일"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "lowell-mill-workers",
+      "title": "미국 로웰의 여성 노동자들은 어떻게 하루 열 시간을 요구했을까",
+      "source_path": "content/stories/history/america/lowell-mill-workers.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/lowell-mill-workers/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "미국",
+      "country": "미국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/lowell-mill-workers/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "도시와 사회",
+          "subtopic": "노동과 공동체"
+        },
+        {
+          "topic": "역사",
+          "subtopic": "혁명과 개혁"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "도시와 사회",
+        "subtopic": "노동과 공동체"
+      },
+      "subregion": "북아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "북아메리카",
+          "country": "미국"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "tomioka-silk",
+      "title": "도미오카 제사장의 기술은 어떻게 일본 각지로 퍼졌을까",
+      "source_path": "content/stories/history/asia/tomioka-silk.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/tomioka-silk/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "일본",
+      "country": "일본",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/tomioka-silk/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "산업과 생산"
+        },
+        {
+          "topic": "기술과 디지털",
+          "subtopic": "재료와 생산기술"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "경제·산업·금융",
+        "subtopic": "산업과 생산"
+      },
+      "subregion": "동아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "동아시아",
+          "country": "일본"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "wayang-kulit",
+      "title": "가죽 인형은 어떻게 무대 위 그림자가 될까",
+      "source_path": "content/stories/life/folks/wayang-kulit.json",
+      "old_category": "life",
+      "old_subcategory": "Folks",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/wayang-kulit/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "인도네시아",
+      "country": "인도네시아",
+      "topic": "문화",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/wayang-kulit/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "공연과 대중문화"
+        },
+        {
+          "topic": "문화와 예술",
+          "subtopic": "신화와 민속"
+        }
+      ],
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "공연과 대중문화"
+      },
+      "subregion": "동남아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "동남아시아",
+          "country": "인도네시아"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "magic-lantern",
+      "title": "영화가 없던 시절, 사람들은 벽에 무엇을 비춰 봤을까",
+      "source_path": "content/stories/culture/film/magic-lantern.json",
+      "old_category": "culture",
+      "old_subcategory": "Film",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/magic-lantern/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "미국",
+      "country": "미국",
+      "topic": "문화",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/magic-lantern/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "공연과 대중문화"
+        },
+        {
+          "topic": "기술과 디지털",
+          "subtopic": "도구와 발명"
+        }
+      ],
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "공연과 대중문화"
+      },
+      "subregion": "북아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "북아메리카",
+          "country": "미국"
+        },
+        {
+          "continent": "유럽",
+          "subregion": "서유럽",
+          "country": "영국"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "decorated-fans",
+      "title": "일본의 옛 병풍에는 왜 부채가 떠다닐까",
+      "source_path": "content/stories/culture/art/decorated-fans.json",
+      "old_category": "culture",
+      "old_subcategory": "Art",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/decorated-fans/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "일본",
+      "country": "일본",
+      "topic": "문화",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/decorated-fans/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "미술"
+        }
+      ],
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "미술"
+      },
+      "subregion": "동아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "동아시아",
+          "country": "일본"
+        }
+      ],
+      "facets": [
+        "회화"
+      ],
       "people": []
     }
   ],
