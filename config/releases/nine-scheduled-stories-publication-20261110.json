@@ -1,0 +1,18 @@
+{
+  "id": "nine-scheduled-stories-publication-20261110",
+  "user_request": "이미지가 첨부된 9개는 홈페이지에 게시해 주세요.",
+  "approved_at": "2026-11-10",
+  "story_ids": [
+    "jogakbo",
+    "asante-kente",
+    "egypt-shabti",
+    "delft-flower-vase",
+    "tiffany-wisteria",
+    "ardabil-carpet",
+    "lautrec-moulin-rouge",
+    "papel-picado",
+    "andean-road"
+  ],
+  "domain": "knowledgewalk.net",
+  "numbered_sections_per_story": 7
+}

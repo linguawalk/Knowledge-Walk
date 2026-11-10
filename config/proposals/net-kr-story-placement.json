@@ -1,7 +1,7 @@
 {
   "state": "active_single_domain_regional_subject_navigation",
   "date": "2026-11-08",
-  "count": 457,
+  "count": 466,
   "articles": [
     {
       "id": "alexandria-museion-and-books",
@@ -22435,6 +22435,498 @@
       "facets": [
         "회화"
       ],
+      "people": []
+    },
+    {
+      "id": "jogakbo",
+      "title": "조각보는 어떻게 자투리 천을 한 폭의 그림으로 만들었을까",
+      "source_path": "content/stories/life/clothing/jogakbo.json",
+      "old_category": "life",
+      "old_subcategory": "Clothing",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/jogakbo/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "한국",
+      "country": "한국",
+      "topic": "생활",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/jogakbo/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "미술"
+        },
+        {
+          "topic": "도시와 사회",
+          "subtopic": "주거와 생활"
+        }
+      ],
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "미술"
+      },
+      "subregion": "동아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "동아시아",
+          "country": "한국"
+        }
+      ],
+      "facets": [
+        "공예"
+      ],
+      "people": []
+    },
+    {
+      "id": "asante-kente",
+      "title": "가나의 켄테는 왜 좁은 띠부터 짤까",
+      "source_path": "content/stories/life/clothing/asante-kente.json",
+      "old_category": "life",
+      "old_subcategory": "Clothing",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/asante-kente/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아프리카",
+      "country_group": "가나",
+      "country": "가나",
+      "topic": "생활",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/asante-kente/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "미술"
+        },
+        {
+          "topic": "기술과 디지털",
+          "subtopic": "재료와 생산기술"
+        }
+      ],
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "미술"
+      },
+      "subregion": null,
+      "geographies": [
+        {
+          "continent": "아프리카",
+          "subregion": null,
+          "country": "가나"
+        }
+      ],
+      "facets": [
+        "공예"
+      ],
+      "people": []
+    },
+    {
+      "id": "egypt-shabti",
+      "title": "고대 이집트 사람들은 왜 무덤에 작은 일꾼을 두었을까",
+      "source_path": "content/stories/history/africa/egypt-shabti.json",
+      "old_category": "history",
+      "old_subcategory": "Africa",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/egypt-shabti/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아프리카",
+      "country_group": "이집트",
+      "country": "이집트",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/egypt-shabti/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "생각과 지식",
+          "subtopic": "종교와 세계관"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "생각과 지식",
+        "subtopic": "종교와 세계관"
+      },
+      "subregion": null,
+      "geographies": [
+        {
+          "continent": "아프리카",
+          "subregion": null,
+          "country": "이집트"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "delft-flower-vase",
+      "title": "델프트의 꽃병에는 왜 꽃을 꽂는 입구가 여덟 개일까",
+      "source_path": "content/stories/culture/art/delft-flower-vase.json",
+      "old_category": "culture",
+      "old_subcategory": "Art",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/delft-flower-vase/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "네덜란드",
+      "country": "네덜란드",
+      "topic": "문화",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/delft-flower-vase/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "미술"
+        },
+        {
+          "topic": "도시와 사회",
+          "subtopic": "주거와 생활"
+        }
+      ],
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "미술"
+      },
+      "subregion": "서유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "서유럽",
+          "country": "네덜란드"
+        }
+      ],
+      "facets": [
+        "공예"
+      ],
+      "people": []
+    },
+    {
+      "id": "tiffany-wisteria",
+      "title": "등나무가 어떻게 전등 갓이 되었을까",
+      "source_path": "content/stories/culture/art/tiffany-wisteria.json",
+      "old_category": "culture",
+      "old_subcategory": "Art",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/tiffany-wisteria/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "미국",
+      "country": "미국",
+      "topic": "문화",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/tiffany-wisteria/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "미술"
+        },
+        {
+          "topic": "기술과 디지털",
+          "subtopic": "도구와 발명"
+        }
+      ],
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "미술"
+      },
+      "subregion": "북아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "북아메리카",
+          "country": "미국"
+        }
+      ],
+      "facets": [
+        "공예"
+      ],
+      "people": []
+    },
+    {
+      "id": "ardabil-carpet",
+      "title": "아르다빌 카펫의 두 등잔은 왜 크기가 다를까",
+      "source_path": "content/stories/culture/art/ardabil-carpet.json",
+      "old_category": "culture",
+      "old_subcategory": "Art",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/ardabil-carpet/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "이란",
+      "country": "이란",
+      "topic": "문화",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/ardabil-carpet/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "미술"
+        }
+      ],
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "미술"
+      },
+      "subregion": "서아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "서아시아",
+          "country": "이란"
+        }
+      ],
+      "facets": [
+        "공예"
+      ],
+      "people": []
+    },
+    {
+      "id": "lautrec-moulin-rouge",
+      "title": "물랭 루주 포스터는 왜 앞사람을 화면 가장자리에 세웠을까",
+      "source_path": "content/stories/culture/art/lautrec-moulin-rouge.json",
+      "old_category": "culture",
+      "old_subcategory": "Art",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/lautrec-moulin-rouge/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "프랑스",
+      "country": "프랑스",
+      "topic": "문화",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/lautrec-moulin-rouge/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "미술"
+        },
+        {
+          "topic": "문화와 예술",
+          "subtopic": "공연과 대중문화"
+        }
+      ],
+      "country_topic": "문화",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "미술"
+      },
+      "subregion": "서유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "서유럽",
+          "country": "프랑스"
+        }
+      ],
+      "facets": [
+        "작가"
+      ],
+      "people": []
+    },
+    {
+      "id": "papel-picado",
+      "title": "멕시코의 종이 장식은 왜 빈 곳까지 무늬일까",
+      "source_path": "content/stories/life/folks/papel-picado.json",
+      "old_category": "life",
+      "old_subcategory": "Folks",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/papel-picado/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "멕시코",
+      "country": "멕시코",
+      "topic": "생활",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/papel-picado/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "신화와 민속"
+        },
+        {
+          "topic": "문화와 예술",
+          "subtopic": "미술"
+        }
+      ],
+      "country_topic": "생활",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "신화와 민속"
+      },
+      "subregion": "북아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "북아메리카",
+          "country": "멕시코"
+        }
+      ],
+      "facets": [
+        "공예"
+      ],
+      "people": []
+    },
+    {
+      "id": "andean-road",
+      "title": "잉카의 길은 산맥을 넘어 무엇을 이어 주었을까",
+      "source_path": "content/stories/history/america/andean-road.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "approved",
+      "source_review": "verified",
+      "currently_published": true,
+      "current_url": "https://knowledgewalk.net/stories/andean-road/index.html",
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "페루",
+      "country": "페루",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": false,
+      "rationale": "본문의 지역과 주제에 맞춰 분류.",
+      "proposed_url": "https://knowledgewalk.net/stories/andean-road/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "도시와 사회",
+          "subtopic": "교통과 기반시설"
+        },
+        {
+          "topic": "역사",
+          "subtopic": "교역과 세계의 연결"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "도시와 사회",
+        "subtopic": "교통과 기반시설"
+      },
+      "subregion": "남아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "남아메리카",
+          "country": "페루"
+        }
+      ],
+      "facets": [],
       "people": []
     }
   ],
