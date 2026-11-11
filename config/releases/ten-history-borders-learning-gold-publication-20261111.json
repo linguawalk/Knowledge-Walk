@@ -21,7 +21,11 @@
   "originals": 476,
   "unpublished": 13,
   "numbered_sections_per_story": 7,
-  "deployment_status": "local_verified_awaiting_deployment",
+  "deployment_status": "live_verified",
   "local_tests_passed": 64,
-  "local_browser_checks": 21
+  "local_browser_checks": 21,
+  "verified_at": "2026-11-11",
+  "pages_run_id": 43014405107,
+  "validation_run_id": 43014405560,
+  "verified_public_response_count": 75
 }
