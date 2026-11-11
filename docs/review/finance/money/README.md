@@ -5,7 +5,7 @@
 | 이야기 | 확인 상태 |
 |---|---|
 | [아테네 — 부엉이는 어떻게 돈 위에 앉았을까](athens-owl-silver-coin.md) | 자료 대조·공개 게시 승인 완료 |
-| [호주 골드러시 — 금이 발견되자 왜 빵과 장화도 비싸졌을까](australia-1851-gold-rush-labor-prices-and-licenses.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [호주 골드러시 — 금이 발견되자 왜 빵과 장화도 비싸졌을까](australia-1851-gold-rush-labor-prices-and-licenses.md) | 자료 대조·공개 게시 승인 완료 |
 | [돈을 만들던 나무판에는 무엇이 남았을까](banknote-plate-fifty-yang.md) | 자료 대조·공개 게시 승인 완료 |
 | [흑사병 뒤의 임금 — 일할 사람이 줄자 무엇이 달라졌을까](black-death-labor-and-wages.md) | 자료 대조·공개 게시 승인 완료 |
 | [브레턴우즈 1944 — 전쟁이 끝나기 전에 돈의 질서를 의논하다](bretton-woods-1944-money-rules.md) | 자료 대조·공개 게시 승인 완료 |

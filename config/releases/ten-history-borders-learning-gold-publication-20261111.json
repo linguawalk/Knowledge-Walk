@@ -1,0 +1,27 @@
+{
+  "id": "ten-history-borders-learning-gold-publication-20261111",
+  "user_request": "홈페이지 게시",
+  "approved_at": "2026-11-11",
+  "batch_id": "20261111-ten-history-borders-learning-and-gold",
+  "story_ids": [
+    "vienna-1815-balance-borders-and-restoration",
+    "westphalia-1648-negotiation-faith-and-imperial-rights",
+    "lombard-league-cities-emperor-and-common-defense",
+    "medieval-universities-masters-students-and-corporations",
+    "spain-1492-expulsion-faith-property-and-exile",
+    "japan-1872-schools-learning-and-state",
+    "china-1898-reform-edicts-and-political-support",
+    "australia-1851-gold-rush-labor-prices-and-licenses",
+    "mexico-1864-second-empire-debt-and-republic",
+    "fashoda-1898-river-flags-and-imperial-claims"
+  ],
+  "domain": "knowledgewalk.net",
+  "public_collection_url": "https://knowledgewalk.net/collections/20261111-ten-history-borders-learning-and-gold/index.html",
+  "public_unique_stories": 463,
+  "originals": 476,
+  "unpublished": 13,
+  "numbered_sections_per_story": 7,
+  "deployment_status": "local_verified_awaiting_deployment",
+  "local_tests_passed": 64,
+  "local_browser_checks": 21
+}

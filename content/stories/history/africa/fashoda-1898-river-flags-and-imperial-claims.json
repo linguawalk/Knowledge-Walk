@@ -66,8 +66,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -101,5 +101,7 @@
     "license": "Public Domain · 역사 출판 자료"
   },
   "kr_topic": "역사",
-  "kr_subtopic": "전쟁과 외교"
+  "kr_subtopic": "전쟁과 외교",
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-11"
 }

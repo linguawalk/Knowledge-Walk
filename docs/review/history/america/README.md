@@ -20,7 +20,7 @@
 | [키푸 — 잉카는 매듭으로 무엇을 기록했을까](inca-quipu-knots-and-records.md) | 자료 대조·공개 게시 승인 완료 |
 | [미국 로웰의 여성 노동자들은 어떻게 하루 열 시간을 요구했을까](lowell-mill-workers.md) | 자료 대조·공개 게시 승인 완료 |
 | [멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까](mexico-1821-iguala-independence-and-monarchy.md) | 자료 대조·공개 게시 승인 완료 |
-| [멕시코 제2제국 — 빚을 받으러 온 군대는 왜 황제를 세웠을까](mexico-1864-second-empire-debt-and-republic.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [멕시코 제2제국 — 빚을 받으러 온 군대는 왜 황제를 세웠을까](mexico-1864-second-empire-debt-and-republic.md) | 자료 대조·공개 게시 승인 완료 |
 | [미라가 이사하려면 누구에게 물어봐야 할까](mummy-museum-move.md) | 자료 대조·공개 게시 승인 완료 |
 | [1808년 리우 — 유럽의 왕실이 식민지로 건너오다](rio-1808-court-crosses-atlantic.md) | 자료 대조·공개 게시 승인 완료 |
 | [샌프란시스코 1906 — 땅이 멈춘 뒤에도 도시는 왜 계속 불탔을까](san-francisco-1906-earthquake-water-and-rebuilding.md) | 자료 대조·공개 게시 승인 완료 |

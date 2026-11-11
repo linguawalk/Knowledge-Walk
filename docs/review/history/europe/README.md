@@ -26,8 +26,8 @@
 | [페피스 — 런던이 불탈 때 치즈를 땅에 묻은 이유](pepys-fire-and-buried-cheese.md) | 자료 대조·공개 게시 승인 완료 |
 | [베수비오가 어두워진 날 — 플리니우스의 두 편지](pliny-vesuvius-pine-cloud-two-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [러시아 농노 해방 — 자유를 얻었는데 왜 땅값을 갚아야 했을까](russia-1861-emancipation-land-and-redemption.md) | 자료 대조·공개 게시 승인 완료 |
-| [1492년의 추방령 — 떠나라는 명령은 집과 재산을 어떻게 바꾸었을까](spain-1492-expulsion-faith-property-and-exile.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [1492년의 추방령 — 떠나라는 명령은 집과 재산을 어떻게 바꾸었을까](spain-1492-expulsion-faith-property-and-exile.md) | 자료 대조·공개 게시 승인 완료 |
 | [베르사유 여성 행진 — 빵을 구하던 사람들이 왕을 움직이다](versailles-1789-women-bread-and-royal-move.md) | 자료 대조·공개 게시 승인 완료 |
-| [빈 회의 — 전쟁이 끝나면 지도는 누가 다시 그릴까](vienna-1815-balance-borders-and-restoration.md) | 자료 대조 완료 · 게시 승인 대기 |
-| [베스트팔렌 조약 — 긴 전쟁을 끝내는 데에는 왜 여러 약속이 필요했을까](westphalia-1648-negotiation-faith-and-imperial-rights.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [빈 회의 — 전쟁이 끝나면 지도는 누가 다시 그릴까](vienna-1815-balance-borders-and-restoration.md) | 자료 대조·공개 게시 승인 완료 |
+| [베스트팔렌 조약 — 긴 전쟁을 끝내는 데에는 왜 여러 약속이 필요했을까](westphalia-1648-negotiation-faith-and-imperial-rights.md) | 자료 대조·공개 게시 승인 완료 |
 | [독일 관세동맹 — 국경을 없애지 않고 장벽을 낮출 수 있었을까](zollverein-1834-customs-revenue-and-prussian-power.md) | 자료 대조·공개 게시 승인 완료 |

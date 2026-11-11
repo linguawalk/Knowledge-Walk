@@ -5,19 +5,19 @@
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
-| History | Asia | 19 | 19 | 17 |
-| History | Europe | 27 | 27 | 24 |
-| History | America | 21 | 21 | 20 |
+| History | Asia | 19 | 19 | 19 |
+| History | Europe | 27 | 27 | 27 |
+| History | America | 21 | 21 | 21 |
 | History | Middle East | 6 | 6 | 6 |
-| History | Africa | 5 | 5 | 4 |
+| History | Africa | 5 | 5 | 5 |
 | Cities | Asia | 16 | 16 | 16 |
-| Cities | Europe | 12 | 12 | 11 |
+| Cities | Europe | 12 | 12 | 12 |
 | Cities | Americas | 10 | 10 | 10 |
 | Cities | Middle East | 4 | 4 | 4 |
 | Cities | Africa | 6 | 6 | 6 |
 | Culture | Architecture | 16 | 16 | 16 |
 | Culture | Literature | 51 | 51 | 48 |
-| Culture | Philosophy | 8 | 8 | 6 |
+| Culture | Philosophy | 8 | 8 | 7 |
 | Culture | Music | 30 | 29 | 27 |
 | Culture | Art | 47 | 47 | 47 |
 | Culture | Film | 2 | 2 | 2 |
@@ -36,7 +36,7 @@
 | Computing | Internet | 11 | 11 | 11 |
 | Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 11 | 10 | 9 |
+| Finance | Money | 11 | 10 | 10 |
 | Finance | Banking | 9 | 9 | 9 |
 | Finance | Insurance | 2 | 2 | 2 |
 | Finance | Investment | 6 | 6 | 6 |
