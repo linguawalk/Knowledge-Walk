@@ -4,6 +4,7 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
+| [잉카의 길은 산맥을 넘어 무엇을 이어 주었을까](andean-road.md) | 자료 대조·공개 게시 승인 완료 |
 | [달에서는 신발 바닥도 기록이 되었다](apollo-bootprint-close-up.md) | 자료 대조·공개 게시 승인 완료 |
 | [인터넷에도 첫 번째 정거장이 있었다](arpanet-first-node.md) | 자료 대조·공개 게시 승인 완료 |
 | [보스턴 — 차를 바다에 던진 날](boston-tea-tax-and-harbor.md) | 자료 대조·공개 게시 승인 완료 |
@@ -17,7 +18,9 @@
 | [벤저민 프랭클린 — 인쇄공은 왜 함께 읽을 책을 모았을까](franklin-printer-club-and-library.md) | 자료 대조·공개 게시 승인 완료 |
 | [허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까](hudsons-bay-company-1670-charter-rivers-and-trade.md) | 자료 대조·공개 게시 승인 완료 |
 | [키푸 — 잉카는 매듭으로 무엇을 기록했을까](inca-quipu-knots-and-records.md) | 자료 대조·공개 게시 승인 완료 |
+| [미국 로웰의 여성 노동자들은 어떻게 하루 열 시간을 요구했을까](lowell-mill-workers.md) | 자료 대조·공개 게시 승인 완료 |
 | [멕시코 1821 — 독립의 첫 정부는 왜 제국이었을까](mexico-1821-iguala-independence-and-monarchy.md) | 자료 대조·공개 게시 승인 완료 |
+| [멕시코 제2제국 — 빚을 받으러 온 군대는 왜 황제를 세웠을까](mexico-1864-second-empire-debt-and-republic.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [미라가 이사하려면 누구에게 물어봐야 할까](mummy-museum-move.md) | 자료 대조·공개 게시 승인 완료 |
 | [1808년 리우 — 유럽의 왕실이 식민지로 건너오다](rio-1808-court-crosses-atlantic.md) | 자료 대조·공개 게시 승인 완료 |
 | [샌프란시스코 1906 — 땅이 멈춘 뒤에도 도시는 왜 계속 불탔을까](san-francisco-1906-earthquake-water-and-rebuilding.md) | 자료 대조·공개 게시 승인 완료 |

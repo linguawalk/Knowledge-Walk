@@ -6,7 +6,7 @@
 
 | 소주제 | 이야기 |
 |---|---:|
-| [Folks](folks/README.md) | 23편 |
-| [Clothing](clothing/README.md) | 4편 |
+| [Folks](folks/README.md) | 25편 |
+| [Clothing](clothing/README.md) | 6편 |
 | [Food](food/README.md) | 11편 |
 | [Housing](housing/README.md) | 10편 |

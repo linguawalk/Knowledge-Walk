@@ -1,0 +1,28 @@
+{
+  "id": "20261111-ten-history-borders-learning-and-gold",
+  "title": "역사 이야기 10편 — 국경과 배움, 금이 움직인 사회",
+  "story_ids": [
+    "vienna-1815-balance-borders-and-restoration",
+    "westphalia-1648-negotiation-faith-and-imperial-rights",
+    "lombard-league-cities-emperor-and-common-defense",
+    "medieval-universities-masters-students-and-corporations",
+    "spain-1492-expulsion-faith-property-and-exile",
+    "japan-1872-schools-learning-and-state",
+    "china-1898-reform-edicts-and-political-support",
+    "australia-1851-gold-rush-labor-prices-and-licenses",
+    "mexico-1864-second-empire-debt-and-republic",
+    "fashoda-1898-river-flags-and-imperial-claims"
+  ],
+  "countries": {
+    "vienna-1815-balance-borders-and-restoration": "오스트리아",
+    "westphalia-1648-negotiation-faith-and-imperial-rights": "독일",
+    "lombard-league-cities-emperor-and-common-defense": "이탈리아",
+    "medieval-universities-masters-students-and-corporations": "프랑스",
+    "spain-1492-expulsion-faith-property-and-exile": "스페인",
+    "japan-1872-schools-learning-and-state": "일본",
+    "china-1898-reform-edicts-and-political-support": "중국",
+    "australia-1851-gold-rush-labor-prices-and-licenses": "호주",
+    "mexico-1864-second-empire-debt-and-republic": "멕시코",
+    "fashoda-1898-river-flags-and-imperial-claims": "남수단"
+  }
+}

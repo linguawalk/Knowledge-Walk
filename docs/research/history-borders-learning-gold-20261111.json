@@ -1,0 +1,509 @@
+{
+  "date": "2026-11-11",
+  "batch": "20261111-ten-history-borders-learning-and-gold",
+  "state": "source_review_complete_publication_not_approved",
+  "stories": [
+    {
+      "story_id": "vienna-1815-balance-borders-and-restoration",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+          "sha256": "c426e5c9b04347678798667a8816ec5d2d95be9ea059b98e1a317fabd6c4f306",
+          "bytes": 1504314,
+          "status": 200,
+          "title": "James Harvey Robinson, An Introduction to the History of Western Europe",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "1814~1815년 협상과 복고·독일연방·폴란드/작센·탈레랑·네덜란드/이탈리아 영토 배치. 정통성의 선택적 적용과 주민 동의 문제는 제도에 근거한 편집 해설."
+          ],
+          "evidence": [
+            {
+              "needle": "Congress of Vienna began",
+              "offset": 1171036,
+              "excerpt": " that precluded so simple an arrangement. [Sidenote: Provisions of the Congress of Vienna in regard to the Netherlands, Switzerland, Italy, and Germany.] The Congress of Vienna began its sessions November 1, 1814. The allies quickly agreed that Holland should become an hereditary kingdom under the house of Orange, which had long played so conspicuous a rôle in the nominal republic. In order that Holland might be the better able to check any new encroachments on the part of France, the former Austrian Netherlands were given to her. Switzerland was declared independent, as were all the small Itali"
+            },
+            {
+              "needle": "Talleyrand",
+              "offset": 1173402,
+              "excerpt": "angement. They approved neither of dispossessing the king of Saxony nor of extending the Tsar's influence westward by giving him Poland. The great diplomatist, Talleyrand, who represented Louis XVIII at the congress, now saw his chance. The allies had resolved to treat France as a black sheep, and permit the other four great powers to arrange matters to suit themselves. But they were now hopelessly at odds, and Austria and England found France a welcome ally in their opposition to the northern powers. So in this way the disturber of the peace of Europe for the last quarter of a centu"
+            }
+          ]
+        },
+        {
+          "path": "modules/m00020/index.cnxml",
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00020/index.cnxml",
+          "sha256": "e3d4451bdff114fb4f8f8ae6bbac841dddf4a57582abf553260519766527a99c",
+          "bytes": 35145,
+          "title": "Nationalism, Liberalism, Conservatism, and the Political Order",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "빈 회의의 복고와 세력 균형, 폴란드/독일/이탈리아 배치 및 뒤이은 민족·자유주의 요구."
+          ],
+          "evidence": [
+            "In the wake of Napoléon’s defeat, Metternich and diplomats from Prussia, Russia, and Great Britain agreed to form a united front to maintain European peace and stability. To solidify their peace agreement, members of this Quadruple Alliance met at the Congress of Vienna in 1814–1815. Although it was in theory a collective effort, Metternich dominated the proceedings. He asserted that the only way to maintain stability in Europe was to restore the legitimacy of overthrown monarchs, who would reinforce traditional beliefs and institutions. By exercising a firm hand, moreover, monarchs would demand loyalty from their subjects and reverse the democratic principles of the social contract and individual liberty.",
+            "The powers at Vienna also hoped that restoring monarchy would maintain Europe’s political equilibrium and balance of power (). To ensure that no single country could conquer others, they agreed to divide military and political power more equitably among themselves. For example, Russia, Prussia, and Austria all had claims to Polish territory. To ensure an equitable distribution of power, Prussia and Austria were permitted to keep some of their Polish lands, but others, such as the Duchy of Warsaw, were ceded to Russian control. Austria and Prussia were then compensated for the loss of their Polish lands with control of additional territories in the German and Italian states. France, moreover, was required to return lands it had acquired under Napoléon before the restoration of the French monarchy in 1814.",
+            "Although Vienna’s peace settlement of 1815 was intended to restrain the liberalism and nationalism of the revolutionary era, conservative leaders like Metternich underestimated the extent of popular support for these ideologies, which had become irreversible in places like the United States and France. Greek supporters of national sovereignty, for example, were guided by revolutionary principles to seek independence from the Ottoman Empire in 1821, and they gained it in 1830. Nevertheless, after 1815, conservatism continued to gain favor among those who supported the leadership and privilege of hereditary monarchs, organized religion, and the aristocracy."
+          ]
+        }
+      ],
+      "body_characters": 2217
+    },
+    {
+      "story_id": "westphalia-1648-negotiation-faith-and-imperial-rights",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+          "sha256": "c426e5c9b04347678798667a8816ec5d2d95be9ea059b98e1a317fabd6c4f306",
+          "bytes": 1504314,
+          "status": 200,
+          "title": "James Harvey Robinson, An Introduction to the History of Western Europe",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "1618~1648년 전쟁·프랑스와 스웨덴의 참여·종교와 교회 재산/1624년 기준·칼뱅파 인정·제국 구성국의 조약권·네덜란드와 스위스. 제국이 1648년에 해체되었다는 해석은 배제."
+          ],
+          "evidence": [
+            {
+              "needle": "treaties of Westphalia were signed",
+              "offset": 878587,
+              "excerpt": "ch towns lie in Westphalia. For four years the representatives of the several powers worked upon the difficult problem of satisfying every one, but at last the treaties of Westphalia were signed late in 1648. Their provisions continued to be the basis of the international law of Europe down to the French Revolution. [Sidenote: Provisions of the treaties of Westphalia.] The religious troubles in Germany were settled by extending the toleration of the Peace of Augsburg so as to include the Calvinists as well as the Lutherans. The Protestant princes were, regardless of the Edict of Restitution, to retain the"
+            },
+            {
+              "needle": "year 1624",
+              "offset": 879090,
+              "excerpt": "ts as well as the Lutherans. The Protestant princes were, regardless of the Edict of Restitution, to retain the lands which they had in their possession in the year 1624, and each ruler was still to have the right to determine the religion of his state. The dissolution of the German empire was practically acknowledged by permitting the individual states to make treaties among themselves and with foreign powers; this was equivalent to recognizing the practical independence which they had, as a matter of fact, already long enjoyed. A part of Pomerania and the districts at the mouth of"
+            }
+          ]
+        }
+      ],
+      "body_characters": 2208
+    },
+    {
+      "story_id": "lombard-league-cities-emperor-and-common-defense",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+          "sha256": "c426e5c9b04347678798667a8816ec5d2d95be9ea059b98e1a317fabd6c4f306",
+          "bytes": 1504314,
+          "status": 200,
+          "title": "James Harvey Robinson, An Introduction to the History of Western Europe",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "1158년 론칼리아와 볼로냐 법학자·regalia·1162년 밀라노 파괴·도시 동맹/알레산드리아·1176년 레냐노·1183년 콘스탄츠. 독립이라는 옛 교재의 표현을 무제약 주권으로 옮기지 않음."
+          ],
+          "evidence": [
+            {
+              "needle": "Roncaglia",
+              "offset": 324904,
+              "excerpt": "rederick to Italy, in 1154, on the first of six expeditions, which together were to occupy many years of his reign. Frederick pitched his camp in the plain of Roncaglia and there received representatives from the Lombard towns, who had many and grievous complaints to make of the conduct of their neighbors, especially of the arrogant Milan. We get a hint of the distant commerce of the maritime cities when we read that Genoa sent gifts of ostriches, lions, and parrots. Frederick made a momentary impression by proceeding, upon the complaint of Pavia, to besiege and destroy the town of"
+            },
+            {
+              "needle": "Constance in 1183",
+              "offset": 331085,
+              "excerpt": "reat congress was thereupon assembled at Venice, and here, under the auspices of Pope Alexander III, a truce was concluded, which was made a perpetual peace at Constance in 1183. The towns received back practically all their regalia and, upon formally acknowledging the emperor's overlordship, were left by him to go their own way. Frederick was forced, moreover, humbly to recognize a pope that he had solemnly sworn should never be obeyed by him. The pope and the towns had made common cause and enjoyed a common victory. [Sidenote: Origin of the power of the Guelfs.] From this time on we fin"
+            }
+          ]
+        }
+      ],
+      "body_characters": 2260
+    },
+    {
+      "story_id": "medieval-universities-masters-students-and-corporations",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-0.txt",
+          "sha256": "c426e5c9b04347678798667a8816ec5d2d95be9ea059b98e1a317fabd6c4f306",
+          "bytes": 1504314,
+          "status": 200,
+          "title": "James Harvey Robinson, An Introduction to the History of Western Europe",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "중세 파리 교사 조직·볼로냐 학생 조직·학위의 교수 자격·텍스트 수업과 이동·아리스토텔레스/스콜라학. 대학의 단일 창립일이나 아벨라르 단독 창립설은 쓰지 않음."
+          ],
+          "evidence": [
+            {
+              "needle": "Origin of the University of Paris",
+              "offset": 493604,
+              "excerpt": " out with the calamities that had overtaken him, is the best and almost the only account which exists of the remarkable interest in learning which explains the origin of the University of Paris.[173] [Sidenote: Origin of the University of Paris.] Before the end of the twelfth century the teachers had become so numerous in Paris that they formed a union, or guild, for the advancement of their interests. This union of professors was called by the usual name for corporations in the Middle Ages, _universitas_; hence our word \"university.\" The king and pope both favored the university and granted the teachers"
+            },
+            {
+              "needle": "protect themselves in a town",
+              "offset": 495092,
+              "excerpt": "vide a convenient text-book for the study of the church or canon law. Students then began to stream to Bologna in greater numbers than ever before. In order to protect themselves in a town where they were regarded as strangers, they organized themselves into associations, which became so powerful that they were able to force the professors to obey the rules which they laid down. [Sidenote: Other universities founded.] The University of Oxford was founded in the time of Henry II, probably by English students and masters who had become discontented at Paris for some reason. The University of Cambridge"
+            }
+          ]
+        },
+        {
+          "path": "modules/m00018/index.cnxml",
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00018/index.cnxml",
+          "sha256": "f99d1acc815ed2b290e237b4f0adaa287cb017fd02c7a6f4c05f9b67fde98dc3",
+          "bytes": 24904,
+          "title": "The Exchange of Ideas in the Public Sphere",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "근세 대학의 사회적 접근 제한과 파리·볼로냐의 위상. 중세 창립의 직접 근거로 사용하지 않음."
+          ],
+          "evidence": [
+            "The salons, print shops, and coffeehouses of the public sphere existed alongside more formal educational institutions and academies that also contributed to the intellectual culture of the era. Universities and scientific societies played significant roles in advancing experimental science and philosophy, but they were far less accessible to the reading public than coffeehouses and even salons. Women, for example, attended salons, but they did not attend universities and generally did not belong to scientific societies. Likewise, working-class men, who could sometimes be found frequenting coffeehouses, had no access to universities or scientific societies. These institutions also tended to be somewhat conservative in outlook, given their religious foundations and traditional emphasis on a theologically based curriculum. Even as the curriculum of universities became less based on religion in the eighteenth century, they still largely fell under the wing of state and royal authorities rather than being autonomous.",
+            "Unlike modern research universities, those in the early modern era existed to train students—exclusively male and economically privileged—for careers in the civil service or to practice one of three professions: medicine, law, or theology. The curriculum was generally designed to uphold tradition rather than innovate. Nevertheless, being affiliated with prestigious universities like Oxford, Bologna, and Paris carried power and prestige that enabled academics to make connections with wealthy patrons in court and aristocratic circles. These connections, in turn, could be exploited to finance more innovative research and scholarship in settings outside the universities."
+          ]
+        }
+      ],
+      "body_characters": 2216
+    },
+    {
+      "story_id": "spain-1492-expulsion-faith-property-and-exile",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/A-History-of-Spainespa-ola-of-Rafael-Altamira_40646/master/40646-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/A-History-of-Spainespa-ola-of-Rafael-Altamira_40646/master/40646-0.txt",
+          "sha256": "a6de7794c31a9c06f3cb817856b2443c4ca67982cb0d48ccd9c4ded7906d3055",
+          "bytes": 1306306,
+          "status": 200,
+          "title": "Charles E. Chapman, A History of Spain (1918), Chapter XIX",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "1492년 3월31일 추방령·카스티야/아라곤·개종 또는 이주·4개월 기한·급매와 반출 제한/금융망·여러 이주 목적지. 책의 인구 추산과 인종적 일반화는 채택하지 않음."
+          ],
+          "evidence": [
+            {
+              "needle": "March 31, 1492",
+              "offset": 461535,
+              "excerpt": "ch expressed itself in numerous acts of violence against the hated race. With Granada conquered the Catholic Kings lost no time in promulgating a decree, dated March 31, 1492, requiring conversion or expulsion, and applicable to both Castile and Aragon. The Jews were granted four months to dispose of their affairs and leave Spain. The blow to them financially was ruinous. Forced sales, especially when there was so much to be sold, could not be expected to yield a fair return, and this was aggravated by prohibitions against carrying away any gold, silver, coin, or other kinds of personalt"
+            },
+            {
+              "needle": "Forced\nsales",
+              "offset": 461750,
+              "excerpt": "applicable to both Castile and Aragon. The Jews were granted four months to dispose of their affairs and leave Spain. The blow to them financially was ruinous. Forced sales, especially when there was so much to be sold, could not be expected to yield a fair return, and this was aggravated by prohibitions against carrying away any gold, silver, coin, or other kinds of personalty, except what the laws ordinarily permitted to be exported. The full effect of this harsh legislation was avoided by some through a resort to the international banking agencies which the Jews had established. A n"
+            }
+          ]
+        }
+      ],
+      "body_characters": 2222
+    },
+    {
+      "story_id": "japan-1872-schools-learning-and-state",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-0.txt",
+          "sha256": "8fd08db998d9c2b32438a8592de324e8042bb66b66f893b470b7645cdf450bba",
+          "bytes": 773197,
+          "status": 200,
+          "title": "Ernest W. Clement, A Handbook of Modern Japan (1913), Education",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "학교 단계와 교사 양성·해외 학습·정부/지방/민간의 재정 분담·여성 고등 교육의 제한·1890년 교육칙어. 책의 특정 시기 학년·수업료를 1872년이나 전 기간의 동일 규정으로 일반화하지 않음."
+          ],
+          "evidence": [
+            {
+              "needle": "normal schools",
+              "offset": 309952,
+              "excerpt": "hes of curricula; three kinds of schools; school age; the Imperial Rescript; kindergartens; elementary schools; middle schools; higher schools; universities; normal schools; agricultural schools; technical schools; commercial schools; foreign language schools; art and music; eleemosynary institutions; female education; professional schools; private schools; mission schools; foreign instructors and study abroad; teachers’ associations; libraries; scientific study; defects of Japanese education.—Bibliography. The old-style education was at first Buddhist, afterwards Confucian, in "
+            },
+            {
+              "needle": "October, 1890",
+              "offset": 315174,
+              "excerpt": " Corporal punishment is not allowed in any school. The inspiring motive of education in Japan is found in an Imperial Rescript that the late Emperor issued in October, 1890. A copy of this is kept, often hanging framed, in every school, and on special occasions it is read aloud, while all the scholars reverently listen with bowed heads. It reads as follows:[147]— KNOW YE, OUR SUBJECTS: Our Imperial Ancestors have founded Our Empire on a basis broad and everlasting and have deeply and firmly implanted virtue. Our subjects, ever united in loyalty and filial piety, have from ge"
+            }
+          ]
+        },
+        {
+          "path": "modules/m00068/index.cnxml",
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00068/index.cnxml",
+          "sha256": "4d5b3fa828335a35986b545c2146ec03e432d68b64410b1369e7e16addf4be26",
+          "bytes": 73827,
+          "title": "The Second Industrial Revolution",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "1872년 일본 공교육 제도와 이후 취학 확대, 과학/유교 고전·유학. 1872년의 기회가 곧 평등했다는 뜻으로 쓰지 않음."
+          ],
+          "evidence": [
+            "Industrialization was a major goal of Japan’s Meiji government, and the state played a greater role in it than in most western countries in the nineteenth century. The first goal was to build railroads to unite the regions of the country and assist in further industrial development. Construction began in 1870; by 1872, a rail line linked the capital of Tokyo with the port of Yokohama. Perhaps remembering that Perry’s demands had been dictated from the deck of a gunboat, the government also invested heavily in shipbuilding.",
+            "Japan established a public school system in 1872. By 1900, attendance was nearly universal for boys, and girls were not far behind. The new system stressed the study of both science and the Confucian classics. Japan also sent students abroad to study technology and institutions in the United States and Europe."
+          ]
+        }
+      ],
+      "body_characters": 2222
+    },
+    {
+      "story_id": "china-1898-reform-edicts-and-political-support",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/China-and-the-Manchus_2156/master/2156-8.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/China-and-the-Manchus_2156/master/2156-8.txt",
+          "sha256": "0ad41136c56e210771f01e1ea3ec0a80a10282bef50fac9422ddcb00e44f278f",
+          "bytes": 216409,
+          "status": 200,
+          "title": "Herbert A. Giles, China and the Manchus, Reform under Guangxu",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "청일전쟁 뒤 열강 압력·광서제의 개혁 명령·교육/시험/베이징 교육 기관 구상·캉유웨이·서태후 재집권과 탄압·이후 개혁 재추진. 궁정 밀담·확정적 음모·민족/성별 비하 표현은 제외."
+          ],
+          "evidence": [
+            {
+              "needle": "series of edicts",
+              "offset": 143978,
+              "excerpt": "ei. So soon as the Manchu court had recovered from the shock of these events, and had resumed its normal state of torpor, it was rudely shaken from within by a series of edicts which peremptorily commanded certain reforms of a most far-reaching description. For instance, the great public examinations, which had been conducted on much the same system for seven or eight centuries past, were to be modified by the introduction of subjects suggested by recent intercourse with Western nations. There was to be a university in Peking, and the temples, which cover the empire in all directions, were"
+            },
+            {
+              "needle": "K'ang Yu-wei",
+              "offset": 146165,
+              "excerpt": "n Shih-k'ai, and she turned the tables by suddenly arresting and imprisoning the Emperor, and promptly decapitating all the conspirators, with the exception of K'ang Yu-wei, who succeeded in escaping. He had been the moving spirit of this abortive revolution; he was a fine scholar, and had completely gained the ear of the Emperor. The latter became henceforth to the end of his life a person of no importance, while China, for the third time in history, passed under the dominion of a woman. There was no secret about it; the Empress Dowager, popularly known as the Old Buddha, had succeede"
+            }
+          ]
+        }
+      ],
+      "body_characters": 2256
+    },
+    {
+      "story_id": "australia-1851-gold-rush-labor-prices-and-licenses",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/A-Source-Book-of-Australian-History_15337/master/15337-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/A-Source-Book-of-Australian-History_15337/master/15337-0.txt",
+          "sha256": "14ad3dd7521b390a582b92e4d9786aaa3188b9839381c067d34b7d80569b0841",
+          "bytes": 519735,
+          "status": 200,
+          "title": "Gwendolen H. Swinburne 편, A Source Book of Australian History (1919), Gold Discovery / Effects / Victoria in 1854",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "1851년 여러 금광·Mackenzie의 일손/물가 관찰·1851년 5월23일 NSW 공고: 월1파운드10실링 선납/고용해제 증명·Wathen의 금광/경찰/상점 기록. 일화적 가격을 전국 물가지수로 일반화하지 않음."
+          ],
+          "evidence": [
+            {
+              "needle": "£1 10",
+              "offset": 333296,
+              "excerpt": "and paying for a License in the form annexed. 2. For the present, and pending further proof of the extent of the Gold-field, the License fee has been fixed at £1 10_s._ per month, to be paid in advance; but it is to be understood that the rate is subject to future adjustment, as circumstances may render expedient. 3. The Licenses can be obtained on the spot, from the Commissioner who has been appointed by His Excellency the Governor, to carry these regulations into effect, and who is authorized to receive the fee payable thereon. 4. No person will be eligible to obtain a Lice"
+            },
+            {
+              "needle": "EFFECTS OF THE GOLD DISCOVERY",
+              "offset": 4448,
+              "excerpt": " WESTERN AUSTRALIA WAKEFIELD'S SCHEME OF COLONIZATION FOUNDATION OF SOUTH AUSTRALIA FOUNDATION OF VICTORIA TRANSPORTATION INDEPENDENCE OF VICTORIA GOLD EFFECTS OF THE GOLD DISCOVERY THE GOLD MINES VICTORIA IN 1854 THE BUSHRANGERS ANTI-TRANSPORTATION MOVEMENT THE LAND QUESTION THE LAND QUESTION IN NEW SOUTH WALES QUEENSLAND PAYMENT OF MEMBERS CRISIS NEW GUINEA THE NATIONAL AUSTRALASIAN CONVENTION, 1891 THE COMMONWEALTH OF AUSTRALIA THE BOER WAR THE GREAT WAR LANDING ON GALLIPOLI WHAT ANZAC MEANS [Illustration: MAP OF AUSTRALIA] A SOURCE BOOK OF AUSTRALIAN HISTORY PART I DI"
+            }
+          ]
+        }
+      ],
+      "body_characters": 2242
+    },
+    {
+      "story_id": "mexico-1864-second-empire-debt-and-republic",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/Mexico-and-Her-People-of-To-day-An-Account-of-the-Customs-Characteristics-Amusements-History-__60135/master/60135-0.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/Mexico-and-Her-People-of-To-day-An-Account-of-the-Customs-Characteristics-Amusements-History-__60135/master/60135-0.txt",
+          "sha256": "e1b9388113dd796eaee33262ac2f9029f6eb9bfd711c71bbcd0398fa36a21c3d",
+          "bytes": 644784,
+          "status": 200,
+          "title": "Nevin O. Winter, Mexico and Her People of To-day, Chapter XIX",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "국가·교회 갈등과 내전·1861년 프랑스/영국/스페인 개입·영국/스페인 철수·1864년 황제 도착·후아레스의 저항·미국 압력과 프랑스군 철수·1867년 제국 붕괴. 인종적 성격론과 창작된 최후 대사는 제외."
+          ],
+          "evidence": [
+            {
+              "needle": "31st day of October, 1861",
+              "offset": 450426,
+              "excerpt": "d cool in the midst of all these disturbances. The convention entered into between France, England and Spain for a joint intervention in Mexican affairs on the 31st day of October, 1861, brought new embarrassment to the Indian reformer. Underneath these acts of the convention the crafty hand of Napoleon can be seen. The man who had accomplished one _coup d’Etat_ was a sworn enemy to all republican institutions. The pretext for this intervention was the collection of some money claims and reparation for alleged offences. Spain no doubt looked forward to a little revenge. The Spanish fleet occupied V"
+            },
+            {
+              "needle": "May, 1864",
+              "offset": 451415,
+              "excerpt": "of a stable government made the way easy to place Maximilian upon the throne as Emperor of Mexico, and this was done. He and the empress arrived on the 28th of May, 1864. Maximilian was a liberal ruler and the Empress Carlotta won the people by her charming personality and benevolences. As long as the French forces remained his throne was secure. The prompt and decisive action of Secretary Seward sounded the death knell of Maximilian’s ambitions. Napoleon withdrew his troops, and Maximilian might have easily escaped had he not wavered between ambition and discretion,—the former eve"
+            }
+          ]
+        }
+      ],
+      "body_characters": 2221
+    },
+    {
+      "story_id": "fashoda-1898-river-flags-and-imperial-claims",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/The-River-War--An-Account-of-the-Reconquest-of-the-Sudan_4943/master/4943-8.txt",
+          "final_url": "https://raw.githubusercontent.com/GITenberg/The-River-War--An-Account-of-the-Reconquest-of-the-Sudan_4943/master/4943-8.txt",
+          "sha256": "c2dcf287c9e6975bf5d035ec0ba60fc3d2b579ad20f638f229d714ae772b7de5",
+          "bytes": 784174,
+          "status": 200,
+          "title": "Winston S. Churchill, The River War (1902 edition), Chapter XVII: The Fashoda Incident",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "마르샹의1898년7월 도착·장거리 원정과 보급·영국/이집트/수단 병력·파쇼다 대치/깃발/본국 여론/프랑스 철수. 식민 통치의 정당화와 현지 주민 비하는 제외하고 OpenStax와 대조."
+          ],
+          "evidence": [
+            {
+              "needle": "arriving at Fashoda on the 10th of July",
+              "offset": 650480,
+              "excerpt": " and five nights they had stood up to their necks in swamp and water. A fifth of their number had perished; yet at last they had carried out their mission and, arriving at Fashoda on the 10th of July, had planted the tricolour upon the Upper Nile. Moved by such reflections the British officers disembarked. Major Marchand, with a guard of honour, came to meet the General. They shook hands warmly. 'I congratulate you,' said the Sirdar, 'on all you have accomplished.' 'No,' replied the Frenchman, pointing to his troops; 'it is not I, but these soldiers who have done it.' And Kitchener, telling the story afterwards"
+            },
+            {
+              "needle": "consented to withdraw",
+              "offset": 656112,
+              "excerpt": " Omdurman and its forerunner--the Desert Railway--had revolutionised the whole situation in the Nile valley. After some weeks of tension, the French Government consented to withdraw their expedition from the region of the Upper Nile. Meanwhile events were passing at Fashoda. The town, the site of which had been carefully selected by the old Egyptian Government, is situated on the left bank of the river, on a gentle slope of ground which rises about four feet above the level of the Nile at full flood. During the rainy season, which lasts from the end of June until the end of October, the surrou"
+            }
+          ]
+        },
+        {
+          "path": "modules/m00070/index.cnxml",
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00070/index.cnxml",
+          "sha256": "1f27b41dc6028f504a4f1ad3245d38be3fd4aacf5c4e81f78b9bbc61f296af01",
+          "bytes": 67597,
+          "title": "Colonial Empires",
+          "checked_at": "2026-11-11",
+          "supports": [
+            "1898년 옴두르만 뒤 파쇼다 대치·영국 해군의 압력·프랑스 철수. 계획한 철도가 이미 교차했다는 뜻으로 옮기지 않음."
+          ],
+          "evidence": [
+            "As the French marched steadily across the Sahara, Kitchener, with an Egyptian and Sudanese army, moved south along the Nile, establishing railroad lines and reclaiming towns from Mahdist control as he went. Finally, in September 1898, Kitchener and his forces, augmented by British troops, met the Mahdist ruler Al-Khalifa at Omdurman and defeated him. Before he could reclaim the rest of Sudan, however, Kitchener was dispatched to the town of Fashoda, where the proposed British and French railroad lines crossed (). The French had arrived from Senegal some months earlier and claimed the town. As the two armies waited through September and October for instructions from their governments, civilians in both countries loudly proclaimed their nation to be in the right. The British Royal Navy prepared for war. The Fashoda Incident, as it is called, ended when France withdrew its claims, realizing it was outgunned, and the two nations agreed upon a boundary line between their spheres in Africa."
+          ]
+        }
+      ],
+      "body_characters": 2216
+    }
+  ],
+  "images": [
+    {
+      "id": "vienna-1815-balance-borders-and-restoration",
+      "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-h/images/map626th.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-h/images/map626th.jpg",
+      "status": 200,
+      "sha256": "42cbadec05c9e4ab2c568410cea3bfc0dabcdb82d579a89d5acbcae31d648fb5",
+      "bytes": 74265,
+      "width": 600,
+      "height": 426
+    },
+    {
+      "id": "westphalia-1648-negotiation-faith-and-imperial-rights",
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-the-World_35461/master/35461-h/images/img-326.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-the-World_35461/master/35461-h/images/img-326.jpg",
+      "status": 200,
+      "sha256": "69896fe1b571b069978433e7a159d93c9055fe9a662a41aef914fade5733ddd9",
+      "bytes": 93739,
+      "width": 600,
+      "height": 603
+    },
+    {
+      "id": "lombard-league-cities-emperor-and-common-defense",
+      "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-h/images/image21.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-h/images/image21.jpg",
+      "status": 200,
+      "sha256": "2a404a024411d3945947961e1b59e584ab9df93b4212925bcee15ac174a4dbbf",
+      "bytes": 59060,
+      "width": 500,
+      "height": 495
+    },
+    {
+      "id": "medieval-universities-masters-students-and-corporations",
+      "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-h/images/frontis.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-h/images/frontis.jpg",
+      "status": 200,
+      "sha256": "3bf2be64f2f2aa63d4c1a9cb1864532c0edba3af1d3e09a94d9e016c4a02c45b",
+      "bytes": 90126,
+      "width": 500,
+      "height": 678
+    },
+    {
+      "id": "spain-1492-expulsion-faith-property-and-exile",
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-the-World_35461/master/35461-h/images/img-273.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-the-World_35461/master/35461-h/images/img-273.jpg",
+      "status": 200,
+      "sha256": "87e4d30944909299f14a8af68a0eb5c42aa7e8710a3af1bc0e1fee37eed65ae2",
+      "bytes": 76944,
+      "width": 600,
+      "height": 747
+    },
+    {
+      "id": "japan-1872-schools-learning-and-state",
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-h/images/i_210f.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/A-Handbook-of-Modern-Japan_65253/master/65253-h/images/i_210f.jpg",
+      "status": 200,
+      "sha256": "538c4d2e2bfbc0151e1a360ef200b5d664b07923c25cdf72c37854e4426e7084",
+      "bytes": 268847,
+      "width": 1859,
+      "height": 2909
+    },
+    {
+      "id": "china-1898-reform-edicts-and-political-support",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Middle-Kingdom-Volume-I-of-2-A-Survey-of-the-Geography-Government-Literature-Social-Life-__57868/master/57868-h/images/zill_f550a.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/The-Middle-Kingdom-Volume-I-of-2-A-Survey-of-the-Geography-Government-Literature-Social-Life-__57868/master/57868-h/images/zill_f550a.jpg",
+      "status": 200,
+      "sha256": "cc2502eb8d7801890dd4a302d16da171ef599088700b7ea5520a8ccc8af40b8d",
+      "bytes": 38990,
+      "width": 550,
+      "height": 366
+    },
+    {
+      "id": "australia-1851-gold-rush-labor-prices-and-licenses",
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Source-Book-of-Australian-History_15337/master/15337-h/images/map.png",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/A-Source-Book-of-Australian-History_15337/master/15337-h/images/map.png",
+      "status": 200,
+      "sha256": "452e128d691cf44522d3840887ebb861627fe568bca3d1c5d2c93c432f127138",
+      "bytes": 233531,
+      "width": 1200,
+      "height": 918
+    },
+    {
+      "id": "mexico-1864-second-empire-debt-and-republic",
+      "url": "https://raw.githubusercontent.com/GITenberg/Mexico-and-Her-People-of-To-day-An-Account-of-the-Customs-Characteristics-Amusements-History-__60135/master/60135-h/images/illus42.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/Mexico-and-Her-People-of-To-day-An-Account-of-the-Customs-Characteristics-Amusements-History-__60135/master/60135-h/images/illus42.jpg",
+      "status": 200,
+      "sha256": "bc7181e8702a6f9f6ab1691d273a96a4cd0c4324269738ac43bb20290922ad39",
+      "bytes": 68353,
+      "width": 420,
+      "height": 650
+    },
+    {
+      "id": "fashoda-1898-river-flags-and-imperial-claims",
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-the-World_35461/master/35461-h/images/img-406.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/A-Short-History-of-the-World_35461/master/35461-h/images/img-406.jpg",
+      "status": 200,
+      "sha256": "670e3ba92ce21fcc132bf44ae8d0c3c980c9c668bffb180ef6c9cc2e2d1f41f9",
+      "bytes": 71942,
+      "width": 800,
+      "height": 497
+    }
+  ],
+  "image_review": "원본을 가공 없이 확보한 이미지 10장을 모두 직접 확인. 지도·사진·필사본의 종류와 시기, 본문과의 관계를 구별하고 설명을 붙임.",
+  "editorial_notes": "docs/review/net-20261111-history-editorial-notes.md",
+  "not_used_sources": [
+    "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty",
+    "https://nzhistory.govt.nz/politics/treaty/the-treaty-in-brief",
+    "https://www.bipm.org/en/metre-convention",
+    "https://www.upu.int/en/universal-postal-union/about-upu/history",
+    "https://www.icrc.org/en/document/1864-first-geneva-convention",
+    "https://en.wikipedia.org/wiki/Haitian_Revolution"
+  ],
+  "not_used_reason": "프록시 403으로 본문을 확인하지 못해 출처 및 이번 소재의 근거로 사용하지 않음.",
+  "counts": {
+    "all": 476,
+    "approved": 453,
+    "verified_unpublished": 20,
+    "pending_sources": 3
+  },
+  "editorial_checks": {
+    "body_characters_min": 2208,
+    "body_characters_max": 2260,
+    "sections_per_story": 7,
+    "existing_story_files_unchanged": 466,
+    "historical_images_visually_reviewed": 10,
+    "source_status_is_publication_approval": false
+  },
+  "integration": {
+    "upstream_commit": "afcdf34d",
+    "additional_existing_published_stories_preserved": 15,
+    "new_story_ids_overlap_with_upstream": false
+  },
+  "validation": {
+    "unit_tests": 64,
+    "unit_tests_result": "passed",
+    "new_draft_pages_rendered": 10,
+    "numbered_sections_per_draft": 7,
+    "local_review_links": "passed",
+    "publication_isolation": "453 approved stories retained; 10 new IDs excluded",
+    "both_views_and_south_sudan": "validated in memory without changing approval files",
+    "public_snapshot_changed": false
+  }
+}

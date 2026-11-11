@@ -4,12 +4,15 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
+| [아르다빌 카펫의 두 등잔은 왜 크기가 다를까](ardabil-carpet.md) | 자료 대조·공개 게시 승인 완료 |
 | [바이외 자수 — 하늘의 긴 꼬리를 사람들이 가리킨 이유](bayeux-embroidery-comet-and-story.md) | 자료 대조·공개 게시 승인 완료 |
 | [「비너스의 탄생」 — 조개 위의 여인은 어디로 가는가](botticelli-venus-shell-wind-shore.md) | 자료 대조·공개 게시 승인 완료 |
 | [동굴 벽에는 동물만 그려진 것이 아니다](bulgaria-magura-human-figures.md) | 자료 대조·공개 게시 승인 완료 |
 | [식사 전의 기도 — 수프가 식기 전, 잠깐 멈춘 시간](chardin-grace-before-meal.md) | 자료 대조·공개 게시 승인 완료 |
 | [레카미에 부인의 초상 — 빈 공간이 사람을 돋보이게 할 때](david-recamier-empty-space.md) | 자료 대조·공개 게시 승인 완료 |
+| [일본의 옛 병풍에는 왜 부채가 떠다닐까](decorated-fans.md) | 자료 대조·공개 게시 승인 완료 |
 | [민중을 이끄는 자유의 여신 — 삼색기 아래의 1830년](delacroix-liberty-1830-and-barricade.md) | 자료 대조·공개 게시 승인 완료 |
+| [델프트의 꽃병에는 왜 꽃을 꽂는 입구가 여덟 개일까](delft-flower-vase.md) | 자료 대조·공개 게시 승인 완료 |
 | [그림 속 뱃놀이에는 참석자 명단이 있다](dokseodang-gathering.md) | 자료 대조·공개 게시 승인 완료 |
 | [둔황 막고굴 — 비단 위의 불화는 누구의 소망을 담았을까](dunhuang-caves-paintings-and-donors.md) | 자료 대조·공개 게시 승인 완료 |
 | [유명한 그림도 처음에는 거절당했다](el-greco-painting-journey.md) | 자료 대조·공개 게시 승인 완료 |
@@ -24,6 +27,7 @@
 | [절을 지키는 얼굴은 왜 그렇게 무서울까](japan-fierce-temple-guardian.md) | 자료 대조·공개 게시 승인 완료 |
 | [청화백자 — 하얀 그릇의 푸른빛은 바다를 건넜다](jingdezhen-blue-white-porcelain-sea.md) | 자료 대조·공개 게시 승인 완료 |
 | [『시녀들』 — 그림 속 사람들은 누구를 보고 있을까](las-meninas-painter-mirror-and-viewer.md) | 자료 대조·공개 게시 승인 완료 |
+| [물랭 루주 포스터는 왜 앞사람을 화면 가장자리에 세웠을까](lautrec-moulin-rouge.md) | 자료 대조·공개 게시 승인 완료 |
 | [레오나르도 다빈치의 생애 — 그림 한 장에서 세상을 관찰하다](leonardo-life-of-observation.md) | 자료 대조·공개 게시 승인 완료 |
 | [체스 말을 어디에 둘지 오래된 사진에 물었다](man-ray-chess-photo-layout.md) | 자료 대조·공개 게시 승인 완료 |
 | [미켈란젤로의 다비드 — 돌 속의 청년은 무엇을 기다릴까](michelangelo-david-marble-and-republic.md) | 자료 대조·공개 게시 승인 완료 |
@@ -38,6 +42,7 @@
 | [주전자의 이야기는 바닥에도 적혀 있다](silver-kettle-hidden-letters.md) | 자료 대조·공개 게시 승인 완료 |
 | [시스티나 천장화 — 두 손가락 사이에는 천장 전체가 있다](sistine-ceiling-adam-and-painted-architecture.md) | 자료 대조·공개 게시 승인 완료 |
 | [브레다의 항복 — 승리보다 먼저 보이는 두 사람의 손](surrender-breda-keys-and-victory.md) | 자료 대조·공개 게시 승인 완료 |
+| [등나무가 어떻게 전등 갓이 되었을까](tiffany-wisteria.md) | 자료 대조·공개 게시 승인 완료 |
 | [장갑을 낀 남자 — 얼굴보다 손이 먼저 알려 주는 것](titian-man-with-glove.md) | 자료 대조·공개 게시 승인 완료 |
 | [롤랭 재상의 성모 — 작은 방 너머에 도시가 펼쳐진다](van-eyck-rolin-window.md) | 자료 대조·공개 게시 승인 완료 |
 | [반 고흐의 생애 — 그림 곁에는 편지가 있었다](van-gogh-life-and-letters.md) | 자료 대조·공개 게시 승인 완료 |

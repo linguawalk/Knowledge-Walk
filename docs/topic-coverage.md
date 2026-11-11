@@ -5,25 +5,25 @@
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
-| History | Asia | 16 | 16 | 16 |
-| History | Europe | 24 | 24 | 24 |
-| History | America | 18 | 18 | 18 |
+| History | Asia | 19 | 19 | 17 |
+| History | Europe | 27 | 27 | 24 |
+| History | America | 21 | 21 | 20 |
 | History | Middle East | 6 | 6 | 6 |
-| History | Africa | 3 | 3 | 3 |
+| History | Africa | 5 | 5 | 4 |
 | Cities | Asia | 16 | 16 | 16 |
-| Cities | Europe | 10 | 10 | 10 |
+| Cities | Europe | 12 | 12 | 11 |
 | Cities | Americas | 10 | 10 | 10 |
 | Cities | Middle East | 4 | 4 | 4 |
 | Cities | Africa | 6 | 6 | 6 |
 | Culture | Architecture | 16 | 16 | 16 |
 | Culture | Literature | 51 | 51 | 48 |
-| Culture | Philosophy | 7 | 7 | 6 |
+| Culture | Philosophy | 8 | 8 | 6 |
 | Culture | Music | 30 | 29 | 27 |
-| Culture | Art | 42 | 42 | 42 |
-| Culture | Film | 1 | 1 | 1 |
+| Culture | Art | 47 | 47 | 47 |
+| Culture | Film | 2 | 2 | 2 |
 | Culture | Sports | 1 | 1 | 1 |
-| Life | Folks | 23 | 23 | 21 |
-| Life | Clothing | 4 | 4 | 4 |
+| Life | Folks | 25 | 25 | 23 |
+| Life | Clothing | 6 | 6 | 6 |
 | Life | Food | 11 | 11 | 11 |
 | Life | Housing | 10 | 10 | 10 |
 | Companies | Technology | 20 | 20 | 20 |
@@ -36,7 +36,7 @@
 | Computing | Internet | 11 | 11 | 11 |
 | Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 10 | 9 | 9 |
+| Finance | Money | 11 | 10 | 9 |
 | Finance | Banking | 9 | 9 | 9 |
 | Finance | Insurance | 2 | 2 | 2 |
 | Finance | Investment | 6 | 6 | 6 |

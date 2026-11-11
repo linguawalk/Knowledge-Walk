@@ -1,7 +1,7 @@
 {
   "state": "active_single_domain_regional_subject_navigation",
-  "date": "2026-11-08",
-  "count": 466,
+  "date": "2026-11-11",
+  "count": 476,
   "articles": [
     {
       "id": "alexandria-museion-and-books",
@@ -22924,6 +22924,527 @@
           "continent": "아메리카",
           "subregion": "남아메리카",
           "country": "페루"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "vienna-1815-balance-borders-and-restoration",
+      "title": "빈 회의 — 전쟁이 끝나면 지도는 누가 다시 그릴까",
+      "source_path": "content/stories/history/europe/vienna-1815-balance-borders-and-restoration.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "오스트리아",
+      "country": "오스트리아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 요청 제작 검토 원고. 대표 주제와 관련 주제·지역을 연결하며 사용자 게시 승인 전에는 공개 빌드에서 제외. 국가는 현재 탐색 위치이며 당대 국적을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/vienna-1815-balance-borders-and-restoration/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "전쟁과 외교"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "전쟁과 외교"
+      },
+      "subregion": "중부유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "중부유럽",
+          "country": "오스트리아"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "westphalia-1648-negotiation-faith-and-imperial-rights",
+      "title": "베스트팔렌 조약 — 긴 전쟁을 끝내는 데에는 왜 여러 약속이 필요했을까",
+      "source_path": "content/stories/history/europe/westphalia-1648-negotiation-faith-and-imperial-rights.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "독일",
+      "country": "독일",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 요청 제작 검토 원고. 대표 주제와 관련 주제·지역을 연결하며 사용자 게시 승인 전에는 공개 빌드에서 제외. 국가는 현재 탐색 위치이며 당대 국적을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/westphalia-1648-negotiation-faith-and-imperial-rights/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "전쟁과 외교"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "전쟁과 외교"
+      },
+      "subregion": "중부유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "중부유럽",
+          "country": "독일"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "lombard-league-cities-emperor-and-common-defense",
+      "title": "롬바르디아 동맹 — 서로 경쟁하던 도시들은 왜 손을 잡았을까",
+      "source_path": "content/stories/cities/europe/lombard-league-cities-emperor-and-common-defense.json",
+      "old_category": "cities",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "이탈리아",
+      "country": "이탈리아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 요청 제작 검토 원고. 대표 주제와 관련 주제·지역을 연결하며 사용자 게시 승인 전에는 공개 빌드에서 제외. 국가는 현재 탐색 위치이며 당대 국적을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/lombard-league-cities-emperor-and-common-defense/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "도시와 사회",
+          "subtopic": "도시의 탄생과 성장"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "도시와 사회",
+        "subtopic": "도시의 탄생과 성장"
+      },
+      "subregion": "남유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "남유럽",
+          "country": "이탈리아"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "medieval-universities-masters-students-and-corporations",
+      "title": "중세 대학 — 학교 건물보다 먼저 생긴 것은 무엇이었을까",
+      "source_path": "content/stories/culture/philosophy/medieval-universities-masters-students-and-corporations.json",
+      "old_category": "culture",
+      "old_subcategory": "Philosophy",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "프랑스",
+      "country": "프랑스",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 요청 제작 검토 원고. 대표 주제와 관련 주제·지역을 연결하며 사용자 게시 승인 전에는 공개 빌드에서 제외. 국가는 현재 탐색 위치이며 당대 국적을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/medieval-universities-masters-students-and-corporations/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "생각과 지식",
+          "subtopic": "교육과 배움"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "책과 지식의 전파"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "생각과 지식",
+        "subtopic": "교육과 배움"
+      },
+      "subregion": "서유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "서유럽",
+          "country": "프랑스"
+        },
+        {
+          "continent": "유럽",
+          "subregion": "남유럽",
+          "country": "이탈리아"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "spain-1492-expulsion-faith-property-and-exile",
+      "title": "1492년의 추방령 — 떠나라는 명령은 집과 재산을 어떻게 바꾸었을까",
+      "source_path": "content/stories/history/europe/spain-1492-expulsion-faith-property-and-exile.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "스페인",
+      "country": "스페인",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 요청 제작 검토 원고. 대표 주제와 관련 주제·지역을 연결하며 사용자 게시 승인 전에는 공개 빌드에서 제외. 국가는 현재 탐색 위치이며 당대 국적을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/spain-1492-expulsion-faith-property-and-exile/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "법과 제도"
+        },
+        {
+          "topic": "도시와 사회",
+          "subtopic": "인구와 이주"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "법과 제도"
+      },
+      "subregion": "남유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "남유럽",
+          "country": "스페인"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "japan-1872-schools-learning-and-state",
+      "title": "메이지의 학교 — 모두가 배우게 된다는 말은 어떻게 제도가 되었을까",
+      "source_path": "content/stories/history/asia/japan-1872-schools-learning-and-state.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "일본",
+      "country": "일본",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 요청 제작 검토 원고. 대표 주제와 관련 주제·지역을 연결하며 사용자 게시 승인 전에는 공개 빌드에서 제외. 국가는 현재 탐색 위치이며 당대 국적을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/japan-1872-schools-learning-and-state/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "생각과 지식",
+          "subtopic": "교육과 배움"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "생각과 지식",
+        "subtopic": "교육과 배움"
+      },
+      "subregion": "동아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "동아시아",
+          "country": "일본"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "china-1898-reform-edicts-and-political-support",
+      "title": "무술변법 — 황제의 명령만으로 국가는 바뀔 수 있었을까",
+      "source_path": "content/stories/history/asia/china-1898-reform-edicts-and-political-support.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "중국",
+      "country": "중국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 요청 제작 검토 원고. 대표 주제와 관련 주제·지역을 연결하며 사용자 게시 승인 전에는 공개 빌드에서 제외. 국가는 현재 탐색 위치이며 당대 국적을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/china-1898-reform-edicts-and-political-support/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "혁명과 개혁"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "교육과 배움"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "혁명과 개혁"
+      },
+      "subregion": "동아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "동아시아",
+          "country": "중국"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "australia-1851-gold-rush-labor-prices-and-licenses",
+      "title": "호주 골드러시 — 금이 발견되자 왜 빵과 장화도 비싸졌을까",
+      "source_path": "content/stories/finance/money/australia-1851-gold-rush-labor-prices-and-licenses.json",
+      "old_category": "finance",
+      "old_subcategory": "Money",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "대양주",
+      "country_group": "호주",
+      "country": "호주",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 요청 제작 검토 원고. 대표 주제와 관련 주제·지역을 연결하며 사용자 게시 승인 전에는 공개 빌드에서 제외. 국가는 현재 탐색 위치이며 당대 국적을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/australia-1851-gold-rush-labor-prices-and-licenses/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "무역과 시장"
+        },
+        {
+          "topic": "도시와 사회",
+          "subtopic": "인구와 이주"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "경제·산업·금융",
+        "subtopic": "무역과 시장"
+      },
+      "subregion": null,
+      "geographies": [
+        {
+          "continent": "대양주",
+          "subregion": null,
+          "country": "호주"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "mexico-1864-second-empire-debt-and-republic",
+      "title": "멕시코 제2제국 — 빚을 받으러 온 군대는 왜 황제를 세웠을까",
+      "source_path": "content/stories/history/america/mexico-1864-second-empire-debt-and-republic.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "멕시코",
+      "country": "멕시코",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 요청 제작 검토 원고. 대표 주제와 관련 주제·지역을 연결하며 사용자 게시 승인 전에는 공개 빌드에서 제외. 국가는 현재 탐색 위치이며 당대 국적을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/mexico-1864-second-empire-debt-and-republic/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "국가와 권력"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "국가와 권력"
+      },
+      "subregion": "북아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "북아메리카",
+          "country": "멕시코"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "fashoda-1898-river-flags-and-imperial-claims",
+      "title": "파쇼다 사건 — 강가에 세운 두 깃발은 왜 전쟁의 위기가 되었을까",
+      "source_path": "content/stories/history/africa/fashoda-1898-river-flags-and-imperial-claims.json",
+      "old_category": "history",
+      "old_subcategory": "Africa",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아프리카",
+      "country_group": "남수단",
+      "country": "남수단",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 요청 제작 검토 원고. 대표 주제와 관련 주제·지역을 연결하며 사용자 게시 승인 전에는 공개 빌드에서 제외. 국가는 현재 탐색 위치이며 당대 국적을 뜻하지 않음.",
+      "proposed_url": "https://knowledgewalk.net/stories/fashoda-1898-river-flags-and-imperial-claims/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "전쟁과 외교"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "전쟁과 외교"
+      },
+      "subregion": null,
+      "geographies": [
+        {
+          "continent": "아프리카",
+          "subregion": null,
+          "country": "남수단"
         }
       ],
       "facets": [],
