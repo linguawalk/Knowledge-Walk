@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-13",
+  "new_drafts": 10,
+  "originals": 496,
+  "approved_unchanged": 473,
+  "existing_story_files_unchanged": 486,
+  "body_characters_min": 2240,
+  "body_characters_max": 2342,
+  "numbered_sections_each": 7,
+  "review_links": "passed",
+  "public_snapshot_changed": false,
+  "future_navigation_in_memory": "passed",
+  "noindex_pages": 10,
+  "full_tests_passed": 64,
+  "test_duration_seconds": 99.353,
+  "browser_checks": [
+    {
+      "id": "luddites-1811-machines-work-and-bargaining",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "synthetic-dyes-coal-tar-and-german-laboratories",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "daguerreotype-1839-light-fixed-on-a-plate",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "phoenician-alphabet-trade-and-adaptation",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "behistun-darius-inscription-and-royal-legitimacy",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "rome-annona-grain-ports-and-imperial-power",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "hawaii-1893-monarchy-sugar-and-annexation",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "rachel-carson-1962-silent-spring-public-evidence",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "congo-rubber-forced-labor-and-global-demand",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "wollstonecraft-1792-education-reason-and-rights",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "luddites-1811-machines-work-and-bargaining",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "synthetic-dyes-coal-tar-and-german-laboratories",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "daguerreotype-1839-light-fixed-on-a-plate",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "phoenician-alphabet-trade-and-adaptation",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "behistun-darius-inscription-and-royal-legitimacy",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "rome-annona-grain-ports-and-imperial-power",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "hawaii-1893-monarchy-sugar-and-annexation",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "rachel-carson-1962-silent-spring-public-evidence",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "congo-rubber-forced-labor-and-global-demand",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "wollstonecraft-1792-education-reason-and-rights",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    }
+  ],
+  "publication_approval": false
+}

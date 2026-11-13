@@ -21,6 +21,26 @@
   "originals": 486,
   "unpublished": 13,
   "numbered_sections_per_story": 7,
-  "deployment_status": "local_verified_awaiting_deployment",
-  "local_tests_passed": 64
+  "deployment_status": "live_verified",
+  "local_tests_passed": 64,
+  "publication_commit": "b2f2a4ed5da7c39f79ae40ad4069ab0068e67469",
+  "github_actions": [
+    {
+      "conclusion": "success",
+      "databaseId": 43414940724,
+      "headSha": "b2f2a4ed5da7c39f79ae40ad4069ab0068e67469",
+      "name": "Validate KnowledgeWalk publication",
+      "status": "completed"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 43414940237,
+      "headSha": "b2f2a4ed5da7c39f79ae40ad4069ab0068e67469",
+      "name": "pages build and deployment",
+      "status": "completed"
+    }
+  ],
+  "live_resources_verified": 82,
+  "strict_https": true,
+  "live_proof": "docs/research/history-rights-trade-observation-publication-20261113.json"
 }

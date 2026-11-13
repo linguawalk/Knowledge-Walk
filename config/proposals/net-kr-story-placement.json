@@ -1,7 +1,7 @@
 {
   "state": "active_single_domain_regional_subject_navigation",
   "date": "2026-11-11",
-  "count": 486,
+  "count": 496,
   "articles": [
     {
       "id": "alexandria-museion-and-books",
@@ -23990,6 +23990,565 @@
       "facets": [],
       "people": [
         "토머스 홉스"
+      ]
+    },
+    {
+      "id": "luddites-1811-machines-work-and-bargaining",
+      "title": "러다이트 운동 — 기계를 부순 사람들은 무엇을 지키려 했을까",
+      "source_path": "content/stories/history/europe/luddites-1811-machines-work-and-bargaining.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "영국",
+      "country": "영국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 새 글10개 요청. 자료와 역사 이미지 대조 완료, 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/luddites-1811-machines-work-and-bargaining/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "도시와 사회",
+          "subtopic": "노동과 공동체"
+        },
+        {
+          "topic": "기술과 디지털",
+          "subtopic": "기계와 동력"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "도시와 사회",
+        "subtopic": "노동과 공동체"
+      },
+      "subregion": "서유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "서유럽",
+          "country": "영국"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "바이런"
+      ]
+    },
+    {
+      "id": "synthetic-dyes-coal-tar-and-german-laboratories",
+      "title": "합성염료 — 석탄의 검은 부산물이 어떻게 산업의 색이 되었을까",
+      "source_path": "content/stories/science/chemistry/synthetic-dyes-coal-tar-and-german-laboratories.json",
+      "old_category": "science",
+      "old_subcategory": "Chemistry",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "독일",
+      "country": "독일",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 새 글10개 요청. 자료와 역사 이미지 대조 완료, 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/synthetic-dyes-coal-tar-and-german-laboratories/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "과학과 발견",
+          "subtopic": "물질과 에너지"
+        },
+        {
+          "topic": "기술과 디지털",
+          "subtopic": "재료와 생산기술"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "과학과 발견",
+        "subtopic": "물질과 에너지"
+      },
+      "subregion": "중부유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "중부유럽",
+          "country": "독일"
+        },
+        {
+          "continent": "유럽",
+          "subregion": "서유럽",
+          "country": "영국"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "윌리엄 헨리 퍼킨"
+      ]
+    },
+    {
+      "id": "daguerreotype-1839-light-fixed-on-a-plate",
+      "title": "다게레오타입 — 빛으로 만든 모습은 어떻게 사라지지 않게 되었을까",
+      "source_path": "content/stories/culture/art/daguerreotype-1839-light-fixed-on-a-plate.json",
+      "old_category": "culture",
+      "old_subcategory": "Art",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "프랑스",
+      "country": "프랑스",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 새 글10개 요청. 자료와 역사 이미지 대조 완료, 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/daguerreotype-1839-light-fixed-on-a-plate/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "기술과 디지털",
+          "subtopic": "도구와 발명"
+        },
+        {
+          "topic": "문화와 예술",
+          "subtopic": "미술"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "기술과 디지털",
+        "subtopic": "도구와 발명"
+      },
+      "subregion": "서유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "서유럽",
+          "country": "프랑스"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "루이 다게르",
+        "니에프스",
+        "탤벗"
+      ]
+    },
+    {
+      "id": "phoenician-alphabet-trade-and-adaptation",
+      "title": "페니키아 문자 — 적은 글자들이 바다를 건너면 무엇이 달라질까",
+      "source_path": "content/stories/history/asia/phoenician-alphabet-trade-and-adaptation.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "레바논",
+      "country": "레바논",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 새 글10개 요청. 자료와 역사 이미지 대조 완료, 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/phoenician-alphabet-trade-and-adaptation/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "생각과 지식",
+          "subtopic": "문자와 기록"
+        },
+        {
+          "topic": "역사",
+          "subtopic": "교역과 세계의 연결"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "생각과 지식",
+        "subtopic": "문자와 기록"
+      },
+      "subregion": "서아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "서아시아",
+          "country": "레바논"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "behistun-darius-inscription-and-royal-legitimacy",
+      "title": "베히스툰 비문 — 왕은 왜 자신의 즉위를 절벽에 새겼을까",
+      "source_path": "content/stories/history/middle-east/behistun-darius-inscription-and-royal-legitimacy.json",
+      "old_category": "history",
+      "old_subcategory": "Middle East",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "이란",
+      "country": "이란",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 새 글10개 요청. 자료와 역사 이미지 대조 완료, 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/behistun-darius-inscription-and-royal-legitimacy/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "국가와 권력"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "문자와 기록"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "국가와 권력"
+      },
+      "subregion": "서아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "서아시아",
+          "country": "이란"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "다리우스 1세"
+      ]
+    },
+    {
+      "id": "rome-annona-grain-ports-and-imperial-power",
+      "title": "로마의 곡물 배급 — 거대한 도시는 누가 먹여 살렸을까",
+      "source_path": "content/stories/cities/europe/rome-annona-grain-ports-and-imperial-power.json",
+      "old_category": "cities",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "이탈리아",
+      "country": "이탈리아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 새 글10개 요청. 자료와 역사 이미지 대조 완료, 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/rome-annona-grain-ports-and-imperial-power/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "도시와 사회",
+          "subtopic": "교통과 기반시설"
+        },
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "무역과 시장"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "도시와 사회",
+        "subtopic": "교통과 기반시설"
+      },
+      "subregion": "남유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "남유럽",
+          "country": "이탈리아"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "hawaii-1893-monarchy-sugar-and-annexation",
+      "title": "하와이 왕국의 끝 — 사탕수수 시장은 어떻게 주권의 문제가 되었을까",
+      "source_path": "content/stories/history/america/hawaii-1893-monarchy-sugar-and-annexation.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "미국",
+      "country": "미국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 새 글10개 요청. 자료와 역사 이미지 대조 완료, 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/hawaii-1893-monarchy-sugar-and-annexation/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "국가와 권력"
+        },
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "무역과 시장"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "국가와 권력"
+      },
+      "subregion": "북아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "북아메리카",
+          "country": "미국"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "릴리우오칼라니"
+      ]
+    },
+    {
+      "id": "rachel-carson-1962-silent-spring-public-evidence",
+      "title": "침묵의 봄 — 살충제의 효과만으로 안전을 판단할 수 있을까",
+      "source_path": "content/stories/science/earth-science/rachel-carson-1962-silent-spring-public-evidence.json",
+      "old_category": "science",
+      "old_subcategory": "Earth-Science",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "미국",
+      "country": "미국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 새 글10개 요청. 자료와 역사 이미지 대조 완료, 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/rachel-carson-1962-silent-spring-public-evidence/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "과학과 발견",
+          "subtopic": "지구와 환경"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "과학과 발견",
+        "subtopic": "지구와 환경"
+      },
+      "subregion": "북아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "북아메리카",
+          "country": "미국"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "레이첼 카슨"
+      ]
+    },
+    {
+      "id": "congo-rubber-forced-labor-and-global-demand",
+      "title": "콩고의 고무 — 세계의 수요는 어떻게 강제노동의 명령이 되었을까",
+      "source_path": "content/stories/history/africa/congo-rubber-forced-labor-and-global-demand.json",
+      "old_category": "history",
+      "old_subcategory": "Africa",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아프리카",
+      "country_group": "콩고민주공화국",
+      "country": "콩고민주공화국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 새 글10개 요청. 자료와 역사 이미지 대조 완료, 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/congo-rubber-forced-labor-and-global-demand/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "산업과 생산"
+        },
+        {
+          "topic": "역사",
+          "subtopic": "국가와 권력"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "경제·산업·금융",
+        "subtopic": "산업과 생산"
+      },
+      "subregion": null,
+      "geographies": [
+        {
+          "continent": "아프리카",
+          "subregion": null,
+          "country": "콩고민주공화국"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "레오폴드 2세"
+      ]
+    },
+    {
+      "id": "wollstonecraft-1792-education-reason-and-rights",
+      "title": "여성의 권리 옹호 — 배우지 못한 결과를 타고난 한계라 부를 수 있을까",
+      "source_path": "content/stories/culture/philosophy/wollstonecraft-1792-education-reason-and-rights.json",
+      "old_category": "culture",
+      "old_subcategory": "Philosophy",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "영국",
+      "country": "영국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 새 글10개 요청. 자료와 역사 이미지 대조 완료, 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/wollstonecraft-1792-education-reason-and-rights/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "생각과 지식",
+          "subtopic": "교육과 배움"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "철학과 사상"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "생각과 지식",
+        "subtopic": "교육과 배움"
+      },
+      "subregion": "서유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "서유럽",
+          "country": "영국"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "메리 울스턴크래프트"
       ]
     }
   ],

@@ -13,3 +13,4 @@
 | [중세 대학 — 학교 건물보다 먼저 생긴 것은 무엇이었을까](medieval-universities-masters-students-and-corporations.md) | 자료 대조·공개 게시 승인 완료 |
 | [플라톤의 동굴 — 밖으로 나온 사람은 왜 돌아가야 할까](plato-cave-shadows-return-and-learning.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [소크라테스의 생애 — 질문을 멈추지 않은 사람](socrates-life-and-questions.md) | 자료 대조·공개 게시 승인 완료 |
+| [여성의 권리 옹호 — 배우지 못한 결과를 타고난 한계라 부를 수 있을까](wollstonecraft-1792-education-reason-and-rights.md) | 자료 대조 완료 · 게시 승인 대기 |

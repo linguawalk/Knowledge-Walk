@@ -5,21 +5,21 @@
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
-| History | Asia | 21 | 21 | 21 |
-| History | Europe | 27 | 27 | 27 |
-| History | America | 22 | 22 | 22 |
-| History | Middle East | 6 | 6 | 6 |
-| History | Africa | 6 | 6 | 6 |
+| History | Asia | 22 | 22 | 21 |
+| History | Europe | 28 | 28 | 27 |
+| History | America | 23 | 23 | 22 |
+| History | Middle East | 7 | 7 | 6 |
+| History | Africa | 7 | 7 | 6 |
 | Cities | Asia | 16 | 16 | 16 |
-| Cities | Europe | 12 | 12 | 12 |
+| Cities | Europe | 13 | 13 | 12 |
 | Cities | Americas | 11 | 11 | 11 |
 | Cities | Middle East | 5 | 5 | 5 |
 | Cities | Africa | 6 | 6 | 6 |
 | Culture | Architecture | 16 | 16 | 16 |
 | Culture | Literature | 51 | 51 | 48 |
-| Culture | Philosophy | 9 | 9 | 8 |
+| Culture | Philosophy | 10 | 10 | 8 |
 | Culture | Music | 30 | 29 | 27 |
-| Culture | Art | 47 | 47 | 47 |
+| Culture | Art | 48 | 48 | 47 |
 | Culture | Film | 2 | 2 | 2 |
 | Culture | Sports | 1 | 1 | 1 |
 | Life | Folks | 25 | 25 | 23 |
@@ -43,9 +43,9 @@
 | Finance | Fintech | 1 | 1 | 1 |
 | Science | Mathematics | 4 | 4 | 4 |
 | Science | Physics | 14 | 14 | 13 |
-| Science | Chemistry | 4 | 4 | 4 |
+| Science | Chemistry | 5 | 5 | 4 |
 | Science | Biology | 14 | 14 | 14 |
-| Science | Earth-Science | 2 | 2 | 2 |
+| Science | Earth-Science | 3 | 3 | 2 |
 | Science | Engineering | 6 | 6 | 5 |
 
 ## 먼저 살펴볼 빈 주제

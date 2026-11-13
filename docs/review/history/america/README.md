@@ -17,6 +17,7 @@
 | [에리 운하 — 내륙의 곡물이 뉴욕항으로 가는 길](erie-canal-1825-locks-tolls-and-new-york.md) | 자료 대조·공개 게시 승인 완료 |
 | [벤저민 프랭클린 — 인쇄공은 왜 함께 읽을 책을 모았을까](franklin-printer-club-and-library.md) | 자료 대조·공개 게시 승인 완료 |
 | [아이티 혁명 — 자유를 외친 제국은 왜 식민지의 자유를 두려워했을까](haiti-1791-revolution-emancipation-and-independence.md) | 자료 대조·공개 게시 승인 완료 |
+| [하와이 왕국의 끝 — 사탕수수 시장은 어떻게 주권의 문제가 되었을까](hawaii-1893-monarchy-sugar-and-annexation.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [허드슨베이회사 — 왕의 종이 한 장은 어떻게 거대한 교역권이 되었을까](hudsons-bay-company-1670-charter-rivers-and-trade.md) | 자료 대조·공개 게시 승인 완료 |
 | [키푸 — 잉카는 매듭으로 무엇을 기록했을까](inca-quipu-knots-and-records.md) | 자료 대조·공개 게시 승인 완료 |
 | [미국 로웰의 여성 노동자들은 어떻게 하루 열 시간을 요구했을까](lowell-mill-workers.md) | 자료 대조·공개 게시 승인 완료 |

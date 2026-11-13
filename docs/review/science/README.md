@@ -8,7 +8,7 @@
 |---|---:|
 | [Mathematics](mathematics/README.md) | 4편 |
 | [Physics](physics/README.md) | 14편 |
-| [Chemistry](chemistry/README.md) | 4편 |
+| [Chemistry](chemistry/README.md) | 5편 |
 | [Biology](biology/README.md) | 14편 |
-| [Earth-Science](earth-science/README.md) | 2편 |
+| [Earth-Science](earth-science/README.md) | 3편 |
 | [Engineering](engineering/README.md) | 6편 |

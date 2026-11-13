@@ -8,8 +8,8 @@
 |---|---:|
 | [Architecture](architecture/README.md) | 16편 |
 | [Literature](literature/README.md) | 51편 |
-| [Philosophy](philosophy/README.md) | 9편 |
+| [Philosophy](philosophy/README.md) | 10편 |
 | [Music](music/README.md) | 30편 |
-| [Art](art/README.md) | 47편 |
+| [Art](art/README.md) | 48편 |
 | [Film](film/README.md) | 2편 |
 | [Sports](sports/README.md) | 1편 |

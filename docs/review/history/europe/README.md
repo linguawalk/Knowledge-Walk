@@ -17,6 +17,7 @@
 | [가리발디의 천인대 — 붉은 셔츠는 어떻게 왕국의 지도를 바꾸었을까](garibaldi-1860-thousand-monarchy-and-unification.md) | 자료 대조·공개 게시 승인 완료 |
 | [구텐베르크의 인쇄 — 글자를 찍으려면 활자 말고 무엇이 필요했을까](gutenberg-1450s-type-capital-and-bookmaking.md) | 자료 대조·공개 게시 승인 완료 |
 | [한자동맹 — 왕국이 아닌 도시들은 어떻게 바다를 연결했을까](hanseatic-league-towns-kontors-and-privileges.md) | 자료 대조·공개 게시 승인 완료 |
+| [러다이트 운동 — 기계를 부순 사람들은 무엇을 지키려 했을까](luddites-1811-machines-work-and-bargaining.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [루터 — 작은 인쇄물은 어떻게 유럽을 흔들었을까](luther-pamphlets-and-reformation.md) | 자료 대조·공개 게시 승인 완료 |
 | [마그나 카르타 — 왕의 약속을 문서로 남긴 이유](magna-carta-king-and-written-promise.md) | 자료 대조·공개 게시 승인 완료 |
 | [나폴레옹 법전 — 같은 법을 쓴다는 것은 모두가 평등하다는 뜻일까](napoleonic-code-1804-property-family-and-equality.md) | 자료 대조·공개 게시 승인 완료 |

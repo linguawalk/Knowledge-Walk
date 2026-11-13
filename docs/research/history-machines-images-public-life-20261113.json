@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-13",
+  "batch_id": "20261113-ten-history-machines-images-and-public-life",
+  "status": "source_review_complete_publication_not_approved",
+  "counts": {
+    "originals": 496,
+    "approved": 473,
+    "verified_unpublished": 20,
+    "pending_sources": 3
+  },
+  "sources": [
+    {
+      "id": "luddites-1811-machines-work-and-bargaining",
+      "body_characters": 2308,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00078/index.cnxml",
+        "status": 200,
+        "sha256": "9d2d95b40219d73d4b25403ef55713f03519a64db630f5704492a6fb82270801",
+        "bytes": 39476,
+        "title": "OpenStax, World History Volume 2 — Capitalism and the First Industrial Revolution",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "1811직물 노동자의 기계 파괴·숙련과 생계/네드 러드 전설/1812바이런 연설/사형·유형과1816진압. 기술적 무지로 환원하지 않되 모든 현장이 동일 강령을 가졌다고 주장하지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "1811",
+            "excerpt": "Some workers rebelled against industrialization, which threatened their status as skilled laborers. Beginning in 1811, a secretive group of British textile workers calling themselves Luddites began destroying textile machinery, rioting, and setting fires in response to the industrialization of their workplaces (). They took their name from the mythical Ned Ludd, a worker who supposedly destroyed a mechanized loom rather than submit to industrialization. As the Luddite movement grew, so did the legend of Ned Ludd, until some workers claimed that King Ludd lived in Sherwood Forest and fought corrupt industrialists, much as Robin Hood had opposed corrupt authorities during the Middle Ages. The Luddites did not argue in favor of a specific ideology or a grander purpose. They were simply angry that industrialization was destroying their traditional way of life, and they fought back with every tool at their disposal."
+          },
+          {
+            "needle": "1812",
+            "excerpt": "Locomotives and boats powered by steam engines soon delivered raw materials to the factories and transported finished goods to consumers. In 1807, American inventor Robert Fulton began operation of the first successful commercial steamboats. In 1812, Matthew Murray, an English industrialist, opened the world’s first successful steam locomotive line. Several inventors produced steam-powered vehicles that could travel on roads, but the heavy weight of steam engines and the poor conditions of most roads doomed them to failure and kept steam engines in the factories, waterways, and railroads."
+          },
+          {
+            "needle": "1816",
+            "excerpt": "British leaders reacted quickly to the Luddites, with some calling them a mob worthy of execution. In 1812, the poet and peer Lord Byron responded by pointing out that these same people worked the fields, produced the goods, and served in the armed forces of the British Empire. Byron argued that the mob “often speaks the sentiments of the people” and warned “it is the mob” that “enabled you to defy all the world and can also defy you when neglect and calamity have driven them to despair.” He urged the British government to respond to the protesting workers with “conciliation and firmness” rather than violence. Most British business and political leaders disagreed with Byron and worked to suppress the rebellion. Parliament made industrial sabotage a capital offense. British authorities hanged many Luddites and exiled more to prison colonies. By 1816, the industrialists had defeated the Luddites. Today, “Luddite” is often used as a generic description of anyone opposed to technological change."
+          }
+        ]
+      }
+    },
+    {
+      "id": "synthetic-dyes-coal-tar-and-german-laboratories",
+      "body_characters": 2342,
+      "source": {
+        "url": "https://raw.githubusercontent.com/GITenberg/Coal-and-What-We-Get-from-It_33165/master/33165-8.txt",
+        "sha256": "e2a2cbc8b72d34aca7706fce41280fe998352db4d8cd4ab9eaea89f21b60ccf5",
+        "bytes": 302745,
+        "status": 200,
+        "html_url": "https://raw.githubusercontent.com/GITenberg/Coal-and-What-We-Get-from-It_33165/master/33165-h/33165-h.htm",
+        "title": "Raphael Meldola, Coal and What We Get from It (1891), coal-tar colours / anthracene and alizarin",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "타르의 성분 분리·정제/1856퍼킨 모브/독일의 이론 연구와 제조의 상호관계/산업의 순수 재료가 연구를 지원/꼭두서니·알리자린. 저자의 퍼킨 특허 연도1858은 채택하지 않음. 영국 발명을 독일 발명으로 바꾸지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "Perkin",
+            "excerpt": "CROSS, W.C.; 43, QUEEN VICTORIA STREET, E.C. BRIGHTON: 135, NORTH STREET. NEW YORK: E. & J. B. YOUNG & CO. 1891. TO WILLIAM HENRY PERKIN, PH.D., F.R.S., THE FOUNDER OF THE COAL-TAR COLOUR INDUSTRY, THIS BOOK IS DEDICATED BY THE AUTHOR. PREFACE. This is neither a technical manual, nor a treatise dealing with the history of a particular branch of applied science, but it partakes somewhat of the character of both. It is an attempt--perhaps somewhat bold--to present in a popular form an account of the great industry which has arisen out of the waste from the gas-works. In the strictest sense it is a romance of dirt. To render intelligible the various stages in the evolution of the industry, without assuming any knowledge of chemical science on the pa"
+          },
+          {
+            "needle": "Germany",
+            "excerpt": "oint of time than the graphite of the Archæan rocks. Coal of post-Carboniferous date is found in beds of Permian age in Bavaria, of Triassic age in Germany, in the Inferior Oolite of Yorkshire belonging to the Jurassic period, and in the Lower Cretaceous deposits of north-western Germany. Coming down to more recent geological periods, we have a coal seam of over thirty feet in thickness in the northern Tyrol of Eocene age; we have brown coal deposits of Oligocene age in Belgium and Austria, and, most remarkable of all, coal has been found of Miocene, that is, mid-Tertiary age, in the Arctic regions of Greenland within a few degrees of the North Pole. Thus the formation of coal appears to have been going on in one area or another ever since vegetable life appeared on the globe, and in t"
+          },
+          {
+            "needle": "alizarin",
+            "excerpt": "aphthol Green, the Oxazines, and the Indophenols, 161. Creosote Oil, 163. The Lucigen Burner, 163. Anthracene Oil, 167. The Discovery of Artificial Alizarin, and its effects on Madder growing, 167. The industrial isolation of Anthracene and its conversion into Colouring-matters, 171. Pitch, and its uses, 176. Patent Fuel, or Briquettes, 178. Coal-tar products in Pharmacy, 178. Aromatic Perfumes, 185. Coal-tar Saccharin, 186. Coal-tar Products in Photography, 188. Coal-tar Products in Biology, 192. Value of the Coal-tar Industry, 194. The Coal-tar Industry in relation to pure Science, 196. Permanence of the Artificial Colouring-matters, 198. Chronological Summary, 200. Addendum, 202. COAL; AND WHAT WE GET FROM IT. CHAPTER I. \"Hier [1771] fand sich eine zusammenhä"
+          },
+          {
+            "needle": "pure",
+            "excerpt": "Coal-tar Products in Photography, 188. Coal-tar Products in Biology, 192. Value of the Coal-tar Industry, 194. The Coal-tar Industry in relation to pure Science, 196. Permanence of the Artificial Colouring-matters, 198. Chronological Summary, 200. Addendum, 202. COAL; AND WHAT WE GET FROM IT. CHAPTER I. \"Hier [1771] fand sich eine zusammenhängende Ofenreihe, wo Steinkohlen abgeschwefelt und zum Gebrauch bei Eisenwerken tauglich gemacht werden sollten; allein zu gleicher Zeit wollte man Oel und Harz auch zu Gute machen, ja sogar den Russ nicht missen, und so unterlag den vielfachen Absichten alles zusammen.\"--Goethe, _Wahrheit und Dichtung_, Book X. To get at the origin of the familiar fuel which blazes in our grates with such la"
+          }
+        ]
+      }
+    },
+    {
+      "id": "daguerreotype-1839-light-fixed-on-a-plate",
+      "body_characters": 2270,
+      "source": {
+        "url": "https://raw.githubusercontent.com/GITenberg/The-Evolution-of-PhotographyWith-a-Chronological-Record-of-Discoveries-Inventions-etc.-Contri__38866/master/38866-8.txt",
+        "sha256": "f519c727e877d1179f811aafa8c5f03aa9881a8fa7847353901fe534ca28212c",
+        "bytes": 672966,
+        "status": 200,
+        "html_url": "https://raw.githubusercontent.com/GITenberg/The-Evolution-of-PhotographyWith-a-Chronological-Record-of-Discoveries-Inventions-etc.-Contri__38866/master/38866-h/38866-h.htm",
+        "title": "John Werge, The Evolution of Photography (1890), daguerreotype / Talbot / chronological record",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "카메라 옵스쿠라와 감광·정착의 구별/니에프스와 다게르/1839공개/은판·유해 물질·노출 제약/탤벗 음화-양화와 복제. 유해 공정 재현법과 민족별 최초 경쟁은 제외."
+        ],
+        "evidence": [
+          {
+            "needle": "1839",
+            "excerpt": " my letter to Mr. Brayley. \"My pictures were exhibited at the Royal Society, and also at Lord Northampton's, at his lordship's request, in April, 1839, when Mr. Talbot also exhibited his. In my letter to Mr. Brayley, I did not describe iodised pictures, and, therefore, it was held that exhibition in the absence of description left the process legally unknown. Mr. Talbot consequently felt justified in taking out a patent for uniting my _known_ accelerator with Davy's _known_ sensitive silver compound, adopting my method (already communicated to him) with reference to Wedgwood's papers, and adding specific improvements in manipulation. Whatever varied opinion may consequently be formed as to the defence of the patent in court, there can be but one as to the skill of the patentee. "
+          },
+          {
+            "needle": "Talbot",
+            "excerpt": "._ JOSEPH NICÃPHORE NIÃPCE. _From a Painting by L. Berger._ Rev. J. B. READE. _From a Photograph by Maull & Fox._ HENRY FOX TALBOT. _From a Calotype._ SIR JOHN HERSCHEL. _From a Daguerreotype._] THE EVOLUTION OF PHOTOGRAPHY. With a Chronological Record of Discoveries, Inventions, Etc., Contributions to Photographic Literature, and Personal Reminiscences Extending over Forty Years. by JOHN WERGE. Illustrated. London: Piper & Carter, 5, Furnival Street, Holborn, E.C.; and John Werge, 11A, Berners Street, Oxford Street, W. 1890. [All Rights Reserved.] Printed by Piper & Carter, 5, Furnival Street, Holborn, London, E.C. PREFACE. No previous history of photography, that I am aware of, has ever assumed the fo"
+          },
+          {
+            "needle": "mercury",
+            "excerpt": "ined in England. The Daguerreotype was a latent image produced by light on an iodised silver plate, and developed, or made visible, by the fumes of mercury; but the resultant picture was one of the most shimmering and vapoury imaginable, wanting in solidity, colour, and firmness. In fact, photography as introduced by M. Daguerre was in every sense a wonderfully shadowy and all but invisible thing, and not many removes from the dark ages of its creation. The process was extremely delicate and difficult, slow and tedious to manipulate, and too insensitive to be applied to portraiture with any prospect of success, from fifteen to twenty minutes' exposure in bright sunshine being necessary to obtain a picture. The mode of proceeding was as follows:--A copper plate with a coating of silver "
+          }
+        ]
+      }
+    },
+    {
+      "id": "phoenician-alphabet-trade-and-adaptation",
+      "body_characters": 2259,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00132/index.cnxml",
+        "status": 200,
+        "sha256": "49265977d836fbbb23e4601ea50015d0e194f67f64e57aaa8d83f94b9e60d2eb",
+        "bytes": 31458,
+        "title": "OpenStax, World History Volume 1 — Early Mediterranean Peoples",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "페니키아 항구와 지중해 정착/자음 중심 기호/이전 가나안 전통/그리스의 모음·아람/이스라엘 수용. 원문의 세계 최초 알파벳 발명 주장은 채택하지 않음. 모든 주민의 문해 보편화를 주장하지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "consonant",
+            "excerpt": "Around 1100 BCE, the Phoenicians also invented the world’s first known alphabet, using symbols that represented consonant sounds. Strung together, these consonants created words in which vowel sounds were interpreted by the order of the consonants. Because the Phoenician alphabet simplified the earlier script of the Canaanites, more people could now become literate, not just a small, specialized group of scribes. The Phoenicians’ commercial success was undoubtedly partly a result of their better, more efficient record-keeping system that a larger population could learn and employ. Other cultures like the Aramaean peoples and the Israelites quickly adapted the new script to their own languages. By the eighth century BCE, the Greeks had also adopted and later adapted the Phoenician alphabet to write their language."
+          },
+          {
+            "needle": "Greeks",
+            "excerpt": "By 2000 BCE, a unique culture had developed on the Aegean island of Crete, reaching the height of its power at the beginning of the Late Bronze Age around 1600 BCE. The later Classical Greeks told the myth of King Minos of Crete, who built a giant maze known as the Labyrinth and imprisoned there a half-man, half-bull called the Minotaur (the “Bull of Minos”). To avenge his own son’s death, Minos forced young men and women from Athens in Greece to enter the Labyrinth and be eaten by the monster. Historians see in the myth a distant memory of the earlier civilization on Crete and use the term Minoan, derived from Minos, to describe it."
+          },
+          {
+            "needle": "Carthage",
+            "excerpt": "Beginning with the Assyrian Empire’s expansion in the eighth century BCE, the Phoenician kingdoms became subjects of the successive Iron Age empires of western Asia: the Assyrians, the Chaldeans (Neo-Babylonian), and the Persians. The Phoenicians continued to flourish, however. The Assyrians valued Phoenician artists, and finely crafted Phoenician wares such as jewelry and furniture became popular among the ruling elites. The Persians relied largely on Phoenician sailors and ships to serve as the naval forces, especially in their campaigns to conquer Greece in the early fifth century BCE. When Phoenician city-states such as Sidon and Tyre became subject to foreign rule, many Phoenicians immigrated to the city of Carthage (in modern-day Tunisia), founded by Phoenician merchants around 700 BCE as a stopping place on the long but profitable voyage to Spain. Given this influx of immigrants, Carthage grew large and wealthy, and by the fifth century BCE the southern Italian peninsula was the dominant power in the western Mediterranean."
+          }
+        ]
+      }
+    },
+    {
+      "id": "behistun-darius-inscription-and-royal-legitimacy",
+      "body_characters": 2252,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00111/index.cnxml",
+        "status": 200,
+        "sha256": "c6aa8cfef5f638b0b5d0cad1706934414723c6ed37c6893e0a4930f3ea4225fb",
+        "bytes": 43735,
+        "title": "OpenStax, World History Volume 1 — The Persian Empire",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "522왕위 계승과 다리우스의 정당성 주장/사칭·거짓·반란과 신의 후원/3언어/부조·행정. 왕실의 주장과 독립 검증을 구별하며 경쟁자 정체를 확정하지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "Darius",
+            "excerpt": "Under Cambyses II, the Persian Empire stretched from the edges of India to the shores of the Aral Sea, the Aegean coast of Anatolia, and the Nile River and included everything in between. Then, just as Cambyses was reaching the height of his power, a Persian revolt broke out in 522 BCE in support of his brother Bardiya. On his way to put down the rebellion, Cambyses II died, leaving the future of the empire uncertain but allowing for the rise of possibly Persia’s most famous and powerful leader, Darius I."
+          },
+          {
+            "needle": "522",
+            "excerpt": "Under Cambyses II, the Persian Empire stretched from the edges of India to the shores of the Aral Sea, the Aegean coast of Anatolia, and the Nile River and included everything in between. Then, just as Cambyses was reaching the height of his power, a Persian revolt broke out in 522 BCE in support of his brother Bardiya. On his way to put down the rebellion, Cambyses II died, leaving the future of the empire uncertain but allowing for the rise of possibly Persia’s most famous and powerful leader, Darius I."
+          },
+          {
+            "needle": "Behistun",
+            "excerpt": "We may never know exactly what happened, but Darius was indeed able to grasp control of the Persian Empire in 522 BCE. However, it took more than a year for him to put down the ensuing rebellions, some possibly instigated by those who refused to recognize the legitimacy of his claim to the throne. Once these had been quelled, Darius commissioned an enormous relief inscription to be made on the cliff face of Mount Behistun. It shows a dominating figure of himself facing a number of bound former rebels, accompanied by lengthy descriptions of the rebellion and, in three different languages, Darius’s version of the events that led to his rise to power (). To further strengthen his claim on the throne, Darius integrated himself deeply into the royal line through a number of marriages, to the daughters of Cyrus II, the widow of Cambyses II, and two of Cambyses’s sisters."
+          }
+        ]
+      }
+    },
+    {
+      "id": "rome-annona-grain-ports-and-imperial-power",
+      "body_characters": 2340,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00140/index.cnxml",
+        "status": 200,
+        "sha256": "c0d877922b341f260bebab5b8c548925ed715e7e63a303ad6e63fefc026cdc5b",
+        "bytes": 20705,
+        "title": "OpenStax, World History Volume 1 — The Roman Economy: Trade, Taxes, and Conquest",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "이집트·시칠리아·사르데냐/해상운송과 오스티아/아노나·전담 관리·계약/선주 혜택과 후대 강제/정치적 이미지/190년식량위기. 이미지 황제명 충돌은 미확정 처리, 모든 주민 복지 주장 제외."
+        ],
+        "evidence": [
+          {
+            "needle": "annona",
+            "excerpt": "The government’s official distribution of grain to the populace was called the annona and was especially important to Romans. It had begun in the second century BCE but took on new importance by the reign of Augustus. The emperor appointed the praefectus annonae, the prefect who oversaw the distribution process, governed the ports to which grain was shipped, and addressed any fraud in the market. The prefect and his staff also secured the grain supply from Egypt and other regions by signing contracts with various suppliers."
+          },
+          {
+            "needle": "Ostia",
+            "excerpt": "Sea routes facilitated the movement of goods around the empire. Though the Romans built up a strong network of roads, shipping by sea was considerably less expensive. Thus, access to a seaport was crucial to trade. In Italy, there were several fine seaports, with the city of Rome’s port at Ostia being a notable example. Italy itself was the producer of goods that made their way around the Mediterranean. Most manufacturing occurred on a small scale, with shops and workshops often located next to homes. Higher-value goods did find their way to distant regions, and Italy dominated the western trade routes ()."
+          },
+          {
+            "needle": "190",
+            "excerpt": "In addition, there were clearly societal disadvantages to continuous conflict. Though Romans took pride in their military superiority, the loss of life and property must have been a burden for many. Conflict abroad disrupted regional markets that Italy depended on. For example, an interruption in the grain supply in 190 CE resulted in famine and riots in the city of Rome. Elites were largely able to benefit from the economic arrangement of conquest, but those in the lower classes no doubt shouldered the burden of its negative consequences."
+          },
+          {
+            "needle": "navicularii",
+            "excerpt": "The Roman government was also generally concerned with controlling overseas trade. An elite class of shipowners known as the navicularii were compelled by the government to join groups known as collegia (corporations) so they could be easily supervised. For signing contracts to supply grain, these shipowners received benefits including exemption from other public service. By the third and fourth centuries CE, control of the navicularii had intensified, and signing contracts to supply the annona was compulsory."
+          }
+        ]
+      }
+    },
+    {
+      "id": "hawaii-1893-monarchy-sugar-and-annexation",
+      "body_characters": 2264,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00070/index.cnxml",
+        "status": 200,
+        "sha256": "1f27b41dc6028f504a4f1ad3245d38be3fd4aacf5c4e81f78b9bbc61f296af01",
+        "bytes": 67597,
+        "title": "OpenStax, World History Volume 2 — Colonial Empires",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "하와이 사탕수수·미국 시장/1887강제 헌법/여왕의 권한 회복 시도/1893전복·미국 관여/1898병합. 원문의1890관세세율 설명은 오류 가능성으로 제외하고1893퇴위와 전복을 혼동하지 않음. 현재 미국 분류가 당시 주권을 뜻하지 않음을 명시."
+        ],
+        "evidence": [
+          {
+            "needle": "1887",
+            "excerpt": "As Japan, Russia, and Britain competed for control of Asia, France largely refrained. Its principal interest on the continent of Asia was Indochina (now Vietnam, Laos, and Cambodia). In 1858, the emperor of Vietnam ordered French missionaries in the country to leave. In response, Napoleon III sent gunboats to protect the missionaries and their Christian converts and forced the emperor to grant France control over three southern provinces. When the Vietnamese ruler proved unwilling to abide by the terms, troops returned in 1862, forcing him to concede yet more territory. By 1887, France had established protectorates over the remaining provinces of Vietnam and over Cambodia, a vassal state of the emperor of Siam (now Thailand). Laos, also Siamese territory, became part of French Indochina after a brief military conflict between Siam and France in 1893."
+          },
+          {
+            "needle": "Lili",
+            "excerpt": "When Kalakaua died in 1891, his sister Liliuokalani inherited the throne (). Resenting U.S. interference in Hawaii’s government, she proposed a new constitution to restore voting rights to many Native Hawaiians while denying them to American and European residents. Fearful of losing political power in Hawaii and the hope of annexation, in 1893 a group of primarily American conspirators forced Liliuokalani to abdicate. In 1898, the United States annexed Hawaii."
+          },
+          {
+            "needle": "1898",
+            "excerpt": "As the French marched steadily across the Sahara, Kitchener, with an Egyptian and Sudanese army, moved south along the Nile, establishing railroad lines and reclaiming towns from Mahdist control as he went. Finally, in September 1898, Kitchener and his forces, augmented by British troops, met the Mahdist ruler Al-Khalifa at Omdurman and defeated him. Before he could reclaim the rest of Sudan, however, Kitchener was dispatched to the town of Fashoda, where the proposed British and French railroad lines crossed (). The French had arrived from Senegal some months earlier and claimed the town. As the two armies waited through September and October for instructions from their governments, civilians in both countries loudly proclaimed their nation to be in the right. The British Royal Navy prepared for war. The Fashoda Incident, as it is called, ended when France withdrew its claims, realizing it was outgunned, and the two nations agreed upon a boundary line between their spheres in Africa."
+          }
+        ]
+      }
+    },
+    {
+      "id": "rachel-carson-1962-silent-spring-public-evidence",
+      "body_characters": 2338,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00081/index.cnxml",
+        "status": 200,
+        "sha256": "ddf1e42bb1991f9a5c9c051e4d7947ea1066cea6dbe6735ae033a2be7e994387",
+        "bytes": 34718,
+        "title": "OpenStax, World History Volume 2 — Debates about the Environment",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "1962침묵의봄/식량·인체와 환경의 연결/산업계 반발/기름유출 등 재난·1970지구의날/1972미국농업용DDT금지. 책 원문 독서로 가장하지 않고 현대 교육자료에 근거한 역사 해설. 전세계 모든 용도 금지라는 주장 제외."
+        ],
+        "evidence": [
+          {
+            "needle": "1962",
+            "excerpt": "In 1962, Rachel Carson published her bestselling book Silent Spring, which railed against the proliferation of dangerous pesticides like DDT (). Carson drew connections between the political power of the chemical industry and the many adverse effects of chemicals that made their way into food supplies and human bodies. Though strongly condemned by large chemical companies, the book was undeniably influential. It was a finalist for the National Book Awards for nonfiction, and its ideas inspired a generation of young activists. In 1972, the use of DDT in U.S. agriculture was banned."
+          },
+          {
+            "needle": "1972",
+            "excerpt": "In 1962, Rachel Carson published her bestselling book Silent Spring, which railed against the proliferation of dangerous pesticides like DDT (). Carson drew connections between the political power of the chemical industry and the many adverse effects of chemicals that made their way into food supplies and human bodies. Though strongly condemned by large chemical companies, the book was undeniably influential. It was a finalist for the National Book Awards for nonfiction, and its ideas inspired a generation of young activists. In 1972, the use of DDT in U.S. agriculture was banned."
+          },
+          {
+            "needle": "Earth Day",
+            "excerpt": "Carson’s book tapped into the growing anxiety of many who felt the economic growth from which they benefited was environmentally unsustainable. These fears were confirmed by a series of ecological disasters that galvanized public attention. They included the 1958 Niger Delta oil spill in Nigeria, the 1962 start of the Centralia mine fire in Pennsylvania (which is still burning), the 1967 Torrey Canyon oil spill in the United Kingdom, the 1969 Cuyahoga River fire in Ohio, and the 1969 Santa Barbara oil spill. By the 1970s, environmental concerns had translated into political action. In April 1970, approximately twenty million people in the United States participated in the world’s first Earth Day celebration, a grassroots movement intended to raise public awareness about the environment ()."
+          }
+        ]
+      }
+    },
+    {
+      "id": "congo-rubber-forced-labor-and-global-demand",
+      "body_characters": 2240,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00071/index.cnxml",
+        "status": 200,
+        "sha256": "3a82ff840febf7a2d68c4ee685891f19998567f07b2a1ea95218d5310acce58d",
+        "bytes": 31978,
+        "title": "OpenStax, World History Volume 2 — Exploitation and Resistance",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "레오폴드 개인국가·회사 권한/고무할당·가족 인질·강제노동·먹거리 타격/콘래드와 개혁협회/1908벨기에 국가통치. 트웨인풍자는 별도 삽화 맥락만, 실제 왕의 말·중립 조사증거로 사용하지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "Leopold",
+            "excerpt": "While all the great powers were capable of brutality and people were exploited in all the colonies, King Leopold II’s subjects in the Congo Free State suffered in ways that have become infamous. Despite his claims that his interest in Africa lay solely in a desire to improve people’s lives, in reality, Leopold was a cruel master. The Congo Free State was considered his personal possession and thus immune from intervention by the Belgian government. Leopold extracted wealth from it by leasing portions to private companies and individuals. Without adopting even a veneer of benevolence, these intermediaries brutalized the peoples of the Congo from the moment they arrived."
+          },
+          {
+            "needle": "rubber",
+            "excerpt": "Europeans used Africans in the Congo Free State for all forms of labor, but primarily to gather ivory and harvest rubber from wild rubber tree vines. The amount of rubber they were required to collect each day was so large that, instead of tapping the rubber-bearing vines and letting the liquid flow into pails, they chopped through the vines and allowed the liquid latex to cover their bodies. At the end of the day, the hardened rubber had to be scraped from their skin. For this work, they received low pay if any, often only the food they were given."
+          },
+          {
+            "needle": "hostage",
+            "excerpt": "Entire villages could be emptied of men forced into service, their wives and children held hostage to ensure their compliance. The ill and injured were left to die, and those who were uncooperative or slow were whipped, sometimes to unconsciousness or even death. Discipline was maintained by the Force Publique, an Indigenous army commanded by European officers. This army killed those who resisted forced labor or tried to run away and then cut a hand from each victim to maintain a tally of the dead. If the quota set by officers was not met, hands were chopped from the living to make up the number. People who failed to gather enough rubber could also lose their hands ()."
+          },
+          {
+            "needle": "1908",
+            "excerpt": "In 1899, Joseph Conrad published his novella Heart of Darkness, based on what he had seen in the Congo Free State. The book elicited cries for intervention among the British, and following a British official’s detailed report, the Congo Reform Association (CRA) was founded. Many prominent British and American thinkers were members, and they pressured governments to end the suffering of the Congolese people. In 1908, the Belgian Parliament took the Congo from Leopold II, renamed it the Belgian Congo, and assumed authority over it."
+          }
+        ]
+      }
+    },
+    {
+      "id": "wollstonecraft-1792-education-reason-and-rights",
+      "body_characters": 2283,
+      "source": {
+        "url": "https://raw.githubusercontent.com/GITenberg/A-Vindication-of-the-Rights-of-Woman-With-Strictures-on-Political-and-Moral-Subjects_3420/master/3420.txt",
+        "sha256": "9dbbb58e03824ba10a3e0d47196155a4b7a22156b202c848131691d62413c3ae",
+        "bytes": 533083,
+        "status": 200,
+        "html_url": null,
+        "title": "Mary Wollstonecraft, A Vindication of the Rights of Woman (1792), dedication and Chapters II–IV, XII",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "헌사탈레랑/여성교육·매력과 의존의 비판/이성과 도덕/12장 공적 통학 학교·함께 배우기/후속 교육의 계층 구분. 실제 시행 제도가 아닌 규범적 제안이며 현대 평등교육과 동일시하지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "CHAPTER 12",
+            "excerpt": "S EFFECTS WHICH ARISE FROM THE UNNATURAL DISTINCTIONS ESTABLISHED IN SOCIETY. CHAPTER 10. PARENTAL AFFECTION. CHAPTER 11. DUTY TO PARENTS CHAPTER 12. ON NATIONAL EDUCATION CHAPTER 13. SOME INSTANCES OF THE FOLLY WHICH THE IGNORANCE OF WOMEN GENERATES; WITH CONCLUDING REFLECTIONS ON THE MORAL IMPROVEMENT THAT A REVOLUTION IN FEMALE MANNERS MAY NATURALLY BE EXPECTED TO PRODUCE. 8 April, 2001 A BRIEF SKETCH OF THE LIFE OF MARY WOLLSTONECRAFT. M. Wollstonecraft was born in 1759. Her father was so great a wanderer, that the place of her birth is uncertain; she supposed, however, it was London, or Epping Forest: at the latter place she spent the first five years of her life. In early youth she exhibited traces of exquisite sensibility, soundness of understanding, and d"
+          },
+          {
+            "needle": "national concern",
+            "excerpt": "very confined, and the parent who really puts his own hand to the plow, will always, in some degree be disappointed, till education becomes a grand national concern. A man cannot retire into a desert with his child, and if he did, he could not bring himself back to childhood, and become the proper friend and play-fellow of an infant or youth. And when children are confined to the society of men and women, they very soon acquire that kind of premature manhood which stops the growth of every vigorous power of mind or body. In order to open their faculties they should be excited to think for themselves; and this can only be done by mixing a number of children together, and making them jointly pursue the same objects. A child very soon contracts a benumbing indolence of mind, which he has se"
+          },
+          {
+            "needle": "day-schools",
+            "excerpt": "s only shifted, not remedied. This train of reasoning brings me back to a subject, on which I mean to dwell, the necessity of establishing proper day-schools. But these should be national establishments, for whilst school-masters are dependent on the caprice of parents, little exertion can be expected from them, more than is necessary to please ignorant people. Indeed, the necessity of a master's giving the parents some sample of the boy's abilities, which during the vacation, is shown to every visiter, is productive of more mischief than would at first be supposed. For they are seldom done entirely, to speak with moderation, by the child itself; thus the master countenances falsehoods, or winds the poor machine up to some extraordinary exertion, that injures the wheels, and stops t"
+          },
+          {
+            "needle": "both sexes",
+            "excerpt": " of women by attempting to keep them always in a state of childhood. Rousseau was more consistent when he wished to stop the progress of reason in both sexes; for if men eat of the tree of knowledge, women will come in for a taste: but, from the imperfect cultivation which their understandings now receive, they only attain a knowledge of evil. Children, I grant, should be innocent; but when the epithet is applied to men, or women, it is but a civil term for weakness. For if it be allowed that women were destined by Providence to acquire human virtues, and by the exercise of their understandings, that stability of character which is the firmest ground to rest our future hopes upon, they must be permitted to turn to the fountain of light, and not forced to shape their course by the tw"
+          }
+        ]
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "luddites-1811-machines-work-and-bargaining",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B06_02_Luddites.jpg",
+      "status": 200,
+      "bytes": 399600,
+      "sha256": "d42bd4911a246fc1d22d01c711ee61bb272920d48f6e8416e6e5bfecef1573bd",
+      "width": 900,
+      "height": 800,
+      "license": "Public Domain"
+    },
+    {
+      "id": "synthetic-dyes-coal-tar-and-german-laboratories",
+      "url": "https://raw.githubusercontent.com/GITenberg/Coal-and-What-We-Get-from-It_33165/master/33165-h/images/fig11.png",
+      "status": 200,
+      "bytes": 33240,
+      "sha256": "71219d5a7104838daf998eeb73bf347130df13ee3714661eaa6180d5e1870b3b",
+      "width": 417,
+      "height": 500,
+      "license": "Public Domain"
+    },
+    {
+      "id": "daguerreotype-1839-light-fixed-on-a-plate",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Evolution-of-PhotographyWith-a-Chronological-Record-of-Discoveries-Inventions-etc.-Contri__38866/master/38866-h/images/037_1.png",
+      "status": 200,
+      "bytes": 31425,
+      "sha256": "f988f3b9c7f20f8c934ee809bf9272bb6722dbd404093977aea8acf950a6f97a",
+      "width": 264,
+      "height": 309,
+      "license": "Public Domain"
+    },
+    {
+      "id": "phoenician-alphabet-trade-and-adaptation",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A06_01_M-PhoenCol.jpg",
+      "status": 200,
+      "bytes": 158173,
+      "sha256": "bbf840ba5a8a9e2ad1d59d55cc21a2ab7f9d742cde9dbb824e3130367dee2dba",
+      "width": 1201,
+      "height": 589,
+      "license": "Public Domain"
+    },
+    {
+      "id": "behistun-darius-inscription-and-royal-legitimacy",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A04_03_Behistun.jpg",
+      "status": 200,
+      "bytes": 405359,
+      "sha256": "2b5a3bbabe2ea15b4662e6893143edbcfa01b58e9766cc1854d52bcab11f1682",
+      "width": 1300,
+      "height": 800,
+      "license": "Public Domain"
+    },
+    {
+      "id": "rome-annona-grain-ports-and-imperial-power",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A07_03_Hadrian.jpg",
+      "status": 200,
+      "bytes": 332414,
+      "sha256": "444fdf733282cb3cc2b5bd1af37aa5fe6a60e1d81af1d6adaec0636aa0b7e56e",
+      "width": 900,
+      "height": 436,
+      "license": "Public Domain"
+    },
+    {
+      "id": "hawaii-1893-monarchy-sugar-and-annexation",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B09_03_Lili.jpg",
+      "status": 200,
+      "bytes": 755352,
+      "sha256": "7eadc5f904048c388bd800ada28c6162ca8ae921450f60014b73e93a7737be14",
+      "width": 700,
+      "height": 822,
+      "license": "Public Domain"
+    },
+    {
+      "id": "rachel-carson-1962-silent-spring-public-evidence",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B15_02_RCarson.jpg",
+      "status": 200,
+      "bytes": 81267,
+      "sha256": "e2b0281d6ae3a841facbc90f2061a5082e9b97a59e96a3758e4913dda764f7ea",
+      "width": 501,
+      "height": 634,
+      "license": "CC0 1.0 · https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "congo-rubber-forced-labor-and-global-demand",
+      "url": "https://raw.githubusercontent.com/GITenberg/King-Leopold-s-Soliloquy-A-Defense-of-His-Congo-Rule_62739/master/62739-h/images/i_007.jpg",
+      "status": 200,
+      "bytes": 74215,
+      "sha256": "d89e6a44b22463fdd313cf707f1c44b3306bec3b3d1812f860b5691c8dfc4aa7",
+      "width": 620,
+      "height": 704,
+      "license": "Public Domain"
+    },
+    {
+      "id": "wollstonecraft-1792-education-reason-and-rights",
+      "url": "https://raw.githubusercontent.com/GITenberg/Mary-Wollstonecraft_22800/master/22800-h/images/cover01.jpg",
+      "status": 200,
+      "bytes": 84365,
+      "sha256": "7989dbeeba6788d1437491dbdf3cdb3015e90e5f102f23fac495b18275114a3f",
+      "width": 450,
+      "height": 684,
+      "license": "Public Domain"
+    }
+  ],
+  "image_visual_review": "원본10개 직접 육안 확인. 훼손/가공 없이 다운로드 원본 사용. 풍자·사진·지도·식물 도판·후대 전기 표지를 구분.",
+  "duplicate_review": "기존486편 제목과 핵심 질문 대조. 기존 사진 파일·예술 사진 글과1839사진술은 구별. 기존 에리 운하/곡물법과 로마의 아노나 공급체계는 구별.",
+  "editorial_notes": "docs/review/net-20261113-history-editorial-notes.md"
+}

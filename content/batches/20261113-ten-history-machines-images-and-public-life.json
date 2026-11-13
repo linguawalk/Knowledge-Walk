@@ -1,0 +1,28 @@
+{
+  "id": "20261113-ten-history-machines-images-and-public-life",
+  "title": "역사 이야기 10편 — 기계와 이미지, 기록과 공공의 삶",
+  "story_ids": [
+    "luddites-1811-machines-work-and-bargaining",
+    "synthetic-dyes-coal-tar-and-german-laboratories",
+    "daguerreotype-1839-light-fixed-on-a-plate",
+    "phoenician-alphabet-trade-and-adaptation",
+    "behistun-darius-inscription-and-royal-legitimacy",
+    "rome-annona-grain-ports-and-imperial-power",
+    "hawaii-1893-monarchy-sugar-and-annexation",
+    "rachel-carson-1962-silent-spring-public-evidence",
+    "congo-rubber-forced-labor-and-global-demand",
+    "wollstonecraft-1792-education-reason-and-rights"
+  ],
+  "countries": {
+    "luddites-1811-machines-work-and-bargaining": "영국",
+    "synthetic-dyes-coal-tar-and-german-laboratories": "독일",
+    "daguerreotype-1839-light-fixed-on-a-plate": "프랑스",
+    "phoenician-alphabet-trade-and-adaptation": "레바논",
+    "behistun-darius-inscription-and-royal-legitimacy": "이란",
+    "rome-annona-grain-ports-and-imperial-power": "이탈리아",
+    "hawaii-1893-monarchy-sugar-and-annexation": "미국",
+    "rachel-carson-1962-silent-spring-public-evidence": "미국",
+    "congo-rubber-forced-labor-and-global-demand": "콩고민주공화국",
+    "wollstonecraft-1792-education-reason-and-rights": "영국"
+  }
+}

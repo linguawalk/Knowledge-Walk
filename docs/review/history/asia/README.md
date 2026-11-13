@@ -20,6 +20,7 @@
 | [뉴질랜드 1893 — 투표할 권리와 출마할 권리는 왜 따로 왔을까](new-zealand-1893-women-vote-and-parliament.md) | 자료 대조·공개 게시 승인 완료 |
 | [갑골문 — 왕이 내일을 물었더니 질문이 남았다](oracle-bones-questions-and-written-traces.md) | 자료 대조·공개 게시 승인 완료 |
 | [페리의 흑선 — 배가 도착했다고 모든 항구가 열린 것은 아니다](perry-1853-black-ships-and-negotiated-ports.md) | 자료 대조·공개 게시 승인 완료 |
+| [페니키아 문자 — 적은 글자들이 바다를 건너면 무엇이 달라질까](phoenician-alphabet-trade-and-adaptation.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [병마용 — 황제의 군대는 왜 땅속에 서 있을까](qin-terracotta-army-faces-and-afterlife.md) | 자료 대조·공개 게시 승인 완료 |
 | [태평천국 — 새 세상을 약속한 전쟁은 무엇을 바꾸었을까](taiping-war-nanjing-local-armies-and-civilian-life.md) | 자료 대조·공개 게시 승인 완료 |
 | [도미오카 제사장의 기술은 어떻게 일본 각지로 퍼졌을까](tomioka-silk.md) | 자료 대조·공개 게시 승인 완료 |

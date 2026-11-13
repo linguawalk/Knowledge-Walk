@@ -9,6 +9,7 @@
 | [「비너스의 탄생」 — 조개 위의 여인은 어디로 가는가](botticelli-venus-shell-wind-shore.md) | 자료 대조·공개 게시 승인 완료 |
 | [동굴 벽에는 동물만 그려진 것이 아니다](bulgaria-magura-human-figures.md) | 자료 대조·공개 게시 승인 완료 |
 | [식사 전의 기도 — 수프가 식기 전, 잠깐 멈춘 시간](chardin-grace-before-meal.md) | 자료 대조·공개 게시 승인 완료 |
+| [다게레오타입 — 빛으로 만든 모습은 어떻게 사라지지 않게 되었을까](daguerreotype-1839-light-fixed-on-a-plate.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [레카미에 부인의 초상 — 빈 공간이 사람을 돋보이게 할 때](david-recamier-empty-space.md) | 자료 대조·공개 게시 승인 완료 |
 | [일본의 옛 병풍에는 왜 부채가 떠다닐까](decorated-fans.md) | 자료 대조·공개 게시 승인 완료 |
 | [민중을 이끄는 자유의 여신 — 삼색기 아래의 1830년](delacroix-liberty-1830-and-barricade.md) | 자료 대조·공개 게시 승인 완료 |

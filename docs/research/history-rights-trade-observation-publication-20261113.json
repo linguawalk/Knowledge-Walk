@@ -1,0 +1,1054 @@
+{
+  "date": "2026-11-13",
+  "publication_commit": "b2f2a4ed5da7c39f79ae40ad4069ab0068e67469",
+  "batch_id": "20261111-ten-history-rights-trade-and-observation",
+  "approved_stories": 473,
+  "unpublished_at_publication": 13,
+  "live": {
+    "checked_at_utc": "2026-11-13T11:29:23.807674+00:00",
+    "strict_https": true,
+    "responses": [
+      {
+        "path": "categories/africa/index.html",
+        "url": "https://knowledgewalk.net/categories/africa/index.html",
+        "final_url": "https://knowledgewalk.net/categories/africa/index.html",
+        "status": 200,
+        "bytes": 38991,
+        "sha256": "12128b9b1b86f91fc28a37c30347609698386cafc0b70ae60dde4913c2d5539f",
+        "expected_sha256": "12128b9b1b86f91fc28a37c30347609698386cafc0b70ae60dde4913c2d5539f",
+        "matches": true
+      },
+      {
+        "path": "categories/africa/말리/index.html",
+        "url": "https://knowledgewalk.net/categories/africa/%EB%A7%90%EB%A6%AC/index.html",
+        "final_url": "https://knowledgewalk.net/categories/africa/%EB%A7%90%EB%A6%AC/index.html",
+        "status": 200,
+        "bytes": 11914,
+        "sha256": "1676bb68a9844a339305a31c862d639964cd32041ba4f8fed019882c889900f4",
+        "expected_sha256": "1676bb68a9844a339305a31c862d639964cd32041ba4f8fed019882c889900f4",
+        "matches": true
+      },
+      {
+        "path": "categories/africa/알제리/index.html",
+        "url": "https://knowledgewalk.net/categories/africa/%EC%95%8C%EC%A0%9C%EB%A6%AC/index.html",
+        "final_url": "https://knowledgewalk.net/categories/africa/%EC%95%8C%EC%A0%9C%EB%A6%AC/index.html",
+        "status": 200,
+        "bytes": 9409,
+        "sha256": "e2a80a77153f2da86829f6e9648ce57cc657c7b225aaf869c7290869431358c8",
+        "expected_sha256": "e2a80a77153f2da86829f6e9648ce57cc657c7b225aaf869c7290869431358c8",
+        "matches": true
+      },
+      {
+        "path": "categories/americas/index.html",
+        "url": "https://knowledgewalk.net/categories/americas/index.html",
+        "final_url": "https://knowledgewalk.net/categories/americas/index.html",
+        "status": 200,
+        "bytes": 78095,
+        "sha256": "93cff50bd674220f32a97c01d3f1f9797756e66a0dd802898774695448e7fb91",
+        "expected_sha256": "93cff50bd674220f32a97c01d3f1f9797756e66a0dd802898774695448e7fb91",
+        "matches": true
+      },
+      {
+        "path": "categories/americas/남아메리카/index.html",
+        "url": "https://knowledgewalk.net/categories/americas/%EB%82%A8%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4/index.html",
+        "final_url": "https://knowledgewalk.net/categories/americas/%EB%82%A8%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4/index.html",
+        "status": 200,
+        "bytes": 18406,
+        "sha256": "3f6c69d438a49dac2675572febd5791d1ae75eccfbd35b4b1ed93f2a8eada0ed",
+        "expected_sha256": "3f6c69d438a49dac2675572febd5791d1ae75eccfbd35b4b1ed93f2a8eada0ed",
+        "matches": true
+      },
+      {
+        "path": "categories/americas/아르헨티나/index.html",
+        "url": "https://knowledgewalk.net/categories/americas/%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98/index.html",
+        "final_url": "https://knowledgewalk.net/categories/americas/%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98/index.html",
+        "status": 200,
+        "bytes": 8263,
+        "sha256": "9f8e684fa84d49a306e4a68e9a55bda695c4b7cb5e8517f1c1993f790805b337",
+        "expected_sha256": "9f8e684fa84d49a306e4a68e9a55bda695c4b7cb5e8517f1c1993f790805b337",
+        "matches": true
+      },
+      {
+        "path": "categories/americas/아이티/index.html",
+        "url": "https://knowledgewalk.net/categories/americas/%EC%95%84%EC%9D%B4%ED%8B%B0/index.html",
+        "final_url": "https://knowledgewalk.net/categories/americas/%EC%95%84%EC%9D%B4%ED%8B%B0/index.html",
+        "status": 200,
+        "bytes": 8086,
+        "sha256": "fa9adcaec162415735f7de3ade372bea5a82938976b14fa24571d4bcf476ac3a",
+        "expected_sha256": "fa9adcaec162415735f7de3ade372bea5a82938976b14fa24571d4bcf476ac3a",
+        "matches": true
+      },
+      {
+        "path": "categories/americas/중앙아메리카/index.html",
+        "url": "https://knowledgewalk.net/categories/americas/%EC%A4%91%EC%95%99%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4/index.html",
+        "final_url": "https://knowledgewalk.net/categories/americas/%EC%A4%91%EC%95%99%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4/index.html",
+        "status": 200,
+        "bytes": 8379,
+        "sha256": "2ba09dcc9c2ea3c1e9a34044b6f3c428a554cc6bf63a75854df06a14b855a5e2",
+        "expected_sha256": "2ba09dcc9c2ea3c1e9a34044b6f3c428a554cc6bf63a75854df06a14b855a5e2",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/index.html",
+        "status": 200,
+        "bytes": 140805,
+        "sha256": "3fb43e79dcdf56247f5a8e9109e3b34e2e5eea5a1e9dfce934018fb53fa61e28",
+        "expected_sha256": "3fb43e79dcdf56247f5a8e9109e3b34e2e5eea5a1e9dfce934018fb53fa61e28",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/동남아시아/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EB%8F%99%EB%82%A8%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EB%8F%99%EB%82%A8%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 12931,
+        "sha256": "0547ee25a061d2022975f94b4a915c5a296776a4b5eeb34cbbd2e87e48a17c1c",
+        "expected_sha256": "0547ee25a061d2022975f94b4a915c5a296776a4b5eeb34cbbd2e87e48a17c1c",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/말레이시아/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 8217,
+        "sha256": "53ff469f2827e2c87377de93ade4fced2a59df19a73cde19df56642f93106ac0",
+        "expected_sha256": "53ff469f2827e2c87377de93ade4fced2a59df19a73cde19df56642f93106ac0",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/서아시아/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EC%84%9C%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EC%84%9C%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 32052,
+        "sha256": "5f4906efe7c36ecf5e252525ebbf6fc1e24776f79072e42995eff55a86c4ad21",
+        "expected_sha256": "5f4906efe7c36ecf5e252525ebbf6fc1e24776f79072e42995eff55a86c4ad21",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/이란/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EC%9D%B4%EB%9E%80/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EC%9D%B4%EB%9E%80/index.html",
+        "status": 200,
+        "bytes": 17657,
+        "sha256": "7e2dd2433a5bd114b1de80c6f62b1a86d9c1de864715d6ee52379c2f41fe1d40",
+        "expected_sha256": "7e2dd2433a5bd114b1de80c6f62b1a86d9c1de864715d6ee52379c2f41fe1d40",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/index.html",
+        "status": 200,
+        "bytes": 220358,
+        "sha256": "6db275939056e6fc61d013a1eab6993b51351d9f79a2142d5d9f30393635b3b9",
+        "expected_sha256": "6db275939056e6fc61d013a1eab6993b51351d9f79a2142d5d9f30393635b3b9",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/남유럽/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EB%82%A8%EC%9C%A0%EB%9F%BD/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EB%82%A8%EC%9C%A0%EB%9F%BD/index.html",
+        "status": 200,
+        "bytes": 66538,
+        "sha256": "3dd7a253b9ce7bc58acb7543bff30687a0ecf0c55d6124c449c316f59c12345c",
+        "expected_sha256": "3dd7a253b9ce7bc58acb7543bff30687a0ecf0c55d6124c449c316f59c12345c",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/독일/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EB%8F%85%EC%9D%BC/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EB%8F%85%EC%9D%BC/index.html",
+        "status": 200,
+        "bytes": 35480,
+        "sha256": "3226d388b249b4eb25a6a2c49f6de9c9ab13788088c7636fbd5b5ee847e955b3",
+        "expected_sha256": "3226d388b249b4eb25a6a2c49f6de9c9ab13788088c7636fbd5b5ee847e955b3",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/서유럽/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EC%84%9C%EC%9C%A0%EB%9F%BD/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EC%84%9C%EC%9C%A0%EB%9F%BD/index.html",
+        "status": 200,
+        "bytes": 102732,
+        "sha256": "580933318fb4353a5d33fc80d1f761973911edc83763c27dc1a91064a0d46d4b",
+        "expected_sha256": "580933318fb4353a5d33fc80d1f761973911edc83763c27dc1a91064a0d46d4b",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/영국/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EC%98%81%EA%B5%AD/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EC%98%81%EA%B5%AD/index.html",
+        "status": 200,
+        "bytes": 55543,
+        "sha256": "083bc7990ccb20b04a29ca67536a19199a8fe2ccdc243090579e809506230ac1",
+        "expected_sha256": "083bc7990ccb20b04a29ca67536a19199a8fe2ccdc243090579e809506230ac1",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/이탈리아/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 38566,
+        "sha256": "ced53981e97e2b1d6f243c0f91708ad74afb6ffa130b9e36af5a05639fa48470",
+        "expected_sha256": "ced53981e97e2b1d6f243c0f91708ad74afb6ffa130b9e36af5a05639fa48470",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/중부유럽/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EC%A4%91%EB%B6%80%EC%9C%A0%EB%9F%BD/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EC%A4%91%EB%B6%80%EC%9C%A0%EB%9F%BD/index.html",
+        "status": 200,
+        "bytes": 44195,
+        "sha256": "8a54be9437e7845a831a1968ee1dd6ee58675da8595384fe49fe061972528843",
+        "expected_sha256": "8a54be9437e7845a831a1968ee1dd6ee58675da8595384fe49fe061972528843",
+        "matches": true
+      },
+      {
+        "path": "categories/oceania/index.html",
+        "url": "https://knowledgewalk.net/categories/oceania/index.html",
+        "final_url": "https://knowledgewalk.net/categories/oceania/index.html",
+        "status": 200,
+        "bytes": 12668,
+        "sha256": "0fbd4dcdb31e35ca02c8ca115d6688156137c60928d58666a2026c3421fdf0e4",
+        "expected_sha256": "0fbd4dcdb31e35ca02c8ca115d6688156137c60928d58666a2026c3421fdf0e4",
+        "matches": true
+      },
+      {
+        "path": "categories/oceania/뉴질랜드/index.html",
+        "url": "https://knowledgewalk.net/categories/oceania/%EB%89%B4%EC%A7%88%EB%9E%9C%EB%93%9C/index.html",
+        "final_url": "https://knowledgewalk.net/categories/oceania/%EB%89%B4%EC%A7%88%EB%9E%9C%EB%93%9C/index.html",
+        "status": 200,
+        "bytes": 8058,
+        "sha256": "cd44ad14c0d4481532c390d7f67479b7f1184bf9c7a5022189664c01fb420f5e",
+        "expected_sha256": "cd44ad14c0d4481532c390d7f67479b7f1184bf9c7a5022189664c01fb420f5e",
+        "matches": true
+      },
+      {
+        "path": "collections/20261111-ten-history-rights-trade-and-observation/index.html",
+        "url": "https://knowledgewalk.net/collections/20261111-ten-history-rights-trade-and-observation/index.html",
+        "final_url": "https://knowledgewalk.net/collections/20261111-ten-history-rights-trade-and-observation/index.html",
+        "status": 200,
+        "bytes": 14782,
+        "sha256": "e3fa8835bd6639c6c70aa4b3b9885eb0525d0235f3814785bb2f3ee05370525b",
+        "expected_sha256": "e3fa8835bd6639c6c70aa4b3b9885eb0525d0235f3814785bb2f3ee05370525b",
+        "matches": true
+      },
+      {
+        "path": "index.html",
+        "url": "https://knowledgewalk.net/index.html",
+        "final_url": "https://knowledgewalk.net/index.html",
+        "status": 200,
+        "bytes": 20784,
+        "sha256": "f06b9887191cefd8edcb02b05a22ce593ccb86042d34db56f4c868e91585a5b7",
+        "expected_sha256": "f06b9887191cefd8edcb02b05a22ce593ccb86042d34db56f4c868e91585a5b7",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/cities-society/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/cities-society/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/cities-society/index.html",
+        "status": 200,
+        "bytes": 107246,
+        "sha256": "f55ee6f5ab219d63849f8116d3ce2bdb1e3d587a82cc9fb8cb47f49ea4bda5c2",
+        "expected_sha256": "f55ee6f5ab219d63849f8116d3ce2bdb1e3d587a82cc9fb8cb47f49ea4bda5c2",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/cities-society/노동과-공동체/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/cities-society/%EB%85%B8%EB%8F%99%EA%B3%BC-%EA%B3%B5%EB%8F%99%EC%B2%B4/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/cities-society/%EB%85%B8%EB%8F%99%EA%B3%BC-%EA%B3%B5%EB%8F%99%EC%B2%B4/index.html",
+        "status": 200,
+        "bytes": 20841,
+        "sha256": "38a6237d8326d5bbf8bd294db4cb691836ee15537c6bb715ae9d34dbe2a0a33c",
+        "expected_sha256": "38a6237d8326d5bbf8bd294db4cb691836ee15537c6bb715ae9d34dbe2a0a33c",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/cities-society/도시의-탄생과-성장/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/cities-society/%EB%8F%84%EC%8B%9C%EC%9D%98-%ED%83%84%EC%83%9D%EA%B3%BC-%EC%84%B1%EC%9E%A5/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/cities-society/%EB%8F%84%EC%8B%9C%EC%9D%98-%ED%83%84%EC%83%9D%EA%B3%BC-%EC%84%B1%EC%9E%A5/index.html",
+        "status": 200,
+        "bytes": 47078,
+        "sha256": "862380841ff7f1886b905816f7f3888b75379e1cd47b6e9a015e53ff895c507b",
+        "expected_sha256": "862380841ff7f1886b905816f7f3888b75379e1cd47b6e9a015e53ff895c507b",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/cities-society/인구와-이주/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/cities-society/%EC%9D%B8%EA%B5%AC%EC%99%80-%EC%9D%B4%EC%A3%BC/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/cities-society/%EC%9D%B8%EA%B5%AC%EC%99%80-%EC%9D%B4%EC%A3%BC/index.html",
+        "status": 200,
+        "bytes": 17884,
+        "sha256": "fe931efdaebce127b903514906ab36183d56ff0c3aa7a2fd376b9842f294464e",
+        "expected_sha256": "fe931efdaebce127b903514906ab36183d56ff0c3aa7a2fd376b9842f294464e",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/economy/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/economy/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/economy/index.html",
+        "status": 200,
+        "bytes": 99671,
+        "sha256": "edd1d95076ee8a869c91f0f7ebf6ae8683cb9f690ba208e46b2c454ad53a9836",
+        "expected_sha256": "edd1d95076ee8a869c91f0f7ebf6ae8683cb9f690ba208e46b2c454ad53a9836",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/economy/무역과-시장/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/economy/%EB%AC%B4%EC%97%AD%EA%B3%BC-%EC%8B%9C%EC%9E%A5/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/economy/%EB%AC%B4%EC%97%AD%EA%B3%BC-%EC%8B%9C%EC%9E%A5/index.html",
+        "status": 200,
+        "bytes": 45023,
+        "sha256": "24b8ec75f52319b05e4ae9ccd29f3b1ca233d011b05ab6935a9fb6c06da9d1f1",
+        "expected_sha256": "24b8ec75f52319b05e4ae9ccd29f3b1ca233d011b05ab6935a9fb6c06da9d1f1",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/history/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/history/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/history/index.html",
+        "status": 200,
+        "bytes": 90649,
+        "sha256": "09765ee9e442287e014a640f58a826f56d1217d14f68688f30d9a7f44fe74471",
+        "expected_sha256": "09765ee9e442287e014a640f58a826f56d1217d14f68688f30d9a7f44fe74471",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/history/교역과-세계의-연결/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/history/%EA%B5%90%EC%97%AD%EA%B3%BC-%EC%84%B8%EA%B3%84%EC%9D%98-%EC%97%B0%EA%B2%B0/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/history/%EA%B5%90%EC%97%AD%EA%B3%BC-%EC%84%B8%EA%B3%84%EC%9D%98-%EC%97%B0%EA%B2%B0/index.html",
+        "status": 200,
+        "bytes": 19566,
+        "sha256": "72cb8db9e6b0e5319614cd6478b58d7926c848e4cc1515806cd1fc5e291f3d01",
+        "expected_sha256": "72cb8db9e6b0e5319614cd6478b58d7926c848e4cc1515806cd1fc5e291f3d01",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/history/법과-제도/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/history/%EB%B2%95%EA%B3%BC-%EC%A0%9C%EB%8F%84/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/history/%EB%B2%95%EA%B3%BC-%EC%A0%9C%EB%8F%84/index.html",
+        "status": 200,
+        "bytes": 39821,
+        "sha256": "011aff9bddcbd94a5c9fae666dc34b2ab0080165c6d17455055028025c04dcde",
+        "expected_sha256": "011aff9bddcbd94a5c9fae666dc34b2ab0080165c6d17455055028025c04dcde",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/history/전쟁과-외교/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/history/%EC%A0%84%EC%9F%81%EA%B3%BC-%EC%99%B8%EA%B5%90/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/history/%EC%A0%84%EC%9F%81%EA%B3%BC-%EC%99%B8%EA%B5%90/index.html",
+        "status": 200,
+        "bytes": 20310,
+        "sha256": "c2cecb874e8ae1eec95a91c6acb04a5515d45449f6ef4546b24d6f1d2a6fd8ff",
+        "expected_sha256": "c2cecb874e8ae1eec95a91c6acb04a5515d45449f6ef4546b24d6f1d2a6fd8ff",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/history/혁명과-개혁/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/history/%ED%98%81%EB%AA%85%EA%B3%BC-%EA%B0%9C%ED%98%81/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/history/%ED%98%81%EB%AA%85%EA%B3%BC-%EA%B0%9C%ED%98%81/index.html",
+        "status": 200,
+        "bytes": 31851,
+        "sha256": "09a469181bdb27301041a01727354eb9b2150034e398ea4a027cc492d7361713",
+        "expected_sha256": "09a469181bdb27301041a01727354eb9b2150034e398ea4a027cc492d7361713",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/ideas/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/ideas/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/ideas/index.html",
+        "status": 200,
+        "bytes": 55987,
+        "sha256": "78045783ae87d77c31b488e650d3ca09540ca814b8e55584126409ade7059c49",
+        "expected_sha256": "78045783ae87d77c31b488e650d3ca09540ca814b8e55584126409ade7059c49",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/ideas/교육과-배움/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/ideas/%EA%B5%90%EC%9C%A1%EA%B3%BC-%EB%B0%B0%EC%9B%80/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/ideas/%EA%B5%90%EC%9C%A1%EA%B3%BC-%EB%B0%B0%EC%9B%80/index.html",
+        "status": 200,
+        "bytes": 22293,
+        "sha256": "c93a6013f52583960d9df2724fa43574b5a596c3364d878d93232baca2f9bd81",
+        "expected_sha256": "c93a6013f52583960d9df2724fa43574b5a596c3364d878d93232baca2f9bd81",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/ideas/책과-지식의-전파/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/ideas/%EC%B1%85%EA%B3%BC-%EC%A7%80%EC%8B%9D%EC%9D%98-%EC%A0%84%ED%8C%8C/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/ideas/%EC%B1%85%EA%B3%BC-%EC%A7%80%EC%8B%9D%EC%9D%98-%EC%A0%84%ED%8C%8C/index.html",
+        "status": 200,
+        "bytes": 19544,
+        "sha256": "fe3efd5a38842a169133bf375119fc5b053f70feb6fb4a3b519b1e61da10929f",
+        "expected_sha256": "fe3efd5a38842a169133bf375119fc5b053f70feb6fb4a3b519b1e61da10929f",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/ideas/철학과-사상/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/ideas/%EC%B2%A0%ED%95%99%EA%B3%BC-%EC%82%AC%EC%83%81/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/ideas/%EC%B2%A0%ED%95%99%EA%B3%BC-%EC%82%AC%EC%83%81/index.html",
+        "status": 200,
+        "bytes": 15969,
+        "sha256": "a11c6f2dc7e1bb2ea929b34d7a6efa0830317b984f15c67d50d16e31d45285a5",
+        "expected_sha256": "a11c6f2dc7e1bb2ea929b34d7a6efa0830317b984f15c67d50d16e31d45285a5",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/science/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/science/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/science/index.html",
+        "status": 200,
+        "bytes": 65053,
+        "sha256": "c0a512c59b37a8d977077807060d8b02935e3cb9b0482d521c600127a355cb70",
+        "expected_sha256": "c0a512c59b37a8d977077807060d8b02935e3cb9b0482d521c600127a355cb70",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/science/생명과-의학/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/science/%EC%83%9D%EB%AA%85%EA%B3%BC-%EC%9D%98%ED%95%99/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/science/%EC%83%9D%EB%AA%85%EA%B3%BC-%EC%9D%98%ED%95%99/index.html",
+        "status": 200,
+        "bytes": 29212,
+        "sha256": "c7da52a9398347f68417fb3d29db8193bda5134a994903591b43865de382dc15",
+        "expected_sha256": "c7da52a9398347f68417fb3d29db8193bda5134a994903591b43865de382dc15",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/science/수학과-측정/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/science/%EC%88%98%ED%95%99%EA%B3%BC-%EC%B8%A1%EC%A0%95/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/science/%EC%88%98%ED%95%99%EA%B3%BC-%EC%B8%A1%EC%A0%95/index.html",
+        "status": 200,
+        "bytes": 16823,
+        "sha256": "57dbbb1094e8818936bf6f3d9b59eb7e54fcf502f2088693cc9d13eeecfe0dbe",
+        "expected_sha256": "57dbbb1094e8818936bf6f3d9b59eb7e54fcf502f2088693cc9d13eeecfe0dbe",
+        "matches": true
+      },
+      {
+        "path": "knowledge/collections/20261111-ten-history-rights-trade-and-observation/index.html",
+        "url": "https://knowledgewalk.net/knowledge/collections/20261111-ten-history-rights-trade-and-observation/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/collections/20261111-ten-history-rights-trade-and-observation/index.html",
+        "status": 200,
+        "bytes": 23277,
+        "sha256": "bb2f18705d819efcd4b0c040ed0758a28847ec2b83011ebfb26dc547ba0e9ed6",
+        "expected_sha256": "bb2f18705d819efcd4b0c040ed0758a28847ec2b83011ebfb26dc547ba0e9ed6",
+        "matches": true
+      },
+      {
+        "path": "knowledge/index.html",
+        "url": "https://knowledgewalk.net/knowledge/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/index.html",
+        "status": 200,
+        "bytes": 23637,
+        "sha256": "781f19194255ca7bf147d129acd9a07ac5e152d345967090a4560690dadf2e6c",
+        "expected_sha256": "781f19194255ca7bf147d129acd9a07ac5e152d345967090a4560690dadf2e6c",
+        "matches": true
+      },
+      {
+        "path": "knowledge/search-index.json",
+        "url": "https://knowledgewalk.net/knowledge/search-index.json",
+        "final_url": "https://knowledgewalk.net/knowledge/search-index.json",
+        "status": 200,
+        "bytes": 3293706,
+        "sha256": "9ffa3d4cabfcafd6777272332df848a0ede731765c5d65d4b656392a2672e98c",
+        "expected_sha256": "9ffa3d4cabfcafd6777272332df848a0ede731765c5d65d4b656392a2672e98c",
+        "matches": true
+      },
+      {
+        "path": "knowledge/search.html",
+        "url": "https://knowledgewalk.net/knowledge/search.html",
+        "final_url": "https://knowledgewalk.net/knowledge/search.html",
+        "status": 200,
+        "bytes": 643951,
+        "sha256": "eaa33620b06ed0231f34999695cbfb8f48a31d81c95503aae25b75aa33e86288",
+        "expected_sha256": "eaa33620b06ed0231f34999695cbfb8f48a31d81c95503aae25b75aa33e86288",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/buenos-aires-1776-port-silver-and-local-power/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/buenos-aires-1776-port-silver-and-local-power/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/buenos-aires-1776-port-silver-and-local-power/index.html",
+        "status": 200,
+        "bytes": 18240,
+        "sha256": "068b688d0ef6d018e74229d8becdd337670db75959ac04e0ae0c9e241422e164",
+        "expected_sha256": "068b688d0ef6d018e74229d8becdd337670db75959ac04e0ae0c9e241422e164",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/fibonacci-1202-liber-abaci-and-traveling-numerals/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/fibonacci-1202-liber-abaci-and-traveling-numerals/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/fibonacci-1202-liber-abaci-and-traveling-numerals/index.html",
+        "status": 200,
+        "bytes": 19002,
+        "sha256": "984c6584c9a3db067ddf3b629dd4efbf240e55edf7c07a1140295ea43b53f614",
+        "expected_sha256": "984c6584c9a3db067ddf3b629dd4efbf240e55edf7c07a1140295ea43b53f614",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/germany-1883-social-insurance-contributions-and-risk/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/germany-1883-social-insurance-contributions-and-risk/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/germany-1883-social-insurance-contributions-and-risk/index.html",
+        "status": 200,
+        "bytes": 18202,
+        "sha256": "36f859dca31e161fc27d51a8b210bdaa16b1ad164412667662998b029ee14747",
+        "expected_sha256": "36f859dca31e161fc27d51a8b210bdaa16b1ad164412667662998b029ee14747",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/haiti-1791-revolution-emancipation-and-independence/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/haiti-1791-revolution-emancipation-and-independence/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/haiti-1791-revolution-emancipation-and-independence/index.html",
+        "status": 200,
+        "bytes": 18080,
+        "sha256": "d0349dfe73529aca5146b0f3e61b75c4454db108d461255ff789a50d369728b8",
+        "expected_sha256": "d0349dfe73529aca5146b0f3e61b75c4454db108d461255ff789a50d369728b8",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/hobbes-1651-leviathan-common-power-and-security/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/hobbes-1651-leviathan-common-power-and-security/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/hobbes-1651-leviathan-common-power-and-security/index.html",
+        "status": 200,
+        "bytes": 19058,
+        "sha256": "5f462a678e6c9f4e350a864860221a482db9f20574161669346887037d0a7897",
+        "expected_sha256": "5f462a678e6c9f4e350a864860221a482db9f20574161669346887037d0a7897",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/isfahan-armenian-merchants-silk-and-displacement/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/isfahan-armenian-merchants-silk-and-displacement/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/isfahan-armenian-merchants-silk-and-displacement/index.html",
+        "status": 200,
+        "bytes": 18239,
+        "sha256": "cb6919ad1b259723aaca6e01cb42b1ca826f71a275eabcfc3f28c1aba7404348",
+        "expected_sha256": "cb6919ad1b259723aaca6e01cb42b1ca826f71a275eabcfc3f28c1aba7404348",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/malacca-1511-port-law-and-moving-trade/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/malacca-1511-port-law-and-moving-trade/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/malacca-1511-port-law-and-moving-trade/index.html",
+        "status": 200,
+        "bytes": 18190,
+        "sha256": "27513a2c29f7ef896ecf17c53f064f906b3bc9fa13b1c69321c8bf13b3349027",
+        "expected_sha256": "27513a2c29f7ef896ecf17c53f064f906b3bc9fa13b1c69321c8bf13b3349027",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/new-zealand-1893-women-vote-and-parliament/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/new-zealand-1893-women-vote-and-parliament/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/new-zealand-1893-women-vote-and-parliament/index.html",
+        "status": 200,
+        "bytes": 18472,
+        "sha256": "ea29f853e6b184a3f0b46eedb7cdc6fe2fc7c4d41b6b20d2a646ba83d1023055",
+        "expected_sha256": "ea29f853e6b184a3f0b46eedb7cdc6fe2fc7c4d41b6b20d2a646ba83d1023055",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/songhai-1591-tondibi-guns-and-imperial-fragility/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/songhai-1591-tondibi-guns-and-imperial-fragility/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/songhai-1591-tondibi-guns-and-imperial-fragility/index.html",
+        "status": 200,
+        "bytes": 17876,
+        "sha256": "6fbfde39cbba5859d5e11b359356695ed488688c0373f099ac92531098802ccb",
+        "expected_sha256": "6fbfde39cbba5859d5e11b359356695ed488688c0373f099ac92531098802ccb",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/vesalius-1543-fabrica-observation-and-print/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/vesalius-1543-fabrica-observation-and-print/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/vesalius-1543-fabrica-observation-and-print/index.html",
+        "status": 200,
+        "bytes": 18346,
+        "sha256": "a4c543e55f585d1418090edbe0ca7ac12020de328f68486621f2e23ef7a59db4",
+        "expected_sha256": "a4c543e55f585d1418090edbe0ca7ac12020de328f68486621f2e23ef7a59db4",
+        "matches": true
+      },
+      {
+        "path": "media/buenos-aires-1776-port-silver-and-local-power.jpg",
+        "url": "https://knowledgewalk.net/media/buenos-aires-1776-port-silver-and-local-power.jpg",
+        "final_url": "https://knowledgewalk.net/media/buenos-aires-1776-port-silver-and-local-power.jpg",
+        "status": 200,
+        "bytes": 141923,
+        "sha256": "21dc47cd490be4a9ba0161c02aaeffad4c6c06d12560c3c93e1be08a0c299b0b",
+        "expected_sha256": "21dc47cd490be4a9ba0161c02aaeffad4c6c06d12560c3c93e1be08a0c299b0b",
+        "matches": true
+      },
+      {
+        "path": "media/fibonacci-1202-liber-abaci-and-traveling-numerals.png",
+        "url": "https://knowledgewalk.net/media/fibonacci-1202-liber-abaci-and-traveling-numerals.png",
+        "final_url": "https://knowledgewalk.net/media/fibonacci-1202-liber-abaci-and-traveling-numerals.png",
+        "status": 200,
+        "bytes": 28055,
+        "sha256": "ff5198ccbd81b8ac81a7bb03d89e5fb5a16ee895ecafd3c24d5624c71432d45d",
+        "expected_sha256": "ff5198ccbd81b8ac81a7bb03d89e5fb5a16ee895ecafd3c24d5624c71432d45d",
+        "matches": true
+      },
+      {
+        "path": "media/germany-1883-social-insurance-contributions-and-risk.jpg",
+        "url": "https://knowledgewalk.net/media/germany-1883-social-insurance-contributions-and-risk.jpg",
+        "final_url": "https://knowledgewalk.net/media/germany-1883-social-insurance-contributions-and-risk.jpg",
+        "status": 200,
+        "bytes": 64316,
+        "sha256": "7041c129553479ab9520bc5459a8f663a7cc1a48b3808fd1f61132d523ad8f3f",
+        "expected_sha256": "7041c129553479ab9520bc5459a8f663a7cc1a48b3808fd1f61132d523ad8f3f",
+        "matches": true
+      },
+      {
+        "path": "media/haiti-1791-revolution-emancipation-and-independence.jpg",
+        "url": "https://knowledgewalk.net/media/haiti-1791-revolution-emancipation-and-independence.jpg",
+        "final_url": "https://knowledgewalk.net/media/haiti-1791-revolution-emancipation-and-independence.jpg",
+        "status": 200,
+        "bytes": 604047,
+        "sha256": "47a44d3a779de86310b7d926cc8e8d69ef9727c77c11da5a4eb03f29b8ec0b06",
+        "expected_sha256": "47a44d3a779de86310b7d926cc8e8d69ef9727c77c11da5a4eb03f29b8ec0b06",
+        "matches": true
+      },
+      {
+        "path": "media/hobbes-1651-leviathan-common-power-and-security.png",
+        "url": "https://knowledgewalk.net/media/hobbes-1651-leviathan-common-power-and-security.png",
+        "final_url": "https://knowledgewalk.net/media/hobbes-1651-leviathan-common-power-and-security.png",
+        "status": 200,
+        "bytes": 388238,
+        "sha256": "160083e5dddee29eff64682643c16bb9a04ffbed07712828869315f14a7230b8",
+        "expected_sha256": "160083e5dddee29eff64682643c16bb9a04ffbed07712828869315f14a7230b8",
+        "matches": true
+      },
+      {
+        "path": "media/isfahan-armenian-merchants-silk-and-displacement.jpg",
+        "url": "https://knowledgewalk.net/media/isfahan-armenian-merchants-silk-and-displacement.jpg",
+        "final_url": "https://knowledgewalk.net/media/isfahan-armenian-merchants-silk-and-displacement.jpg",
+        "status": 200,
+        "bytes": 409030,
+        "sha256": "ce8f454e91d8a430533a7df837d0661c6590b9f7b8c0bc5441fa8c42a88b23aa",
+        "expected_sha256": "ce8f454e91d8a430533a7df837d0661c6590b9f7b8c0bc5441fa8c42a88b23aa",
+        "matches": true
+      },
+      {
+        "path": "media/malacca-1511-port-law-and-moving-trade.jpg",
+        "url": "https://knowledgewalk.net/media/malacca-1511-port-law-and-moving-trade.jpg",
+        "final_url": "https://knowledgewalk.net/media/malacca-1511-port-law-and-moving-trade.jpg",
+        "status": 200,
+        "bytes": 108683,
+        "sha256": "ea39b1349c48418f43068e86d8c861734d7e832fca6db97fd7f896e3a43ddf8c",
+        "expected_sha256": "ea39b1349c48418f43068e86d8c861734d7e832fca6db97fd7f896e3a43ddf8c",
+        "matches": true
+      },
+      {
+        "path": "media/new-zealand-1893-women-vote-and-parliament.jpg",
+        "url": "https://knowledgewalk.net/media/new-zealand-1893-women-vote-and-parliament.jpg",
+        "final_url": "https://knowledgewalk.net/media/new-zealand-1893-women-vote-and-parliament.jpg",
+        "status": 200,
+        "bytes": 68136,
+        "sha256": "220900f0882cca9c695a2070d33542edc4dce1221a433cd6daf8662866adf7e8",
+        "expected_sha256": "220900f0882cca9c695a2070d33542edc4dce1221a433cd6daf8662866adf7e8",
+        "matches": true
+      },
+      {
+        "path": "media/songhai-1591-tondibi-guns-and-imperial-fragility.jpg",
+        "url": "https://knowledgewalk.net/media/songhai-1591-tondibi-guns-and-imperial-fragility.jpg",
+        "final_url": "https://knowledgewalk.net/media/songhai-1591-tondibi-guns-and-imperial-fragility.jpg",
+        "status": 200,
+        "bytes": 589215,
+        "sha256": "d0c83d41b033ccb821c867f218777f6f1b025396b50e53894727cd54f8e96df7",
+        "expected_sha256": "d0c83d41b033ccb821c867f218777f6f1b025396b50e53894727cd54f8e96df7",
+        "matches": true
+      },
+      {
+        "path": "media/vesalius-1543-fabrica-observation-and-print.jpg",
+        "url": "https://knowledgewalk.net/media/vesalius-1543-fabrica-observation-and-print.jpg",
+        "final_url": "https://knowledgewalk.net/media/vesalius-1543-fabrica-observation-and-print.jpg",
+        "status": 200,
+        "bytes": 210161,
+        "sha256": "c4b58d220695eca0c7e3fdc46aae42aa6bb3542f5ab59b0e2cd53ce716abb3c9",
+        "expected_sha256": "c4b58d220695eca0c7e3fdc46aae42aa6bb3542f5ab59b0e2cd53ce716abb3c9",
+        "matches": true
+      },
+      {
+        "path": "search-index.json",
+        "url": "https://knowledgewalk.net/search-index.json",
+        "final_url": "https://knowledgewalk.net/search-index.json",
+        "status": 200,
+        "bytes": 3281802,
+        "sha256": "6a77f06b5cf4a437f1edf7d5fd7252cd2d80c70c59b03fa7d6800ec820718f3f",
+        "expected_sha256": "6a77f06b5cf4a437f1edf7d5fd7252cd2d80c70c59b03fa7d6800ec820718f3f",
+        "matches": true
+      },
+      {
+        "path": "search.html",
+        "url": "https://knowledgewalk.net/search.html",
+        "final_url": "https://knowledgewalk.net/search.html",
+        "status": 200,
+        "bytes": 636011,
+        "sha256": "048ef62d67789b44d0a661b539c83591962625f8f4cd399482f4be79e58896d9",
+        "expected_sha256": "048ef62d67789b44d0a661b539c83591962625f8f4cd399482f4be79e58896d9",
+        "matches": true
+      },
+      {
+        "path": "site-assets/site.css",
+        "url": "https://knowledgewalk.net/site-assets/site.css",
+        "final_url": "https://knowledgewalk.net/site-assets/site.css",
+        "status": 200,
+        "bytes": 22573,
+        "sha256": "153a6ace705d6b64299a2478966fb0e8a2bab87839bf7b9a84da6f518248dd78",
+        "expected_sha256": "153a6ace705d6b64299a2478966fb0e8a2bab87839bf7b9a84da6f518248dd78",
+        "matches": true
+      },
+      {
+        "path": "site-assets/site.js",
+        "url": "https://knowledgewalk.net/site-assets/site.js",
+        "final_url": "https://knowledgewalk.net/site-assets/site.js",
+        "status": 200,
+        "bytes": 11929,
+        "sha256": "38d500743d2517a77be207bf7d6a1de2f5931a925d47f99ec5357afb7b43fe07",
+        "expected_sha256": "38d500743d2517a77be207bf7d6a1de2f5931a925d47f99ec5357afb7b43fe07",
+        "matches": true
+      },
+      {
+        "path": "site-assets/split.css",
+        "url": "https://knowledgewalk.net/site-assets/split.css",
+        "final_url": "https://knowledgewalk.net/site-assets/split.css",
+        "status": 200,
+        "bytes": 5012,
+        "sha256": "b18f21fe7b96c8fa04e1fb4d4977bc091986ac71dc9954471b694f170cc5b1ed",
+        "expected_sha256": "b18f21fe7b96c8fa04e1fb4d4977bc091986ac71dc9954471b694f170cc5b1ed",
+        "matches": true
+      },
+      {
+        "path": "sitemap.xml",
+        "url": "https://knowledgewalk.net/sitemap.xml",
+        "final_url": "https://knowledgewalk.net/sitemap.xml",
+        "status": 200,
+        "bytes": 68437,
+        "sha256": "e80abadbb94e803392379cee59588989f14e094fe13db6a3b3e20752b92a89b8",
+        "expected_sha256": "e80abadbb94e803392379cee59588989f14e094fe13db6a3b3e20752b92a89b8",
+        "matches": true
+      },
+      {
+        "path": "stories/buenos-aires-1776-port-silver-and-local-power/index.html",
+        "url": "https://knowledgewalk.net/stories/buenos-aires-1776-port-silver-and-local-power/index.html",
+        "final_url": "https://knowledgewalk.net/stories/buenos-aires-1776-port-silver-and-local-power/index.html",
+        "status": 200,
+        "bytes": 16285,
+        "sha256": "59142833b683051999024d3eace617ea0472db28b41f56da40e27d1a5207aeff",
+        "expected_sha256": "59142833b683051999024d3eace617ea0472db28b41f56da40e27d1a5207aeff",
+        "matches": true
+      },
+      {
+        "path": "stories/fibonacci-1202-liber-abaci-and-traveling-numerals/index.html",
+        "url": "https://knowledgewalk.net/stories/fibonacci-1202-liber-abaci-and-traveling-numerals/index.html",
+        "final_url": "https://knowledgewalk.net/stories/fibonacci-1202-liber-abaci-and-traveling-numerals/index.html",
+        "status": 200,
+        "bytes": 17012,
+        "sha256": "c70af305fe735f72c744dbeec5b25cf7591a86158aaa0ede3769c4c803a09fb0",
+        "expected_sha256": "c70af305fe735f72c744dbeec5b25cf7591a86158aaa0ede3769c4c803a09fb0",
+        "matches": true
+      },
+      {
+        "path": "stories/germany-1883-social-insurance-contributions-and-risk/index.html",
+        "url": "https://knowledgewalk.net/stories/germany-1883-social-insurance-contributions-and-risk/index.html",
+        "final_url": "https://knowledgewalk.net/stories/germany-1883-social-insurance-contributions-and-risk/index.html",
+        "status": 200,
+        "bytes": 16223,
+        "sha256": "df3317c18d06f23d66c683c63d2ef4eaca9b49fd5a73280d1f53469d86bfa34d",
+        "expected_sha256": "df3317c18d06f23d66c683c63d2ef4eaca9b49fd5a73280d1f53469d86bfa34d",
+        "matches": true
+      },
+      {
+        "path": "stories/haiti-1791-revolution-emancipation-and-independence/index.html",
+        "url": "https://knowledgewalk.net/stories/haiti-1791-revolution-emancipation-and-independence/index.html",
+        "final_url": "https://knowledgewalk.net/stories/haiti-1791-revolution-emancipation-and-independence/index.html",
+        "status": 200,
+        "bytes": 16133,
+        "sha256": "4f5454b56edd6032070255feffe5fc9c6460ba4f52b58c717daa5d9190391766",
+        "expected_sha256": "4f5454b56edd6032070255feffe5fc9c6460ba4f52b58c717daa5d9190391766",
+        "matches": true
+      },
+      {
+        "path": "stories/hobbes-1651-leviathan-common-power-and-security/index.html",
+        "url": "https://knowledgewalk.net/stories/hobbes-1651-leviathan-common-power-and-security/index.html",
+        "final_url": "https://knowledgewalk.net/stories/hobbes-1651-leviathan-common-power-and-security/index.html",
+        "status": 200,
+        "bytes": 17044,
+        "sha256": "af8d892c0881e795edafb2f4d68a152d6e54b8060373112b8a4ff67c2543afd0",
+        "expected_sha256": "af8d892c0881e795edafb2f4d68a152d6e54b8060373112b8a4ff67c2543afd0",
+        "matches": true
+      },
+      {
+        "path": "stories/isfahan-armenian-merchants-silk-and-displacement/index.html",
+        "url": "https://knowledgewalk.net/stories/isfahan-armenian-merchants-silk-and-displacement/index.html",
+        "final_url": "https://knowledgewalk.net/stories/isfahan-armenian-merchants-silk-and-displacement/index.html",
+        "status": 200,
+        "bytes": 16205,
+        "sha256": "b7d6cc0b2056b5d8dc31dde026886ecd87570364723c4232456fbd4d54b03aaf",
+        "expected_sha256": "b7d6cc0b2056b5d8dc31dde026886ecd87570364723c4232456fbd4d54b03aaf",
+        "matches": true
+      },
+      {
+        "path": "stories/malacca-1511-port-law-and-moving-trade/index.html",
+        "url": "https://knowledgewalk.net/stories/malacca-1511-port-law-and-moving-trade/index.html",
+        "final_url": "https://knowledgewalk.net/stories/malacca-1511-port-law-and-moving-trade/index.html",
+        "status": 200,
+        "bytes": 16195,
+        "sha256": "a7301efb56d7e49c5bd827e7a8755d6be2707b09550a91d03a68e7d566b529b8",
+        "expected_sha256": "a7301efb56d7e49c5bd827e7a8755d6be2707b09550a91d03a68e7d566b529b8",
+        "matches": true
+      },
+      {
+        "path": "stories/new-zealand-1893-women-vote-and-parliament/index.html",
+        "url": "https://knowledgewalk.net/stories/new-zealand-1893-women-vote-and-parliament/index.html",
+        "final_url": "https://knowledgewalk.net/stories/new-zealand-1893-women-vote-and-parliament/index.html",
+        "status": 200,
+        "bytes": 16428,
+        "sha256": "1ae29f1475298892759e2212af58dd7c11ca718b9f2fee74193b352f1f5788df",
+        "expected_sha256": "1ae29f1475298892759e2212af58dd7c11ca718b9f2fee74193b352f1f5788df",
+        "matches": true
+      },
+      {
+        "path": "stories/songhai-1591-tondibi-guns-and-imperial-fragility/index.html",
+        "url": "https://knowledgewalk.net/stories/songhai-1591-tondibi-guns-and-imperial-fragility/index.html",
+        "final_url": "https://knowledgewalk.net/stories/songhai-1591-tondibi-guns-and-imperial-fragility/index.html",
+        "status": 200,
+        "bytes": 15790,
+        "sha256": "a767cd0cbb88c1dc54b94776cc0880479cb706e8a33b28f11fdd28bd48762413",
+        "expected_sha256": "a767cd0cbb88c1dc54b94776cc0880479cb706e8a33b28f11fdd28bd48762413",
+        "matches": true
+      },
+      {
+        "path": "stories/vesalius-1543-fabrica-observation-and-print/index.html",
+        "url": "https://knowledgewalk.net/stories/vesalius-1543-fabrica-observation-and-print/index.html",
+        "final_url": "https://knowledgewalk.net/stories/vesalius-1543-fabrica-observation-and-print/index.html",
+        "status": 200,
+        "bytes": 16356,
+        "sha256": "7df4a4fdaa99d50bf4e7fb6b471b26fa946352da068bc16b82b5bce2a5dae131",
+        "expected_sha256": "7df4a4fdaa99d50bf4e7fb6b471b26fa946352da068bc16b82b5bce2a5dae131",
+        "matches": true
+      }
+    ],
+    "passed": true
+  },
+  "github_actions": [
+    {
+      "conclusion": "success",
+      "databaseId": 43414940724,
+      "headSha": "b2f2a4ed5da7c39f79ae40ad4069ab0068e67469",
+      "name": "Validate KnowledgeWalk publication",
+      "status": "completed"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 43414940237,
+      "headSha": "b2f2a4ed5da7c39f79ae40ad4069ab0068e67469",
+      "name": "pages build and deployment",
+      "status": "completed"
+    }
+  ],
+  "local_tests_passed": 64,
+  "browser_checks": [
+    {
+      "id": "haiti-1791-revolution-emancipation-and-independence",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/haiti-1791-revolution-emancipation-and-independence/index.html"
+    },
+    {
+      "id": "malacca-1511-port-law-and-moving-trade",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/malacca-1511-port-law-and-moving-trade/index.html"
+    },
+    {
+      "id": "songhai-1591-tondibi-guns-and-imperial-fragility",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/songhai-1591-tondibi-guns-and-imperial-fragility/index.html"
+    },
+    {
+      "id": "buenos-aires-1776-port-silver-and-local-power",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/buenos-aires-1776-port-silver-and-local-power/index.html"
+    },
+    {
+      "id": "isfahan-armenian-merchants-silk-and-displacement",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/isfahan-armenian-merchants-silk-and-displacement/index.html"
+    },
+    {
+      "id": "germany-1883-social-insurance-contributions-and-risk",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/germany-1883-social-insurance-contributions-and-risk/index.html"
+    },
+    {
+      "id": "new-zealand-1893-women-vote-and-parliament",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/new-zealand-1893-women-vote-and-parliament/index.html"
+    },
+    {
+      "id": "fibonacci-1202-liber-abaci-and-traveling-numerals",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/fibonacci-1202-liber-abaci-and-traveling-numerals/index.html"
+    },
+    {
+      "id": "vesalius-1543-fabrica-observation-and-print",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/vesalius-1543-fabrica-observation-and-print/index.html"
+    },
+    {
+      "id": "hobbes-1651-leviathan-common-power-and-security",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/hobbes-1651-leviathan-common-power-and-security/index.html"
+    },
+    {
+      "id": "haiti-1791-revolution-emancipation-and-independence",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/haiti-1791-revolution-emancipation-and-independence/index.html"
+    },
+    {
+      "id": "malacca-1511-port-law-and-moving-trade",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/malacca-1511-port-law-and-moving-trade/index.html"
+    },
+    {
+      "id": "songhai-1591-tondibi-guns-and-imperial-fragility",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/songhai-1591-tondibi-guns-and-imperial-fragility/index.html"
+    },
+    {
+      "id": "buenos-aires-1776-port-silver-and-local-power",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/buenos-aires-1776-port-silver-and-local-power/index.html"
+    },
+    {
+      "id": "isfahan-armenian-merchants-silk-and-displacement",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/isfahan-armenian-merchants-silk-and-displacement/index.html"
+    },
+    {
+      "id": "germany-1883-social-insurance-contributions-and-risk",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/germany-1883-social-insurance-contributions-and-risk/index.html"
+    },
+    {
+      "id": "new-zealand-1893-women-vote-and-parliament",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/new-zealand-1893-women-vote-and-parliament/index.html"
+    },
+    {
+      "id": "fibonacci-1202-liber-abaci-and-traveling-numerals",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/fibonacci-1202-liber-abaci-and-traveling-numerals/index.html"
+    },
+    {
+      "id": "vesalius-1543-fabrica-observation-and-print",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/vesalius-1543-fabrica-observation-and-print/index.html"
+    },
+    {
+      "id": "hobbes-1651-leviathan-common-power-and-security",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/hobbes-1651-leviathan-common-power-and-security/index.html"
+    }
+  ],
+  "central_america_mobile": "Haiti link visible; page renders without horizontal overflow"
+}
