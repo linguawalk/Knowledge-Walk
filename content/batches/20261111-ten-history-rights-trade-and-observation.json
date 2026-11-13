@@ -1,0 +1,28 @@
+{
+  "id": "20261111-ten-history-rights-trade-and-observation",
+  "title": "역사 이야기 10편 — 권리와 교역, 관찰이 바꾼 세계",
+  "story_ids": [
+    "haiti-1791-revolution-emancipation-and-independence",
+    "malacca-1511-port-law-and-moving-trade",
+    "songhai-1591-tondibi-guns-and-imperial-fragility",
+    "buenos-aires-1776-port-silver-and-local-power",
+    "isfahan-armenian-merchants-silk-and-displacement",
+    "germany-1883-social-insurance-contributions-and-risk",
+    "new-zealand-1893-women-vote-and-parliament",
+    "fibonacci-1202-liber-abaci-and-traveling-numerals",
+    "vesalius-1543-fabrica-observation-and-print",
+    "hobbes-1651-leviathan-common-power-and-security"
+  ],
+  "countries": {
+    "haiti-1791-revolution-emancipation-and-independence": "아이티",
+    "malacca-1511-port-law-and-moving-trade": "말레이시아",
+    "songhai-1591-tondibi-guns-and-imperial-fragility": "말리",
+    "buenos-aires-1776-port-silver-and-local-power": "아르헨티나",
+    "isfahan-armenian-merchants-silk-and-displacement": "이란",
+    "germany-1883-social-insurance-contributions-and-risk": "독일",
+    "new-zealand-1893-women-vote-and-parliament": "뉴질랜드",
+    "fibonacci-1202-liber-abaci-and-traveling-numerals": "이탈리아",
+    "vesalius-1543-fabrica-observation-and-print": "이탈리아",
+    "hobbes-1651-leviathan-common-power-and-security": "영국"
+  }
+}

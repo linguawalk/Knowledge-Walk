@@ -7,3 +7,4 @@
 | [A4를 반으로 접어도 비슷한 모양인 이유](a4-fold-same-shape.md) | 자료 대조·공개 게시 승인 완료 |
 | [여섯 개의 점으로 얼마나 많은 모양을 만들까](braille-six-dots.md) | 자료 대조·공개 게시 승인 완료 |
 | [그림자로 지구를 잰 사람 — 에라토스테네스의 계산](eratosthenes-shadow-earth-circumference.md) | 자료 대조·공개 게시 승인 완료 |
+| [피보나치의 산반서 — 상인의 계산법은 왜 바다를 건넜을까](fibonacci-1202-liber-abaci-and-traveling-numerals.md) | 자료 대조 완료 · 게시 승인 대기 |

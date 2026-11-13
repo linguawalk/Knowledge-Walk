@@ -16,6 +16,8 @@
 | [폐번치현 — 영주의 땅은 어떻게 중앙정부의 지도가 되었을까](japan-1871-domains-prefectures-and-central-power.md) | 자료 대조·공개 게시 승인 완료 |
 | [메이지의 학교 — 모두가 배우게 된다는 말은 어떻게 제도가 되었을까](japan-1872-schools-learning-and-state.md) | 자료 대조·공개 게시 승인 완료 |
 | [메이지 헌법 — 의회가 생기면 국민이 주권자가 되는 걸까](japan-1889-constitution-sovereignty-and-voting.md) | 자료 대조·공개 게시 승인 완료 |
+| [말라카 — 항구를 점령하면 바다의 장사도 차지할 수 있을까](malacca-1511-port-law-and-moving-trade.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [뉴질랜드 1893 — 투표할 권리와 출마할 권리는 왜 따로 왔을까](new-zealand-1893-women-vote-and-parliament.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [갑골문 — 왕이 내일을 물었더니 질문이 남았다](oracle-bones-questions-and-written-traces.md) | 자료 대조·공개 게시 승인 완료 |
 | [페리의 흑선 — 배가 도착했다고 모든 항구가 열린 것은 아니다](perry-1853-black-ships-and-negotiated-ports.md) | 자료 대조·공개 게시 승인 완료 |
 | [병마용 — 황제의 군대는 왜 땅속에 서 있을까](qin-terracotta-army-faces-and-afterlife.md) | 자료 대조·공개 게시 승인 완료 |

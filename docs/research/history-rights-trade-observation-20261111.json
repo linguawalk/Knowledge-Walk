@@ -1,0 +1,737 @@
+{
+  "date": "2026-11-11",
+  "batch_id": "20261111-ten-history-rights-trade-and-observation",
+  "status": "source_review_complete_publication_not_approved",
+  "counts": {
+    "originals": 486,
+    "approved": 463,
+    "verified_unpublished": 20,
+    "pending_sources": 3
+  },
+  "sources": [
+    {
+      "id": "haiti-1791-revolution-emancipation-and-independence",
+      "body_characters": 2250,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00019/index.cnxml",
+          "status": 200,
+          "bytes": 55707,
+          "sha256": "55834a8c2e2b51e6c4b400d7f4e195b5a8d27f007dc1f6867ddf7cf20f1056e7",
+          "title": "OpenStax, World History Volume 2 — Revolutions: America, France, and Haiti",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "Saint-Domingue",
+              "excerpt": "Perhaps even more paradoxical was the contradiction between Enlightenment ideals of liberty that fueled the revolution on one hand and France’s ongoing colonialism, exploitation of slave labor, and discrimination against free people of color on the other. Except for a brief period during the Reign of Terror, France continued to uphold the institution of slavery in its colonies. In particular, in the colony of Saint-Domingue, now known as Haiti, few if any rights were extended to enslaved or free people of color in the wake of the French Revolution. Ultimately, then, the legacy of revolution in France was mixed."
+            },
+            {
+              "needle": "Louverture",
+              "excerpt": "With François-Dominique Toussaint Louverture, a military leader and formerly enslaved man, at the helm, many reforms were brought to the island of Hispaniola, which included Saint-Domingue and the Dominican Republic (). Louverture freed the enslaved people in both colonies in 1801. He then promoted a constitution for the new nation of Haiti, which he nevertheless maintained was still part of the French Empire. The constitution was based on principles of natural rights and social contract theory similar to those that had guided the French and American Revolutions, but it also made Louverture governor-general of Haiti for life, gave him extensi"
+            },
+            {
+              "needle": "1804",
+              "excerpt": "Following the Terror’s failure, the revolution took a more conservative turn, and the idealism of the French Revolution came to an end. The modern democratic tradition emerging in France then transformed into popular authoritarianism when Napoléon seized control. Although he safeguarded some revolutionary gains, Napoléon also reinstated slavery in France’s colonies and declared himself emperor in 1804. At the height of his power, he ruled over a massive empire."
+            },
+            {
+              "needle": "1825",
+              "excerpt": "Although Napoléon attempted to reinstate slavery and reclaim French control of Saint-Domingue in 1802, his army was overpowered by the rebel army and Louverture’s successor, Jean-Jacques Dessalines. Dessalines and his victorious forces thereafter renamed their country Haiti, a term meaning mountainous that derived from the Taíno language of the precolonial people. After Dessalines declared Haiti’s sovereign independence on January 1, 1804, White plantation owners either fled or were killed, and lands were redistributed among Haiti’s former enslaved and free Black people. Despite the promise of Haiti’s fledgling nationhood, however, in 1825, F"
+            }
+          ],
+          "supports": [
+            "생도맹그의 계층/1791봉기·보두/1794프랑스 폐지/루베르튀르1801헌법과 강제 농장노동/1802체포·1804독립/독립 뒤 폭력·1825배상. 해방과 독립, 보편적 권리의 실현을 구분."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "malacca-1511-port-law-and-moving-trade",
+      "body_characters": 2231,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00009/index.cnxml",
+          "status": 200,
+          "bytes": 29344,
+          "sha256": "2dd2bb8488da66b1a76447defdf94134ecf6619a401811b7b2679e9483211dfe",
+          "title": "OpenStax, World History Volume 2 — The Malacca Sultanate",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "shahbandar",
+              "excerpt": "Assisting the sultans of Malacca to maintain control over the city were nine elite knights. Preeminent among them was Hang Tuah, who spoke multiple languages including Arabic, Persian, and Mandarin and was adept in the use of numerous weapons. It was his responsibility to guard the seas surrounding the Straits of Malacca and keep them free of pirates. Order was also maintained by the establishment of the office of shahbandar. Foreign traders were divided among four separate districts in the city, and each district was assigned an official known as the shahbandar to supervise them and collect taxes."
+            },
+            {
+              "needle": "1511",
+              "excerpt": "In 1511, the Portuguese military commander Alfonso de Albuquerque arrived from India at the head of a large fleet bearing more than one thousand armed troops and demanded the return of those Portuguese who had been taken prisoner the year before. The sultan delayed as he attempted to assemble an army to defeat the Portuguese, but after a week of waiting, Albuquerque bombarded the city. The prisoners were promptly released, but the sultan refused Albuquerque’s demands for reparations and the right to build a fortress. Albuquerque then landed his troops in the city with the help of Hindu, Chinese, and Burmese merchants, who hoped to use Portugu"
+            },
+            {
+              "needle": "Johor",
+              "excerpt": "Things did not go quite as the Portuguese planned, however. The deposed sultan established a new base in the Riau Islands of Indonesia and from there launched attacks on the Portuguese in Malacca. Following his death in 1528, Mahmud Shah’s sons continued to attack the Portuguese from their kingdoms in Johor and Perak. Unwilling to do business in Portuguese Malacca, many Muslim merchants avoided the port and conducted trade in either Johor or the Sultanate of Aceh on the northern coast of Sumatra."
+            }
+          ],
+          "supports": [
+            "해협 위치·다양한 정착 상인·명과의 관계·샤반다르·법과 말레이어/1509포르투갈 도착·1511점령/조호르·아체로의 교역 이동. 모든 교역의 유일 통로, 전설적 창립, 논쟁적인 개종 시점은 쓰지 않음."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "songhai-1591-tondibi-guns-and-imperial-fragility",
+      "body_characters": 2262,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00041/index.cnxml",
+          "status": 200,
+          "bytes": 28122,
+          "sha256": "d362c928e1714983442fc70c750144c4f16ba1a62319fa147c27e2c798a0ae03",
+          "title": "OpenStax, World History Volume 2 — The Songhai Empire",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "1528",
+              "excerpt": "In 1528 Askia’s sons revolted, deposed him, and declared one of the brothers, Musa, king. Askia Musa’s accession was not smooth, however, and civil war erupted. As Askia Musa waged battle against his kin to retain his position, dozens of his relatives were killed. Musa himself fell victim to this strife and was killed by his brothers in 1531, deepening the crisis and further destabilizing the state. As successive rulers’ attempts at governing the empire failed, political chaos consumed the ruling class and military as they vied for control. Without effective administration from the center, Songhai weakened, and external groups began eyeing an"
+            },
+            {
+              "needle": "1591",
+              "excerpt": "In 1578, the Saadi had repulsed an invasion by the Portuguese, but only at an enormous cost, draining the imperial coffers. To stave off bankruptcy, Sultan Ahmad I al-Mansur Saadi cast about for new resources. All this unfolded just as a sense of stability and calm had returned to Songhai under the reign of Askia Ishaq II, which began in 1588. However, this revival of Songhai’s fortunes proved short-lived; the Saadi invaded in 1591. Although it was greatly outnumbered by the forces of Songhai, the Saadi army had an insurmountable advantage: a stockpile of guns, ammunition, and cannon supplied by Queen Elizabeth I of England, who hoped to make"
+            },
+            {
+              "needle": "standardized",
+              "excerpt": "Askia the Great extended his territory deeper into the desert through military conquest. The advance of Songhai’s army forced the Tuareg nomads to flee, which allowed the Songhai to capture the salt-producing center of Taghaza in the north. Askia did more to regulate trans-Saharan trade than any of his predecessors. He not only introduced the use of standardized weights and measures but also employed trade inspectors at each of the empire’s major trade centers. The Hausaland kingdoms recognized the revival of trade under the Songhai and its benefits and so came into the orbit of the Songhai Empire’s broader trading network."
+            },
+            {
+              "needle": "governors",
+              "excerpt": "On the death of Sunni Ali in 1492, his son Sonni Baru came to the throne but reigned less than a year. Muhammad Ture, one of Sunni Ali’s generals and provincial governors, challenged Sonni Baru, and when the two met in battle in April 1493, Sonni Baru was defeated. Muhammad Ture then usurped the throne and took power as Askia Muhammad, later known as Askia the Great. His reign marked the beginning of the Askia dynasty."
+            }
+          ],
+          "supports": [
+            "가오·세입·수니 알리·아스키아의 지방 관리/교역 검사·도량형·팀북투 학문/1528이후 계승 갈등·사디 왕조 재정/1591톤디비 패배·도시와 생산 기반 파괴/지역 분열. 정확한 병력 수와 영국이 모든 무기를 공급했다는 단정, 문화적 우열론은 제외."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buenos-aires-1776-port-silver-and-local-power",
+      "body_characters": 2236,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00014/index.cnxml",
+          "status": 200,
+          "bytes": 42241,
+          "sha256": "7b92114a73b583ec8834651878d5142dc75b132f34cd2239fe88aefb9878a66e",
+          "title": "OpenStax, World History Volume 2 — Spanish South America",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "1776",
+              "excerpt": "Like the port town of Caracas in the north, the port of Buenos Aires in the south reaped significant benefits from the eighteenth-century reforms aimed at developing the Spanish Empire’s outskirts. Formerly subject to the authority of the Spanish Viceroyalty of Peru, in 1776 Buenos Aires became the seat of the newly created Viceroyalty of Río de la Plata (modern-day Argentina, Bolivia, Paraguay, and Uruguay). The port was the principal outlet from which silver from Bolivia and animal hides and tallow from the vast plains of Argentina and Uruguay reached markets abroad. The town’s residents, known as Porteños, also enjoyed abundant opportuniti"
+            },
+            {
+              "needle": "Buenos Aires",
+              "excerpt": "From revolutionary Mexico in the northern hemisphere, rebellion rippled south. Spanish American nationalists in Mexico had gained momentum for their cause when they united against the peninsulares. The southern parts of the Spanish American empire underwent a similar experience because the patriot creole group also coveted the potential benefits of independence: free trade, control over tax revenue, and local governance. There were two initial focuses: one in northern South America led by Simón Bolívar from Caracas, and another in the far south of the continent led by José de San Martín from Buenos Aires. Under the leadership of Bolívar and S"
+            },
+            {
+              "needle": "1816",
+              "excerpt": "In March 1816, Argentina’s conservative local leaders invoked a congress in Tucumán. The congress declared the independence of the United Provinces of the Río de la Plata on July 9, 1816 (now Independence Day in Argentina), less as a sign of revolutionary militancy than as a practical recognition of their political situation. Resistance came not from faraway Spain but from the neighboring royalist provinces, Uruguay and Paraguay, when Argentina attempted once again to extend its authority there."
+            }
+          ],
+          "supports": [
+            "1776리오데라플라타 부왕령·항구/내륙 은·가죽·소기름/밀무역·도시 성장/1808왕권 위기·1810변화/주변 지역의 부에노스아이레스 지배 거부/1816독립. 본문에서 오늘날 국가와 당시 행정 영역을 구별."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "isfahan-armenian-merchants-silk-and-displacement",
+      "body_characters": 2247,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00061/index.cnxml",
+          "status": 200,
+          "bytes": 46704,
+          "sha256": "44182f43bc20bd863e7071cc6cf43d684517a29254816dc9c2f5ac5e449cc85c",
+          "title": "OpenStax, World History Volume 2 — The Safavid Empire",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "Armenian",
+              "excerpt": "The city center was unique. All levels of society could mix there, from members of the royal court whose pavilion overlooked the square, to the Shi‘ite clergy whose mosque was at the square’s southern end, to foreign dignitaries, members of the military, merchants, and commoners. A soup kitchen distributed free food to the needy, and occasionally the square was cleared for polo games, public ceremonies, and festivals. To populate his new capital, Abbas ordered several different populations to settle in it, including Armenians, Jewish people, Circassians, and other Caucasian peoples, many of whom had been displaced during his war against the O"
+            },
+            {
+              "needle": "1598",
+              "excerpt": "Despite near-constant war, during this time Iran reached new cultural and economic heights. In 1598, Abbas moved his capital from Qazvin to Isfahan in the central Iranian plateau, far from the constantly shifting borders with the Ottomans and Uzbeks and closer to the Persian Gulf and the newly arrived traders of the British and Dutch East India Companies. The city was built as a showpiece, with administrative buildings and public markets opening on the enormous Naqsh-e Jahan (“Exemplar of the world”) Square ()."
+            },
+            {
+              "needle": "silk",
+              "excerpt": "The Safavids were generally more tolerant of non-Muslim subjects than they were of the Sunni. Nevertheless, Safavid rulers were aggressive toward the Armenians, Georgians, and other Christians in the Caucasus region, whom they considered potentially rebellious. They sought to control these populations by enslaving or deporting their members, and nobles were often requested to convert to Shi‘ism. Christians elsewhere in the Safavid realm, however, were given considerable freedom to build churches and honor their own customs and beliefs. Abbas I was particularly lenient toward the Armenian Christian population of Isfahan, due to their participa"
+            }
+          ],
+          "supports": [
+            "1598이스파한 천도·아바스의 인구 이주 정책·코카서스 기독교 주민 강제 이동/아르메니아인의 비단 제조·수출과 교회/지역별 보호와 통제의 차이. 뉴줄파라는 별도 지명·정확한 이주 연도는 이 자료의 범위를 넘어 확정하지 않음."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "germany-1883-social-insurance-contributions-and-risk",
+      "body_characters": 2219,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00006/index.cnxml",
+          "status": 200,
+          "bytes": 37250,
+          "sha256": "0d1b108ba617189bc37a37cba122729c8b94f32ae66bffb79c0798600d1443e9",
+          "title": "OpenStax, World History Volume 2 — Regulation, Reform, and Revolutionary Ideologies",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "1883",
+              "excerpt": "In 1883, Germany passed the Health Insurance Law, requiring that employers provide health insurance for their employees, using money drawn from workers’ pay and added to employers’ contributions. In 1889, the German government extended insurance to the elderly and those with disabilities. In 1898, France also provided insurance to those injured at work. In 1911, Britain’s National Insurance Act provided for the health care of about one-third of British workers. In 1912, Russia passed a similar law."
+            },
+            {
+              "needle": "1889",
+              "excerpt": "Jacob A. Riis, an American social reformer and documentary photographer, often took photographs depicting urban life, such as this image of men and women sewing and ironing in a tenement factory around 1889. (credit: “Necktie workshop in a Division Street tenement” by Unknown/Library of Congress)"
+            },
+            {
+              "needle": "social democratic",
+              "excerpt": "One of the largest and most influential of the political parties that espoused social democracy was the German Social Democratic Party. Formed in 1875, it advocated laws to improve the conditions of the working class, and many of its members were elected to the German parliament. One of their chief goals was to reduce the number of hours people worked, and they were active in establishing many trade unions and passing laws to protect workers. Similar parties formed in other countries. The Federation of the Socialist Workers of France (FSWF) was established in 1879. The Social Democratic Party of Austria was founded in 1889."
+            }
+          ],
+          "supports": [
+            "1883독일 건강보험·노동자/고용주 부담/1889노령·장애 보험·다른 국가의 확대/노동조합·사회민주주의와 제도 변화. 특정 기금의 보험료율·수급 연령·모든 주민 적용 여부를 만들어 쓰지 않음."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "new-zealand-1893-women-vote-and-parliament",
+      "body_characters": 2235,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/The-History-of-Woman-Suffrage-Volume-IV_29870/master/29870-8.txt",
+          "sha256": "76f1adb01f354422c2b5606971dab2fe7bd5cdd92d6b9aa24ad0711337f2721b",
+          "bytes": 3221131,
+          "status": 200,
+          "title": "Susan B. Anthony·Ida Husted Harper 편, The History of Woman Suffrage, Vol. IV (1902), New Zealand",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "Kate W. Sheppard",
+              "excerpt": "n's Christian Temperance Union, and they now put forth increased energy, so that early in 1891 Mrs. Kate W. Sheppard, Franchise Superintendent, was able to report that many local unions had appointed franchise superintendents. With what effect they worked was shown when Sir John Hall presented in August, 1891, a petition for the suffrage seventy yards long, which was run out to the furthest end of the House; a row of Members ranged themselves on either side to inspect the signatures and found no two alike, as some seemed to expect. On September 4th Sir John Ha"
+            },
+            {
+              "needle": "In 1893 the Electoral Act",
+              "excerpt": " technical details between the two branches of the Legislature delayed its passage in the Council. In 1893 the Electoral Act of New Zealand conferred the Franchise on every person over twenty-one, although this did not carry the right to sit in Parliament. As a General Election was close at hand no time was lost in enrolling women on the register. The report of the New Zealand W. C. T. U. of 1893 supplies the following figures: Men. Women. On the Register 177,701 109,461 Voting at the Poll "
+            },
+            {
+              "needle": "Maori women",
+              "excerpt": "39 90,290 A lady present in Auckland during the election relates that the interest taken by the Maori women was very great and that nearly half the Maori votes registered in Auckland were those of women. The Hon. H. J. Seddon, Premier of New Zealand, when in England for the celebration of the Queen's jubilee in 1897, spoke of the measure as a great success, saying, \"It has come to stay.\" The Bishop of Auckland, speaking at the Church Congress in England that year, said \"it had led to no harm or inconvenience, but the men of New Zealand were wondering"
+            }
+          ],
+          "supports": [
+            "1878/1887/1891/1892의 법안과 상·하원 문턱/절제회·케이트 셰퍼드·청원/1893선거법·등록과 투표/마오리 여성 참여. 1893투표권과 1919의원 출마권은 별도 자료로 대조."
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/The-History-of-Woman-Suffrage-Volume-VI_30051/master/30051-8.txt",
+          "sha256": "03e9f55d32bbc9397ceceda76d94171af332debdc36e4a3ef1b46ecc2cd349ca",
+          "bytes": 2165845,
+          "status": 200,
+          "title": "Ida Husted Harper 편, The History of Woman Suffrage, Vol. VI (1922), New Zealand",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "New Zealand was the first country",
+              "excerpt": "ending from 1867 in New South Wales to 1894 in the Northwest Territories of Canada. NEW ZEALAND. New Zealand was the first country in the world to give full suffrage to women, its Parliament in 1893 conferring the franchise on all persons over 21. In case of women, however, this did not include the right to sit in Parliament, and, although efforts to secure this right were made at intervals during all the following years, the bill for it several times passing the Lower House, they were not successful until 1919. The unvarying record has been that the registration and vote o"
+            },
+            {
+              "needle": "until\n1919",
+              "excerpt": "he following years, the bill for it several times passing the Lower House, they were not successful until 1919. The unvarying record has been that the registration and vote of women have nearly averaged those of men and in some instances have exceeded them. In the election of 1919 the registration of men was 355,000; of women, 328,320. New Zealand is noted for its advanced legislation. AUSTRALIA. In 1901 the six States of Australia federated in a commonwealth with a National Parliament and one of its earliest acts in June, 1902, was to confer the comp"
+            }
+          ],
+          "supports": [
+            "1893년 투표권과 1919년 국회의원 출마 자격을 구별."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fibonacci-1202-liber-abaci-and-traveling-numerals",
+      "body_characters": 2227,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/The-Hindu-Arabic-Numerals_22599/master/22599-8.txt",
+          "sha256": "f35bd3d9850d39f242a6fcbc10c0aecb85622c7688167fb32187bea1f9f8c663",
+          "bytes": 350889,
+          "status": 200,
+          "html_url": "https://raw.githubusercontent.com/GITenberg/The-Hindu-Arabic-Numerals_22599/master/22599-h/22599-h.htm",
+          "title": "David E. Smith·Louis C. Karpinski, The Hindu-Arabic Numerals (1911), Chapter VIII",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "Leonardo's father was a commercial agent",
+              "excerpt": "n a traveler, and was naturally assumed by one who had studied, as Leonardo had, in foreign lands. Leonardo's father was a commercial agent at Bugia, the modern Bougie,[529] the ancient Saldae on the coast of Barbary,[530] a royal capital under the Vandals and again, a century before Leonardo, under the Beni Hammad. It had one of the best harbors on the coast, sheltered as it is by Mt. Lalla Guraia,[531] and at the close of the twelfth century it was a center of African commerce. It was here that Leonardo was taken as a child, and here he went to school to a Moorish master. When he "
+            },
+            {
+              "needle": "1202",
+              "excerpt": "gth in the chapter on the Introduction of the Numerals into Europe, wrote his _Liber Abbaci_[38] in 1202. In this work he refers frequently to the nine Indian figures,[39] thus showing again the general consensus of opinion in the Middle Ages that the numerals were of Hindu origin. Some interest also attaches to the oldest documents on arithmetic in our own language. One of the earliest {11} treatises on algorism is a commentary[40] on a set of verses called the _Carmen de Algorismo_, written by Alexander de Villa Dei (Alexandra de Ville-Dieu), a "
+            },
+            {
+              "needle": "rewriting it",
+              "excerpt": " compared with that of the Hindus.[532] Returning to Pisa, he wrote his _Liber Abaci_[533] in 1202, rewriting it in 1228.[534] In this work the numerals are explained and are used in the usual computations of business. Such a treatise was not destined to be popular, however, because it was too advanced for the mercantile class, and too novel for the conservative university circles. Indeed, at this time mathematics had only slight place in the newly established universities, as witness the oldest known statute of the Sorbonne at Paris, dated 1215, where the"
+            }
+          ],
+          "supports": [
+            "피사의 상업·부기아의 배움과 지중해 여행/산반서1202·1228개정/인도·아랍 숫자/보급의 시간·교재·기호의 다양한 형태. 숫자 발명자·유럽 최초 소개자·즉시 전면 교체라는 설명은 쓰지 않음."
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00017/index.cnxml",
+          "status": 200,
+          "bytes": 35850,
+          "sha256": "b28a594f5ef9e053ad52495db3efd5c23682c931e401cdd439f65d2717653619",
+          "title": "OpenStax, World History Volume 2 — The Enlightenment",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "Hobbes",
+              "excerpt": "Enlightened despots often invited renowned philosophers to their courts to help design laws and policies that would—at least in theory—protect the essence of the social contract. Frederick of Prussia, for example, invited the French philosopher Voltaire to live at his palace in Potsdam in 1750. Although the nature of authoritarian rule may seem at odds with the preservation of natural rights and the social contract, many philosophers developed political models that appealed to enlightened despots. Locke, Rousseau, and Thomas Hobbes are often lauded in traditional historical narratives for their defense of rights and freedoms. Hobbes maintaine"
+            },
+            {
+              "needle": "scientific traditions",
+              "excerpt": "Many of the components of Western science that, along with the ideas of the Italian Renaissance, inspired Enlightenment thought were built on scientific traditions developed in the Islamic world, which had absorbed ancient Greek and Indian systems of knowledge. In particular, Al-Andalus, the Muslim-ruled area of Spain and Portugal that rose to power in 711, began wielding significant influence on European intellectual activity in the eleventh and twelfth centuries. By preserving and translating the works of ancient Greek thinkers, such as Aristotle and Plato, that were not available in Europe at the time, Muslim scholars in Spain fueled both "
+            },
+            {
+              "needle": "Leviathan",
+              "excerpt": "In his influential political treatise Leviathan, English philosopher Thomas Hobbes argued that a strong government in the form of an absolute monarchy was the best means of ensuring political order and social stability. He asserted that without the guidance of a powerful sovereign, people would naturally be inclined toward self-interest, which would ultimately lead to chaos and anarchy. This image of the frontispiece from Leviathan presents a striking visual representation of Hobbes’s vision ()."
+            }
+          ],
+          "supports": [
+            "인도와 이슬람권·유럽 사이의 수학 지식 교류 맥락. 피보나치의 생애 직접 근거는 Smith·Karpinski."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vesalius-1543-fabrica-observation-and-print",
+      "body_characters": 2255,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/Andreas-Vesalius-the-Reformer-of-Anatomy_63456/master/63456-0.txt",
+          "sha256": "f3b38ed1e4ed7fed9606b7dcb6d49aadb93d2e0411b1956c147172aff3fdacd5",
+          "bytes": 238612,
+          "status": 200,
+          "html_url": "https://raw.githubusercontent.com/GITenberg/Andreas-Vesalius-the-Reformer-of-Anatomy_63456/master/63456-h/63456-h.htm",
+          "title": "James Moores Ball, Andreas Vesalius the Reformer of Anatomy (1910), Chapters VII–XI",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "6th day of December, 1537",
+              "excerpt": "o gain all the rights and privileges of a full-fledged physician, Vesalius settled in Padua. On the 6th day of December, 1537, shortly after having received his degree as Doctor of Medicine, Andreas Vesalius of Brussels was appointed Professor of Surgery with the right to teach Anatomy in the famous University of Padua. This, says Fisher, “was the first purely anatomical chair ever instituted”. From his own writings and from the manuscript notes of his loyal student, Vitus Tritonius, a fairly good idea of Vesalius’s teaching can be given. The first act of the young Pa"
+            },
+            {
+              "needle": "Oporinus",
+              "excerpt": "4 The Manuscript and Illustrations for the Fabrica are transported to Basel—Joannes Oporinus, the noted Printer and Greek Scholar—Publication of the Fabrica—Beauty of the Illustrations—Who was the unnamed Artist?—The Plates were erroneously ascribed to Titian—Christoforo Coriolano—Jan Stephan van Calcar—Popularity of the Illustrations among Artists and Anatomists. PUBLICATION OF THE EPITOME 95-97 Publication of the Epitome—Reasons for its "
+            },
+            {
+              "needle": "lower animals",
+              "excerpt": "ense, they were well acquainted with the anatomy of the bones. Their dissections were held upon the lower animals. It is impossible to determine whether or not the Greek physicians of the Hippocratic period dissected the human body. “It has long been a matter of debate”, says John Bell[3], “whether the ancients were, or were not, acquainted with anatomy, and the subject, with its various bearings, has been much and keenly agitated by the learned. If anatomy had been much known to the ancients, their knowledge would not have remained a subject of speculatio"
+            }
+          ],
+          "supports": [
+            "1537파도바·직접 해부와 강의/사람·동물 비교/1543인체의 구조·목판과 오포리누스/도판의 협업과 오류. 단독 영웅담·전 인류 최초라는 옛 저자의 과장·인종적 지식 우열·부검 일화는 제외."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hobbes-1651-leviathan-common-power-and-security",
+      "body_characters": 2320,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/Leviathan_3207/master/3207.txt",
+          "sha256": "db7e985a63a9ea2f9447a855471e10775f9d45e20a278ef395345778887c31aa",
+          "bytes": 1254881,
+          "status": 200,
+          "title": "Thomas Hobbes, Leviathan (1651), Chapters XIII, XVI–XVII",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "CHAPTER XIII.",
+              "excerpt": "e not onely amongst Catholiques, but even in that Church that hath presumed most of Reformation. CHAPTER XIII. OF THE NATURALL CONDITION OF MANKIND, AS CONCERNING THEIR FELICITY, AND MISERY Nature hath made men so equall, in the faculties of body, and mind; as that though there bee found one man sometimes manifestly stronger in body, or of quicker mind then another; yet when all is reckoned together, the difference between man, and man, is not so considerable, as that one man can thereupon claim to himselfe any benefit, to which another may not preten"
+            },
+            {
+              "needle": "one Man, or upon one Assembly",
+              "excerpt": "they may nourish themselves and live contentedly; is, to conferre all their power and strength upon one Man, or upon one Assembly of men, that may reduce all their Wills, by plurality of voices, unto one Will: which is as much as to say, to appoint one man, or Assembly of men, to beare their Person; and every one to owne, and acknowledge himselfe to be Author of whatsoever he that so beareth their Person, shall Act, or cause to be Acted, in those things which concerne the Common Peace and Safetie; and therein to submit their Wills, every one to his Will, and their Judgemen"
+            },
+            {
+              "needle": "The End Of Common-wealth, Particular Security",
+              "excerpt": " OF COMMON-WEALTH CHAPTER XVII. OF THE CAUSES, GENERATION, AND DEFINITION OF A COMMON-WEALTH The End Of Common-wealth, Particular Security The finall Cause, End, or Designe of men, (who naturally love Liberty, and Dominion over others,) in the introduction of that restraint upon themselves, (in which wee see them live in Common-wealths,) is the foresight of their own preservation, and of a more contented life thereby; that is to say, of getting themselves out from that miserable condition of Warre, which is necessarily consequent (as hath been shewn) to the naturall Passions of me"
+            }
+          ],
+          "supports": [
+            "13장 평등·불신·전쟁 상태/16~17장 공적 인격과 한 사람 또는 합의체·공동 권력·계약과 안전. 현대 국가 탄생의 실제 기록이나 인간 본성에 대한 실험적 증명으로 제시하지 않음."
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00017/index.cnxml",
+          "status": 200,
+          "bytes": 35850,
+          "sha256": "b28a594f5ef9e053ad52495db3efd5c23682c931e401cdd439f65d2717653619",
+          "title": "OpenStax, World History Volume 2 — The Enlightenment",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "Hobbes",
+              "excerpt": "Enlightened despots often invited renowned philosophers to their courts to help design laws and policies that would—at least in theory—protect the essence of the social contract. Frederick of Prussia, for example, invited the French philosopher Voltaire to live at his palace in Potsdam in 1750. Although the nature of authoritarian rule may seem at odds with the preservation of natural rights and the social contract, many philosophers developed political models that appealed to enlightened despots. Locke, Rousseau, and Thomas Hobbes are often lauded in traditional historical narratives for their defense of rights and freedoms. Hobbes maintaine"
+            },
+            {
+              "needle": "scientific traditions",
+              "excerpt": "Many of the components of Western science that, along with the ideas of the Italian Renaissance, inspired Enlightenment thought were built on scientific traditions developed in the Islamic world, which had absorbed ancient Greek and Indian systems of knowledge. In particular, Al-Andalus, the Muslim-ruled area of Spain and Portugal that rose to power in 711, began wielding significant influence on European intellectual activity in the eleventh and twelfth centuries. By preserving and translating the works of ancient Greek thinkers, such as Aristotle and Plato, that were not available in Europe at the time, Muslim scholars in Spain fueled both "
+            },
+            {
+              "needle": "Leviathan",
+              "excerpt": "In his influential political treatise Leviathan, English philosopher Thomas Hobbes argued that a strong government in the form of an absolute monarchy was the best means of ensuring political order and social stability. He asserted that without the guidance of a powerful sovereign, people would naturally be inclined toward self-interest, which would ultimately lead to chaos and anarchy. This image of the frontispiece from Leviathan presents a striking visual representation of Hobbes’s vision ()."
+            }
+          ],
+          "supports": [
+            "홉스의 강한 권력과 권리·사회계약의 역사적 논의, 1651표지 해설."
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00063/index.cnxml",
+          "status": 200,
+          "bytes": 39633,
+          "sha256": "be51f7ec95b35450cb6a26ceb3b1ce4630bcc72b8385dd342335d997156873c3",
+          "title": "OpenStax, World History Volume 2 — The Protestant Reformation",
+          "checked_at": "2026-11-11",
+          "evidence": [
+            {
+              "needle": "Charles I",
+              "excerpt": "The Catholic Holy Roman emperor Charles V (who was also Charles I of Spain) steadfastly opposed Protestantism. However, the 1555 Peace of Augsburg secured for rulers in the empire who were Lutheran (as Luther’s followers were called) the right to establish Lutheranism as the official religion within their lands if they wished. A prince’s subjects were obliged to support the church he chose. Many rulers in northern Germany became Lutheran, but in Austria and Bavaria, in the southern part of the German-speaking lands, the Roman Catholic Church retained its power. No other religions were accommodated."
+            }
+          ],
+          "supports": [
+            "잉글랜드 내전과 1649년 찰스 1세 처형의 역사적 배경."
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "haiti-1791-revolution-emancipation-and-independence",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B07_03_Crete.jpg",
+      "final_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B07_03_Crete.jpg",
+      "status": 200,
+      "bytes": 604047,
+      "sha256": "47a44d3a779de86310b7d926cc8e8d69ef9727c77c11da5a4eb03f29b8ec0b06",
+      "width": 1201,
+      "height": 889,
+      "license": "Public Domain"
+    },
+    {
+      "id": "malacca-1511-port-law-and-moving-trade",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B02_02_M-Malacca.jpg",
+      "final_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B02_02_M-Malacca.jpg",
+      "status": 200,
+      "bytes": 108683,
+      "sha256": "ea39b1349c48418f43068e86d8c861734d7e832fca6db97fd7f896e3a43ddf8c",
+      "width": 901,
+      "height": 601,
+      "license": "Public Domain"
+    },
+    {
+      "id": "songhai-1591-tondibi-guns-and-imperial-fragility",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B03_02_TimbManu.jpg",
+      "final_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B03_02_TimbManu.jpg",
+      "status": 200,
+      "bytes": 589215,
+      "sha256": "d0c83d41b033ccb821c867f218777f6f1b025396b50e53894727cd54f8e96df7",
+      "width": 1300,
+      "height": 868,
+      "license": "Public Domain"
+    },
+    {
+      "id": "buenos-aires-1776-port-silver-and-local-power",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B08_03_M-SpanAmIn.jpg",
+      "final_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B08_03_M-SpanAmIn.jpg",
+      "status": 200,
+      "bytes": 141923,
+      "sha256": "21dc47cd490be4a9ba0161c02aaeffad4c6c06d12560c3c93e1be08a0c299b0b",
+      "width": 1301,
+      "height": 801,
+      "license": "Public Domain"
+    },
+    {
+      "id": "isfahan-armenian-merchants-silk-and-displacement",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B04_03_ArmCathdr.jpg",
+      "final_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B04_03_ArmCathdr.jpg",
+      "status": 200,
+      "bytes": 409030,
+      "sha256": "ce8f454e91d8a430533a7df837d0661c6590b9f7b8c0bc5441fa8c42a88b23aa",
+      "width": 1300,
+      "height": 975,
+      "license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "id": "germany-1883-social-insurance-contributions-and-risk",
+      "url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-h/images/image88.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-h/images/image88.jpg",
+      "status": 200,
+      "bytes": 64316,
+      "sha256": "7041c129553479ab9520bc5459a8f663a7cc1a48b3808fd1f61132d523ad8f3f",
+      "width": 400,
+      "height": 473,
+      "license": "Public Domain"
+    },
+    {
+      "id": "new-zealand-1893-women-vote-and-parliament",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Long-White-Cloud--13--Ao-Tea-Roa-_12411/master/12411-h/img/image08.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/The-Long-White-Cloud--13--Ao-Tea-Roa-_12411/master/12411-h/img/image08.jpg",
+      "status": 200,
+      "bytes": 68136,
+      "sha256": "220900f0882cca9c695a2070d33542edc4dce1221a433cd6daf8662866adf7e8",
+      "width": 564,
+      "height": 877,
+      "license": "Public Domain"
+    },
+    {
+      "id": "fibonacci-1202-liber-abaci-and-traveling-numerals",
+      "url": "https://raw.githubusercontent.com/GITenberg/The-Hindu-Arabic-Numerals_22599/master/22599-h/images/030a.png",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/The-Hindu-Arabic-Numerals_22599/master/22599-h/images/030a.png",
+      "status": 200,
+      "bytes": 28055,
+      "sha256": "ff5198ccbd81b8ac81a7bb03d89e5fb5a16ee895ecafd3c24d5624c71432d45d",
+      "width": 1210,
+      "height": 770,
+      "license": "Public Domain"
+    },
+    {
+      "id": "vesalius-1543-fabrica-observation-and-print",
+      "url": "https://raw.githubusercontent.com/GITenberg/Andreas-Vesalius-the-Reformer-of-Anatomy_63456/master/63456-h/images/p_p098.jpg",
+      "final_url": "https://raw.githubusercontent.com/GITenberg/Andreas-Vesalius-the-Reformer-of-Anatomy_63456/master/63456-h/images/p_p098.jpg",
+      "status": 200,
+      "bytes": 210161,
+      "sha256": "c4b58d220695eca0c7e3fdc46aae42aa6bb3542f5ab59b0e2cd53ce716abb3c9",
+      "width": 800,
+      "height": 1318,
+      "license": "Public Domain"
+    },
+    {
+      "id": "hobbes-1651-leviathan-common-power-and-security",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B07_01_Leviathan.png",
+      "final_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B07_01_Leviathan.png",
+      "status": 200,
+      "bytes": 388238,
+      "sha256": "160083e5dddee29eff64682643c16bb9a04ffbed07712828869315f14a7230b8",
+      "width": 700,
+      "height": 1117,
+      "license": "Public Domain"
+    }
+  ],
+  "image_visual_review": "10개 이미지의 원본·크기·내용을 직접 확인. 사진·후대 판화·현대 지도·고전 과학 도판을 구별. 원본 파일을 가공하지 않음.",
+  "duplicate_review": "기존476편의 제목·핵심 소재와 대조. 소팔라와 중복된 킬와 기획은 제외하고 송가이1591로 교체. 이스파한의 기존 광장 글과 새 아르메니아 이주/비단 교역 글은 질문을 구분. 일반 보험 원리 글과 새1880년대 독일 제도사도 구분.",
+  "editorial_notes": "docs/review/net-20261111b-history-editorial-notes.md",
+  "completed_at": "2026-11-13",
+  "validation": {
+    "date": "2026-11-13",
+    "new_drafts": 10,
+    "originals": 486,
+    "approved_unchanged": 463,
+    "existing_story_files_unchanged": 476,
+    "body_characters_min": 2219,
+    "body_characters_max": 2320,
+    "numbered_sections_each": 7,
+    "review_links": "passed",
+    "public_snapshot_changed": false,
+    "future_navigation_in_memory": "passed",
+    "noindex_pages": 10,
+    "browser_checks": [
+      {
+        "id": "haiti-1791-revolution-emancipation-and-independence",
+        "width": 1440,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "malacca-1511-port-law-and-moving-trade",
+        "width": 1440,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "songhai-1591-tondibi-guns-and-imperial-fragility",
+        "width": 1440,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "buenos-aires-1776-port-silver-and-local-power",
+        "width": 1440,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "isfahan-armenian-merchants-silk-and-displacement",
+        "width": 1440,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "germany-1883-social-insurance-contributions-and-risk",
+        "width": 1440,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "new-zealand-1893-women-vote-and-parliament",
+        "width": 1440,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "fibonacci-1202-liber-abaci-and-traveling-numerals",
+        "width": 1440,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "vesalius-1543-fabrica-observation-and-print",
+        "width": 1440,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "hobbes-1651-leviathan-common-power-and-security",
+        "width": 1440,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "haiti-1791-revolution-emancipation-and-independence",
+        "width": 390,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "malacca-1511-port-law-and-moving-trade",
+        "width": 390,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "songhai-1591-tondibi-guns-and-imperial-fragility",
+        "width": 390,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "buenos-aires-1776-port-silver-and-local-power",
+        "width": 390,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "isfahan-armenian-merchants-silk-and-displacement",
+        "width": 390,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "germany-1883-social-insurance-contributions-and-risk",
+        "width": 390,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "new-zealand-1893-women-vote-and-parliament",
+        "width": 390,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "fibonacci-1202-liber-abaci-and-traveling-numerals",
+        "width": 390,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "vesalius-1543-fabrica-observation-and-print",
+        "width": 390,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      },
+      {
+        "id": "hobbes-1651-leviathan-common-power-and-security",
+        "width": 390,
+        "headings": 7,
+        "toc": 7,
+        "images": true,
+        "overflow": false,
+        "noindex": true
+      }
+    ],
+    "unit_tests": {
+      "count": 64,
+      "passed": true
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "state": "active_single_domain_regional_subject_navigation",
   "date": "2026-11-11",
-  "count": 476,
+  "count": 486,
   "articles": [
     {
       "id": "alexandria-museion-and-books",
@@ -23449,6 +23449,548 @@
       ],
       "facets": [],
       "people": []
+    },
+    {
+      "id": "haiti-1791-revolution-emancipation-and-independence",
+      "title": "아이티 혁명 — 자유를 외친 제국은 왜 식민지의 자유를 두려워했을까",
+      "source_path": "content/stories/history/america/haiti-1791-revolution-emancipation-and-independence.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "아이티",
+      "country": "아이티",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 후속 새 글 10개 요청으로 제작. 주제·지역 연결과 자료 대조를 마쳤으며 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/haiti-1791-revolution-emancipation-and-independence/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "혁명과 개혁"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "혁명과 개혁"
+      },
+      "subregion": "중앙아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "중앙아메리카",
+          "country": "아이티"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "malacca-1511-port-law-and-moving-trade",
+      "title": "말라카 — 항구를 점령하면 바다의 장사도 차지할 수 있을까",
+      "source_path": "content/stories/history/asia/malacca-1511-port-law-and-moving-trade.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "말레이시아",
+      "country": "말레이시아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 후속 새 글 10개 요청으로 제작. 주제·지역 연결과 자료 대조를 마쳤으며 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/malacca-1511-port-law-and-moving-trade/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "교역과 세계의 연결"
+        },
+        {
+          "topic": "도시와 사회",
+          "subtopic": "도시의 탄생과 성장"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "교역과 세계의 연결"
+      },
+      "subregion": "동남아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "동남아시아",
+          "country": "말레이시아"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "songhai-1591-tondibi-guns-and-imperial-fragility",
+      "title": "송가이 1591 — 더 큰 군대는 왜 제국을 지키지 못했을까",
+      "source_path": "content/stories/history/africa/songhai-1591-tondibi-guns-and-imperial-fragility.json",
+      "old_category": "history",
+      "old_subcategory": "Africa",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아프리카",
+      "country_group": "말리",
+      "country": "말리",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 후속 새 글 10개 요청으로 제작. 주제·지역 연결과 자료 대조를 마쳤으며 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/songhai-1591-tondibi-guns-and-imperial-fragility/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "전쟁과 외교"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "전쟁과 외교"
+      },
+      "subregion": null,
+      "geographies": [
+        {
+          "continent": "아프리카",
+          "subregion": null,
+          "country": "말리"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "buenos-aires-1776-port-silver-and-local-power",
+      "title": "부에노스아이레스 — 항구가 커지자 왜 수도의 말이 달라졌을까",
+      "source_path": "content/stories/cities/americas/buenos-aires-1776-port-silver-and-local-power.json",
+      "old_category": "cities",
+      "old_subcategory": "Americas",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "아르헨티나",
+      "country": "아르헨티나",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 후속 새 글 10개 요청으로 제작. 주제·지역 연결과 자료 대조를 마쳤으며 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/buenos-aires-1776-port-silver-and-local-power/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "무역과 시장"
+        },
+        {
+          "topic": "도시와 사회",
+          "subtopic": "도시의 탄생과 성장"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "경제·산업·금융",
+        "subtopic": "무역과 시장"
+      },
+      "subregion": "남아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "남아메리카",
+          "country": "아르헨티나"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "isfahan-armenian-merchants-silk-and-displacement",
+      "title": "이스파한의 아르메니아 상인들 — 비단의 길 뒤에는 왜 강제 이주가 있었을까",
+      "source_path": "content/stories/cities/middle-east/isfahan-armenian-merchants-silk-and-displacement.json",
+      "old_category": "cities",
+      "old_subcategory": "Middle East",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "이란",
+      "country": "이란",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 후속 새 글 10개 요청으로 제작. 주제·지역 연결과 자료 대조를 마쳤으며 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/isfahan-armenian-merchants-silk-and-displacement/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "도시와 사회",
+          "subtopic": "인구와 이주"
+        },
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "무역과 시장"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "도시와 사회",
+        "subtopic": "인구와 이주"
+      },
+      "subregion": "서아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "서아시아",
+          "country": "이란"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "germany-1883-social-insurance-contributions-and-risk",
+      "title": "독일의 사회보험 — 아픈 노동자의 생활은 누가 책임져야 했을까",
+      "source_path": "content/stories/finance/insurance/germany-1883-social-insurance-contributions-and-risk.json",
+      "old_category": "finance",
+      "old_subcategory": "Insurance",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "독일",
+      "country": "독일",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 후속 새 글 10개 요청으로 제작. 주제·지역 연결과 자료 대조를 마쳤으며 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/germany-1883-social-insurance-contributions-and-risk/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "법과 제도"
+        },
+        {
+          "topic": "도시와 사회",
+          "subtopic": "노동과 공동체"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "법과 제도"
+      },
+      "subregion": "중부유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "중부유럽",
+          "country": "독일"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "new-zealand-1893-women-vote-and-parliament",
+      "title": "뉴질랜드 1893 — 투표할 권리와 출마할 권리는 왜 따로 왔을까",
+      "source_path": "content/stories/history/asia/new-zealand-1893-women-vote-and-parliament.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "대양주",
+      "country_group": "뉴질랜드",
+      "country": "뉴질랜드",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 후속 새 글 10개 요청으로 제작. 주제·지역 연결과 자료 대조를 마쳤으며 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/new-zealand-1893-women-vote-and-parliament/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "법과 제도"
+        },
+        {
+          "topic": "도시와 사회",
+          "subtopic": "노동과 공동체"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "법과 제도"
+      },
+      "subregion": null,
+      "geographies": [
+        {
+          "continent": "대양주",
+          "subregion": null,
+          "country": "뉴질랜드"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "케이트 셰퍼드"
+      ]
+    },
+    {
+      "id": "fibonacci-1202-liber-abaci-and-traveling-numerals",
+      "title": "피보나치의 산반서 — 상인의 계산법은 왜 바다를 건넜을까",
+      "source_path": "content/stories/science/mathematics/fibonacci-1202-liber-abaci-and-traveling-numerals.json",
+      "old_category": "science",
+      "old_subcategory": "Mathematics",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "이탈리아",
+      "country": "이탈리아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 후속 새 글 10개 요청으로 제작. 주제·지역 연결과 자료 대조를 마쳤으며 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/fibonacci-1202-liber-abaci-and-traveling-numerals/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "과학과 발견",
+          "subtopic": "수학과 측정"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "교육과 배움"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "과학과 발견",
+        "subtopic": "수학과 측정"
+      },
+      "subregion": "남유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "남유럽",
+          "country": "이탈리아"
+        },
+        {
+          "continent": "아프리카",
+          "subregion": null,
+          "country": "알제리"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "피보나치",
+        "레오나르도 피사노"
+      ]
+    },
+    {
+      "id": "vesalius-1543-fabrica-observation-and-print",
+      "title": "베살리우스의 해부학 — 책과 몸이 다르게 보이면 어느 쪽을 고쳐야 할까",
+      "source_path": "content/stories/science/biology/vesalius-1543-fabrica-observation-and-print.json",
+      "old_category": "science",
+      "old_subcategory": "Biology",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "이탈리아",
+      "country": "이탈리아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 후속 새 글 10개 요청으로 제작. 주제·지역 연결과 자료 대조를 마쳤으며 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/vesalius-1543-fabrica-observation-and-print/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "과학과 발견",
+          "subtopic": "생명과 의학"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "책과 지식의 전파"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "과학과 발견",
+        "subtopic": "생명과 의학"
+      },
+      "subregion": "남유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "남유럽",
+          "country": "이탈리아"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "베살리우스"
+      ]
+    },
+    {
+      "id": "hobbes-1651-leviathan-common-power-and-security",
+      "title": "리바이어던 — 거인의 몸 안에는 왜 작은 사람들이 들어 있을까",
+      "source_path": "content/stories/culture/philosophy/hobbes-1651-leviathan-common-power-and-security.json",
+      "old_category": "culture",
+      "old_subcategory": "Philosophy",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "영국",
+      "country": "영국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-11 후속 새 글 10개 요청으로 제작. 주제·지역 연결과 자료 대조를 마쳤으며 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/hobbes-1651-leviathan-common-power-and-security/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "생각과 지식",
+          "subtopic": "철학과 사상"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "생각과 지식",
+        "subtopic": "철학과 사상"
+      },
+      "subregion": "서유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "서유럽",
+          "country": "영국"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "토머스 홉스"
+      ]
     }
   ],
   "navigation_version": 2

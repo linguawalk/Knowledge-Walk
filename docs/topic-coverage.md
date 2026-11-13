@@ -5,19 +5,19 @@
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
-| History | Asia | 19 | 19 | 19 |
+| History | Asia | 21 | 21 | 19 |
 | History | Europe | 27 | 27 | 27 |
-| History | America | 21 | 21 | 21 |
+| History | America | 22 | 22 | 21 |
 | History | Middle East | 6 | 6 | 6 |
-| History | Africa | 5 | 5 | 5 |
+| History | Africa | 6 | 6 | 5 |
 | Cities | Asia | 16 | 16 | 16 |
 | Cities | Europe | 12 | 12 | 12 |
-| Cities | Americas | 10 | 10 | 10 |
-| Cities | Middle East | 4 | 4 | 4 |
+| Cities | Americas | 11 | 11 | 10 |
+| Cities | Middle East | 5 | 5 | 4 |
 | Cities | Africa | 6 | 6 | 6 |
 | Culture | Architecture | 16 | 16 | 16 |
 | Culture | Literature | 51 | 51 | 48 |
-| Culture | Philosophy | 8 | 8 | 7 |
+| Culture | Philosophy | 9 | 9 | 7 |
 | Culture | Music | 30 | 29 | 27 |
 | Culture | Art | 47 | 47 | 47 |
 | Culture | Film | 2 | 2 | 2 |
@@ -38,13 +38,13 @@
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
 | Finance | Money | 11 | 10 | 10 |
 | Finance | Banking | 9 | 9 | 9 |
-| Finance | Insurance | 2 | 2 | 2 |
+| Finance | Insurance | 3 | 3 | 2 |
 | Finance | Investment | 6 | 6 | 6 |
 | Finance | Fintech | 1 | 1 | 1 |
-| Science | Mathematics | 3 | 3 | 3 |
+| Science | Mathematics | 4 | 4 | 3 |
 | Science | Physics | 14 | 14 | 13 |
 | Science | Chemistry | 4 | 4 | 4 |
-| Science | Biology | 13 | 13 | 13 |
+| Science | Biology | 14 | 14 | 13 |
 | Science | Earth-Science | 2 | 2 | 2 |
 | Science | Engineering | 6 | 6 | 5 |
 

@@ -5,6 +5,7 @@
 | 이야기 | 확인 상태 |
 |---|---|
 | [브루클린 다리 — 물 위의 길을 만들기 위해 물 아래로 내려가다](brooklyn-bridge-caissons-and-shared-work.md) | 자료 대조·공개 게시 승인 완료 |
+| [부에노스아이레스 — 항구가 커지자 왜 수도의 말이 달라졌을까](buenos-aires-1776-port-silver-and-local-power.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [카호키아 — 평범한 언덕인 줄 알았는데](cahokia-mound-and-plaza.md) | 자료 대조·공개 게시 승인 완료 |
 | [시카고의 사자는 가끔 헬멧을 쓴다](chicago-lion-sports-helmet.md) | 자료 대조·공개 게시 승인 완료 |
 | [치첸이트사 — 피라미드 옆에는 우물과 길이 있었다](chichen-itza-pyramid-cenote-and-plazas.md) | 자료 대조·공개 게시 승인 완료 |
