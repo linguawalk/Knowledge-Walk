@@ -554,5 +554,889 @@
       "sha256": "e5591bf20ade2cfb3fa6b88edb0138aef1b523e71d6f16c02504505b8b083749"
     }
   ],
-  "deployment_status": "awaiting_live_verification"
+  "deployment_status": "live_verified",
+  "publication_commit": "14b6b23a0f1d2680ea4c599d982958991240d32c",
+  "live": {
+    "checked_at_utc": "2026-11-13T12:20:40.139053+00:00",
+    "strict_https": true,
+    "responses": [
+      {
+        "path": "categories/africa/index.html",
+        "url": "https://knowledgewalk.net/categories/africa/index.html",
+        "final_url": "https://knowledgewalk.net/categories/africa/index.html",
+        "status": 200,
+        "bytes": 44513,
+        "sha256": "4fea264876c4e235f0b5bed485169af30419e425bce5e26d8b50eeea08cc3440",
+        "expected_sha256": "4fea264876c4e235f0b5bed485169af30419e425bce5e26d8b50eeea08cc3440",
+        "matches": true
+      },
+      {
+        "path": "categories/africa/남아프리카공화국/index.html",
+        "url": "https://knowledgewalk.net/categories/africa/%EB%82%A8%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4%EA%B3%B5%ED%99%94%EA%B5%AD/index.html",
+        "final_url": "https://knowledgewalk.net/categories/africa/%EB%82%A8%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4%EA%B3%B5%ED%99%94%EA%B5%AD/index.html",
+        "status": 200,
+        "bytes": 8311,
+        "sha256": "016ace336f6a82d7797e35a6143be6717c17fcda138e8e8eb030666c086bc6cf",
+        "expected_sha256": "016ace336f6a82d7797e35a6143be6717c17fcda138e8e8eb030666c086bc6cf",
+        "matches": true
+      },
+      {
+        "path": "categories/africa/에리트레아/index.html",
+        "url": "https://knowledgewalk.net/categories/africa/%EC%97%90%EB%A6%AC%ED%8A%B8%EB%A0%88%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/africa/%EC%97%90%EB%A6%AC%ED%8A%B8%EB%A0%88%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 8297,
+        "sha256": "7d45a6ca24c43c81122fc4a5ef9661550731e3dcae11871a2a584e59bbab477a",
+        "expected_sha256": "7d45a6ca24c43c81122fc4a5ef9661550731e3dcae11871a2a584e59bbab477a",
+        "matches": true
+      },
+      {
+        "path": "categories/africa/에티오피아/index.html",
+        "url": "https://knowledgewalk.net/categories/africa/%EC%97%90%ED%8B%B0%EC%98%A4%ED%94%BC%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/africa/%EC%97%90%ED%8B%B0%EC%98%A4%ED%94%BC%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 8297,
+        "sha256": "e2ee6df4876a213c2b7fd1fecec7d219fdd777cd0790fdd9dfbe7425c76d7ca1",
+        "expected_sha256": "e2ee6df4876a213c2b7fd1fecec7d219fdd777cd0790fdd9dfbe7425c76d7ca1",
+        "matches": true
+      },
+      {
+        "path": "categories/americas/index.html",
+        "url": "https://knowledgewalk.net/categories/americas/index.html",
+        "final_url": "https://knowledgewalk.net/categories/americas/index.html",
+        "status": 200,
+        "bytes": 82930,
+        "sha256": "6a80a28010be0d6d0aae3cce2e7baedde9a86a1c8f8ce19c356845a0181b6722",
+        "expected_sha256": "6a80a28010be0d6d0aae3cce2e7baedde9a86a1c8f8ce19c356845a0181b6722",
+        "matches": true
+      },
+      {
+        "path": "categories/americas/남아메리카/index.html",
+        "url": "https://knowledgewalk.net/categories/americas/%EB%82%A8%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4/index.html",
+        "final_url": "https://knowledgewalk.net/categories/americas/%EB%82%A8%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4/index.html",
+        "status": 200,
+        "bytes": 20429,
+        "sha256": "a5ed1cb17a97a7f7e4c2ec565e661f06d3ffee8f1d858e6d4c660b24ab5ac407",
+        "expected_sha256": "a5ed1cb17a97a7f7e4c2ec565e661f06d3ffee8f1d858e6d4c660b24ab5ac407",
+        "matches": true
+      },
+      {
+        "path": "categories/americas/볼리비아/index.html",
+        "url": "https://knowledgewalk.net/categories/americas/%EB%B3%BC%EB%A6%AC%EB%B9%84%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/americas/%EB%B3%BC%EB%A6%AC%EB%B9%84%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 8492,
+        "sha256": "94f9a118761225f3314ca359ecbfab45b3d4bde7b2aa60b3056acfbc9a273780",
+        "expected_sha256": "94f9a118761225f3314ca359ecbfab45b3d4bde7b2aa60b3056acfbc9a273780",
+        "matches": true
+      },
+      {
+        "path": "categories/americas/페루/index.html",
+        "url": "https://knowledgewalk.net/categories/americas/%ED%8E%98%EB%A3%A8/index.html",
+        "final_url": "https://knowledgewalk.net/categories/americas/%ED%8E%98%EB%A3%A8/index.html",
+        "status": 200,
+        "bytes": 13810,
+        "sha256": "b05af541ffdc03f57627581b9a8ccd2717a940d711d9ec7d31d602a60c0b238f",
+        "expected_sha256": "b05af541ffdc03f57627581b9a8ccd2717a940d711d9ec7d31d602a60c0b238f",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/index.html",
+        "status": 200,
+        "bytes": 150189,
+        "sha256": "5c1f99f90e6c77dd09a9ba2fe2bb0bb338f89f69b2486a95339dd435e2e223f2",
+        "expected_sha256": "5c1f99f90e6c77dd09a9ba2fe2bb0bb338f89f69b2486a95339dd435e2e223f2",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/남아시아/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EB%82%A8%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EB%82%A8%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 21203,
+        "sha256": "fc9e203f9408a24178b4c61520c4d344a6011e2be4f6c1ab226676e32d16dc67",
+        "expected_sha256": "fc9e203f9408a24178b4c61520c4d344a6011e2be4f6c1ab226676e32d16dc67",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/동남아시아/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EB%8F%99%EB%82%A8%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EB%8F%99%EB%82%A8%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 14758,
+        "sha256": "5b9c59a8325501e856173f90fb45b87e9a1a9cc5a1319fb100854dc39f9c32f8",
+        "expected_sha256": "5b9c59a8325501e856173f90fb45b87e9a1a9cc5a1319fb100854dc39f9c32f8",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/동아시아/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EB%8F%99%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EB%8F%99%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 95551,
+        "sha256": "7b9a6f7bcd2e3a9eae2b102e5c9f944d724fc41cde39bd7d53d3a1657aa6cb47",
+        "expected_sha256": "7b9a6f7bcd2e3a9eae2b102e5c9f944d724fc41cde39bd7d53d3a1657aa6cb47",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/우즈베키스탄/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EC%9A%B0%EC%A6%88%EB%B2%A0%ED%82%A4%EC%8A%A4%ED%83%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EC%9A%B0%EC%A6%88%EB%B2%A0%ED%82%A4%EC%8A%A4%ED%83%84/index.html",
+        "status": 200,
+        "bytes": 9919,
+        "sha256": "ca9b2707d38df11b2943256988713e69bc096e464f3449eb5c8d5a7501942523",
+        "expected_sha256": "ca9b2707d38df11b2943256988713e69bc096e464f3449eb5c8d5a7501942523",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/인도/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EC%9D%B8%EB%8F%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EC%9D%B8%EB%8F%84/index.html",
+        "status": 200,
+        "bytes": 17862,
+        "sha256": "1b451b6f2eeacc373a0fba58159ed44a05327aa2ccac3559ff3fef027856273d",
+        "expected_sha256": "1b451b6f2eeacc373a0fba58159ed44a05327aa2ccac3559ff3fef027856273d",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/인도네시아/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EC%9D%B8%EB%8F%84%EB%84%A4%EC%8B%9C%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EC%9D%B8%EB%8F%84%EB%84%A4%EC%8B%9C%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 11217,
+        "sha256": "d4ec9727c56062e5390b369f6aa3ac0413f0a26587df7d25f4d13387d77d0dc7",
+        "expected_sha256": "d4ec9727c56062e5390b369f6aa3ac0413f0a26587df7d25f4d13387d77d0dc7",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/일본/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EC%9D%BC%EB%B3%B8/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EC%9D%BC%EB%B3%B8/index.html",
+        "status": 200,
+        "bytes": 36884,
+        "sha256": "1493276ed08a463ece742217a52563b868931e141600a136a50a7a7989bb6f03",
+        "expected_sha256": "1493276ed08a463ece742217a52563b868931e141600a136a50a7a7989bb6f03",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/중앙아시아/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%EC%A4%91%EC%95%99%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%EC%A4%91%EC%95%99%EC%95%84%EC%8B%9C%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 11810,
+        "sha256": "e60ff84f96521ec2321bc75d426ed5293f8c50b91ffbe3936aa7422ae65cac5c",
+        "expected_sha256": "e60ff84f96521ec2321bc75d426ed5293f8c50b91ffbe3936aa7422ae65cac5c",
+        "matches": true
+      },
+      {
+        "path": "categories/asia/타지키스탄/index.html",
+        "url": "https://knowledgewalk.net/categories/asia/%ED%83%80%EC%A7%80%ED%82%A4%EC%8A%A4%ED%83%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/asia/%ED%83%80%EC%A7%80%ED%82%A4%EC%8A%A4%ED%83%84/index.html",
+        "status": 200,
+        "bytes": 9938,
+        "sha256": "ddca5d21852a4ee9bec18e002de18e6954cdabe8f2f2dd8acac7cd4650e06d2d",
+        "expected_sha256": "ddca5d21852a4ee9bec18e002de18e6954cdabe8f2f2dd8acac7cd4650e06d2d",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/index.html",
+        "status": 200,
+        "bytes": 232531,
+        "sha256": "bec5f58d007081bf9a09b1da24365b29f94af2d2a7694cbc72884228c00e63f5",
+        "expected_sha256": "bec5f58d007081bf9a09b1da24365b29f94af2d2a7694cbc72884228c00e63f5",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/독일/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EB%8F%85%EC%9D%BC/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EB%8F%85%EC%9D%BC/index.html",
+        "status": 200,
+        "bytes": 38822,
+        "sha256": "9e4b208067f0cfbbe710549ad7fee32042d5e8894912cf5a0cc32d5a78c7fcfc",
+        "expected_sha256": "9e4b208067f0cfbbe710549ad7fee32042d5e8894912cf5a0cc32d5a78c7fcfc",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/동유럽/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EB%8F%99%EC%9C%A0%EB%9F%BD/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EB%8F%99%EC%9C%A0%EB%9F%BD/index.html",
+        "status": 200,
+        "bytes": 26768,
+        "sha256": "120dc594ed08dcdb2f5d1ff0be22ea3d7cfb73249bcaf0eb23b47c40386cdcfd",
+        "expected_sha256": "120dc594ed08dcdb2f5d1ff0be22ea3d7cfb73249bcaf0eb23b47c40386cdcfd",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/러시아/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EB%9F%AC%EC%8B%9C%EC%95%84/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EB%9F%AC%EC%8B%9C%EC%95%84/index.html",
+        "status": 200,
+        "bytes": 19342,
+        "sha256": "04e5675628608b03ce145dabd5060f6a400c66af1487dfcac4e0105be53d031e",
+        "expected_sha256": "04e5675628608b03ce145dabd5060f6a400c66af1487dfcac4e0105be53d031e",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/서유럽/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EC%84%9C%EC%9C%A0%EB%9F%BD/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EC%84%9C%EC%9C%A0%EB%9F%BD/index.html",
+        "status": 200,
+        "bytes": 110591,
+        "sha256": "0f7fed4c0f08b2e04cb02aea3d9e77370998a48791291a82d005b51f0c671ece",
+        "expected_sha256": "0f7fed4c0f08b2e04cb02aea3d9e77370998a48791291a82d005b51f0c671ece",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/영국/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EC%98%81%EA%B5%AD/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EC%98%81%EA%B5%AD/index.html",
+        "status": 200,
+        "bytes": 61861,
+        "sha256": "ca3e81f7a04466839d4122aac5572e13cc6a46359d10ff17e794a1bc8bc68081",
+        "expected_sha256": "ca3e81f7a04466839d4122aac5572e13cc6a46359d10ff17e794a1bc8bc68081",
+        "matches": true
+      },
+      {
+        "path": "categories/europe/중부유럽/index.html",
+        "url": "https://knowledgewalk.net/categories/europe/%EC%A4%91%EB%B6%80%EC%9C%A0%EB%9F%BD/index.html",
+        "final_url": "https://knowledgewalk.net/categories/europe/%EC%A4%91%EB%B6%80%EC%9C%A0%EB%9F%BD/index.html",
+        "status": 200,
+        "bytes": 47575,
+        "sha256": "797fb22b4526f06ad1298cac6d01383d1de1a497ae765127ece69601515bb6ea",
+        "expected_sha256": "797fb22b4526f06ad1298cac6d01383d1de1a497ae765127ece69601515bb6ea",
+        "matches": true
+      },
+      {
+        "path": "collections/20261113-ten-history-connections-authority-and-choice/index.html",
+        "url": "https://knowledgewalk.net/collections/20261113-ten-history-connections-authority-and-choice/index.html",
+        "final_url": "https://knowledgewalk.net/collections/20261113-ten-history-connections-authority-and-choice/index.html",
+        "status": 200,
+        "bytes": 14559,
+        "sha256": "6bdb5cafb022f8ee1a7a25901e8d363c938267bf219661cf34551aa24f8c1652",
+        "expected_sha256": "6bdb5cafb022f8ee1a7a25901e8d363c938267bf219661cf34551aa24f8c1652",
+        "matches": true
+      },
+      {
+        "path": "index.html",
+        "url": "https://knowledgewalk.net/index.html",
+        "final_url": "https://knowledgewalk.net/index.html",
+        "status": 200,
+        "bytes": 21878,
+        "sha256": "0cb84fe45457ad92afd37b8db1906f65f71b151198346fced205b53bee4c9995",
+        "expected_sha256": "0cb84fe45457ad92afd37b8db1906f65f71b151198346fced205b53bee4c9995",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/arts/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/arts/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/arts/index.html",
+        "status": 200,
+        "bytes": 233815,
+        "sha256": "1172e93c850d8c0c928ecde7de4148f7e6c234f5c11de577318c55419b4a2823",
+        "expected_sha256": "1172e93c850d8c0c928ecde7de4148f7e6c234f5c11de577318c55419b4a2823",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/arts/문학/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/arts/%EB%AC%B8%ED%95%99/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/arts/%EB%AC%B8%ED%95%99/index.html",
+        "status": 200,
+        "bytes": 68370,
+        "sha256": "d35e37f579748359d8433bd0ef8cdffccb3825d90e7ff412731e17ef3533cdc7",
+        "expected_sha256": "d35e37f579748359d8433bd0ef8cdffccb3825d90e7ff412731e17ef3533cdc7",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/cities-society/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/cities-society/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/cities-society/index.html",
+        "status": 200,
+        "bytes": 113239,
+        "sha256": "d06fca39148ad9ce264f9b8ee492edfdc61bd0f8dcb78bdbee6dc5f8357c4b74",
+        "expected_sha256": "d06fca39148ad9ce264f9b8ee492edfdc61bd0f8dcb78bdbee6dc5f8357c4b74",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/cities-society/노동과-공동체/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/cities-society/%EB%85%B8%EB%8F%99%EA%B3%BC-%EA%B3%B5%EB%8F%99%EC%B2%B4/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/cities-society/%EB%85%B8%EB%8F%99%EA%B3%BC-%EA%B3%B5%EB%8F%99%EC%B2%B4/index.html",
+        "status": 200,
+        "bytes": 23822,
+        "sha256": "3fee9b85947bda682af45b22823e0260afed1a31dbe9e44b6009e2a1ce89c1ef",
+        "expected_sha256": "3fee9b85947bda682af45b22823e0260afed1a31dbe9e44b6009e2a1ce89c1ef",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/cities-society/도시의-탄생과-성장/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/cities-society/%EB%8F%84%EC%8B%9C%EC%9D%98-%ED%83%84%EC%83%9D%EA%B3%BC-%EC%84%B1%EC%9E%A5/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/cities-society/%EB%8F%84%EC%8B%9C%EC%9D%98-%ED%83%84%EC%83%9D%EA%B3%BC-%EC%84%B1%EC%9E%A5/index.html",
+        "status": 200,
+        "bytes": 48632,
+        "sha256": "4502ffec31fbfa846239aa0483e27be5094dfd869756a6315524cf6c08dd79d8",
+        "expected_sha256": "4502ffec31fbfa846239aa0483e27be5094dfd869756a6315524cf6c08dd79d8",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/economy/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/economy/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/economy/index.html",
+        "status": 200,
+        "bytes": 110212,
+        "sha256": "e0f5ab13a6f54ccefd220d4f3514a11b987d61ae0ba5be923cd76a2ed9f5fd01",
+        "expected_sha256": "e0f5ab13a6f54ccefd220d4f3514a11b987d61ae0ba5be923cd76a2ed9f5fd01",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/economy/무역과-시장/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/economy/%EB%AC%B4%EC%97%AD%EA%B3%BC-%EC%8B%9C%EC%9E%A5/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/economy/%EB%AC%B4%EC%97%AD%EA%B3%BC-%EC%8B%9C%EC%9E%A5/index.html",
+        "status": 200,
+        "bytes": 52548,
+        "sha256": "63d6079b99cb7077a61b559d021b670a7427cdad2c46caea103cfd751fa630e2",
+        "expected_sha256": "63d6079b99cb7077a61b559d021b670a7427cdad2c46caea103cfd751fa630e2",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/economy/은행과-신용/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/economy/%EC%9D%80%ED%96%89%EA%B3%BC-%EC%8B%A0%EC%9A%A9/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/economy/%EC%9D%80%ED%96%89%EA%B3%BC-%EC%8B%A0%EC%9A%A9/index.html",
+        "status": 200,
+        "bytes": 20137,
+        "sha256": "7a79f0a2cbc6c8326251c49fa44da31db3addb04ba2ee16f77cf1b881075fe6e",
+        "expected_sha256": "7a79f0a2cbc6c8326251c49fa44da31db3addb04ba2ee16f77cf1b881075fe6e",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/history/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/history/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/history/index.html",
+        "status": 200,
+        "bytes": 107115,
+        "sha256": "3785090041fc57e1741d0c504b10e1a0ab2c22908e21c49eb22c17498087db76",
+        "expected_sha256": "3785090041fc57e1741d0c504b10e1a0ab2c22908e21c49eb22c17498087db76",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/history/교역과-세계의-연결/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/history/%EA%B5%90%EC%97%AD%EA%B3%BC-%EC%84%B8%EA%B3%84%EC%9D%98-%EC%97%B0%EA%B2%B0/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/history/%EA%B5%90%EC%97%AD%EA%B3%BC-%EC%84%B8%EA%B3%84%EC%9D%98-%EC%97%B0%EA%B2%B0/index.html",
+        "status": 200,
+        "bytes": 24129,
+        "sha256": "dedb2a42daa5c7e4793a6e801cf3c59f1510af1f613615bbc470981b3a79e9fe",
+        "expected_sha256": "dedb2a42daa5c7e4793a6e801cf3c59f1510af1f613615bbc470981b3a79e9fe",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/history/국가와-권력/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/history/%EA%B5%AD%EA%B0%80%EC%99%80-%EA%B6%8C%EB%A0%A5/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/history/%EA%B5%AD%EA%B0%80%EC%99%80-%EA%B6%8C%EB%A0%A5/index.html",
+        "status": 200,
+        "bytes": 23312,
+        "sha256": "58be4f600c1eeb6839051d46009ea1998a91b3dbf50b78c023b4f03befe370f0",
+        "expected_sha256": "58be4f600c1eeb6839051d46009ea1998a91b3dbf50b78c023b4f03befe370f0",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/history/법과-제도/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/history/%EB%B2%95%EA%B3%BC-%EC%A0%9C%EB%8F%84/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/history/%EB%B2%95%EA%B3%BC-%EC%A0%9C%EB%8F%84/index.html",
+        "status": 200,
+        "bytes": 41337,
+        "sha256": "f0fe8dc8a62de9f57a1c98f6992a9d80e94ca2c78acab54c34ebada76d2ede37",
+        "expected_sha256": "f0fe8dc8a62de9f57a1c98f6992a9d80e94ca2c78acab54c34ebada76d2ede37",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/history/전쟁과-외교/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/history/%EC%A0%84%EC%9F%81%EA%B3%BC-%EC%99%B8%EA%B5%90/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/history/%EC%A0%84%EC%9F%81%EA%B3%BC-%EC%99%B8%EA%B5%90/index.html",
+        "status": 200,
+        "bytes": 24941,
+        "sha256": "a5793df2a345815645916583f62adb07a1e7b973b4f33280c945e97ac2c29903",
+        "expected_sha256": "a5793df2a345815645916583f62adb07a1e7b973b4f33280c945e97ac2c29903",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/ideas/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/ideas/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/ideas/index.html",
+        "status": 200,
+        "bytes": 66455,
+        "sha256": "1cb3679a17eb2f4c0cad330280b95341af413b46040da78d70726b4184b6a668",
+        "expected_sha256": "1cb3679a17eb2f4c0cad330280b95341af413b46040da78d70726b4184b6a668",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/ideas/문자와-기록/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/ideas/%EB%AC%B8%EC%9E%90%EC%99%80-%EA%B8%B0%EB%A1%9D/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/ideas/%EB%AC%B8%EC%9E%90%EC%99%80-%EA%B8%B0%EB%A1%9D/index.html",
+        "status": 200,
+        "bytes": 24666,
+        "sha256": "bc281382868bbb4035da0b06bd7fe9134d2b72cf25ad9ca0651d2c6c50b06a2c",
+        "expected_sha256": "bc281382868bbb4035da0b06bd7fe9134d2b72cf25ad9ca0651d2c6c50b06a2c",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/ideas/종교와-세계관/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/ideas/%EC%A2%85%EA%B5%90%EC%99%80-%EC%84%B8%EA%B3%84%EA%B4%80/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/ideas/%EC%A2%85%EA%B5%90%EC%99%80-%EC%84%B8%EA%B3%84%EA%B4%80/index.html",
+        "status": 200,
+        "bytes": 18018,
+        "sha256": "e2072a38056b20ad1be9abfa181cca9f90ee0e32d407024a3abd1e796eff57a7",
+        "expected_sha256": "e2072a38056b20ad1be9abfa181cca9f90ee0e32d407024a3abd1e796eff57a7",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/science/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/science/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/science/index.html",
+        "status": 200,
+        "bytes": 71219,
+        "sha256": "6714b192e7fd1acafbe99df9791845dc5f77748b1f2dfa29e17b0951b21c426b",
+        "expected_sha256": "6714b192e7fd1acafbe99df9791845dc5f77748b1f2dfa29e17b0951b21c426b",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/science/우주와-천문/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/science/%EC%9A%B0%EC%A3%BC%EC%99%80-%EC%B2%9C%EB%AC%B8/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/science/%EC%9A%B0%EC%A3%BC%EC%99%80-%EC%B2%9C%EB%AC%B8/index.html",
+        "status": 200,
+        "bytes": 19676,
+        "sha256": "cea911bd62be3e49e46e7682a62c728b213f1a0339d8c1b1c3b6fe8df6fa9b85",
+        "expected_sha256": "cea911bd62be3e49e46e7682a62c728b213f1a0339d8c1b1c3b6fe8df6fa9b85",
+        "matches": true
+      },
+      {
+        "path": "knowledge/categories/science/지구와-환경/index.html",
+        "url": "https://knowledgewalk.net/knowledge/categories/science/%EC%A7%80%EA%B5%AC%EC%99%80-%ED%99%98%EA%B2%BD/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/categories/science/%EC%A7%80%EA%B5%AC%EC%99%80-%ED%99%98%EA%B2%BD/index.html",
+        "status": 200,
+        "bytes": 17262,
+        "sha256": "ec3c579f6e5ff3641545ce826ea4f946a440a726d9e241dd228f0f99874e6e2c",
+        "expected_sha256": "ec3c579f6e5ff3641545ce826ea4f946a440a726d9e241dd228f0f99874e6e2c",
+        "matches": true
+      },
+      {
+        "path": "knowledge/collections/20261113-ten-history-connections-authority-and-choice/index.html",
+        "url": "https://knowledgewalk.net/knowledge/collections/20261113-ten-history-connections-authority-and-choice/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/collections/20261113-ten-history-connections-authority-and-choice/index.html",
+        "status": 200,
+        "bytes": 22652,
+        "sha256": "d3ad9cc25bef13543d897a44523a6629b392fdcc6119939f22330ad81c239863",
+        "expected_sha256": "d3ad9cc25bef13543d897a44523a6629b392fdcc6119939f22330ad81c239863",
+        "matches": true
+      },
+      {
+        "path": "knowledge/index.html",
+        "url": "https://knowledgewalk.net/knowledge/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/index.html",
+        "status": 200,
+        "bytes": 23812,
+        "sha256": "2af4ac787fdb7364d1a03f825aceaa4bbe0409117c673c16590cbdacbd03a02e",
+        "expected_sha256": "2af4ac787fdb7364d1a03f825aceaa4bbe0409117c673c16590cbdacbd03a02e",
+        "matches": true
+      },
+      {
+        "path": "knowledge/search-index.json",
+        "url": "https://knowledgewalk.net/knowledge/search-index.json",
+        "final_url": "https://knowledgewalk.net/knowledge/search-index.json",
+        "status": 200,
+        "bytes": 3434275,
+        "sha256": "201a1a04da9474431b21189133d208734a7ef60761c45e7e009eb185e6d256ca",
+        "expected_sha256": "201a1a04da9474431b21189133d208734a7ef60761c45e7e009eb185e6d256ca",
+        "matches": true
+      },
+      {
+        "path": "knowledge/search.html",
+        "url": "https://knowledgewalk.net/knowledge/search.html",
+        "final_url": "https://knowledgewalk.net/knowledge/search.html",
+        "status": 200,
+        "bytes": 673667,
+        "sha256": "68ea0ce05c190c83bd4911f25d1169aa85f92b0e2896144889e8526ab5337bc1",
+        "expected_sha256": "68ea0ce05c190c83bd4911f25d1169aa85f92b0e2896144889e8526ab5337bc1",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/akbar-religious-debates-and-imperial-authority/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/akbar-religious-debates-and-imperial-authority/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/akbar-religious-debates-and-imperial-authority/index.html",
+        "status": 200,
+        "bytes": 18465,
+        "sha256": "c3a63b0b0a50d1966e4c70b50ee0cd91e00eaec8be5d9468fd71bbc2e4ef5ff8",
+        "expected_sha256": "c3a63b0b0a50d1966e4c70b50ee0cd91e00eaec8be5d9468fd71bbc2e4ef5ff8",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/aksum-red-sea-trade-and-christian-kingship/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/aksum-red-sea-trade-and-christian-kingship/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/aksum-red-sea-trade-and-christian-kingship/index.html",
+        "status": 200,
+        "bytes": 18497,
+        "sha256": "d48d93dbb0cbad6cdcbcc6d5ae24c649f514d4d93221f418afc431629fad421c",
+        "expected_sha256": "d48d93dbb0cbad6cdcbcc6d5ae24c649f514d4d93221f418afc431629fad421c",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/andes-before-inca-water-land-and-regional-societies/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/andes-before-inca-water-land-and-regional-societies/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/andes-before-inca-water-land-and-regional-societies/index.html",
+        "status": 200,
+        "bytes": 18382,
+        "sha256": "8b958927aa1fcac4446a269d1e9f1ab1adaf58a76a3683e7634e42e8efee0535",
+        "expected_sha256": "8b958927aa1fcac4446a269d1e9f1ab1adaf58a76a3683e7634e42e8efee0535",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html",
+        "status": 200,
+        "bytes": 18517,
+        "sha256": "79c074478e91918851742d4c6ad08502dbf6c7287cf8337595ce17e559652379",
+        "expected_sha256": "79c074478e91918851742d4c6ad08502dbf6c7287cf8337595ce17e559652379",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/dawes-plan-1924-reparations-loans-and-dependence/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/dawes-plan-1924-reparations-loans-and-dependence/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/dawes-plan-1924-reparations-loans-and-dependence/index.html",
+        "status": 200,
+        "bytes": 18175,
+        "sha256": "72ee0f8d4bfbb6728ffecfc13fc03901d8c32c5fb413b9dcdbb8c7d9b320103a",
+        "expected_sha256": "72ee0f8d4bfbb6728ffecfc13fc03901d8c32c5fb413b9dcdbb8c7d9b320103a",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/genji-heian-kana-women-and-literary-memory/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/genji-heian-kana-women-and-literary-memory/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/genji-heian-kana-women-and-literary-memory/index.html",
+        "status": 200,
+        "bytes": 18198,
+        "sha256": "ed7303fb80b9d7abaf510d282aec968fccb252f22d09b413534e97d32b6c6bb1",
+        "expected_sha256": "ed7303fb80b9d7abaf510d282aec968fccb252f22d09b413534e97d32b6c6bb1",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/henry-viii-1534-church-authority-and-succession/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/henry-viii-1534-church-authority-and-succession/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/henry-viii-1534-church-authority-and-succession/index.html",
+        "status": 200,
+        "bytes": 18664,
+        "sha256": "ad652278559663581f2020c4e4d856a5ff5a7ccdfadc412ac052f7c2804e9e1a",
+        "expected_sha256": "ad652278559663581f2020c4e4d856a5ff5a7ccdfadc412ac052f7c2804e9e1a",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html",
+        "status": 200,
+        "bytes": 18018,
+        "sha256": "3a2405d69615402ea36392d6db155aa98bf8c9715f7705292bf9f43932e1bad9",
+        "expected_sha256": "3a2405d69615402ea36392d6db155aa98bf8c9715f7705292bf9f43932e1bad9",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/sogdian-merchants-oases-languages-and-networks/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/sogdian-merchants-oases-languages-and-networks/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/sogdian-merchants-oases-languages-and-networks/index.html",
+        "status": 200,
+        "bytes": 18480,
+        "sha256": "9b1df5c3c99afb70c8a1a6addce53f3dd0e226b5bb6b84e32da60665d35d64d4",
+        "expected_sha256": "9b1df5c3c99afb70c8a1a6addce53f3dd0e226b5bb6b84e32da60665d35d64d4",
+        "matches": true
+      },
+      {
+        "path": "knowledge/stories/sputnik-1957-satellite-and-cold-war-competition/index.html",
+        "url": "https://knowledgewalk.net/knowledge/stories/sputnik-1957-satellite-and-cold-war-competition/index.html",
+        "final_url": "https://knowledgewalk.net/knowledge/stories/sputnik-1957-satellite-and-cold-war-competition/index.html",
+        "status": 200,
+        "bytes": 18307,
+        "sha256": "9a34f80f1d0156f4917e169cdc92a1c8de1906f2fb82a4ee70e9e510366e342a",
+        "expected_sha256": "9a34f80f1d0156f4917e169cdc92a1c8de1906f2fb82a4ee70e9e510366e342a",
+        "matches": true
+      },
+      {
+        "path": "media/akbar-religious-debates-and-imperial-authority.jpg",
+        "url": "https://knowledgewalk.net/media/akbar-religious-debates-and-imperial-authority.jpg",
+        "final_url": "https://knowledgewalk.net/media/akbar-religious-debates-and-imperial-authority.jpg",
+        "status": 200,
+        "bytes": 279041,
+        "sha256": "1981a7681ebb7079c4a814d3c2843fe2bc7f4e233d3d1095d11653904c3f702f",
+        "expected_sha256": "1981a7681ebb7079c4a814d3c2843fe2bc7f4e233d3d1095d11653904c3f702f",
+        "matches": true
+      },
+      {
+        "path": "media/aksum-red-sea-trade-and-christian-kingship.jpg",
+        "url": "https://knowledgewalk.net/media/aksum-red-sea-trade-and-christian-kingship.jpg",
+        "final_url": "https://knowledgewalk.net/media/aksum-red-sea-trade-and-christian-kingship.jpg",
+        "status": 200,
+        "bytes": 261953,
+        "sha256": "914bc8f1804994ea7663a06bf5ddb5710597df5d6bee8f93fb18cc325eefc647",
+        "expected_sha256": "914bc8f1804994ea7663a06bf5ddb5710597df5d6bee8f93fb18cc325eefc647",
+        "matches": true
+      },
+      {
+        "path": "media/andes-before-inca-water-land-and-regional-societies.jpg",
+        "url": "https://knowledgewalk.net/media/andes-before-inca-water-land-and-regional-societies.jpg",
+        "final_url": "https://knowledgewalk.net/media/andes-before-inca-water-land-and-regional-societies.jpg",
+        "status": 200,
+        "bytes": 576429,
+        "sha256": "35be4a06539a2819e5fa667be584d00fbfcaef6fd0f4be6ab1994f62bf6ab0c4",
+        "expected_sha256": "35be4a06539a2819e5fa667be584d00fbfcaef6fd0f4be6ab1994f62bf6ab0c4",
+        "matches": true
+      },
+      {
+        "path": "media/bandung-1955-sovereignty-aid-and-nonalignment.png",
+        "url": "https://knowledgewalk.net/media/bandung-1955-sovereignty-aid-and-nonalignment.png",
+        "final_url": "https://knowledgewalk.net/media/bandung-1955-sovereignty-aid-and-nonalignment.png",
+        "status": 200,
+        "bytes": 173078,
+        "sha256": "42a1dcfcc312e042dd4672a4b9e9c9df4f6d678bd9ba85cbaaa9e22570b48e9d",
+        "expected_sha256": "42a1dcfcc312e042dd4672a4b9e9c9df4f6d678bd9ba85cbaaa9e22570b48e9d",
+        "matches": true
+      },
+      {
+        "path": "media/dawes-plan-1924-reparations-loans-and-dependence.jpg",
+        "url": "https://knowledgewalk.net/media/dawes-plan-1924-reparations-loans-and-dependence.jpg",
+        "final_url": "https://knowledgewalk.net/media/dawes-plan-1924-reparations-loans-and-dependence.jpg",
+        "status": 200,
+        "bytes": 167596,
+        "sha256": "dc35781779c6c94cc7b2639b38e8aaf1d8531747225d4a0d49f46c40dce5824d",
+        "expected_sha256": "dc35781779c6c94cc7b2639b38e8aaf1d8531747225d4a0d49f46c40dce5824d",
+        "matches": true
+      },
+      {
+        "path": "media/genji-heian-kana-women-and-literary-memory.jpg",
+        "url": "https://knowledgewalk.net/media/genji-heian-kana-women-and-literary-memory.jpg",
+        "final_url": "https://knowledgewalk.net/media/genji-heian-kana-women-and-literary-memory.jpg",
+        "status": 200,
+        "bytes": 255216,
+        "sha256": "43797de90f0d4537696e305a38bfca50c277e1c5a5d88e8f26cc67400e396981",
+        "expected_sha256": "43797de90f0d4537696e305a38bfca50c277e1c5a5d88e8f26cc67400e396981",
+        "matches": true
+      },
+      {
+        "path": "media/henry-viii-1534-church-authority-and-succession.jpg",
+        "url": "https://knowledgewalk.net/media/henry-viii-1534-church-authority-and-succession.jpg",
+        "final_url": "https://knowledgewalk.net/media/henry-viii-1534-church-authority-and-succession.jpg",
+        "status": 200,
+        "bytes": 834216,
+        "sha256": "7815b4c0e03914b40e8c343f78dad901a2caa5921dd5d0ce48e00d64a7e33253",
+        "expected_sha256": "7815b4c0e03914b40e8c343f78dad901a2caa5921dd5d0ce48e00d64a7e33253",
+        "matches": true
+      },
+      {
+        "path": "media/mapungubwe-gold-cattle-and-unequal-wealth.jpg",
+        "url": "https://knowledgewalk.net/media/mapungubwe-gold-cattle-and-unequal-wealth.jpg",
+        "final_url": "https://knowledgewalk.net/media/mapungubwe-gold-cattle-and-unequal-wealth.jpg",
+        "status": 200,
+        "bytes": 1478084,
+        "sha256": "b37334fce04136c97fa6c2b1e28c234dc24c372ea58b68c28daa913dc170e135",
+        "expected_sha256": "b37334fce04136c97fa6c2b1e28c234dc24c372ea58b68c28daa913dc170e135",
+        "matches": true
+      },
+      {
+        "path": "media/sogdian-merchants-oases-languages-and-networks.jpg",
+        "url": "https://knowledgewalk.net/media/sogdian-merchants-oases-languages-and-networks.jpg",
+        "final_url": "https://knowledgewalk.net/media/sogdian-merchants-oases-languages-and-networks.jpg",
+        "status": 200,
+        "bytes": 607775,
+        "sha256": "bc079ee61d0344b1895ebe7fe8e7f860e761a78e275728aea49d467da1886e17",
+        "expected_sha256": "bc079ee61d0344b1895ebe7fe8e7f860e761a78e275728aea49d467da1886e17",
+        "matches": true
+      },
+      {
+        "path": "media/sputnik-1957-satellite-and-cold-war-competition.jpg",
+        "url": "https://knowledgewalk.net/media/sputnik-1957-satellite-and-cold-war-competition.jpg",
+        "final_url": "https://knowledgewalk.net/media/sputnik-1957-satellite-and-cold-war-competition.jpg",
+        "status": 200,
+        "bytes": 179258,
+        "sha256": "4d02fe278177e9324dc712dd679403732906d1d6c0ca4886923afe6fc11ebeae",
+        "expected_sha256": "4d02fe278177e9324dc712dd679403732906d1d6c0ca4886923afe6fc11ebeae",
+        "matches": true
+      },
+      {
+        "path": "search-index.json",
+        "url": "https://knowledgewalk.net/search-index.json",
+        "final_url": "https://knowledgewalk.net/search-index.json",
+        "status": 200,
+        "bytes": 3421513,
+        "sha256": "a5b0eb0b6ba1a2771aa327d010d1e43ad6cee532dc8d324d19792dfd8796ceb5",
+        "expected_sha256": "a5b0eb0b6ba1a2771aa327d010d1e43ad6cee532dc8d324d19792dfd8796ceb5",
+        "matches": true
+      },
+      {
+        "path": "search.html",
+        "url": "https://knowledgewalk.net/search.html",
+        "final_url": "https://knowledgewalk.net/search.html",
+        "status": 200,
+        "bytes": 665762,
+        "sha256": "525107ca93ea227c57e5354ea56b0300a2a25df7393ec821778ee7155fa730e9",
+        "expected_sha256": "525107ca93ea227c57e5354ea56b0300a2a25df7393ec821778ee7155fa730e9",
+        "matches": true
+      },
+      {
+        "path": "site-assets/site.css",
+        "url": "https://knowledgewalk.net/site-assets/site.css",
+        "final_url": "https://knowledgewalk.net/site-assets/site.css",
+        "status": 200,
+        "bytes": 22573,
+        "sha256": "153a6ace705d6b64299a2478966fb0e8a2bab87839bf7b9a84da6f518248dd78",
+        "expected_sha256": "153a6ace705d6b64299a2478966fb0e8a2bab87839bf7b9a84da6f518248dd78",
+        "matches": true
+      },
+      {
+        "path": "site-assets/site.js",
+        "url": "https://knowledgewalk.net/site-assets/site.js",
+        "final_url": "https://knowledgewalk.net/site-assets/site.js",
+        "status": 200,
+        "bytes": 11929,
+        "sha256": "38d500743d2517a77be207bf7d6a1de2f5931a925d47f99ec5357afb7b43fe07",
+        "expected_sha256": "38d500743d2517a77be207bf7d6a1de2f5931a925d47f99ec5357afb7b43fe07",
+        "matches": true
+      },
+      {
+        "path": "site-assets/split.css",
+        "url": "https://knowledgewalk.net/site-assets/split.css",
+        "final_url": "https://knowledgewalk.net/site-assets/split.css",
+        "status": 200,
+        "bytes": 5012,
+        "sha256": "b18f21fe7b96c8fa04e1fb4d4977bc091986ac71dc9954471b694f170cc5b1ed",
+        "expected_sha256": "b18f21fe7b96c8fa04e1fb4d4977bc091986ac71dc9954471b694f170cc5b1ed",
+        "matches": true
+      },
+      {
+        "path": "sitemap.xml",
+        "url": "https://knowledgewalk.net/sitemap.xml",
+        "final_url": "https://knowledgewalk.net/sitemap.xml",
+        "status": 200,
+        "bytes": 71743,
+        "sha256": "bd5f7a91976a1d1f42226871ab269600219f15b77e9ae1b18130df7827d9d599",
+        "expected_sha256": "bd5f7a91976a1d1f42226871ab269600219f15b77e9ae1b18130df7827d9d599",
+        "matches": true
+      },
+      {
+        "path": "stories/akbar-religious-debates-and-imperial-authority/index.html",
+        "url": "https://knowledgewalk.net/stories/akbar-religious-debates-and-imperial-authority/index.html",
+        "final_url": "https://knowledgewalk.net/stories/akbar-religious-debates-and-imperial-authority/index.html",
+        "status": 200,
+        "bytes": 16826,
+        "sha256": "b5e1e38a83860286b326c756443b094208cc5d61804c4336c7867f39d750dbdf",
+        "expected_sha256": "b5e1e38a83860286b326c756443b094208cc5d61804c4336c7867f39d750dbdf",
+        "matches": true
+      },
+      {
+        "path": "stories/aksum-red-sea-trade-and-christian-kingship/index.html",
+        "url": "https://knowledgewalk.net/stories/aksum-red-sea-trade-and-christian-kingship/index.html",
+        "final_url": "https://knowledgewalk.net/stories/aksum-red-sea-trade-and-christian-kingship/index.html",
+        "status": 200,
+        "bytes": 16792,
+        "sha256": "b05544bff34a5de99af42dbbf3e13fe160c6888220fdfa54921b8911b2132c37",
+        "expected_sha256": "b05544bff34a5de99af42dbbf3e13fe160c6888220fdfa54921b8911b2132c37",
+        "matches": true
+      },
+      {
+        "path": "stories/andes-before-inca-water-land-and-regional-societies/index.html",
+        "url": "https://knowledgewalk.net/stories/andes-before-inca-water-land-and-regional-societies/index.html",
+        "final_url": "https://knowledgewalk.net/stories/andes-before-inca-water-land-and-regional-societies/index.html",
+        "status": 200,
+        "bytes": 16712,
+        "sha256": "6911d798674d1945823652f20ca6eed6075f0a9b82188b611fd4244b4d482cdf",
+        "expected_sha256": "6911d798674d1945823652f20ca6eed6075f0a9b82188b611fd4244b4d482cdf",
+        "matches": true
+      },
+      {
+        "path": "stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html",
+        "url": "https://knowledgewalk.net/stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html",
+        "final_url": "https://knowledgewalk.net/stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html",
+        "status": 200,
+        "bytes": 16958,
+        "sha256": "765d190cc5af2e74eb1d68277739a5a88ec9e596bb456bdfa3424c306ae3ae42",
+        "expected_sha256": "765d190cc5af2e74eb1d68277739a5a88ec9e596bb456bdfa3424c306ae3ae42",
+        "matches": true
+      },
+      {
+        "path": "stories/dawes-plan-1924-reparations-loans-and-dependence/index.html",
+        "url": "https://knowledgewalk.net/stories/dawes-plan-1924-reparations-loans-and-dependence/index.html",
+        "final_url": "https://knowledgewalk.net/stories/dawes-plan-1924-reparations-loans-and-dependence/index.html",
+        "status": 200,
+        "bytes": 16538,
+        "sha256": "0624adeb784a07cedd1d1be5be5cea4c7d84d99397630c4d6438edb462bdfcba",
+        "expected_sha256": "0624adeb784a07cedd1d1be5be5cea4c7d84d99397630c4d6438edb462bdfcba",
+        "matches": true
+      },
+      {
+        "path": "stories/genji-heian-kana-women-and-literary-memory/index.html",
+        "url": "https://knowledgewalk.net/stories/genji-heian-kana-women-and-literary-memory/index.html",
+        "final_url": "https://knowledgewalk.net/stories/genji-heian-kana-women-and-literary-memory/index.html",
+        "status": 200,
+        "bytes": 16627,
+        "sha256": "c7b8652a21272db3a09331d8335cb3039c9d968f4cf6653c560c1dcb249b9031",
+        "expected_sha256": "c7b8652a21272db3a09331d8335cb3039c9d968f4cf6653c560c1dcb249b9031",
+        "matches": true
+      },
+      {
+        "path": "stories/henry-viii-1534-church-authority-and-succession/index.html",
+        "url": "https://knowledgewalk.net/stories/henry-viii-1534-church-authority-and-succession/index.html",
+        "final_url": "https://knowledgewalk.net/stories/henry-viii-1534-church-authority-and-succession/index.html",
+        "status": 200,
+        "bytes": 17065,
+        "sha256": "07d97388d337562e7a654b9f9292906e754d719bdd0bc0c04f3c72a83b81d028",
+        "expected_sha256": "07d97388d337562e7a654b9f9292906e754d719bdd0bc0c04f3c72a83b81d028",
+        "matches": true
+      },
+      {
+        "path": "stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html",
+        "url": "https://knowledgewalk.net/stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html",
+        "final_url": "https://knowledgewalk.net/stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html",
+        "status": 200,
+        "bytes": 16376,
+        "sha256": "944a3fccc3f050372b16522b7aaba05f818e03175d3b1367f8fd58478a5d44eb",
+        "expected_sha256": "944a3fccc3f050372b16522b7aaba05f818e03175d3b1367f8fd58478a5d44eb",
+        "matches": true
+      },
+      {
+        "path": "stories/sogdian-merchants-oases-languages-and-networks/index.html",
+        "url": "https://knowledgewalk.net/stories/sogdian-merchants-oases-languages-and-networks/index.html",
+        "final_url": "https://knowledgewalk.net/stories/sogdian-merchants-oases-languages-and-networks/index.html",
+        "status": 200,
+        "bytes": 16907,
+        "sha256": "b0b109a7997502a4f31f74ffa8bcca304911648319d37d74134e2d6c6bcfa954",
+        "expected_sha256": "b0b109a7997502a4f31f74ffa8bcca304911648319d37d74134e2d6c6bcfa954",
+        "matches": true
+      },
+      {
+        "path": "stories/sputnik-1957-satellite-and-cold-war-competition/index.html",
+        "url": "https://knowledgewalk.net/stories/sputnik-1957-satellite-and-cold-war-competition/index.html",
+        "final_url": "https://knowledgewalk.net/stories/sputnik-1957-satellite-and-cold-war-competition/index.html",
+        "status": 200,
+        "bytes": 16688,
+        "sha256": "e5591bf20ade2cfb3fa6b88edb0138aef1b523e71d6f16c02504505b8b083749",
+        "expected_sha256": "e5591bf20ade2cfb3fa6b88edb0138aef1b523e71d6f16c02504505b8b083749",
+        "matches": true
+      }
+    ],
+    "passed": true
+  },
+  "github_actions": [
+    {
+      "conclusion": "success",
+      "databaseId": 43423995074,
+      "headSha": "14b6b23a0f1d2680ea4c599d982958991240d32c",
+      "name": "pages build and deployment",
+      "status": "completed"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 43423995671,
+      "headSha": "14b6b23a0f1d2680ea4c599d982958991240d32c",
+      "name": "Validate KnowledgeWalk publication",
+      "status": "completed"
+    }
+  ]
 }

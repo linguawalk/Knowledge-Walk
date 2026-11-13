@@ -21,6 +21,26 @@
   "originals": 506,
   "unpublished": 13,
   "numbered_sections_per_story": 7,
-  "deployment_status": "local_verified_awaiting_deployment",
-  "local_tests_passed": 64
+  "deployment_status": "live_verified",
+  "local_tests_passed": 64,
+  "publication_commit": "14b6b23a0f1d2680ea4c599d982958991240d32c",
+  "live_resources_verified": 86,
+  "strict_https": true,
+  "github_actions": [
+    {
+      "conclusion": "success",
+      "databaseId": 43423995074,
+      "headSha": "14b6b23a0f1d2680ea4c599d982958991240d32c",
+      "name": "pages build and deployment",
+      "status": "completed"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 43423995671,
+      "headSha": "14b6b23a0f1d2680ea4c599d982958991240d32c",
+      "name": "Validate KnowledgeWalk publication",
+      "status": "completed"
+    }
+  ],
+  "live_proof": "docs/research/history-connections-authority-choice-publication-20261113.json"
 }
