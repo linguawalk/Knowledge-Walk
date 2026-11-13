@@ -69,8 +69,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "Elizabeth Robins Pennell, Mary Wollstonecraft (1884), 원본 표지의 디지털 재현. 1792년 여성의 권리 옹호 초판 표지나 저자의 초상이 아닙니다.",
     "source_url": "https://raw.githubusercontent.com/GITenberg/Mary-Wollstonecraft_22800/master/22800-h/images/cover01.jpg",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

@@ -69,8 +69,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "Hara1603, Behistun Inscription, Wikimedia Commons · OpenStax 수록. 현대 촬영한 고대 기념물 사진입니다.",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A04_03_Behistun.jpg",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

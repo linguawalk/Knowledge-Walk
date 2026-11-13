@@ -69,8 +69,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "Raphael Meldola, Coal and What We Get from It, Fig. 11, The Madder Plant. 천연 염료의 재료이며 합성염료 견본이나 독일 공장 사진이 아닙니다.",
     "source_url": "https://raw.githubusercontent.com/GITenberg/Coal-and-What-We-Get-from-It_33165/master/33165-h/images/fig11.png",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

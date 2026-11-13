@@ -69,8 +69,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "U.S. Fish and Wildlife Service, Rachel Carson · OpenStax 수록. 약 1940년의 사진이며 1962년 출판 현장이 아닙니다.",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B15_02_RCarson.jpg",
     "license": "CC0 1.0 · https://creativecommons.org/publicdomain/zero/1.0/"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

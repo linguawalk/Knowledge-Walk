@@ -69,8 +69,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "Hawaii State Archives/Wikimedia Commons · OpenStax 수록. 왕위에 오르기 전 공주 시절인 1887년 사진이며 1893년 전복 현장이 아닙니다.",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B09_03_Lili.jpg",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

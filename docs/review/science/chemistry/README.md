@@ -8,4 +8,4 @@
 | [라부아지에 — 늘어난 금속의 무게는 어디에서 왔을까](lavoisier-metals-air-and-balanced-mass.md) | 자료 대조·공개 게시 승인 완료 |
 | [멘델레예프 — 표를 완성하려고 빈칸을 남기다](mendeleev-empty-spaces-and-elements.md) | 자료 대조·공개 게시 승인 완료 |
 | [비누 — 물과 기름 사이에 다리를 놓다](soap-water-and-oily-plate.md) | 자료 대조·공개 게시 승인 완료 |
-| [합성염료 — 석탄의 검은 부산물이 어떻게 산업의 색이 되었을까](synthetic-dyes-coal-tar-and-german-laboratories.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [합성염료 — 석탄의 검은 부산물이 어떻게 산업의 색이 되었을까](synthetic-dyes-coal-tar-and-german-laboratories.md) | 자료 대조·공개 게시 승인 완료 |

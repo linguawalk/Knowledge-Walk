@@ -1,0 +1,26 @@
+{
+  "id": "ten-history-machines-images-public-life-publication-20261113",
+  "user_request": "홈페이지 게시 및 새 글 10개",
+  "approved_at": "2026-11-13",
+  "batch_id": "20261113-ten-history-machines-images-and-public-life",
+  "story_ids": [
+    "luddites-1811-machines-work-and-bargaining",
+    "synthetic-dyes-coal-tar-and-german-laboratories",
+    "daguerreotype-1839-light-fixed-on-a-plate",
+    "phoenician-alphabet-trade-and-adaptation",
+    "behistun-darius-inscription-and-royal-legitimacy",
+    "rome-annona-grain-ports-and-imperial-power",
+    "hawaii-1893-monarchy-sugar-and-annexation",
+    "rachel-carson-1962-silent-spring-public-evidence",
+    "congo-rubber-forced-labor-and-global-demand",
+    "wollstonecraft-1792-education-reason-and-rights"
+  ],
+  "domain": "knowledgewalk.net",
+  "public_collection_url": "https://knowledgewalk.net/collections/20261113-ten-history-machines-images-and-public-life/index.html",
+  "public_unique_stories": 483,
+  "originals": 496,
+  "unpublished": 13,
+  "numbered_sections_per_story": 7,
+  "deployment_status": "local_verified_awaiting_deployment",
+  "local_tests_passed": 64
+}

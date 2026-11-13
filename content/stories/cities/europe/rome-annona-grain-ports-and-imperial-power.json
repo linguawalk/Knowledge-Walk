@@ -70,8 +70,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -94,5 +94,7 @@
     "credit": "Guy de la Bedoyere/Wikimedia Commons, 로마 아노나 동전 · OpenStax 수록. 사진의 출처 설명에서 황제명이 일치하지 않아 특정 황제의 동전으로 단정하지 않습니다.",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A07_03_Hadrian.jpg",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }
