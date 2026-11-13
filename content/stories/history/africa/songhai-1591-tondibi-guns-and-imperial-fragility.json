@@ -68,8 +68,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -92,5 +92,7 @@
     "credit": "EurAstro/Elias Altmimi, Timbuktu manuscripts, Wikimedia Commons · OpenStax 수록. 후대의 자료 사진이며 1591년 전투 현장을 보여 주지 않습니다.",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B03_02_TimbManu.jpg",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

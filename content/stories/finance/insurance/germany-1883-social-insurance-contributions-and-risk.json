@@ -68,8 +68,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -92,5 +92,7 @@
     "credit": "James Harvey Robinson, An Introduction to the History of Western Europe, Bismarck. 당시 독일 정치를 이끈 인물의 초상이며 보험법 제정 현장 자료는 아닙니다.",
     "source_url": "https://raw.githubusercontent.com/GITenberg/An-Introduction-to-the-History-of-Western-Europe_26042/master/26042-h/images/image88.jpg",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

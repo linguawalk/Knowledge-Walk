@@ -68,8 +68,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -92,5 +92,7 @@
     "credit": "Resvoluci/Wikimedia Commons, Spanish Americas revolutions를 바탕으로 한 지도 · OpenStax 수록. 현대 설명 지도이며 1776년 부왕령의 원본 지도와 구분합니다.",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B08_03_M-SpanAmIn.jpg",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

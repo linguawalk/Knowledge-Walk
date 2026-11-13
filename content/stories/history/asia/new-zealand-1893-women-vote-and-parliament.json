@@ -68,8 +68,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -101,5 +101,7 @@
     "credit": "William Pember Reeves, The Long White Cloud (1899), Maori Wahine, Photo by General Robley. 인물의 이름·투표 참여·운동 경력은 확인하지 않았으며 참정권 운동가의 초상으로 제시하지 않습니다.",
     "source_url": "https://raw.githubusercontent.com/GITenberg/The-Long-White-Cloud--13--Ao-Tea-Roa-_12411/master/12411-h/img/image08.jpg",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

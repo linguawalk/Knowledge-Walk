@@ -68,8 +68,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -92,5 +92,7 @@
     "credit": "David Stanley, Armenian Frescoes, Flickr · OpenStax 수록. 후대 촬영 사진이며 강제 이주 당시 장면이 아닙니다. 원본 파일 그대로 사용.",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B04_03_ArmCathdr.jpg",
     "license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

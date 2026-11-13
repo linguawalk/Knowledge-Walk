@@ -68,8 +68,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -92,5 +92,7 @@
     "credit": "Demis/Wikimedia Commons, Banda Sea를 바탕으로 한 말라카 위치 지도 · OpenStax 수록. 현대 설명 지도이며 1511년의 지도 원본이 아닙니다.",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B02_02_M-Malacca.jpg",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

@@ -1,0 +1,26 @@
+{
+  "id": "ten-history-rights-trade-observation-publication-20261113",
+  "user_request": "홈페이지 게시 및 새 글 10개",
+  "approved_at": "2026-11-13",
+  "batch_id": "20261111-ten-history-rights-trade-and-observation",
+  "story_ids": [
+    "haiti-1791-revolution-emancipation-and-independence",
+    "malacca-1511-port-law-and-moving-trade",
+    "songhai-1591-tondibi-guns-and-imperial-fragility",
+    "buenos-aires-1776-port-silver-and-local-power",
+    "isfahan-armenian-merchants-silk-and-displacement",
+    "germany-1883-social-insurance-contributions-and-risk",
+    "new-zealand-1893-women-vote-and-parliament",
+    "fibonacci-1202-liber-abaci-and-traveling-numerals",
+    "vesalius-1543-fabrica-observation-and-print",
+    "hobbes-1651-leviathan-common-power-and-security"
+  ],
+  "domain": "knowledgewalk.net",
+  "public_collection_url": "https://knowledgewalk.net/collections/20261111-ten-history-rights-trade-and-observation/index.html",
+  "public_unique_stories": 473,
+  "originals": 486,
+  "unpublished": 13,
+  "numbered_sections_per_story": 7,
+  "deployment_status": "local_verified_awaiting_deployment",
+  "local_tests_passed": 64
+}

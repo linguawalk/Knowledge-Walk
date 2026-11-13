@@ -68,8 +68,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -92,5 +92,7 @@
     "credit": "James Moores Ball, Andreas Vesalius the Reformer of Anatomy (1910), Skeleton by Vesalius, after Fabrica (1543). 역사적 과학 도판의 출판 재현입니다.",
     "source_url": "https://raw.githubusercontent.com/GITenberg/Andreas-Vesalius-the-Reformer-of-Anatomy_63456/master/63456-h/images/p_p098.jpg",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

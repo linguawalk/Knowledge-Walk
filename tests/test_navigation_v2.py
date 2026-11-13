@@ -28,7 +28,16 @@ class NavigationTests(unittest.TestCase):
         mexico=next(r for r in self.rows if r['country']=='멕시코')
         self.assertEqual((mexico['region'],mexico['subregion']),('아메리카','북아메리카'))
         americas=site.category_map['americas'];site.category(americas,'중앙아메리카')
-        self.assertIn('아직 공개된 이야기가 없습니다',site.files[site.category_path('americas','중앙아메리카')])
+        central=[s for s in site.stories if any(
+            g['continent']=='아메리카' and g.get('subregion')=='중앙아메리카'
+            for g in s['placement']['geographies'])]
+        page=site.files[site.category_path('americas','중앙아메리카')]
+        for story in central:
+            self.assertIn('data-story-id="'+story['id']+'"',page)
+        # Keep the empty-region check independent of the growing approved catalog.
+        empty=SplitSite('net',site.categories,[s for s in site.stories if s not in central],self.tax)
+        empty.category(empty.category_map['americas'],'중앙아메리카')
+        self.assertIn('아직 공개된 이야기가 없습니다',empty.files[empty.category_path('americas','중앙아메리카')])
         site.category(americas,'북아메리카')
         self.assertIn('멕시코',site.files[site.category_path('americas','북아메리카')])
 

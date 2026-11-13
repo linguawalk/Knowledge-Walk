@@ -68,8 +68,8 @@
       ]
     }
   ],
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -101,5 +101,7 @@
     "credit": "David E. Smith·Louis C. Karpinski, The Hindu-Arabic Numerals (1911), Nana Ghat inscriptions. 인도 숫자 전통의 역사 자료 재현이며 피보나치의 산반서 원본이나 현대 자릿값 체계를 그대로 적은 문서가 아닙니다.",
     "source_url": "https://raw.githubusercontent.com/GITenberg/The-Hindu-Arabic-Numerals_22599/master/22599-h/images/030a.png",
     "license": "Public Domain"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }
