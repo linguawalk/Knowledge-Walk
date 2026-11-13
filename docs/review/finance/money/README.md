@@ -15,5 +15,5 @@
 | [존 로 — 종이돈과 미시시피의 꿈은 어떻게 엮였을까](john-law-paper-money-and-mississippi.md) | 자료 대조·공개 게시 승인 완료 |
 | [쿠빌라이의 지폐 — 나무껍질이 돈이 되던 제국](kublai-paper-money-and-seal.md) | 자료 대조·공개 게시 승인 완료 |
 | [만사 무사 — 순례길의 금은 왜 카이로에 흔적을 남겼을까](mansa-musa-gold-and-cairo.md) | 자료 대조·공개 게시 승인 완료 |
-| [마풍구브웨 — 황금의 번영 아래에는 어떤 일이 있었을까](mapungubwe-gold-cattle-and-unequal-wealth.md) | 자료 대조 완료 · 게시 승인 대기 |
-| [소그드 상인 — 큰 제국 없이도 교역로의 중심이 될 수 있었을까](sogdian-merchants-oases-languages-and-networks.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [마풍구브웨 — 황금의 번영 아래에는 어떤 일이 있었을까](mapungubwe-gold-cattle-and-unequal-wealth.md) | 자료 대조·공개 게시 승인 완료 |
+| [소그드 상인 — 큰 제국 없이도 교역로의 중심이 될 수 있었을까](sogdian-merchants-oases-languages-and-networks.md) | 자료 대조·공개 게시 승인 완료 |

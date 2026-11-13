@@ -9,8 +9,8 @@
   "net_content_kind": "역사",
   "kr_topic": "역사",
   "kr_subtopic": "교역과 세계의 연결",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "Alan, The Ezana Stone, Flickr · OpenStax 수록. 고대 비문을 현대에 촬영한 사진입니다.",
     "license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A10_03_EzanaStone.jpg"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

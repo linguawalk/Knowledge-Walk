@@ -4,7 +4,7 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
-| [악숨 — 홍해의 교역 왕국은 왜 십자가를 새겼을까](aksum-red-sea-trade-and-christian-kingship.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [악숨 — 홍해의 교역 왕국은 왜 십자가를 새겼을까](aksum-red-sea-trade-and-christian-kingship.md) | 자료 대조·공개 게시 승인 완료 |
 | [아마르나 — 태양을 위한 수도는 왜 오래가지 못했을까](amarna-akhenaten-capital-sun-and-afterlife.md) | 자료 대조·공개 게시 승인 완료 |
 | [콩고의 고무 — 세계의 수요는 어떻게 강제노동의 명령이 되었을까](congo-rubber-forced-labor-and-global-demand.md) | 자료 대조·공개 게시 승인 완료 |
 | [고대 이집트 사람들은 왜 무덤에 작은 일꾼을 두었을까](egypt-shabti.md) | 자료 대조·공개 게시 승인 완료 |

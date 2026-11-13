@@ -1,0 +1,26 @@
+{
+  "id": "ten-history-connections-authority-choice-publication-20261113",
+  "user_request": "홈페이지 게시",
+  "approved_at": "2026-11-13",
+  "batch_id": "20261113-ten-history-connections-authority-and-choice",
+  "story_ids": [
+    "akbar-religious-debates-and-imperial-authority",
+    "aksum-red-sea-trade-and-christian-kingship",
+    "sogdian-merchants-oases-languages-and-networks",
+    "henry-viii-1534-church-authority-and-succession",
+    "andes-before-inca-water-land-and-regional-societies",
+    "mapungubwe-gold-cattle-and-unequal-wealth",
+    "bandung-1955-sovereignty-aid-and-nonalignment",
+    "sputnik-1957-satellite-and-cold-war-competition",
+    "dawes-plan-1924-reparations-loans-and-dependence",
+    "genji-heian-kana-women-and-literary-memory"
+  ],
+  "domain": "knowledgewalk.net",
+  "public_collection_url": "https://knowledgewalk.net/collections/20261113-ten-history-connections-authority-and-choice/index.html",
+  "public_unique_stories": 493,
+  "originals": 506,
+  "unpublished": 13,
+  "numbered_sections_per_story": 7,
+  "deployment_status": "local_verified_awaiting_deployment",
+  "local_tests_passed": 64
+}

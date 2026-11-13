@@ -9,8 +9,8 @@
   "net_content_kind": "역사",
   "kr_topic": "생각과 지식",
   "kr_subtopic": "종교와 세계관",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "Jesuits at Akbar’s court (1605), Chester Beatty/Wikimedia Commons · OpenStax 수록. 궁정 회화이며 토론의 대화를 그대로 기록한 자료가 아닙니다.",
     "license": "Public Domain",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B02_01_Akbar.jpg"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

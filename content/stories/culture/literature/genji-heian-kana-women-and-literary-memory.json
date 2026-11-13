@@ -9,8 +9,8 @@
   "net_content_kind": "역사",
   "kr_topic": "문화와 예술",
   "kr_subtopic": "문학",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "Gift of Mary L. Cassilly, 1894, The Tale of Genji, Metropolitan Museum of Art · OpenStax 수록. 17세기 앨범의 그림으로 11세기 집필 현장이나 실제 인물의 생활 사진이 아닙니다.",
     "license": "Public Domain",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A12_03_TaleGenji1.jpg"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

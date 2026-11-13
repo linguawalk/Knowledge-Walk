@@ -9,8 +9,8 @@
   "net_content_kind": "역사",
   "kr_topic": "역사",
   "kr_subtopic": "전쟁과 외교",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "W. Basil Worsfold, A Visit to Java (1893), Sketch Map of Java. 식민 지배 시기의 지도이며 반둥이 있는 자바의 위치를 살피는 자료입니다. 1955년 회의 장면이나 독립 이후 국경의 지도가 아닙니다.",
     "license": "Public Domain",
     "source_url": "https://raw.githubusercontent.com/GITenberg/A-Visit-to-JavaWith-an-Account-of-the-Founding-of-Singapore_27152/master/27152-h/images/map-big.png"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

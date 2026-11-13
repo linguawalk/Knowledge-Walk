@@ -9,8 +9,8 @@
   "net_content_kind": "역사",
   "kr_topic": "경제·산업·금융",
   "kr_subtopic": "무역과 시장",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -94,5 +94,7 @@
     "credit": "Pendjikent, Panjikent mural (6th–7th century CE), Wikimedia Commons · OpenStax 수록. 오늘날 타지키스탄의 유적에서 나온 벽화이며 상인 한 사람의 신원을 보여 주는 초상이 아닙니다.",
     "license": "Public Domain",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A12_03_PanjWar.jpg"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

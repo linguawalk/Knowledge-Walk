@@ -5,7 +5,7 @@
 | 이야기 | 확인 상태 |
 |---|---|
 | [잉카의 길은 산맥을 넘어 무엇을 이어 주었을까](andean-road.md) | 자료 대조·공개 게시 승인 완료 |
-| [잉카 이전의 안데스 — 물은 지역마다 다른 사회를 만들었을까](andes-before-inca-water-land-and-regional-societies.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [잉카 이전의 안데스 — 물은 지역마다 다른 사회를 만들었을까](andes-before-inca-water-land-and-regional-societies.md) | 자료 대조·공개 게시 승인 완료 |
 | [달에서는 신발 바닥도 기록이 되었다](apollo-bootprint-close-up.md) | 자료 대조·공개 게시 승인 완료 |
 | [인터넷에도 첫 번째 정거장이 있었다](arpanet-first-node.md) | 자료 대조·공개 게시 승인 완료 |
 | [보스턴 — 차를 바다에 던진 날](boston-tea-tax-and-harbor.md) | 자료 대조·공개 게시 승인 완료 |

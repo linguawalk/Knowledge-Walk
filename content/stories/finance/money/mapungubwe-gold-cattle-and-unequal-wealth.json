@@ -9,8 +9,8 @@
   "net_content_kind": "역사",
   "kr_topic": "경제·산업·금융",
   "kr_subtopic": "무역과 시장",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "South African Tourism, Mapungubwe, Limpopo, South Africa, Flickr · OpenStax 수록. 현대 유적 사진이며 중세 건물을 재현한 그림은 아닙니다.",
     "license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A15_02_MapungHill.jpg"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

@@ -9,8 +9,8 @@
   "net_content_kind": "역사",
   "kr_topic": "경제·산업·금융",
   "kr_subtopic": "은행과 신용",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -94,5 +94,7 @@
     "credit": "Hyperinflation in Germany in 1923, Mount Holyoke College/Wikimedia Commons · OpenStax 수록. 도스안 이전의 통화 위기 사진이며 1924년 합의 현장을 보여 주지 않습니다.",
     "license": "Public Domain",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B12_01_HyperInfl.jpg"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

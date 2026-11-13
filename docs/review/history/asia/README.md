@@ -4,10 +4,10 @@
 
 | 이야기 | 확인 상태 |
 |---|---|
-| [아크바르의 토론장 — 여러 신앙을 부른 황제는 무엇을 다스렸을까](akbar-religious-debates-and-imperial-authority.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [아크바르의 토론장 — 여러 신앙을 부른 황제는 무엇을 다스렸을까](akbar-religious-debates-and-imperial-authority.md) | 자료 대조·공개 게시 승인 완료 |
 | [아소카의 칙령 — 정복한 왕은 왜 후회를 돌에 새겼을까](asoka-edicts-kalinga-and-public-morality.md) | 자료 대조·공개 게시 승인 완료 |
 | [호주 1901 — 여섯 식민지는 무엇을 함께 하기로 했을까](australia-1901-federation-states-and-exclusions.md) | 자료 대조·공개 게시 승인 완료 |
-| [반둥회의 — 두 강대국 사이에서 다른 선택이 가능했을까](bandung-1955-sovereignty-aid-and-nonalignment.md) | 자료 대조 완료 · 게시 승인 대기 |
+| [반둥회의 — 두 강대국 사이에서 다른 선택이 가능했을까](bandung-1955-sovereignty-aid-and-nonalignment.md) | 자료 대조·공개 게시 승인 완료 |
 | [의화단 사건 — 마을의 불안은 어떻게 국제적 위기가 되었을까](boxer-crisis-1900-local-conflict-and-foreign-intervention.md) | 자료 대조·공개 게시 승인 완료 |
 | [무술변법 — 황제의 명령만으로 국가는 바뀔 수 있었을까](china-1898-reform-edicts-and-political-support.md) | 자료 대조·공개 게시 승인 완료 |
 | [중국의 과거제 — 작은 칸에서 치른 시험은 누구에게 길을 열었을까](china-examinations-cells-books-and-office.md) | 자료 대조·공개 게시 승인 완료 |

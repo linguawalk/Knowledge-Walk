@@ -9,8 +9,8 @@
   "net_content_kind": "역사",
   "kr_topic": "과학과 발견",
   "kr_subtopic": "우주와 천문",
-  "status": "review",
-  "publication_ready": false,
+  "status": "approved",
+  "publication_ready": true,
   "source_review": "verified",
   "sources": [
     {
@@ -93,5 +93,7 @@
     "credit": "Universal Newsreel, First report of Sputnik 및 Romanian postage stamp, Wikimedia Commons · OpenStax 수록. 위성의 상상도와 기념 우표를 묶은 자료이며 우주 현장 촬영 사진이 아닙니다.",
     "license": "Public Domain",
     "source_url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B14_01_Sputnik.jpg"
-  }
+  },
+  "approved_by": "KnowledgeWalk 편집자 — Codex 채팅의 홈페이지 게시 요청",
+  "approved_at": "2026-11-13"
 }

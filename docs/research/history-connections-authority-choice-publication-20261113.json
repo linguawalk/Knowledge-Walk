@@ -1,0 +1,558 @@
+{
+  "date": "2026-11-13",
+  "batch_id": "20261113-ten-history-connections-authority-and-choice",
+  "approved_stories": 493,
+  "unpublished": 13,
+  "originals": 506,
+  "full_tests_passed": 64,
+  "site_tests_passed": 23,
+  "browser_checks": [
+    {
+      "id": "akbar-religious-debates-and-imperial-authority",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/akbar-religious-debates-and-imperial-authority/index.html"
+    },
+    {
+      "id": "aksum-red-sea-trade-and-christian-kingship",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/aksum-red-sea-trade-and-christian-kingship/index.html"
+    },
+    {
+      "id": "sogdian-merchants-oases-languages-and-networks",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/sogdian-merchants-oases-languages-and-networks/index.html"
+    },
+    {
+      "id": "henry-viii-1534-church-authority-and-succession",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/henry-viii-1534-church-authority-and-succession/index.html"
+    },
+    {
+      "id": "andes-before-inca-water-land-and-regional-societies",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/andes-before-inca-water-land-and-regional-societies/index.html"
+    },
+    {
+      "id": "mapungubwe-gold-cattle-and-unequal-wealth",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html"
+    },
+    {
+      "id": "bandung-1955-sovereignty-aid-and-nonalignment",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html"
+    },
+    {
+      "id": "sputnik-1957-satellite-and-cold-war-competition",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/sputnik-1957-satellite-and-cold-war-competition/index.html"
+    },
+    {
+      "id": "dawes-plan-1924-reparations-loans-and-dependence",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/dawes-plan-1924-reparations-loans-and-dependence/index.html"
+    },
+    {
+      "id": "genji-heian-kana-women-and-literary-memory",
+      "width": 1440,
+      "view": "countries",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/genji-heian-kana-women-and-literary-memory/index.html"
+    },
+    {
+      "id": "akbar-religious-debates-and-imperial-authority",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/akbar-religious-debates-and-imperial-authority/index.html"
+    },
+    {
+      "id": "aksum-red-sea-trade-and-christian-kingship",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/aksum-red-sea-trade-and-christian-kingship/index.html"
+    },
+    {
+      "id": "sogdian-merchants-oases-languages-and-networks",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/sogdian-merchants-oases-languages-and-networks/index.html"
+    },
+    {
+      "id": "henry-viii-1534-church-authority-and-succession",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/henry-viii-1534-church-authority-and-succession/index.html"
+    },
+    {
+      "id": "andes-before-inca-water-land-and-regional-societies",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/andes-before-inca-water-land-and-regional-societies/index.html"
+    },
+    {
+      "id": "mapungubwe-gold-cattle-and-unequal-wealth",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html"
+    },
+    {
+      "id": "bandung-1955-sovereignty-aid-and-nonalignment",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html"
+    },
+    {
+      "id": "sputnik-1957-satellite-and-cold-war-competition",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/sputnik-1957-satellite-and-cold-war-competition/index.html"
+    },
+    {
+      "id": "dawes-plan-1924-reparations-loans-and-dependence",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/dawes-plan-1924-reparations-loans-and-dependence/index.html"
+    },
+    {
+      "id": "genji-heian-kana-women-and-literary-memory",
+      "width": 390,
+      "view": "knowledge/",
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "canonical": "https://knowledgewalk.net/stories/genji-heian-kana-women-and-literary-memory/index.html"
+    }
+  ],
+  "local_manifest": [
+    {
+      "path": "categories/africa/index.html",
+      "sha256": "4fea264876c4e235f0b5bed485169af30419e425bce5e26d8b50eeea08cc3440"
+    },
+    {
+      "path": "categories/africa/남아프리카공화국/index.html",
+      "sha256": "016ace336f6a82d7797e35a6143be6717c17fcda138e8e8eb030666c086bc6cf"
+    },
+    {
+      "path": "categories/africa/에리트레아/index.html",
+      "sha256": "7d45a6ca24c43c81122fc4a5ef9661550731e3dcae11871a2a584e59bbab477a"
+    },
+    {
+      "path": "categories/africa/에티오피아/index.html",
+      "sha256": "e2ee6df4876a213c2b7fd1fecec7d219fdd777cd0790fdd9dfbe7425c76d7ca1"
+    },
+    {
+      "path": "categories/americas/index.html",
+      "sha256": "6a80a28010be0d6d0aae3cce2e7baedde9a86a1c8f8ce19c356845a0181b6722"
+    },
+    {
+      "path": "categories/americas/남아메리카/index.html",
+      "sha256": "a5ed1cb17a97a7f7e4c2ec565e661f06d3ffee8f1d858e6d4c660b24ab5ac407"
+    },
+    {
+      "path": "categories/americas/볼리비아/index.html",
+      "sha256": "94f9a118761225f3314ca359ecbfab45b3d4bde7b2aa60b3056acfbc9a273780"
+    },
+    {
+      "path": "categories/americas/페루/index.html",
+      "sha256": "b05af541ffdc03f57627581b9a8ccd2717a940d711d9ec7d31d602a60c0b238f"
+    },
+    {
+      "path": "categories/asia/index.html",
+      "sha256": "5c1f99f90e6c77dd09a9ba2fe2bb0bb338f89f69b2486a95339dd435e2e223f2"
+    },
+    {
+      "path": "categories/asia/남아시아/index.html",
+      "sha256": "fc9e203f9408a24178b4c61520c4d344a6011e2be4f6c1ab226676e32d16dc67"
+    },
+    {
+      "path": "categories/asia/동남아시아/index.html",
+      "sha256": "5b9c59a8325501e856173f90fb45b87e9a1a9cc5a1319fb100854dc39f9c32f8"
+    },
+    {
+      "path": "categories/asia/동아시아/index.html",
+      "sha256": "7b9a6f7bcd2e3a9eae2b102e5c9f944d724fc41cde39bd7d53d3a1657aa6cb47"
+    },
+    {
+      "path": "categories/asia/우즈베키스탄/index.html",
+      "sha256": "ca9b2707d38df11b2943256988713e69bc096e464f3449eb5c8d5a7501942523"
+    },
+    {
+      "path": "categories/asia/인도/index.html",
+      "sha256": "1b451b6f2eeacc373a0fba58159ed44a05327aa2ccac3559ff3fef027856273d"
+    },
+    {
+      "path": "categories/asia/인도네시아/index.html",
+      "sha256": "d4ec9727c56062e5390b369f6aa3ac0413f0a26587df7d25f4d13387d77d0dc7"
+    },
+    {
+      "path": "categories/asia/일본/index.html",
+      "sha256": "1493276ed08a463ece742217a52563b868931e141600a136a50a7a7989bb6f03"
+    },
+    {
+      "path": "categories/asia/중앙아시아/index.html",
+      "sha256": "e60ff84f96521ec2321bc75d426ed5293f8c50b91ffbe3936aa7422ae65cac5c"
+    },
+    {
+      "path": "categories/asia/타지키스탄/index.html",
+      "sha256": "ddca5d21852a4ee9bec18e002de18e6954cdabe8f2f2dd8acac7cd4650e06d2d"
+    },
+    {
+      "path": "categories/europe/index.html",
+      "sha256": "bec5f58d007081bf9a09b1da24365b29f94af2d2a7694cbc72884228c00e63f5"
+    },
+    {
+      "path": "categories/europe/독일/index.html",
+      "sha256": "9e4b208067f0cfbbe710549ad7fee32042d5e8894912cf5a0cc32d5a78c7fcfc"
+    },
+    {
+      "path": "categories/europe/동유럽/index.html",
+      "sha256": "120dc594ed08dcdb2f5d1ff0be22ea3d7cfb73249bcaf0eb23b47c40386cdcfd"
+    },
+    {
+      "path": "categories/europe/러시아/index.html",
+      "sha256": "04e5675628608b03ce145dabd5060f6a400c66af1487dfcac4e0105be53d031e"
+    },
+    {
+      "path": "categories/europe/서유럽/index.html",
+      "sha256": "0f7fed4c0f08b2e04cb02aea3d9e77370998a48791291a82d005b51f0c671ece"
+    },
+    {
+      "path": "categories/europe/영국/index.html",
+      "sha256": "ca3e81f7a04466839d4122aac5572e13cc6a46359d10ff17e794a1bc8bc68081"
+    },
+    {
+      "path": "categories/europe/중부유럽/index.html",
+      "sha256": "797fb22b4526f06ad1298cac6d01383d1de1a497ae765127ece69601515bb6ea"
+    },
+    {
+      "path": "collections/20261113-ten-history-connections-authority-and-choice/index.html",
+      "sha256": "6bdb5cafb022f8ee1a7a25901e8d363c938267bf219661cf34551aa24f8c1652"
+    },
+    {
+      "path": "index.html",
+      "sha256": "0cb84fe45457ad92afd37b8db1906f65f71b151198346fced205b53bee4c9995"
+    },
+    {
+      "path": "knowledge/categories/arts/index.html",
+      "sha256": "1172e93c850d8c0c928ecde7de4148f7e6c234f5c11de577318c55419b4a2823"
+    },
+    {
+      "path": "knowledge/categories/arts/문학/index.html",
+      "sha256": "d35e37f579748359d8433bd0ef8cdffccb3825d90e7ff412731e17ef3533cdc7"
+    },
+    {
+      "path": "knowledge/categories/cities-society/index.html",
+      "sha256": "d06fca39148ad9ce264f9b8ee492edfdc61bd0f8dcb78bdbee6dc5f8357c4b74"
+    },
+    {
+      "path": "knowledge/categories/cities-society/노동과-공동체/index.html",
+      "sha256": "3fee9b85947bda682af45b22823e0260afed1a31dbe9e44b6009e2a1ce89c1ef"
+    },
+    {
+      "path": "knowledge/categories/cities-society/도시의-탄생과-성장/index.html",
+      "sha256": "4502ffec31fbfa846239aa0483e27be5094dfd869756a6315524cf6c08dd79d8"
+    },
+    {
+      "path": "knowledge/categories/economy/index.html",
+      "sha256": "e0f5ab13a6f54ccefd220d4f3514a11b987d61ae0ba5be923cd76a2ed9f5fd01"
+    },
+    {
+      "path": "knowledge/categories/economy/무역과-시장/index.html",
+      "sha256": "63d6079b99cb7077a61b559d021b670a7427cdad2c46caea103cfd751fa630e2"
+    },
+    {
+      "path": "knowledge/categories/economy/은행과-신용/index.html",
+      "sha256": "7a79f0a2cbc6c8326251c49fa44da31db3addb04ba2ee16f77cf1b881075fe6e"
+    },
+    {
+      "path": "knowledge/categories/history/index.html",
+      "sha256": "3785090041fc57e1741d0c504b10e1a0ab2c22908e21c49eb22c17498087db76"
+    },
+    {
+      "path": "knowledge/categories/history/교역과-세계의-연결/index.html",
+      "sha256": "dedb2a42daa5c7e4793a6e801cf3c59f1510af1f613615bbc470981b3a79e9fe"
+    },
+    {
+      "path": "knowledge/categories/history/국가와-권력/index.html",
+      "sha256": "58be4f600c1eeb6839051d46009ea1998a91b3dbf50b78c023b4f03befe370f0"
+    },
+    {
+      "path": "knowledge/categories/history/법과-제도/index.html",
+      "sha256": "f0fe8dc8a62de9f57a1c98f6992a9d80e94ca2c78acab54c34ebada76d2ede37"
+    },
+    {
+      "path": "knowledge/categories/history/전쟁과-외교/index.html",
+      "sha256": "a5793df2a345815645916583f62adb07a1e7b973b4f33280c945e97ac2c29903"
+    },
+    {
+      "path": "knowledge/categories/ideas/index.html",
+      "sha256": "1cb3679a17eb2f4c0cad330280b95341af413b46040da78d70726b4184b6a668"
+    },
+    {
+      "path": "knowledge/categories/ideas/문자와-기록/index.html",
+      "sha256": "bc281382868bbb4035da0b06bd7fe9134d2b72cf25ad9ca0651d2c6c50b06a2c"
+    },
+    {
+      "path": "knowledge/categories/ideas/종교와-세계관/index.html",
+      "sha256": "e2072a38056b20ad1be9abfa181cca9f90ee0e32d407024a3abd1e796eff57a7"
+    },
+    {
+      "path": "knowledge/categories/science/index.html",
+      "sha256": "6714b192e7fd1acafbe99df9791845dc5f77748b1f2dfa29e17b0951b21c426b"
+    },
+    {
+      "path": "knowledge/categories/science/우주와-천문/index.html",
+      "sha256": "cea911bd62be3e49e46e7682a62c728b213f1a0339d8c1b1c3b6fe8df6fa9b85"
+    },
+    {
+      "path": "knowledge/categories/science/지구와-환경/index.html",
+      "sha256": "ec3c579f6e5ff3641545ce826ea4f946a440a726d9e241dd228f0f99874e6e2c"
+    },
+    {
+      "path": "knowledge/collections/20261113-ten-history-connections-authority-and-choice/index.html",
+      "sha256": "d3ad9cc25bef13543d897a44523a6629b392fdcc6119939f22330ad81c239863"
+    },
+    {
+      "path": "knowledge/index.html",
+      "sha256": "2af4ac787fdb7364d1a03f825aceaa4bbe0409117c673c16590cbdacbd03a02e"
+    },
+    {
+      "path": "knowledge/search-index.json",
+      "sha256": "201a1a04da9474431b21189133d208734a7ef60761c45e7e009eb185e6d256ca"
+    },
+    {
+      "path": "knowledge/search.html",
+      "sha256": "68ea0ce05c190c83bd4911f25d1169aa85f92b0e2896144889e8526ab5337bc1"
+    },
+    {
+      "path": "knowledge/stories/akbar-religious-debates-and-imperial-authority/index.html",
+      "sha256": "c3a63b0b0a50d1966e4c70b50ee0cd91e00eaec8be5d9468fd71bbc2e4ef5ff8"
+    },
+    {
+      "path": "knowledge/stories/aksum-red-sea-trade-and-christian-kingship/index.html",
+      "sha256": "d48d93dbb0cbad6cdcbcc6d5ae24c649f514d4d93221f418afc431629fad421c"
+    },
+    {
+      "path": "knowledge/stories/andes-before-inca-water-land-and-regional-societies/index.html",
+      "sha256": "8b958927aa1fcac4446a269d1e9f1ab1adaf58a76a3683e7634e42e8efee0535"
+    },
+    {
+      "path": "knowledge/stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html",
+      "sha256": "79c074478e91918851742d4c6ad08502dbf6c7287cf8337595ce17e559652379"
+    },
+    {
+      "path": "knowledge/stories/dawes-plan-1924-reparations-loans-and-dependence/index.html",
+      "sha256": "72ee0f8d4bfbb6728ffecfc13fc03901d8c32c5fb413b9dcdbb8c7d9b320103a"
+    },
+    {
+      "path": "knowledge/stories/genji-heian-kana-women-and-literary-memory/index.html",
+      "sha256": "ed7303fb80b9d7abaf510d282aec968fccb252f22d09b413534e97d32b6c6bb1"
+    },
+    {
+      "path": "knowledge/stories/henry-viii-1534-church-authority-and-succession/index.html",
+      "sha256": "ad652278559663581f2020c4e4d856a5ff5a7ccdfadc412ac052f7c2804e9e1a"
+    },
+    {
+      "path": "knowledge/stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html",
+      "sha256": "3a2405d69615402ea36392d6db155aa98bf8c9715f7705292bf9f43932e1bad9"
+    },
+    {
+      "path": "knowledge/stories/sogdian-merchants-oases-languages-and-networks/index.html",
+      "sha256": "9b1df5c3c99afb70c8a1a6addce53f3dd0e226b5bb6b84e32da60665d35d64d4"
+    },
+    {
+      "path": "knowledge/stories/sputnik-1957-satellite-and-cold-war-competition/index.html",
+      "sha256": "9a34f80f1d0156f4917e169cdc92a1c8de1906f2fb82a4ee70e9e510366e342a"
+    },
+    {
+      "path": "media/akbar-religious-debates-and-imperial-authority.jpg",
+      "sha256": "1981a7681ebb7079c4a814d3c2843fe2bc7f4e233d3d1095d11653904c3f702f"
+    },
+    {
+      "path": "media/aksum-red-sea-trade-and-christian-kingship.jpg",
+      "sha256": "914bc8f1804994ea7663a06bf5ddb5710597df5d6bee8f93fb18cc325eefc647"
+    },
+    {
+      "path": "media/andes-before-inca-water-land-and-regional-societies.jpg",
+      "sha256": "35be4a06539a2819e5fa667be584d00fbfcaef6fd0f4be6ab1994f62bf6ab0c4"
+    },
+    {
+      "path": "media/bandung-1955-sovereignty-aid-and-nonalignment.png",
+      "sha256": "42a1dcfcc312e042dd4672a4b9e9c9df4f6d678bd9ba85cbaaa9e22570b48e9d"
+    },
+    {
+      "path": "media/dawes-plan-1924-reparations-loans-and-dependence.jpg",
+      "sha256": "dc35781779c6c94cc7b2639b38e8aaf1d8531747225d4a0d49f46c40dce5824d"
+    },
+    {
+      "path": "media/genji-heian-kana-women-and-literary-memory.jpg",
+      "sha256": "43797de90f0d4537696e305a38bfca50c277e1c5a5d88e8f26cc67400e396981"
+    },
+    {
+      "path": "media/henry-viii-1534-church-authority-and-succession.jpg",
+      "sha256": "7815b4c0e03914b40e8c343f78dad901a2caa5921dd5d0ce48e00d64a7e33253"
+    },
+    {
+      "path": "media/mapungubwe-gold-cattle-and-unequal-wealth.jpg",
+      "sha256": "b37334fce04136c97fa6c2b1e28c234dc24c372ea58b68c28daa913dc170e135"
+    },
+    {
+      "path": "media/sogdian-merchants-oases-languages-and-networks.jpg",
+      "sha256": "bc079ee61d0344b1895ebe7fe8e7f860e761a78e275728aea49d467da1886e17"
+    },
+    {
+      "path": "media/sputnik-1957-satellite-and-cold-war-competition.jpg",
+      "sha256": "4d02fe278177e9324dc712dd679403732906d1d6c0ca4886923afe6fc11ebeae"
+    },
+    {
+      "path": "search-index.json",
+      "sha256": "a5b0eb0b6ba1a2771aa327d010d1e43ad6cee532dc8d324d19792dfd8796ceb5"
+    },
+    {
+      "path": "search.html",
+      "sha256": "525107ca93ea227c57e5354ea56b0300a2a25df7393ec821778ee7155fa730e9"
+    },
+    {
+      "path": "site-assets/site.css",
+      "sha256": "153a6ace705d6b64299a2478966fb0e8a2bab87839bf7b9a84da6f518248dd78"
+    },
+    {
+      "path": "site-assets/site.js",
+      "sha256": "38d500743d2517a77be207bf7d6a1de2f5931a925d47f99ec5357afb7b43fe07"
+    },
+    {
+      "path": "site-assets/split.css",
+      "sha256": "b18f21fe7b96c8fa04e1fb4d4977bc091986ac71dc9954471b694f170cc5b1ed"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "bd5f7a91976a1d1f42226871ab269600219f15b77e9ae1b18130df7827d9d599"
+    },
+    {
+      "path": "stories/akbar-religious-debates-and-imperial-authority/index.html",
+      "sha256": "b5e1e38a83860286b326c756443b094208cc5d61804c4336c7867f39d750dbdf"
+    },
+    {
+      "path": "stories/aksum-red-sea-trade-and-christian-kingship/index.html",
+      "sha256": "b05544bff34a5de99af42dbbf3e13fe160c6888220fdfa54921b8911b2132c37"
+    },
+    {
+      "path": "stories/andes-before-inca-water-land-and-regional-societies/index.html",
+      "sha256": "6911d798674d1945823652f20ca6eed6075f0a9b82188b611fd4244b4d482cdf"
+    },
+    {
+      "path": "stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html",
+      "sha256": "765d190cc5af2e74eb1d68277739a5a88ec9e596bb456bdfa3424c306ae3ae42"
+    },
+    {
+      "path": "stories/dawes-plan-1924-reparations-loans-and-dependence/index.html",
+      "sha256": "0624adeb784a07cedd1d1be5be5cea4c7d84d99397630c4d6438edb462bdfcba"
+    },
+    {
+      "path": "stories/genji-heian-kana-women-and-literary-memory/index.html",
+      "sha256": "c7b8652a21272db3a09331d8335cb3039c9d968f4cf6653c560c1dcb249b9031"
+    },
+    {
+      "path": "stories/henry-viii-1534-church-authority-and-succession/index.html",
+      "sha256": "07d97388d337562e7a654b9f9292906e754d719bdd0bc0c04f3c72a83b81d028"
+    },
+    {
+      "path": "stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html",
+      "sha256": "944a3fccc3f050372b16522b7aaba05f818e03175d3b1367f8fd58478a5d44eb"
+    },
+    {
+      "path": "stories/sogdian-merchants-oases-languages-and-networks/index.html",
+      "sha256": "b0b109a7997502a4f31f74ffa8bcca304911648319d37d74134e2d6c6bcfa954"
+    },
+    {
+      "path": "stories/sputnik-1957-satellite-and-cold-war-competition/index.html",
+      "sha256": "e5591bf20ade2cfb3fa6b88edb0138aef1b523e71d6f16c02504505b8b083749"
+    }
+  ],
+  "deployment_status": "awaiting_live_verification"
+}
