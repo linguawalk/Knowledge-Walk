@@ -21,6 +21,26 @@
   "originals": 496,
   "unpublished": 13,
   "numbered_sections_per_story": 7,
-  "deployment_status": "local_verified_awaiting_deployment",
-  "local_tests_passed": 64
+  "deployment_status": "live_verified",
+  "local_tests_passed": 64,
+  "publication_commit": "167c7d6dc86c65f83a0272859d49f2cfe732429c",
+  "github_actions": [
+    {
+      "conclusion": "success",
+      "databaseId": 43419973369,
+      "headSha": "167c7d6dc86c65f83a0272859d49f2cfe732429c",
+      "name": "Validate KnowledgeWalk publication",
+      "status": "completed"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 43419972688,
+      "headSha": "167c7d6dc86c65f83a0272859d49f2cfe732429c",
+      "name": "pages build and deployment",
+      "status": "completed"
+    }
+  ],
+  "live_resources_verified": 81,
+  "strict_https": true,
+  "live_proof": "docs/research/history-machines-images-public-life-publication-20261113.json"
 }

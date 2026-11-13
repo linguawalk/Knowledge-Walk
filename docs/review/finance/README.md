@@ -6,8 +6,8 @@
 
 | 소주제 | 이야기 |
 |---|---:|
-| [Money](money/README.md) | 11편 |
-| [Banking](banking/README.md) | 9편 |
+| [Money](money/README.md) | 13편 |
+| [Banking](banking/README.md) | 10편 |
 | [Insurance](insurance/README.md) | 3편 |
 | [Investment](investment/README.md) | 6편 |
 | [Fintech](fintech/README.md) | 1편 |

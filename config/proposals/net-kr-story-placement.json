@@ -1,7 +1,7 @@
 {
   "state": "active_single_domain_regional_subject_navigation",
   "date": "2026-11-11",
-  "count": 496,
+  "count": 506,
   "articles": [
     {
       "id": "alexandria-museion-and-books",
@@ -24549,6 +24549,575 @@
       "facets": [],
       "people": [
         "메리 울스턴크래프트"
+      ]
+    },
+    {
+      "id": "akbar-religious-debates-and-imperial-authority",
+      "title": "아크바르의 토론장 — 여러 신앙을 부른 황제는 무엇을 다스렸을까",
+      "source_path": "content/stories/history/asia/akbar-religious-debates-and-imperial-authority.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "인도",
+      "country": "인도",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 후속 새 글10개 요청. 지역과 세부 주제를 분산하여 제작, 자료·역사 이미지 대조 완료. 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/akbar-religious-debates-and-imperial-authority/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "생각과 지식",
+          "subtopic": "종교와 세계관"
+        },
+        {
+          "topic": "역사",
+          "subtopic": "국가와 권력"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "생각과 지식",
+        "subtopic": "종교와 세계관"
+      },
+      "subregion": "남아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "남아시아",
+          "country": "인도"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "아크바르"
+      ]
+    },
+    {
+      "id": "aksum-red-sea-trade-and-christian-kingship",
+      "title": "악숨 — 홍해의 교역 왕국은 왜 십자가를 새겼을까",
+      "source_path": "content/stories/history/africa/aksum-red-sea-trade-and-christian-kingship.json",
+      "old_category": "history",
+      "old_subcategory": "Africa",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아프리카",
+      "country_group": "에티오피아",
+      "country": "에티오피아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 후속 새 글10개 요청. 지역과 세부 주제를 분산하여 제작, 자료·역사 이미지 대조 완료. 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/aksum-red-sea-trade-and-christian-kingship/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "교역과 세계의 연결"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "종교와 세계관"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "교역과 세계의 연결"
+      },
+      "subregion": null,
+      "geographies": [
+        {
+          "continent": "아프리카",
+          "subregion": null,
+          "country": "에티오피아"
+        },
+        {
+          "continent": "아프리카",
+          "subregion": null,
+          "country": "에리트레아"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "에자나",
+        "프루멘티우스"
+      ]
+    },
+    {
+      "id": "sogdian-merchants-oases-languages-and-networks",
+      "title": "소그드 상인 — 큰 제국 없이도 교역로의 중심이 될 수 있었을까",
+      "source_path": "content/stories/finance/money/sogdian-merchants-oases-languages-and-networks.json",
+      "old_category": "finance",
+      "old_subcategory": "Money",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "우즈베키스탄",
+      "country": "우즈베키스탄",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 후속 새 글10개 요청. 지역과 세부 주제를 분산하여 제작, 자료·역사 이미지 대조 완료. 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/sogdian-merchants-oases-languages-and-networks/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "무역과 시장"
+        },
+        {
+          "topic": "역사",
+          "subtopic": "교역과 세계의 연결"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "경제·산업·금융",
+        "subtopic": "무역과 시장"
+      },
+      "subregion": "중앙아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "중앙아시아",
+          "country": "우즈베키스탄"
+        },
+        {
+          "continent": "아시아",
+          "subregion": "중앙아시아",
+          "country": "타지키스탄"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "henry-viii-1534-church-authority-and-succession",
+      "title": "헨리 8세의 결별 — 교회의 수장이 바뀌면 신앙도 곧바로 바뀔까",
+      "source_path": "content/stories/history/europe/henry-viii-1534-church-authority-and-succession.json",
+      "old_category": "history",
+      "old_subcategory": "Europe",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "영국",
+      "country": "영국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 후속 새 글10개 요청. 지역과 세부 주제를 분산하여 제작, 자료·역사 이미지 대조 완료. 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/henry-viii-1534-church-authority-and-succession/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "법과 제도"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "종교와 세계관"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "법과 제도"
+      },
+      "subregion": "서유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "서유럽",
+          "country": "영국"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "헨리 8세"
+      ]
+    },
+    {
+      "id": "andes-before-inca-water-land-and-regional-societies",
+      "title": "잉카 이전의 안데스 — 물은 지역마다 다른 사회를 만들었을까",
+      "source_path": "content/stories/history/america/andes-before-inca-water-land-and-regional-societies.json",
+      "old_category": "history",
+      "old_subcategory": "America",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아메리카",
+      "country_group": "페루",
+      "country": "페루",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 후속 새 글10개 요청. 지역과 세부 주제를 분산하여 제작, 자료·역사 이미지 대조 완료. 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/andes-before-inca-water-land-and-regional-societies/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "도시와 사회",
+          "subtopic": "도시의 탄생과 성장"
+        },
+        {
+          "topic": "과학과 발견",
+          "subtopic": "지구와 환경"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "도시와 사회",
+        "subtopic": "도시의 탄생과 성장"
+      },
+      "subregion": "남아메리카",
+      "geographies": [
+        {
+          "continent": "아메리카",
+          "subregion": "남아메리카",
+          "country": "페루"
+        },
+        {
+          "continent": "아메리카",
+          "subregion": "남아메리카",
+          "country": "볼리비아"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "mapungubwe-gold-cattle-and-unequal-wealth",
+      "title": "마풍구브웨 — 황금의 번영 아래에는 어떤 일이 있었을까",
+      "source_path": "content/stories/finance/money/mapungubwe-gold-cattle-and-unequal-wealth.json",
+      "old_category": "finance",
+      "old_subcategory": "Money",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아프리카",
+      "country_group": "남아프리카공화국",
+      "country": "남아프리카공화국",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 후속 새 글10개 요청. 지역과 세부 주제를 분산하여 제작, 자료·역사 이미지 대조 완료. 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/mapungubwe-gold-cattle-and-unequal-wealth/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "무역과 시장"
+        },
+        {
+          "topic": "도시와 사회",
+          "subtopic": "노동과 공동체"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "경제·산업·금융",
+        "subtopic": "무역과 시장"
+      },
+      "subregion": null,
+      "geographies": [
+        {
+          "continent": "아프리카",
+          "subregion": null,
+          "country": "남아프리카공화국"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "bandung-1955-sovereignty-aid-and-nonalignment",
+      "title": "반둥회의 — 두 강대국 사이에서 다른 선택이 가능했을까",
+      "source_path": "content/stories/history/asia/bandung-1955-sovereignty-aid-and-nonalignment.json",
+      "old_category": "history",
+      "old_subcategory": "Asia",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "인도네시아",
+      "country": "인도네시아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 후속 새 글10개 요청. 지역과 세부 주제를 분산하여 제작, 자료·역사 이미지 대조 완료. 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/bandung-1955-sovereignty-aid-and-nonalignment/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "역사",
+          "subtopic": "전쟁과 외교"
+        },
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "무역과 시장"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "역사",
+        "subtopic": "전쟁과 외교"
+      },
+      "subregion": "동남아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "동남아시아",
+          "country": "인도네시아"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "수카르노",
+        "네루"
+      ]
+    },
+    {
+      "id": "sputnik-1957-satellite-and-cold-war-competition",
+      "title": "스푸트니크 — 작은 위성이 왜 거대한 충격이 되었을까",
+      "source_path": "content/stories/science/engineering/sputnik-1957-satellite-and-cold-war-competition.json",
+      "old_category": "science",
+      "old_subcategory": "Engineering",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "러시아",
+      "country": "러시아",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 후속 새 글10개 요청. 지역과 세부 주제를 분산하여 제작, 자료·역사 이미지 대조 완료. 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/sputnik-1957-satellite-and-cold-war-competition/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "과학과 발견",
+          "subtopic": "우주와 천문"
+        },
+        {
+          "topic": "역사",
+          "subtopic": "전쟁과 외교"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "과학과 발견",
+        "subtopic": "우주와 천문"
+      },
+      "subregion": "동유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "동유럽",
+          "country": "러시아"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "아이젠하워"
+      ]
+    },
+    {
+      "id": "dawes-plan-1924-reparations-loans-and-dependence",
+      "title": "도스안 — 빚을 갚기 위한 대출은 문제를 해결했을까",
+      "source_path": "content/stories/finance/banking/dawes-plan-1924-reparations-loans-and-dependence.json",
+      "old_category": "finance",
+      "old_subcategory": "Banking",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "유럽",
+      "country_group": "독일",
+      "country": "독일",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 후속 새 글10개 요청. 지역과 세부 주제를 분산하여 제작, 자료·역사 이미지 대조 완료. 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/dawes-plan-1924-reparations-loans-and-dependence/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "경제·산업·금융",
+          "subtopic": "은행과 신용"
+        },
+        {
+          "topic": "역사",
+          "subtopic": "전쟁과 외교"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "경제·산업·금융",
+        "subtopic": "은행과 신용"
+      },
+      "subregion": "중부유럽",
+      "geographies": [
+        {
+          "continent": "유럽",
+          "subregion": "중부유럽",
+          "country": "독일"
+        }
+      ],
+      "facets": [],
+      "people": []
+    },
+    {
+      "id": "genji-heian-kana-women-and-literary-memory",
+      "title": "겐지 이야기 — 궁정 여성의 글은 어떻게 오래 남았을까",
+      "source_path": "content/stories/culture/literature/genji-heian-kana-women-and-literary-memory.json",
+      "old_category": "culture",
+      "old_subcategory": "Literature",
+      "status": "review",
+      "source_review": "verified",
+      "currently_published": false,
+      "current_url": null,
+      "proposed_domain": "knowledgewalk.net",
+      "region": "아시아",
+      "country_group": "일본",
+      "country": "일본",
+      "topic": "역사",
+      "subtopic": null,
+      "editorial_review": true,
+      "rationale": "2026-11-13 후속 새 글10개 요청. 지역과 세부 주제를 분산하여 제작, 자료·역사 이미지 대조 완료. 사용자 게시 승인 전 공개 제외.",
+      "proposed_url": "https://knowledgewalk.net/stories/genji-heian-kana-women-and-literary-memory/index.html",
+      "canonical_domain": "net",
+      "publish_sites": [
+        "net",
+        "kr"
+      ],
+      "kr_topics": [
+        {
+          "topic": "문화와 예술",
+          "subtopic": "문학"
+        },
+        {
+          "topic": "생각과 지식",
+          "subtopic": "문자와 기록"
+        }
+      ],
+      "country_topic": "역사",
+      "publish_views": [
+        "countries",
+        "subjects"
+      ],
+      "primary_subject": {
+        "topic": "문화와 예술",
+        "subtopic": "문학"
+      },
+      "subregion": "동아시아",
+      "geographies": [
+        {
+          "continent": "아시아",
+          "subregion": "동아시아",
+          "country": "일본"
+        }
+      ],
+      "facets": [],
+      "people": [
+        "무라사키 시키부"
       ]
     }
   ],

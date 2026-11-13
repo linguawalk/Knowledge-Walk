@@ -1,0 +1,432 @@
+{
+  "date": "2026-11-13",
+  "batch_id": "20261113-ten-history-connections-authority-and-choice",
+  "status": "source_review_complete_publication_not_approved",
+  "counts": {
+    "originals": 506,
+    "approved": 483,
+    "verified_unpublished": 20,
+    "pending_sources": 3
+  },
+  "sources": [
+    {
+      "id": "akbar-religious-debates-and-imperial-authority",
+      "body_characters": 2277,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00008/index.cnxml",
+        "status": 200,
+        "bytes": 61475,
+        "sha256": "aa8329c7a74ea58c4499507a7fc443fbe9e281861bd4d13bc397958f87304d1c",
+        "title": "OpenStax, World History Volume 2 — India and International Connections",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "아크바르의 정복·지방 지배자 수용/무슬림·힌두교 관직/궁정 결혼·여성의 후원/종교토론·예수회/인두세 폐지/황제의 최종 권위·도서관 번역. 원문의 인두세 폐지1568년은 부정확해 채택하지 않음. 정신의학 진단·독자적인 단일 종교 창설로 단정하지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "Akbar",
+            "excerpt": "Humayun’s fourteen-year-old son Akbar inherited the throne. Although he was illiterate, possibly because of severe dyslexia, Akbar became the greatest of the Mughal emperors. Unlike his father and grandfather, who had remained oriented toward central Asia, Akbar embraced India. He actively sought to incorporate Indians, both Muslim and Hindu, into his kingdom. Although he was aggressive militarily and expanded the bounds of the Mughal Empire across the northern part of the subcontinent and into the central plains to the south, he allowed local rulers to retain control of their lands so long as they submitted to him."
+          },
+          {
+            "needle": "1579",
+            "excerpt": "Akbar eventually abandoned all recognized religions, however, and created his own personal cult called Din-i Ilahi (the Divine Faith). This religion combined elements of many different faiths, and Akbar assumed a prominent role at its center. In 1579, he issued a decree proclaiming that all religious questions were to be decided by him. He was regarded by adherents of his cult as the agent of God who, in his role as representative of the divine, was bound to tolerate all religions. Akbar ceased performing the obligatory five prayers that Muslims must intone every day and began to worship “divine light.” He also began the practice of appearing daily to his subjects on a balcony so they could view him, reminiscent of a Hindu practice in which worshippers receive blessings by viewing the image of a deity. All these changes greatly disturbed Muslims in Akbar’s court."
+          },
+          {
+            "needle": "library",
+            "excerpt": "For the most part, however, India prospered under Akbar. His conquests left much of the subcontinent united and peaceful. Although illiterate himself, he amassed a large library of books in many languages, employed large numbers of translators and scholars, and established schools for both Muslims and Hindus. Domestic and international trade flourished. Gold and silver flowed into India in exchange for textiles, spices, and precious gems. Handicraft industries boomed, and merchants grew wealthy. The peasants were heavily taxed to pay for the empire’s bureaucracy, but they were excused from paying in full in times of drought or other natural disasters."
+          },
+          {
+            "needle": "women",
+            "excerpt": "To consolidate his hold on India, Akbar married the sisters and daughters of local rulers, both Muslim and Hindu. He did not force his Hindu wives to convert to Islam, and their marriage ceremonies included both Hindu and Muslim elements. Akbar, did, however, introduce to India an institution found elsewhere in the Muslim world: The women of the royal family were physically secluded in a harem. Women’s separation from the men of the court did not mean they were not influential, and wives, mothers, and even nursemaids often played a role in important political decisions. Nevertheless, during Akbar’s reign, efforts to remove women from public life also led to the disappearance of their names from official records, and the practice of segregating them spread from Mughal households to those of the Hindu ruling classes, who adopted the custom."
+          }
+        ]
+      }
+    },
+    {
+      "id": "aksum-red-sea-trade-and-christian-kingship",
+      "body_characters": 2271,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00101/index.cnxml",
+        "status": 200,
+        "bytes": 32370,
+        "sha256": "6ed42db5909e180322b584a80c3bec5db49e9f2e0d27be62d96001fbe4614e91",
+        "title": "OpenStax, World History Volume 1 — The Kingdoms of Aksum and Himyar",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "악숨의 홍해 교역·현 에티오피아/에리트레아/계층과 생산/4세기에자나·동전 십자가/프루멘티우스·알렉산드리아/현지교회확산·게에즈/아라비아 진출. 에자나의 왕실 개종과 전 주민의 동시개종은 구분. 비문 사진 자체가 특정 기독교 기도문이라는 확정은 하지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "Ezana",
+            "excerpt": "King Ezana came to power in the mid-fourth century, and what we know about the Christianization of Aksum comes largely from his reign. Ezana conducted successful military engagements against the Beja and Nubian people, subduing the Kingdom of Kush that had ruled southern Egypt for at least the previous millennium. A great builder, Ezana is also likely responsible for the construction of several obelisks. Inscriptions on stelae (commemorative slabs or pillars) and obelisks erected in Aksumite cities describe his exploits and profess his faith, while coinage shows the Christian cross gradually replacing other symbols ()."
+          },
+          {
+            "needle": "Frumentius",
+            "excerpt": "Originally holding polytheistic beliefs, Ezana was converted to Christianity through the initiative of Frumentius, a Christian from the Syrian city of Tyre. Entering the region of Aksum as an enslaved man, Frumentius chose to stay after being freed in order to encourage the growing Christian community, and Athanasius, the Christian patriarch of Alexandria, consecrated him as bishop of the Ethiopian Church. This custom of patriarchs ordaining bishops for foreign cities often strained their relations with local rulers. But it showed that the Christian powers outside Aksum were interested in controlling religious policy there, and Ezana’s conversion may have been a means for Aksum to become more closely allied with the Roman Empire."
+          },
+          {
+            "needle": "Ge’ez",
+            "excerpt": "Aksumite society was hierarchical, with the king and nobility at the top. The lower classes at the bottom worked as artisans and farmers, though little evidence of Aksumite family life has survived to confirm class distinctions. There is some evidence that owners of large wealthy estates existed. To work the land, Aksumite society relied on enslaved people, who were likely criminals or foreigners captured in war. The empire was organized around several urbanized centers with monumental architecture including grand royal palaces, as well as lower-class homes made from stone or mud with thatched roofs. A written Semitic language known as Ge’ez survives in inscriptions from this period. Prior to the arrival of Christianity, the Aksumites held polytheistic beliefs, and numerous religious sanctuaries and temples exist from this early period. A priestly class oversaw the state religion, and the king may have held a prominent role in the religious hierarchy."
+          },
+          {
+            "needle": "Arabia",
+            "excerpt": "Beyond the borders of the Byzantine and Sasanian Empires, several smaller states flourished. They established cultural contacts with the large empires, but they were also able to participate in long-distance trade with Asia. Two kingdoms, Aksum in northeastern Africa and Himyar in southern Arabia, had distinct religious identities that informed their governments and cultures. During much of Late Antiquity, faith played a crucial role in shaping people’s identities, and the religions of these two kingdoms—Christianity in Aksum and Judaism in Himyar—were no exception."
+          }
+        ]
+      }
+    },
+    {
+      "id": "sogdian-merchants-oases-languages-and-networks",
+      "body_characters": 2347,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00155/index.cnxml",
+        "status": 200,
+        "bytes": 52773,
+        "sha256": "cdcc7cb500991301d503768c1b05e367430b449c523d6cbbb111177c4d0bf314",
+        "title": "OpenStax, World History Volume 1 — Border States: Sogdiana, Korea, and Japan",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "사마르칸트·부하라·판지켄트/분산된 도시·다언어 상인/정착공동체·상품·종교전달/8세기 이슬람 통치와 계약/문헌·언어 흔적. 원문의 부정확한 지형표현(장안/둔황을 강항구로 단정)과 당의 철수·탈라스 단일인과는 제외."
+        ],
+        "evidence": [
+          {
+            "needle": "Sogdiana",
+            "excerpt": "Sogdiana, in modern Uzbekistan and Tajikistan, traded both with the Chinese and, increasingly in its long history, with other nomadic peoples such as the Turks. The Chinese, in turn, influenced both Korea and Japan. Both already participated in oceanic trade, but the additional benefits of the Silk Roads’ interchange of ideas came to Korea and Japan through the Chinese as Koreans studied writing, Confucianism, and Buddhism in China and brought back the ideas and methods that suited them best. These innovations and ideas then spread to Japan, especially Buddhism."
+          },
+          {
+            "needle": "Panjikent",
+            "excerpt": "Although Sogdiana was never unified into a single polity and was almost always ruled by larger states, its long exposure to so many different cultures produced a multilingual population of merchants and skilled craftspeople. The Sogdians were able to use these traits to dominate their portion of the Silk Roads from their city-states such as Panjikent (in Tajikistan). So effective was their control that Sogdiana became the richest country in central Asia. Archaeological excavations of the palace complex at Panjikent have revealed large and elaborate buildings with interiors bearing frescoes of armored cavalry engaged in combat, clearly showing the influence on Sogdian culture of the warrior aristocracy of the Sasanids ()."
+          },
+          {
+            "needle": "kana",
+            "excerpt": "Gender roles became more rigidly defined during this period, and many non-elites were officially categorized as peasant, artisan, or merchant. Even the system of writing changed. Chinese script had been the traditional writing style, particularly among scholars. However, many words in Japanese were pronounced differently than Chinese writing allowed. Thus a new script called kana began to develop, to more accurately depict the way the words were pronounced in Japanese."
+          },
+          {
+            "needle": "Murasaki",
+            "excerpt": "The most famous work written in kana is The Tale of Genji, the story of the romantic escapades of Hikaru Genji, a fictional emperor’s son. Genji is removed from the line of succession for political reasons, and now a commoner, he decides to pursue a career as an imperial officer. Along the way, he has various romantic entanglements, secret love affairs that produce offspring believed to be the emperor’s, and something like a midlife crisis, a reflection of the Buddhist belief in the transience of life. Widely considered the world’s first novel, Genji was composed in the eleventh century by Murasaki Shikibu, a noblewoman and lady-in-waiting in the Heian Court. It skillfully portrays the forms of entertainment, manner of dress, daily routines, and moral code of the Heian nobility at the height of the Fujiwara clan’s power. While the facts surrounding much of Murasaki’s life and the composition of her magnum opus are not known, what is not disputed is Genji’s critically important place in the literary canon of world literature, with the work often considered one of the world’s oldest complete novels and a master class of Japanese literature. What is also not in dispute is that the work was composed by a woman from a powerful family at a time when the role of women around the world was still secondary to their male counterparts. It leaves us to wonder how much powerful and influent"
+          }
+        ]
+      }
+    },
+    {
+      "id": "henry-viii-1534-church-authority-and-succession",
+      "body_characters": 2335,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00063/index.cnxml",
+        "status": 200,
+        "bytes": 39633,
+        "sha256": "be51f7ec95b35450cb6a26ceb3b1ce4630bcc72b8385dd342335d997156873c3",
+        "title": "OpenStax, World History Volume 2 — The Protestant Reformation",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "혼인무효와 이혼 구분/계승과 메리/1534수장령/헨리의 교리·수도원/에드워드·1549기도서/메리박해·엘리자베스. 교황결별이 종교자유 실현이나 예식의 즉시 전면교체라는 설명 제외. 원문의 잘못된 혼인무효 판정 순서를 반복하지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "1534",
+            "excerpt": "Accordingly, against Catherine’s wishes, Henry sought an annulment of his marriage so he might marry Anne Boleyn, who he believed would give him sons. Unlike a divorce, which the Catholic Church did not permit, an annulment simply declared a marriage null and void on the grounds it had never been legitimate. Henry argued that, because Catherine had first been married to his late elder brother Arthur, Catholic Church law prohibiting the marriage of close relatives should never have allowed her and Henry to wed. When the pope refused to annul the marriage, Henry declared the English church no longer bound by the pope’s authority. In 1534, Parliament passed the Act of Supremacy, establishing the Church of England with the English monarch as its head. The archbishop of Canterbury, the highest spiritual authority in the land, finally granted the annulment of Henry and Catherine’s marriage. Henry had already quietly married Anne in time to see her give birth to a daughter, Elizabeth (later Elizabeth I)."
+          },
+          {
+            "needle": "1549",
+            "excerpt": "Under Henry’s leadership, the Church of England (also known as the Anglican Church) remained largely Catholic in terms of both doctrine and ritual. Henry closed England’s monasteries, but his failure to purge the English Church of all elements of Roman Catholicism did not sit well with many Protestants. Upon Henry’s death, his son Edward VI, whose mother Jane Seymour had been Henry’s third wife, became king. Because Edward was still a minor, England was governed by regents who took steps to make the Anglican Church more Protestant, a move with which the young Edward agreed. Priests were allowed to marry. The practice of using rosary beads in prayer was denounced. Church processions were prohibited, and statues and stained-glass windows were removed from churches. The mass service was reformed, eliminating many Roman Catholic rituals, and the English-language Book of Common Prayer, published in 1549, laid out the new church service. Ministers who refused to use the Book of Common Prayer risked being removed from their positions and imprisoned."
+          },
+          {
+            "needle": "Mary",
+            "excerpt": "Until the moment he decided to remove himself from under the pope’s authority, Henry VIII of England had a reputation as a devout Catholic and a critic of Luther. He was married to Catherine of Aragon, the daughter of the Spanish monarchs Ferdinand and Isabella who were famous for defeating the Muslim kingdom of Granada and expelling Jewish and Muslim people from the Iberian Peninsula. Henry and Catherine’s marriage had produced only one living child—a daughter, Mary. Although English law did not exclude women from inheriting the throne, Henry wanted to take no chances with the succession following his death and desired a son whose rule would go unchallenged."
+          }
+        ]
+      }
+    },
+    {
+      "id": "andes-before-inca-water-land-and-regional-societies",
+      "body_characters": 2254,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00115/index.cnxml",
+        "status": 200,
+        "bytes": 70856,
+        "sha256": "2bc597d6b63de67adfc3b80e77b716bf47609a75fe740119d266f8f532476a06",
+        "title": "OpenStax, World History Volume 1 — Early Cultures and Civilizations in the Americas",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "차빈 이후 지역문화/모체 관개·작물·사회위계/나스카의 산에서 내려오는강·마을·카와치·지상그림/티와나쿠 티티카카호·건축·벽면해석·수위가설/후속문화. 지역간 차이와 해석 한계. 모체·나스카 쇠퇴시기를500~600년으로 일괄확정한 원문은 채택하지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "Moche",
+            "excerpt": "Beginning around 200 BCE, the influence of Chavín cultural styles and religious symbols began to wane. This came at a time of increased regional warfare among many groups, evidenced by the increasing use of defensive features like walls around settlements. The broader Chavín-influenced region then fragmented into a number of regional cultures that grew to full-fledged civilizations like the Moche, Nazca, and Tiwanaku ()."
+          },
+          {
+            "needle": "Nazca",
+            "excerpt": "Beginning around 200 BCE, the influence of Chavín cultural styles and religious symbols began to wane. This came at a time of increased regional warfare among many groups, evidenced by the increasing use of defensive features like walls around settlements. The broader Chavín-influenced region then fragmented into a number of regional cultures that grew to full-fledged civilizations like the Moche, Nazca, and Tiwanaku ()."
+          },
+          {
+            "needle": "Tiwanaku",
+            "excerpt": "Beginning around 200 BCE, the influence of Chavín cultural styles and religious symbols began to wane. This came at a time of increased regional warfare among many groups, evidenced by the increasing use of defensive features like walls around settlements. The broader Chavín-influenced region then fragmented into a number of regional cultures that grew to full-fledged civilizations like the Moche, Nazca, and Tiwanaku ()."
+          }
+        ]
+      }
+    },
+    {
+      "id": "mapungubwe-gold-cattle-and-unequal-wealth",
+      "body_characters": 2251,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00150/index.cnxml",
+        "status": 200,
+        "bytes": 55929,
+        "sha256": "cc1e248c2d3efb5484fd612081e30d847baf6b047c9641062108557109617c01",
+        "title": "OpenStax, World History Volume 1 — Medieval Sub-Saharan Africa",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "마풍구브웨 목축농업·계단식석축/금채굴·장식·장거리 교역/금판과 소멸한 목재/계층·강제노동 가설/13세기말쇠퇴·가뭄가설/짐바브웨 관계논쟁. 기후 단일원인·확정된광산노동장면·직선적인수도이동설을 피함."
+        ],
+        "evidence": [
+          {
+            "needle": "Mapungubwe",
+            "excerpt": "For nearly seven hundred years, medieval empires and kingdoms dominated the economies and politics of West Africa and southern Africa. The wealth of these states and thus their power came from their control of trade in commodities such as gold, ivory, salt, silk, horses, and enslaved people. In West Africa, the empires of Ghana and Mali moved these goods along a sprawling network of trade that stretched across North Africa, eastward into Ethiopia, and southward as far as the grassland savanna, connecting West Africa to the Mediterranean world, Europe, the Near East, southwest Asia, and beyond. In southern Africa, Mapungubwe and then Great Zimbabwe consolidated their control over local and regional trade and connected their economies with the coastal civilization of the Swahili peoples through a network of waterways that included the Limpopo and Zambezi Rivers. In so doing, they linked the southern African interior with the distant and overlapping nodes of oceanic commerce that connected East Africa with Asia and Arabia."
+          },
+          {
+            "needle": "gold sheets",
+            "excerpt": "Although little is known about the organization and control of this mining work, it is probable that it was largely forced labor. The mining of gold led to a flourishing production of goods for local consumption by elites as well as trade farther afield. A unique type of gold ornamentation found at Mapungubwe (and elsewhere only at Great Zimbabwe) is beaten gold sheets. Decorated with geometric patterns, the sheets seem to have been used to cover wooden pieces, although these have long since rotted away. Other gold objects found at the site include beads, bangle bracelets, and animal figurines."
+          },
+          {
+            "needle": "forced labor",
+            "excerpt": "Although little is known about the organization and control of this mining work, it is probable that it was largely forced labor. The mining of gold led to a flourishing production of goods for local consumption by elites as well as trade farther afield. A unique type of gold ornamentation found at Mapungubwe (and elsewhere only at Great Zimbabwe) is beaten gold sheets. Decorated with geometric patterns, the sheets seem to have been used to cover wooden pieces, although these have long since rotted away. Other gold objects found at the site include beads, bangle bracelets, and animal figurines."
+          },
+          {
+            "needle": "drought",
+            "excerpt": "With the drying out of the Sahara, the Sanhaja people of southern Morocco pressed deeper into the Sahel in their search for water and seasonal grazing land. During drought years, their migrations took the form of violent raids on settled agricultural communities, including those of the Soninke. In response, Soninke cavalry commanders turned to Cisse; tradition holds that Cisse unified the Soninke in a loose federation to combat the raiders and to expand the kingdom."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bandung-1955-sovereignty-aid-and-nonalignment",
+      "body_characters": 2229,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00036/index.cnxml",
+        "status": 200,
+        "bytes": 35854,
+        "sha256": "dc736d46f3590c9f8ca17280f2d38e1fc8465df662432063316f31e779e3856f",
+        "title": "OpenStax, World History Volume 2 — The Non-Aligned Movement",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "1955년4월반둥29개국/산업화·초강대국의존 회피/수카르노1945선언1949독립인정/양쪽원조·자율성/네루의 원조/인도네시아 권위주의와 외교변화.1955회의와 이후 비동맹조직을 동일시하지 않음. 원문의 인도가 소련과 국경을 접했다는 설명은 채택하지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "twenty-nine",
+            "excerpt": "In April 1955 representatives from twenty-nine such countries in Asia and Africa gathered at a conference in Bandung, Indonesia. Their goal was to be able to rely on one another as they strove to industrialize and avoid the need to turn to Europe, the United States, or the Soviet Union for assistance. This aim formed the basis for the Non-Aligned Movement, an attempt by newly independent nations to stay out of the orbit of either the Western or the Eastern Bloc."
+          },
+          {
+            "needle": "1949",
+            "excerpt": "Indonesia assumed a leading role in the Non-Aligned Movement. An anti-Dutch independence campaign had developed there before World War II, and in August 1945 two of its leaders, Mohammad Hatta and Kusno Sosrodihardjo, known as Sukarno, proclaimed independence for Indonesia, a status that became official in 1949. Sukarno, on becoming president, stressed that the nation wished to remain neutral in foreign affairs."
+          },
+          {
+            "needle": "Nehru",
+            "excerpt": "India’s geographic location, bordering both the Soviet Union and China, made it of great interest to the West. The United Kingdom continued to trade with India, supply it with weapons, and train its military officers. India’s first prime minister, Jawaharlal Nehru, wished to maintain his distance from the United States, however. He was sympathetic to socialism and had visited the Soviet Union. He recognized the People’s Republic of China and opposed the U.S. refusal to allow the PRC to hold China’s seat on the UN Security Council. He was also suspicious of U.S. intentions toward India, given the government’s treatment of its own citizens of color. Nevertheless, Nehru accepted aid from the United States in the 1950s, just as he did from the Soviet Union."
+          },
+          {
+            "needle": "Guided Democracy",
+            "excerpt": "In 1956, Sukarno visited China and was impressed by what Mao Zedong had been able to achieve. Believing Mao’s ability to centralize power lay at the heart of China’s success, upon his return to Indonesia, Sukarno established a National Council made up of representatives of larger social groups, such as peasants and workers, to reach decisions by consensus rather than by voting. In the new “Guided Democracy” he established in 1959, the consensus of the nation would be expressed through the president instead of the legislature. To shore up his autocratic authority, Sukarno turned to both the Indonesian Communist Party and the conservative armed forces. His goal was the creation of an Indonesian state based on what he called NASAKOM, an acronym standing for nationalism, religion, and communism."
+          }
+        ]
+      }
+    },
+    {
+      "id": "sputnik-1957-satellite-and-cold-war-competition",
+      "body_characters": 2239,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00034/index.cnxml",
+        "status": 200,
+        "bytes": 38629,
+        "sha256": "557f547548d24e2f2f5ef0d75e6c4b429b26d36e59e2066a29d198ebb51c2d71",
+        "title": "OpenStax, World History Volume 2 — The Cold War Begins",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "냉전의 생활기술·1959주방논쟁/1957스푸트니크·미국충격/1958NASA/스푸트니크2라이카/1961첫우주비행사1969달착륙/보도상상도·우표. 과학 전체의 국가별 우열이나 군사적 자동인과를 주장하지 않음. 당시주체는 소련,현재탐색은러시아로 구별."
+        ],
+        "evidence": [
+          {
+            "needle": "Sputnik",
+            "excerpt": "Both sides highlighted their ingenuity and technological achievements. At a 1959 exhibition in Moscow, U.S. vice president Richard Nixon proudly showed off American technology to Soviet premier Nikita Khrushchev in the form of a model kitchen. Khrushchev’s response to the labor-saving gadgetry on display was to inquire whether American families also had machines to save them the effort of putting food in their mouths and swallowing it. The two countries competed to dominate space as well. In 1957, the United States suffered a serious blow to its pride when the Soviet Union launched Sputnik, the first satellite (). In response, in 1958 President Dwight D. Eisenhower called on Congress to establish an agency to explore space. The National Aeronautics and Space Administration (NASA) was established that year. In 1961 the Soviet Union sent the first astronaut into space. In 1969 the United States put the first humans on the surface of the moon."
+          },
+          {
+            "needle": "1958",
+            "excerpt": "Both sides highlighted their ingenuity and technological achievements. At a 1959 exhibition in Moscow, U.S. vice president Richard Nixon proudly showed off American technology to Soviet premier Nikita Khrushchev in the form of a model kitchen. Khrushchev’s response to the labor-saving gadgetry on display was to inquire whether American families also had machines to save them the effort of putting food in their mouths and swallowing it. The two countries competed to dominate space as well. In 1957, the United States suffered a serious blow to its pride when the Soviet Union launched Sputnik, the first satellite (). In response, in 1958 President Dwight D. Eisenhower called on Congress to establish an agency to explore space. The National Aeronautics and Space Administration (NASA) was established that year. In 1961 the Soviet Union sent the first astronaut into space. In 1969 the United States put the first humans on the surface of the moon."
+          },
+          {
+            "needle": "1959",
+            "excerpt": "Both sides highlighted their ingenuity and technological achievements. At a 1959 exhibition in Moscow, U.S. vice president Richard Nixon proudly showed off American technology to Soviet premier Nikita Khrushchev in the form of a model kitchen. Khrushchev’s response to the labor-saving gadgetry on display was to inquire whether American families also had machines to save them the effort of putting food in their mouths and swallowing it. The two countries competed to dominate space as well. In 1957, the United States suffered a serious blow to its pride when the Soviet Union launched Sputnik, the first satellite (). In response, in 1958 President Dwight D. Eisenhower called on Congress to establish an agency to explore space. The National Aeronautics and Space Administration (NASA) was established that year. In 1961 the Soviet Union sent the first astronaut into space. In 1969 the United States put the first humans on the surface of the moon."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dawes-plan-1924-reparations-loans-and-dependence",
+      "body_characters": 2310,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00022/index.cnxml",
+        "status": 200,
+        "bytes": 44917,
+        "sha256": "19c80469007f6978ca82ea9825e63a6cc8a153c243d8b0c3410e54f2b077ff69",
+        "title": "OpenStax, World History Volume 2 — Recovering from World War I",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "전후배상과전쟁채무/초인플레이션/1924도스안 지급완화·향후증가/미국은행의독일대출→영불배상→미국상환/기존의무와새채무. 배상금단일인플레이션원인·모든배상취소·후일위기의유일원인이라고 쓰지 않음."
+        ],
+        "evidence": [
+          {
+            "needle": "Dawes",
+            "excerpt": "In 1924, the United States intervened by arranging the Dawes Plan, by which Germany’s installment payments were lowered but set to increase in the future as its economy rebounded. Foreign banks, many in the United States, also loaned Germany money to stabilize its inflationary economy. This enabled Germany to make its payments, but it also meant taking on more debt. In essence, U.S. banks were loaning money to Germany that it was using to pay Britain and France, which in turn used that money to pay back their own debts to the United States."
+          },
+          {
+            "needle": "Foreign banks",
+            "excerpt": "In 1924, the United States intervened by arranging the Dawes Plan, by which Germany’s installment payments were lowered but set to increase in the future as its economy rebounded. Foreign banks, many in the United States, also loaned Germany money to stabilize its inflationary economy. This enabled Germany to make its payments, but it also meant taking on more debt. In essence, U.S. banks were loaning money to Germany that it was using to pay Britain and France, which in turn used that money to pay back their own debts to the United States."
+          },
+          {
+            "needle": "inflation",
+            "excerpt": "The “war guilt” clause of the treaty, blaming Germany for the war, caused many problems for that country over the next decades. Its diplomats felt dishonored by being forced to agree to it, and the harsh monetary reparations left Germany unstable for several years. The government’s decision to print more money to pay these debts caused hyperinflation and made its politicians look incompetent. It was easy for rumors of conspiracy to take hold, particularly among war veterans. The “stab-in-the-back” theory, for example, claimed that German democratic politicians had betrayed the military with the 1918 cease-fire agreement. (In truth, the German military had reached its breaking point in 1918 and was not in a position to continue the war, especially given the continuous arrival of fresh U.S. troops.)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "genji-heian-kana-women-and-literary-memory",
+      "body_characters": 2227,
+      "source": {
+        "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/modules/m00155/index.cnxml",
+        "status": 200,
+        "bytes": 52773,
+        "sha256": "cdcc7cb500991301d503768c1b05e367430b449c523d6cbbb111177c4d0bf314",
+        "title": "OpenStax, World History Volume 1 — Border States: Sogdiana, Korea, and Japan",
+        "checked_at": "2026-11-13",
+        "supports": [
+          "794헤이안쿄·궁정환경/가나발전/11세기무라사키와겐지/허구와귀족문화/어린무라사키에대한권력/여성의기회/17·19세기재현. 세계최초소설확정,작가생애의허구장면,후대그림을11세기현장으로 오인하는설명 제외."
+        ],
+        "evidence": [
+          {
+            "needle": "Sogdiana",
+            "excerpt": "Sogdiana, in modern Uzbekistan and Tajikistan, traded both with the Chinese and, increasingly in its long history, with other nomadic peoples such as the Turks. The Chinese, in turn, influenced both Korea and Japan. Both already participated in oceanic trade, but the additional benefits of the Silk Roads’ interchange of ideas came to Korea and Japan through the Chinese as Koreans studied writing, Confucianism, and Buddhism in China and brought back the ideas and methods that suited them best. These innovations and ideas then spread to Japan, especially Buddhism."
+          },
+          {
+            "needle": "Panjikent",
+            "excerpt": "Although Sogdiana was never unified into a single polity and was almost always ruled by larger states, its long exposure to so many different cultures produced a multilingual population of merchants and skilled craftspeople. The Sogdians were able to use these traits to dominate their portion of the Silk Roads from their city-states such as Panjikent (in Tajikistan). So effective was their control that Sogdiana became the richest country in central Asia. Archaeological excavations of the palace complex at Panjikent have revealed large and elaborate buildings with interiors bearing frescoes of armored cavalry engaged in combat, clearly showing the influence on Sogdian culture of the warrior aristocracy of the Sasanids ()."
+          },
+          {
+            "needle": "kana",
+            "excerpt": "Gender roles became more rigidly defined during this period, and many non-elites were officially categorized as peasant, artisan, or merchant. Even the system of writing changed. Chinese script had been the traditional writing style, particularly among scholars. However, many words in Japanese were pronounced differently than Chinese writing allowed. Thus a new script called kana began to develop, to more accurately depict the way the words were pronounced in Japanese."
+          },
+          {
+            "needle": "Murasaki",
+            "excerpt": "The most famous work written in kana is The Tale of Genji, the story of the romantic escapades of Hikaru Genji, a fictional emperor’s son. Genji is removed from the line of succession for political reasons, and now a commoner, he decides to pursue a career as an imperial officer. Along the way, he has various romantic entanglements, secret love affairs that produce offspring believed to be the emperor’s, and something like a midlife crisis, a reflection of the Buddhist belief in the transience of life. Widely considered the world’s first novel, Genji was composed in the eleventh century by Murasaki Shikibu, a noblewoman and lady-in-waiting in the Heian Court. It skillfully portrays the forms of entertainment, manner of dress, daily routines, and moral code of the Heian nobility at the height of the Fujiwara clan’s power. While the facts surrounding much of Murasaki’s life and the composition of her magnum opus are not known, what is not disputed is Genji’s critically important place in the literary canon of world literature, with the work often considered one of the world’s oldest complete novels and a master class of Japanese literature. What is also not in dispute is that the work was composed by a woman from a powerful family at a time when the role of women around the world was still secondary to their male counterparts. It leaves us to wonder how much powerful and influent"
+          }
+        ]
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "akbar-religious-debates-and-imperial-authority",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B02_01_Akbar.jpg",
+      "status": 200,
+      "bytes": 279041,
+      "sha256": "1981a7681ebb7079c4a814d3c2843fe2bc7f4e233d3d1095d11653904c3f702f",
+      "width": 1300,
+      "height": 786,
+      "license": "Public Domain"
+    },
+    {
+      "id": "aksum-red-sea-trade-and-christian-kingship",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A10_03_EzanaStone.jpg",
+      "status": 200,
+      "bytes": 261953,
+      "sha256": "914bc8f1804994ea7663a06bf5ddb5710597df5d6bee8f93fb18cc325eefc647",
+      "width": 500,
+      "height": 757,
+      "license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "id": "sogdian-merchants-oases-languages-and-networks",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A12_03_PanjWar.jpg",
+      "status": 200,
+      "bytes": 607775,
+      "sha256": "bc079ee61d0344b1895ebe7fe8e7f860e761a78e275728aea49d467da1886e17",
+      "width": 1200,
+      "height": 868,
+      "license": "Public Domain"
+    },
+    {
+      "id": "henry-viii-1534-church-authority-and-succession",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B05_01_Tudors.jpg",
+      "status": 200,
+      "bytes": 834216,
+      "sha256": "7815b4c0e03914b40e8c343f78dad901a2caa5921dd5d0ce48e00d64a7e33253",
+      "width": 1301,
+      "height": 941,
+      "license": "Public Domain"
+    },
+    {
+      "id": "andes-before-inca-water-land-and-regional-societies",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A08_02_Nazcaline.jpg",
+      "status": 200,
+      "bytes": 576429,
+      "sha256": "35be4a06539a2819e5fa667be584d00fbfcaef6fd0f4be6ab1994f62bf6ab0c4",
+      "width": 1201,
+      "height": 801,
+      "license": "CC0 1.0 · https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "mapungubwe-gold-cattle-and-unequal-wealth",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A15_02_MapungHill.jpg",
+      "status": 200,
+      "bytes": 1478084,
+      "sha256": "b37334fce04136c97fa6c2b1e28c234dc24c372ea58b68c28daa913dc170e135",
+      "width": 1301,
+      "height": 722,
+      "license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "id": "bandung-1955-sovereignty-aid-and-nonalignment",
+      "url": "https://raw.githubusercontent.com/GITenberg/A-Visit-to-JavaWith-an-Account-of-the-Founding-of-Singapore_27152/master/27152-h/images/map-big.png",
+      "status": 200,
+      "bytes": 173078,
+      "sha256": "42a1dcfcc312e042dd4672a4b9e9c9df4f6d678bd9ba85cbaaa9e22570b48e9d",
+      "width": 2609,
+      "height": 1251,
+      "license": "Public Domain"
+    },
+    {
+      "id": "sputnik-1957-satellite-and-cold-war-competition",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B14_01_Sputnik.jpg",
+      "status": 200,
+      "bytes": 179258,
+      "sha256": "4d02fe278177e9324dc712dd679403732906d1d6c0ca4886923afe6fc11ebeae",
+      "width": 1301,
+      "height": 571,
+      "license": "Public Domain"
+    },
+    {
+      "id": "dawes-plan-1924-reparations-loans-and-dependence",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_B12_01_HyperInfl.jpg",
+      "status": 200,
+      "bytes": 167596,
+      "sha256": "dc35781779c6c94cc7b2639b38e8aaf1d8531747225d4a0d49f46c40dce5824d",
+      "width": 651,
+      "height": 771,
+      "license": "Public Domain"
+    },
+    {
+      "id": "genji-heian-kana-women-and-literary-memory",
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-world-history/main/media/OSX_WorldHist_A12_03_TaleGenji1.jpg",
+      "status": 200,
+      "bytes": 255216,
+      "sha256": "43797de90f0d4537696e305a38bfca50c277e1c5a5d88e8f26cc67400e396981",
+      "width": 600,
+      "height": 664,
+      "license": "Public Domain"
+    }
+  ],
+  "image_visual_review": "이미지10개 원본 직접 확인. 원본 변환/편집 없이 사용. 역사 회화와 현대 유적 사진,1893식민시대 지도,위성 상상도·우표를 구별.",
+  "duplicate_review": "기존496편의 제목과 핵심 소재 대조. 중복된 브라질폐지·러시아농노해방·짐바브웨·브레턴우즈 주제는 제외. 마풍구브웨는 짐바브웨 돌담 글과 달리 농업·목축·금채굴과 계층의 질문에 집중.",
+  "editorial_notes": "docs/review/net-20261113b-history-editorial-notes.md"
+}

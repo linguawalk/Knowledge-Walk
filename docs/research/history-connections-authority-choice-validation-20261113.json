@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-13",
+  "new_drafts": 10,
+  "originals": 506,
+  "approved_unchanged": 483,
+  "existing_story_files_unchanged": 496,
+  "body_characters_min": 2227,
+  "body_characters_max": 2347,
+  "numbered_sections_each": 7,
+  "review_links": "passed",
+  "public_snapshot_changed": false,
+  "future_navigation_in_memory": "passed",
+  "noindex_pages": 10,
+  "full_tests_passed": 64,
+  "test_duration_seconds": 99.693,
+  "browser_checks": [
+    {
+      "id": "akbar-religious-debates-and-imperial-authority",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "aksum-red-sea-trade-and-christian-kingship",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "sogdian-merchants-oases-languages-and-networks",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "henry-viii-1534-church-authority-and-succession",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "andes-before-inca-water-land-and-regional-societies",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "mapungubwe-gold-cattle-and-unequal-wealth",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "bandung-1955-sovereignty-aid-and-nonalignment",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "sputnik-1957-satellite-and-cold-war-competition",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "dawes-plan-1924-reparations-loans-and-dependence",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "genji-heian-kana-women-and-literary-memory",
+      "width": 1440,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "akbar-religious-debates-and-imperial-authority",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "aksum-red-sea-trade-and-christian-kingship",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "sogdian-merchants-oases-languages-and-networks",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "henry-viii-1534-church-authority-and-succession",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "andes-before-inca-water-land-and-regional-societies",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "mapungubwe-gold-cattle-and-unequal-wealth",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "bandung-1955-sovereignty-aid-and-nonalignment",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "sputnik-1957-satellite-and-cold-war-competition",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "dawes-plan-1924-reparations-loans-and-dependence",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    },
+    {
+      "id": "genji-heian-kana-women-and-literary-memory",
+      "width": 390,
+      "headings": 7,
+      "toc": 7,
+      "images": true,
+      "overflow": false,
+      "noindex": true
+    }
+  ],
+  "publication_approval": false
+}

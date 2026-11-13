@@ -5,21 +5,21 @@
 | 분야 | 세부 주제 | 원고 | 자료 대조 완료 | 공개 승인 |
 |---|---|---:|---:|---:|
 | History | Korea | 4 | 3 | 3 |
-| History | Asia | 22 | 22 | 21 |
-| History | Europe | 28 | 28 | 27 |
-| History | America | 23 | 23 | 22 |
-| History | Middle East | 7 | 7 | 6 |
-| History | Africa | 7 | 7 | 6 |
+| History | Asia | 24 | 24 | 22 |
+| History | Europe | 29 | 29 | 28 |
+| History | America | 24 | 24 | 23 |
+| History | Middle East | 7 | 7 | 7 |
+| History | Africa | 8 | 8 | 7 |
 | Cities | Asia | 16 | 16 | 16 |
-| Cities | Europe | 13 | 13 | 12 |
+| Cities | Europe | 13 | 13 | 13 |
 | Cities | Americas | 11 | 11 | 11 |
 | Cities | Middle East | 5 | 5 | 5 |
 | Cities | Africa | 6 | 6 | 6 |
 | Culture | Architecture | 16 | 16 | 16 |
-| Culture | Literature | 51 | 51 | 48 |
-| Culture | Philosophy | 10 | 10 | 8 |
+| Culture | Literature | 52 | 52 | 48 |
+| Culture | Philosophy | 10 | 10 | 9 |
 | Culture | Music | 30 | 29 | 27 |
-| Culture | Art | 48 | 48 | 47 |
+| Culture | Art | 48 | 48 | 48 |
 | Culture | Film | 2 | 2 | 2 |
 | Culture | Sports | 1 | 1 | 1 |
 | Life | Folks | 25 | 25 | 23 |
@@ -36,17 +36,17 @@
 | Computing | Internet | 11 | 11 | 11 |
 | Computing | Programming | 2 | 2 | 2 |
 | Computing | Artificial-Intelligence | 1 | 1 | 1 |
-| Finance | Money | 11 | 10 | 10 |
-| Finance | Banking | 9 | 9 | 9 |
+| Finance | Money | 13 | 12 | 10 |
+| Finance | Banking | 10 | 10 | 9 |
 | Finance | Insurance | 3 | 3 | 3 |
 | Finance | Investment | 6 | 6 | 6 |
 | Finance | Fintech | 1 | 1 | 1 |
 | Science | Mathematics | 4 | 4 | 4 |
 | Science | Physics | 14 | 14 | 13 |
-| Science | Chemistry | 5 | 5 | 4 |
+| Science | Chemistry | 5 | 5 | 5 |
 | Science | Biology | 14 | 14 | 14 |
-| Science | Earth-Science | 3 | 3 | 2 |
-| Science | Engineering | 6 | 6 | 5 |
+| Science | Earth-Science | 3 | 3 | 3 |
+| Science | Engineering | 7 | 7 | 5 |
 
 ## 먼저 살펴볼 빈 주제
 

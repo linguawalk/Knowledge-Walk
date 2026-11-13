@@ -1,0 +1,28 @@
+{
+  "id": "20261113-ten-history-connections-authority-and-choice",
+  "title": "역사 이야기 10편 — 연결과 권위, 그 사이의 선택",
+  "story_ids": [
+    "akbar-religious-debates-and-imperial-authority",
+    "aksum-red-sea-trade-and-christian-kingship",
+    "sogdian-merchants-oases-languages-and-networks",
+    "henry-viii-1534-church-authority-and-succession",
+    "andes-before-inca-water-land-and-regional-societies",
+    "mapungubwe-gold-cattle-and-unequal-wealth",
+    "bandung-1955-sovereignty-aid-and-nonalignment",
+    "sputnik-1957-satellite-and-cold-war-competition",
+    "dawes-plan-1924-reparations-loans-and-dependence",
+    "genji-heian-kana-women-and-literary-memory"
+  ],
+  "countries": {
+    "akbar-religious-debates-and-imperial-authority": "인도",
+    "aksum-red-sea-trade-and-christian-kingship": "에티오피아",
+    "sogdian-merchants-oases-languages-and-networks": "우즈베키스탄",
+    "henry-viii-1534-church-authority-and-succession": "영국",
+    "andes-before-inca-water-land-and-regional-societies": "페루",
+    "mapungubwe-gold-cattle-and-unequal-wealth": "남아프리카공화국",
+    "bandung-1955-sovereignty-aid-and-nonalignment": "인도네시아",
+    "sputnik-1957-satellite-and-cold-war-competition": "러시아",
+    "dawes-plan-1924-reparations-loans-and-dependence": "독일",
+    "genji-heian-kana-women-and-literary-memory": "일본"
+  }
+}

@@ -18,6 +18,7 @@
 | [백과전서 — 장인의 손기술은 어떻게 책 속에 들어왔을까](encyclopedia-workshops-plates-and-editors.md) | 자료 대조·공개 게시 승인 완료 |
 | [파우스트 1부 — 더 많은 삶을 원한 사람은 누구를 다치게 했을까](faust-first-part-gretchen-and-desire.md) | 자료 대조·공개 게시 승인 완료 |
 | [프랑켄슈타인 — 만들어 낸 생명에게는 누가 책임질까](frankenstein-creator-and-creature.md) | 자료 대조·공개 게시 승인 완료 |
+| [겐지 이야기 — 궁정 여성의 글은 어떻게 오래 남았을까](genji-heian-kana-women-and-literary-memory.md) | 자료 대조 완료 · 게시 승인 대기 |
 | [오 헨리의 「크리스마스 선물」 — 당장 쓸 수 없는 두 선물](gift-magi-watch-chain-and-combs.md) | 자료 대조·공개 게시 승인 완료 |
 | [고골의 코 — 얼굴에서 사라진 코가 나보다 높은 관리라면](gogol-nose-rank-and-recognition.md) | 자료 대조·공개 게시 승인 완료 |
 | [고골의 외투 — 새 옷 한 벌이 한 사람의 세계를 바꿀 때](gogol-overcoat-clerk-and-city.md) | 자료 대조·공개 게시 승인 완료 |
